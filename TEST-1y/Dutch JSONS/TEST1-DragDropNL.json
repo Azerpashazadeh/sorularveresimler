@@ -1,0 +1,466 @@
+{
+    "sorular": [
+      {
+        "numara": 6,
+        "soru": "Wat is de juiste volgorde van voorrang?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "60.78%",
+              "left": "68.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "13.89%",
+              "left": "65.27%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "57.89%",
+              "left": "9.38%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_981e9c67055f40ab9b4e7bd5325fc3df~mv2.gif",
+        "feedback": {
+          "metin": "Politievoertuigen met optische en geluidssignalen hebben altijd voorrang. Afbuigende trams hoeven op gelijkwaardige kruisingen geen voorrang te verlenen, dus de tram heeft voorrang na de politieauto. Na de tram bent u aan de beurt.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 14,
+        "soru": "Wie mag er eerst gaan?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "52.78%",
+              "left": "69.02%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "16.33%",
+              "left": "17.41%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_b0f2f9e1236f46d78517d61feddb10a4~mv2.jpg",
+        "feedback": {
+          "metin": "U nadert deze gelijkwaardige kruising van rechts ten opzichte van de andere auto. U heeft voorrang en mag als eerste gaan.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 19,
+        "soru": "Wat is de juiste volgorde van voorrang?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "5.00%",
+              "left": "48.66%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "9.22%",
+              "left": "68.84%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "62.78%",
+              "left": "41.52%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_aab9e7d78ac44e0bab9aeb69c9a0f107~mv2.jpg",
+        "feedback": {
+          "metin": "De fietser rijdt rechtdoor op de weg waarvan u en de motorrijder willen afslaan. Rechtdoorgaand verkeer op dezelfde weg heeft voorrang op afslaand verkeer. De fietser heeft hier dus voorrang, gevolgd door de motorrijder omdat hij de korte bocht maakt. U bent als laatste aan de beurt omdat u de lange bocht maakt.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 22,
+        "soru": "Wie mag er eerst gaan?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "57.89%",
+              "left": "37.95%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "11.22%",
+              "left": "48.84%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_7cff993077d9481aa495e0d6b86b1f05~mv2.jpg",
+        "feedback": {
+          "metin": "Op deze rotonde doet het fiets/bromfietspad niet mee aan de voorrang zoals die op de rotonde zelf geldt. Dit blijkt uit bord B-6 (driehoekig bord met de punt naar beneden) dat pas na de oversteek is geplaatst. Bovendien nadert de bromfietser op het fiets/bromfietspad haaientanden. De bromfietser moet u voor laten gaan en u mag als eerste rijden.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 35,
+        "soru": "Wie mag er eerst gaan?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "46.56%",
+              "left": "47.95%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "18.22222222222222%",
+              "left": "23.035714285714285%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_bd5673dfb8454f88bff0b940e2294836~mv2.jpg",
+        "feedback": {
+          "metin": "Hier nadert u een verkeersdrempel met een overstekend fietspad. Omdat er geen borden zijn die de voorrang regelen en er geen in- of uitritconstructie is, moet u dit zien als een onverharde kruising. U komt van rechts, dus u mag als eerste gaan.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 40,
+        "soru": "Wat is de juiste volgorde van voorrang?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "2.56%",
+              "left": "21.16%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "60.33%",
+              "left": "63.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "15.44%",
+              "left": "61.52%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_e35ad3032d0b45d1828bad99e75787f0~mv2.jpg",
+        "feedback": {
+          "metin": "De bromfiets rijdt op een voorrangsweg en moet door de auto voorrang krijgen. De bromfiets moet echter voorrang geven aan de voetganger die oversteekt op een voetgangersoversteekplaats.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 49,
+        "soru": "Wat is de juiste volgorde van voorrang?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "60.42%",
+              "left": "45.45%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "9.53%",
+              "left": "67.23%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "47.31%",
+              "left": "65.27%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_6b949acfc4614d08baa7aed63a187db3~mv2.jpg",
+        "feedback": {
+          "metin": "U rijdt op een voorrangsweg en mag daarom als eerste gaan. De motorrijder hoeft geen voorrang te geven aan de voetganger, omdat hij alleen voorrang hoeft te geven aan bestuurders op de voorrangsweg en een voetganger geen bestuurder is.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      }
+    ]
+  }
