@@ -1,0 +1,44 @@
+{
+    "sorular": [
+        {
+            "numara": 12,
+            "soru": "في أي حالة يُسمح بالتجاوز من الجهة اليمنى؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_d61205bec651454a88c97ca486d739a9~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_6b01d52456c443d38e1a25076d7e8a4a~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_f79d1fcdf2634ff4b3bbefe0f208d6c3~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_594da09611a44ac4964bb26b5d0f5090~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_d61205bec651454a88c97ca486d739a9~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_6b01d52456c443d38e1a25076d7e8a4a~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "الحالتان العلويتان صحيحتان. يُسمح بتجاوز الترام من الجهة اليسرى أو اليمنى. كما يُسمح بالتجاوز من الجهة اليمنى لخط الكتل إذا كانت المركبة التي تريد تجاوزها تسير على الجهة اليسرى لهذا الخط.\nأما في الحالتين السفليتين فلا يُسمح بالتجاوز من الجهة اليمنى. في الصورة اليسرى، لا يجوز تجاوز مركبة تسير في المسار الأيسر بدون سبب، ويجب الانتظار حتى تعود إلى المسار الأيمن. في الصورة اليمنى، أنت تقود على مسار يُستخدم في أوقات الذروة، ويجب اعتباره مسارًا عاديًا. لا يُسمح بالتجاوز من الجهة اليمنى إلا إذا كان هناك ازدحام مروري، وهذا غير موجود هنا.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "بعد أي إشارة يجب أن تتوقع وجود مشاة؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_d894b476eb4044109b6de0fe11e311bc~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_375910a452654cfe880f1d072b2144f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_dfdea3be50854473bd0c165204f37e0a~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a862a3a2e0b7431e87dc0fd4a2b8ee41~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_375910a452654cfe880f1d072b2144f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a862a3a2e0b7431e87dc0fd4a2b8ee41~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "فقط عند الإشارتين G-5 (منطقة سكنية - إيرف) و J-23 (تحذير بوجود مشاة) يجب أن تتوقع وجود مشاة. كلتا الإشارتين تدلان على أنه يجب أن تتوقع وجود مشاة على الطريق. في منطقة الإيرف، يُسمح للمشاة باستخدام كامل عرض الطريق. أما الإشارة J-23 فتُستخدم عادة في الأماكن التي يجب على المشاة عبور الطريق أو استخدامه. الإشارة C-16 تدل على منع مرور المشاة، لذلك لا يُسمح للمشاة باستخدام هذا الطريق. والإشارة G-3 تشير إلى طريق سريع (أوتوفِغ)، حيث لا يُسمح أيضًا بوجود المشاة.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

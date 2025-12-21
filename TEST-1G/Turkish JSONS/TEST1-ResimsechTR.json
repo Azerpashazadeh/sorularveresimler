@@ -1,0 +1,44 @@
+{
+    "sorular": [
+        {
+            "numara": 12,
+            "soru": "Hangi durumda sağdan sollamaya izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_d61205bec651454a88c97ca486d739a9~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_6b01d52456c443d38e1a25076d7e8a4a~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_f79d1fcdf2634ff4b3bbefe0f208d6c3~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_594da09611a44ac4964bb26b5d0f5090~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_d61205bec651454a88c97ca486d739a9~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_6b01d52456c443d38e1a25076d7e8a4a~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Üstteki her iki durum da doğrudur. Bir tramvay hem solundan hem de sağından sollanabilir. Ayrıca, sollamak istediğiniz araç blok çizginin sol tarafında gidiyorsa, sağdan sollama da mümkündür.\nAlt kısımdaki iki durumda ise sağdan sollamaya izin verilmez. Soldaki durumda, gereksiz yere sol şeritte seyreden bir aracı sollayamazsınız; bu aracın sağ şeride geçmesini beklemelisiniz. Sağdaki durumda ise yoğun saat şeridinde (rush hour lane) seyrediyorsunuz. Bu şerit normal bir şerit olarak kabul edilir. Trafik sıkışıklığı olmadıkça sağdan sollamaya izin verilmez. Bu durumda bir trafik sıkışıklığı söz konusu değildir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Hangi tabeladan sonra yayaları beklemelisiniz?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_d894b476eb4044109b6de0fe11e311bc~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_375910a452654cfe880f1d072b2144f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_dfdea3be50854473bd0c165204f37e0a~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a862a3a2e0b7431e87dc0fd4a2b8ee41~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_375910a452654cfe880f1d072b2144f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a862a3a2e0b7431e87dc0fd4a2b8ee41~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Yalnızca G-5 (erf) ve J-23 (yaya uyarı) tabelalarında yayaları beklemelisiniz. Bu tabelalar, taşıt yolunda yayaların bulunabileceğini belirtir. Erf içinde yayalar yolun tamamını kullanabilir. J-23 tabelası ise genellikle yayaların yolu kullanmak ya da karşıdan karşıya geçmek zorunda olduğu yerlerde bulunur. C-16 tabelası yayalar için yolu kapalı olduğunu belirtir; bu yolda yayaların bulunmasına izin verilmez. G-3 tabelası ise otoyol anlamına gelir; bu tür yollarda da yayaların bulunması yasaktır.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
