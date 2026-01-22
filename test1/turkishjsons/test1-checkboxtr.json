@@ -1,0 +1,29 @@
+{
+  "sorular": [
+    {
+      "numara": 18,
+      "soru": "Bu tabeladan sonra hangi sürücüleri sollamanıza izin verilir?",
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+      "cevaplar": [
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri.",
+        "Bisikletliler.",
+        "Motosikletliler.",
+        "Kamyon sürücüleri."
+      ],
+      "dogruCevap": [
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri.",
+        "Bisikletliler.",
+        "Motosikletliler.",
+        "Kamyon sürücüleri."
+      ],
+      "feedback": {
+        "metin": "Bu tabela, kamyon sürücülerinin diğer motorlu araçları sollamasını yasaklar. Bu, tabelenin sizin için geçerli olmadığı anlamına gelir. Güvenli olduğu sürece tüm araçları sollayabilirsiniz. Kamyonlar da dahil.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  ]
+}

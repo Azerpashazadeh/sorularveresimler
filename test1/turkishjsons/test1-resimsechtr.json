@@ -1,0 +1,44 @@
+{
+    "sorular": [
+        {
+            "numara": 12,
+            "soru": "Hangi durumda sağdan sollamaya izin verilir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "feedback": {
+                "metin": "Üstteki her iki durum da doğrudur. Bir tramvay hem solundan hem de sağından sollanabilir. Ayrıca, sollamak istediğiniz araç blok çizginin sol tarafında gidiyorsa, sağdan sollama da mümkündür.\nAlt kısımdaki iki durumda ise sağdan sollamaya izin verilmez. Soldaki durumda, gereksiz yere sol şeritte seyreden bir aracı sollayamazsınız; bu aracın sağ şeride geçmesini beklemelisiniz. Sağdaki durumda ise yoğun saat şeridinde (rush hour lane) seyrediyorsunuz. Bu şerit normal bir şerit olarak kabul edilir. Trafik sıkışıklığı olmadıkça sağdan sollamaya izin verilmez. Bu durumda bir trafik sıkışıklığı söz konusu değildir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Hangi tabeladan sonra yayaları beklemelisiniz?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "feedback": {
+                "metin": "Yalnızca G-5 (erf) ve J-23 (yaya uyarı) tabelalarında yayaları beklemelisiniz. Bu tabelalar, taşıt yolunda yayaların bulunabileceğini belirtir. Erf içinde yayalar yolun tamamını kullanabilir. J-23 tabelası ise genellikle yayaların yolu kullanmak ya da karşıdan karşıya geçmek zorunda olduğu yerlerde bulunur. C-16 tabelası yayalar için yolu kapalı olduğunu belirtir; bu yolda yayaların bulunmasına izin verilmez. G-3 tabelası ise otoyol anlamına gelir; bu tür yollarda da yayaların bulunması yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
+}

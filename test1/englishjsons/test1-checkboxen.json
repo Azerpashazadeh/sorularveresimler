@@ -1,0 +1,29 @@
+{
+  "sorular": [
+    {
+      "numara": 18,
+      "soru": "Which drivers are you allowed to overtake after this sign?",
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+      "cevaplar": [
+        "Moped riders.",
+        "Drivers of agricultural vehicles.",
+        "Cyclists.",
+        "Motorcyclists.",
+        "Drivers of lorries."
+      ],
+      "dogruCevap": [
+        "Moped riders.",
+        "Drivers of agricultural vehicles.",
+        "Cyclists.",
+        "Motorcyclists.",
+        "Drivers of lorries."
+      ],
+      "feedback": {
+        "metin": "This sign indicates a prohibition for lorry drivers to overtake other motor vehicles. This means that this sign does not apply to you. You may overtake all vehicles, as long as it is safe to do so. Even lorries.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  ]
+}

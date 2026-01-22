@@ -1,0 +1,466 @@
+{
+    "sorular": [
+      {
+        "numara": 6,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "60.78%",
+              "left": "68.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "13.89%",
+              "left": "65.27%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "57.89%",
+              "left": "9.38%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "Police vehicles using optical and sound signals always have right of way. Turning trams are not required to give right of way at equivalent intersections, so the tram has right of way after the police car. After the tram, it is your turn.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 14,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "52.78%",
+              "left": "69.02%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "16.33%",
+              "left": "17.41%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "You are approaching this equivalent intersection from the right of the other car. You have right of way and are allowed to go first.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 19,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "5.00%",
+              "left": "48.66%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "9.22%",
+              "left": "68.84%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "62.78%",
+              "left": "41.52%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "The cyclist is through traffic on the road you and the motorcyclist plan to turn off from. Through traffic on the same road has right of way over traffic turning off. The cyclist has right of way here, followed by the motorcyclist as they have the short turn. You are the last priority as you have the long turn.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 22,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "57.89%",
+              "left": "37.95%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "11.22%",
+              "left": "48.84%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "At this roundabout, the cycle/moped path does not participate in the priority as it applies on the roundabout itself. This is seen by sign B-6 (triangular sign with the point down) which is only placed after the crossing. In addition, the moped rider on the cycle/moped path is approaching priority triangles. The moped rider must give way to you and you may go first.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 35,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "46.56%",
+              "left": "47.95%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "18.22222222222222%",
+              "left": "23.035714285714285%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "Here, you are approaching a speed bump with a crossing bicycle path. Since there are no signs regulating the right of way, and there is no entry or exit construction, you should see this as an uncontrolled intersection. You are coming from the right, so you are allowed to go first.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 40,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "2.56%",
+              "left": "21.16%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "60.33%",
+              "left": "63.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "15.44%",
+              "left": "61.52%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "The moped is riding on a priority road and must be given right of way by the car. The moped must give right of way to the pedestrian, who is crossing at a pedestrian crossing.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      },
+      {
+        "numara": 49,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "60.42%",
+              "left": "45.45%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "9.53%",
+              "left": "67.23%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "47.31%",
+              "left": "65.27%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+        "feedback": {
+          "metin": "You are driving on a priority road and are therefore allowed to go first. The motorcyclist does not have to give way to the pedestrian, because he only has to give way to drivers on the priority road and a pedestrian is not a driver.",
+          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        }
+      }
+    ]
+  }
