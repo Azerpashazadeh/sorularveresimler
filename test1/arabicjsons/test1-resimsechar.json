@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 12,
-            "soru": "في أي حالة يُسمح بالتجاوز من الجهة اليمنى؟",
+            "soru": "في أي حالة من الحالات التالية يُسمح بالتجاوز من جهة اليمين؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/12.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/12.2.gif",
@@ -14,7 +14,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/12.2.gif"
             ],
             "feedback": {
-                "metin": "الحالتان العلويتان صحيحتان. يُسمح بتجاوز الترام من الجهة اليسرى أو اليمنى. كما يُسمح بالتجاوز من الجهة اليمنى لخط الكتل إذا كانت المركبة التي تريد تجاوزها تسير على الجهة اليسرى لهذا الخط.\nأما في الحالتين السفليتين فلا يُسمح بالتجاوز من الجهة اليمنى. في الصورة اليسرى، لا يجوز تجاوز مركبة تسير في المسار الأيسر بدون سبب، ويجب الانتظار حتى تعود إلى المسار الأيمن. في الصورة اليمنى، أنت تقود على مسار يُستخدم في أوقات الذروة، ويجب اعتباره مسارًا عاديًا. لا يُسمح بالتجاوز من الجهة اليمنى إلا إذا كان هناك ازدحام مروري، وهذا غير موجود هنا.",
+                "metin": "كلتا الحالتين العلويتين صحيحتان. يُسمح بتجاوز الترام من جهة اليسار أو جهة اليمين. كما يُسمح بالتجاوز من جهة اليمين عند وجود علامات الطريق المربعة (خط الكتل)، وذلك إذا كانت المركبة التي يتم تجاوزها تسير على يسار تلك العلامات.\nأما في الحالتين السفليتين، فلا يُسمح بالتجاوز من اليمين. في الحالة السفلى جهة اليسار، لا يجوز تجاوز مركبة تسير في المسار الأيسر دون مبرر، بل يجب انتظارها حتى تعود للمسار الأيمن. وفي الحالة السفلى جهة اليمين، أنت تقود في مسار مخصص لساعات الذروة، ويجب اعتباره مساراً عادياً، لذا يمنع التجاوز من اليمين فيه إلا في حال وجود ازدحام مروري، وهو ما لا يتوفر هنا.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -22,7 +22,7 @@
         },
         {
             "numara": 33,
-            "soru": "بعد أي إشارة يجب أن تتوقع وجود مشاة؟",
+            "soru": "بعد أي من الإشارات التالية يجب أن تتوقع وجود مشاة؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/33.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/33.2.jpg",
@@ -34,7 +34,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test1/resimdensech/33.4.jpg"
             ],
             "feedback": {
-                "metin": "فقط عند الإشارتين G-5 (منطقة سكنية - إيرف) و J-23 (تحذير بوجود مشاة) يجب أن تتوقع وجود مشاة. كلتا الإشارتين تدلان على أنه يجب أن تتوقع وجود مشاة على الطريق. في منطقة الإيرف، يُسمح للمشاة باستخدام كامل عرض الطريق. أما الإشارة J-23 فتُستخدم عادة في الأماكن التي يجب على المشاة عبور الطريق أو استخدامه. الإشارة C-16 تدل على منع مرور المشاة، لذلك لا يُسمح للمشاة باستخدام هذا الطريق. والإشارة G-3 تشير إلى طريق سريع (أوتوفِغ)، حيث لا يُسمح أيضًا بوجود المشاة.",
+                "metin": "يجب توقع وجود مشاة فقط عند الإشارتين G-5 (منطقة سكنية - erf) و J-23 (تحذير من وجود مشاة). كلتا الإشارتين تشيران إلى احتمال وجود مشاة على الطريق؛ ففي المناطق السكنية (erf) يُسمح للمشاة باستخدام كامل عرض الطريق، والإشارة J-23 تُستخدم غالباً في الأماكن التي يضطر فيها المشاة لعبور الطريق أو استخدامه. أما الإشارة C-16 فتعني أن الطريق مغلق أمام المشاة، وبالتالي لا يُسمح لهم باستخدامه. والإشارة G-3 تشير إلى طريق سريع للسيارات (autoweg)، حيث يُمنع تواجد المشاة فيه أيضاً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
