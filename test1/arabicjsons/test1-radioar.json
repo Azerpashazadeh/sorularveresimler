@@ -484,13 +484,13 @@
             "soru": "ما هي مركبة 'Brommobiel'؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/42.jpg",
             "cevaplar": [
-                "مركبة آلية (Motor vehicle).",
-                "دراجة نارية صغيرة (Moped) بثلاث أو أربع عجلات.",
+                "مركبة آلية.",
+                "موبد (دراجة نارية خفيفة) بثلاث أو أربع عجلات.",
                 "مركبة لذوي الاحتياجات الخاصة."
             ],
-            "dogruCevap": "دراجة نارية صغيرة (Moped) بثلاث أو أربع عجلات.",
+            "dogruCevap": "موبد (دراجة نارية خفيفة) بثلاث أو أربع عجلات.",
             "feedback": {
-                "metin": "مركبة 'Brommobiel' هي دراجة نارية صغيرة بثلاث أو أربع عجلات ولها هيكل خارجي. لقيادتها يجب ألا يقل عمرك عن 16 عاماً وأن تحمل رخصة قيادة AM. رغم أنها تتبع قواعد المركبات الآلية، إلا أنها تصنف كدراجة نارية صغيرة وليست مركبة آلية، كما أنها ليست مركبة ذوي احتياجات لأن عرضها يتجاوز 1.10 متر.",
+                "metin": "مركبة 'Brommobiel' هي عبارة عن 'موبد' (Moped) بثلاث أو أربع عجلات ولها هيكل خارجي. لقيادتها يجب ألا يقل عمرك عن 16 عاماً وأن تحمل رخصة قيادة من فئة AM. وبالرغم من أنها تتبع قواعد السلوك المروري الخاصة بالمركبات الآلية، إلا أنها لا تُصنف كمركبة آلية بل هي 'موبد'. كما أنها لا تُعتبر مركبة لذوي الاحتياجات الخاصة لأن عرضها يتجاوز 1.10 متر.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
