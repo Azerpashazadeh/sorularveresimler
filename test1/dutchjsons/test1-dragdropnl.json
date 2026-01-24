@@ -1,466 +1,466 @@
 {
     "sorular": [
-      {
-        "numara": 6,
-        "soru": "Wat is de juiste volgorde van voorrang?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
+        {
+            "numara": 6,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "60.78%",
+                        "left": "68.13%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "13.89%",
+                        "left": "65.27%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "57.89%",
+                        "left": "9.38%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/6.gif",
+            "feedback": {
+                "metin": "Politievoertuigen met optische en geluidssignalen hebben altijd voorrang. Afbuigende trams hoeven op gelijkwaardige kruisingen geen voorrang te verlenen, dus de tram heeft voorrang na de politieauto. Na de tram bent u aan de beurt.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          },
-          {
-            "type": "box",
-            "class": "dragger2",
-            "value": "2",
-            "position": {
-              "top": "84.4444%",
-              "left": "14.9857%"
+        },
+        {
+            "numara": 14,
+            "soru": "Wie mag er eerst gaan?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "52.78%",
+                        "left": "69.02%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "16.33%",
+                        "left": "17.41%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/14.jpg",
+            "feedback": {
+                "metin": "U nadert deze gelijkwaardige kruising van rechts ten opzichte van de andere auto. U heeft voorrang en mag als eerste gaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          },
-          {
-            "type": "box",
-            "class": "dragger3",
-            "value": "3",
-            "position": {
-              "top": "84.4444%",
-              "left": "28.185699999999997%"
+        },
+        {
+            "numara": 19,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "5.00%",
+                        "left": "48.66%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "9.22%",
+                        "left": "68.84%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "62.78%",
+                        "left": "41.52%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/19.jpg",
+            "feedback": {
+                "metin": "De fietser rijdt rechtdoor op de weg waarvan u en de motorrijder willen afslaan. Rechtdoorgaand verkeer op dezelfde weg heeft voorrang op afslaand verkeer. De fietser heeft hier dus voorrang, gevolgd door de motorrijder omdat hij de korte bocht maakt. U bent als laatste aan de beurt omdat u de lange bocht maakt.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "60.78%",
-              "left": "68.13%"
+        },
+        {
+            "numara": 22,
+            "soru": "Wie mag er eerst gaan?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "57.89%",
+                        "left": "37.95%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "11.22%",
+                        "left": "48.84%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/22.jpg",
+            "feedback": {
+                "metin": "Op deze rotonde doet het fiets/bromfietspad niet mee aan de voorrang zoals die op de rotonde zelf geldt. Dit blijkt uit bord B-6 (driehoekig bord met de punt naar beneden) dat pas na de oversteek is geplaatst. Bovendien nadert de bromfietser op het fiets/bromfietspad haaientanden. De bromfietser moet u voor laten gaan en u mag als eerste rijden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "13.89%",
-              "left": "65.27%"
+        },
+        {
+            "numara": 35,
+            "soru": "Wie mag er eerst gaan?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "46.56%",
+                        "left": "47.95%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "18.22222222222222%",
+                        "left": "23.035714285714285%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/35.jpg",
+            "feedback": {
+                "metin": "Hier nadert u een verkeersdrempel met een overstekend fietspad. Omdat er geen borden zijn die de voorrang regelen en er geen in- of uitritconstructie is, moet u dit zien als een onverharde kruising. U komt van rechts, dus u mag als eerste gaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          },
-          {
-            "type": "target",
-            "id": "target3",
-            "value": "",
-            "position": {
-              "top": "57.89%",
-              "left": "9.38%"
+        },
+        {
+            "numara": 40,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "2.56%",
+                        "left": "21.16%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "60.33%",
+                        "left": "63.13%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "15.44%",
+                        "left": "61.52%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/40.jpg",
+            "feedback": {
+                "metin": "De bromfiets rijdt op een voorrangsweg en moet door de auto voorrang krijgen. De bromfiets moet echter voorrang geven aan de voetganger die oversteekt op een voetgangersoversteekplaats.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          },
-          {
-            "id": "dragger2",
-            "target": "target2"
-          },
-          {
-            "id": "dragger3",
-            "target": "target3"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "Politievoertuigen met optische en geluidssignalen hebben altijd voorrang. Afbuigende trams hoeven op gelijkwaardige kruisingen geen voorrang te verlenen, dus de tram heeft voorrang na de politieauto. Na de tram bent u aan de beurt.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+        },
+        {
+            "numara": 49,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "60.42%",
+                        "left": "45.45%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "9.53%",
+                        "left": "67.23%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "47.31%",
+                        "left": "65.27%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/49.jpg",
+            "feedback": {
+                "metin": "U rijdt op een voorrangsweg en mag daarom als eerste gaan. De motorrijder hoeft geen voorrang te geven aan de voetganger, omdat hij alleen voorrang hoeft te geven aan bestuurders op de voorrangsweg en een voetganger geen bestuurder is.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         }
-      },
-      {
-        "numara": 14,
-        "soru": "Wie mag er eerst gaan?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "52.78%",
-              "left": "69.02%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "16.33%",
-              "left": "17.41%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "U nadert deze gelijkwaardige kruising van rechts ten opzichte van de andere auto. U heeft voorrang en mag als eerste gaan.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      },
-      {
-        "numara": 19,
-        "soru": "Wat is de juiste volgorde van voorrang?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger2",
-            "value": "2",
-            "position": {
-              "top": "84.4444%",
-              "left": "14.9857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger3",
-            "value": "3",
-            "position": {
-              "top": "84.4444%",
-              "left": "28.185699999999997%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "5.00%",
-              "left": "48.66%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "9.22%",
-              "left": "68.84%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target3",
-            "value": "",
-            "position": {
-              "top": "62.78%",
-              "left": "41.52%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          },
-          {
-            "id": "dragger2",
-            "target": "target2"
-          },
-          {
-            "id": "dragger3",
-            "target": "target3"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "De fietser rijdt rechtdoor op de weg waarvan u en de motorrijder willen afslaan. Rechtdoorgaand verkeer op dezelfde weg heeft voorrang op afslaand verkeer. De fietser heeft hier dus voorrang, gevolgd door de motorrijder omdat hij de korte bocht maakt. U bent als laatste aan de beurt omdat u de lange bocht maakt.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      },
-      {
-        "numara": 22,
-        "soru": "Wie mag er eerst gaan?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "57.89%",
-              "left": "37.95%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "11.22%",
-              "left": "48.84%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "Op deze rotonde doet het fiets/bromfietspad niet mee aan de voorrang zoals die op de rotonde zelf geldt. Dit blijkt uit bord B-6 (driehoekig bord met de punt naar beneden) dat pas na de oversteek is geplaatst. Bovendien nadert de bromfietser op het fiets/bromfietspad haaientanden. De bromfietser moet u voor laten gaan en u mag als eerste rijden.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      },
-      {
-        "numara": 35,
-        "soru": "Wie mag er eerst gaan?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "46.56%",
-              "left": "47.95%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "18.22222222222222%",
-              "left": "23.035714285714285%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "Hier nadert u een verkeersdrempel met een overstekend fietspad. Omdat er geen borden zijn die de voorrang regelen en er geen in- of uitritconstructie is, moet u dit zien als een onverharde kruising. U komt van rechts, dus u mag als eerste gaan.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      },
-      {
-        "numara": 40,
-        "soru": "Wat is de juiste volgorde van voorrang?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger2",
-            "value": "2",
-            "position": {
-              "top": "84.4444%",
-              "left": "14.9857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger3",
-            "value": "3",
-            "position": {
-              "top": "84.4444%",
-              "left": "28.185699999999997%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "2.56%",
-              "left": "21.16%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "60.33%",
-              "left": "63.13%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target3",
-            "value": "",
-            "position": {
-              "top": "15.44%",
-              "left": "61.52%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          },
-          {
-            "id": "dragger2",
-            "target": "target2"
-          },
-          {
-            "id": "dragger3",
-            "target": "target3"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "De bromfiets rijdt op een voorrangsweg en moet door de auto voorrang krijgen. De bromfiets moet echter voorrang geven aan de voetganger die oversteekt op een voetgangersoversteekplaats.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      },
-      {
-        "numara": 49,
-        "soru": "Wat is de juiste volgorde van voorrang?",
-        "elements": [
-          {
-            "type": "box",
-            "class": "dragger1",
-            "value": "1",
-            "position": {
-              "top": "84.4444%",
-              "left": "1.7857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger2",
-            "value": "2",
-            "position": {
-              "top": "84.4444%",
-              "left": "14.9857%"
-            }
-          },
-          {
-            "type": "box",
-            "class": "dragger3",
-            "value": "3",
-            "position": {
-              "top": "84.4444%",
-              "left": "28.185699999999997%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target1",
-            "value": "",
-            "position": {
-              "top": "60.42%",
-              "left": "45.45%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target2",
-            "value": "",
-            "position": {
-              "top": "9.53%",
-              "left": "67.23%"
-            }
-          },
-          {
-            "type": "target",
-            "id": "target3",
-            "value": "",
-            "position": {
-              "top": "47.31%",
-              "left": "65.27%"
-            }
-          }
-        ],
-        "dogruCevap": [
-          {
-            "id": "dragger1",
-            "target": "target1"
-          },
-          {
-            "id": "dragger2",
-            "target": "target2"
-          },
-          {
-            "id": "dragger3",
-            "target": "target3"
-          }
-        ],
-        "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-        "feedback": {
-          "metin": "U rijdt op een voorrangsweg en mag daarom als eerste gaan. De motorrijder hoeft geen voorrang te geven aan de voetganger, omdat hij alleen voorrang hoeft te geven aan bestuurders op de voorrangsweg en een voetganger geen bestuurder is.",
-          "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-          "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-          "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-        }
-      }
     ]
-  }
+}

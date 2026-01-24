@@ -1,29 +1,29 @@
 {
-  "sorular": [
-    {
-      "numara": 18,
-      "soru": "Welke bestuurders mag u inhalen na dit bord?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bromfietsers.",
-        "Bestuurders van landbouwvoertuigen.",
-        "Fietsers.",
-        "Motorrijders.",
-        "Bestuurders van vrachtwagens."
-      ],
-      "dogruCevap": [
-        "Bromfietsers.",
-        "Bestuurders van landbouwvoertuigen.",
-        "Fietsers.",
-        "Motorrijders.",
-        "Bestuurders van vrachtwagens."
-      ],
-      "feedback": {
-        "metin": "Dit bord geeft aan dat vrachtwagenbestuurders geen andere motorvoertuigen mogen inhalen. Dit betekent dat dit bord niet voor u geldt. U mag alle voertuigen inhalen, zolang het veilig is om dit te doen. Zelfs vrachtwagens.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 18,
+            "soru": "Welke bestuurders mag u inhalen na dit bord?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/18.jpg",
+            "cevaplar": [
+                "Bromfietsers.",
+                "Bestuurders van landbouwvoertuigen.",
+                "Fietsers.",
+                "Motorrijders.",
+                "Bestuurders van vrachtwagens."
+            ],
+            "dogruCevap": [
+                "Bromfietsers.",
+                "Bestuurders van landbouwvoertuigen.",
+                "Fietsers.",
+                "Motorrijders.",
+                "Bestuurders van vrachtwagens."
+            ],
+            "feedback": {
+                "metin": "Dit bord geeft aan dat vrachtwagenbestuurders geen andere motorvoertuigen mogen inhalen. Dit betekent dat dit bord niet voor u geldt. U mag alle voertuigen inhalen, zolang het veilig is om dit te doen. Zelfs vrachtwagens.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
