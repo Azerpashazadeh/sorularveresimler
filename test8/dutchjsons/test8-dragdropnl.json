@@ -1,0 +1,304 @@
+{
+  "sorular": [
+    {
+      "numara": 3,
+      "soru": "Wie mag er als eerste rijden?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "55.67%",
+            "left": "70.27%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "7.00%",
+            "left": "12.23%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_a8bf45eb5c974abe857817f513929a10~mv2.jpg",
+      "feedback": {
+        "metin": "De begeleider van het paard slaat af naar dezelfde weg als jij. In dat geval gaat de korte bocht vóór de lange bocht, dus degene die rechtsaf slaat heeft voorrang op degene die linksaf slaat. De begeleider van het paard heeft voorrang.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "Wie mag er als eerste rijden?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "56.11%",
+            "left": "39.91%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "14.56%",
+            "left": "34.91%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_2deb02372acb47ddab847378271f9f9a~mv2.jpg",
+      "feedback": {
+        "metin": "Op een gelijkwaardig kruispunt moet jij voorrang verlenen aan bestuurders van rechts. Jij hoeft geen voorrang te verlenen aan een voetganger van links.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 30,
+      "soru": "Wat is de juiste volgorde van voorrang?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "5.67%",
+            "left": "42.41%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "45.67%",
+            "left": "83.66%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "62.78%",
+            "left": "32.23%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_b620075a30454f2d9fab801fc1da076c~mv2.jpg",
+      "feedback": {
+        "metin": "Jij nadert het bord B-6 en moet daarom voorrang verlenen aan bestuurders op de kruisende weg – in dit geval de fietser en de motorrijder. De motorrijder heeft voorrang omdat hij doorgaat op de voorrangsweg waarvan de fietser wil afslaan. Jij mag als laatste gaan.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 44,
+      "soru": "Wie mag er als eerste rijden?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "36.78%",
+            "left": "13.30%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "52.33%",
+            "left": "66.88%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_adc6dc59d97741b2b22408312607e12f~mv2.jpg",
+      "feedback": {
+        "metin": "De motorrijder mag als eerste gaan omdat hij op een voorrangsweg rijdt.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "Wat is de juiste volgorde van voorrang?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "7.22%",
+            "left": "79.20%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "7.89%",
+            "left": "13.13%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "57.44%",
+            "left": "59.38%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_a8115a5774ed42d6acc108d6d63c78ad~mv2.jpg",
+      "feedback": {
+        "metin": "De bestuurder van de auto moet voorrang verlenen aan alle bestuurders op de kruisende hoofdweg, waaronder de fietser. De fietser hoeft geen voorrang te verlenen aan de voetganger omdat bestuurders geen voorrang hoeven te geven aan overstekende voetgangers. De bestuurder van de auto moet wél voorrang verlenen aan de voetganger omdat de voetganger zich op dezelfde weg bevindt en rechtdoor gaat.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

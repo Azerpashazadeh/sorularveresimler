@@ -1,0 +1,28 @@
+{
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "What is the speed limit here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_5b80ea578c094bad8b6aac926abf40bb~mv2.jpg",
+            "dogruCevap": "80",
+            "feedback": {
+                "metin": "The sign indicates that the autoweg ends here. You have to drive the normal speed limit outside of a built-up area. This is 80 km/h.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 31,
+            "soru": "What is the speed limit for this combination here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_e6ce13cfc72944de892094376a4c5d83~mv2.jpg",
+            "dogruCevap": "90",
+            "feedback": {
+                "metin": "A maximum allowed speed of 90 km/h applies to cars pulling trailers on autowegen and motorways, and 50 km/h on autowegen in built-up areas.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
