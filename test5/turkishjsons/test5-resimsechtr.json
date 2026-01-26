@@ -1,0 +1,25 @@
+{
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "Sağa dönmek istiyorsunuz. Hangi durumda doğru şekilde şerit değiştiriyorsunuz (önceden konum alıyorsunuz)?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_aa78d530cdd84a00a15b65819062be77~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_cd7989f256ae451e83c4442f66852631~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_ad30f112b5df4015accff8439ce57c89~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_675f1eecce8f4dc984b38767ef9efdd7~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_aa78d530cdd84a00a15b65819062be77~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_cd7989f256ae451e83c4442f66852631~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_ad30f112b5df4015accff8439ce57c89~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sol üst, sağ üst ve sol alt durumlarda doğru şekilde şerit değiştiriyorsunuz. Sol üstte, düz geçmek isteyen yayalara yol vermeniz gerekir. Bisiklet yolunda beklememek için yanına konumlanmak daha uygundur. Sağ üstte, sola dönmek üzere sıralanmış araçların arkasında beklememek için bisiklet yoluna konumlanmak en iyisidir. Sol altta, bisiklet yolunda kesintisiz (devamlı) çizgi olduğu için burada şerit değiştirilmemelidir. Bu durum, sağ alt köşe için de geçerlidir. Bu son durum, dolayısıyla tek yanlış cevaptır.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
