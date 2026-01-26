@@ -1,0 +1,99 @@
+{
+  "sorular": [
+    {
+      "numara": 2,
+      "soru": "Bu araçlardan hangileri acil durum aracıdır?",
+      "resim": "",
+      "cevaplar": [
+        "Tramvay.",
+        "Askeri konvoya ait araç.",
+        "Sarı yanıp sönen ışıklı kurtarma şirketi araçları.",
+        "Optik ve sesli sinyalleri olan ambulans.",
+        "Optik ve sesli sinyalleri olan Su yolları ve Kamu İşleri Dairesi (Rijkswaterstaat) aracı.",
+        "Sarı yanıp sönen ışıklı hayvan ambulansı."
+      ],
+      "dogruCevap": [
+        "Optik ve sesli sinyalleri olan ambulans.",
+        "Optik ve sesli sinyalleri olan Su yolları ve Kamu İşleri Dairesi (Rijkswaterstaat) aracı."
+      ],
+      "feedback": {
+        "metin": "Yalnızca (mavi) optik sinyaller ve sesli sinyaller kullanan araçlar acil durum aracıdır. Buna polis araçları, itfaiye araçları, ambulanslar ve ayrıca Su Yolları ve Kamu İşleri Dairesi (Rijkswaterstaat) araçları dahildir. Mavi optik sinyaller ve çift tonlu korna kullanmasına izin verilen her araç, bu sinyalleri kullandığı sürece acil durum aracı sayılır. Sarı yanıp sönen ışıklı araçlar acil durum aracı değildir. Tramvaylar ya da askeri konvoy araçları da öyle, her ne kadar geçiş üstünlüğü konusunda özel haklara sahip olsalar da.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 3,
+      "soru": "Hangi durumlarda sürücü belgeniz iptal edilebilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_e640e7ac6494486aa80c866999d8bf41~mv2.jpg",
+      "cevaplar": [
+        "2toDrive sürücüsüne refakat ederken alkol etkisi altındaysanız.",
+        "Alkol etkisi altındayken sürücü tarafındaki kapıdan araca biniyorsanız.",
+        "Alkol etkisi altındayken araç kullanıyorsanız.",
+        "Alkol etkisi altındayken kaldırımda yürüyorsanız."
+      ],
+      "dogruCevap": [
+        "2toDrive sürücüsüne refakat ederken alkol etkisi altındaysanız.",
+        "Alkol etkisi altındayken sürücü tarafındaki kapıdan araca biniyorsanız.",
+        "Alkol etkisi altındayken araç kullanıyorsanız."
+      ],
+      "feedback": {
+        "metin": "Alkol etkisi altındayken bir aracı sürmeyi planlamak, araca binmeye çalışmak ya da aracı sürmek durumlarında sürücü belgeniz iptal edilebilir. Ayrıca, alkol etkisi altındayken bir 2toDrive sürücüsüne refakat etmek de yasaktır. 2toDrive sürücüsüne eşlik ederken normal bir sürücü gibi tüm kurallara uymanız gerekir. Alkol etkisi altındayken yalnızca kaldırımda yürümek sürücü belgenizin iptal edilmesine neden olmaz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 17,
+      "soru": "Burada hangi araçlar tüm şeritleri kullanabilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_703b8e031b394cd3bc536fe54e09c8b6~mv2.jpg",
+      "cevaplar": [
+        "Motosikletler.",
+        "Otomobiller.",
+        "7 metre uzunluğunda römorklu otomobiller.",
+        "Kamyonlar.",
+        "Otobüsler."
+      ],
+      "dogruCevap": [
+        "Motosikletler.",
+        "Otomobiller.",
+        "7 metre uzunluğunda römorklu otomobiller.",
+        "Kamyonlar.",
+        "Otobüsler."
+      ],
+      "feedback": {
+        "metin": "Bu otoyol, her yönde ikişer şerit olmak üzere iki yöne ayrılmıştır. Otoyol, iki farklı otoyola ayrılmak üzeredir. Bu durum, tek yönde dört şeritli bir yol olarak değerlendirilmemelidir. Bunu, blok çizgilerden ve yukarıdaki tabelalardan anlayabilirsiniz. Kamyonlar ve uzun araç kombinasyonları için yalnızca sağdaki iki şeridi kullanma kuralı burada geçerli değildir. Her iki yönde de yalnızca ikişer şerit vardır ve listelenen tüm araçlar bu şeritleri kullanabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 25,
+      "soru": "Hangi yol kullanıcıları bir trafik görevlisinin talimatlarına uymak zorundadır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_894bac4f23594fdbb2f1b2c0cb6e9023~mv2.jpg",
+      "cevaplar": [
+        "Yayalar.",
+        "Motorlu araç sürücüleri.",
+        "Tramvay sürücüleri.",
+        "Engelli taşıtı sürücüleri.",
+        "Bisikletliler."
+      ],
+      "dogruCevap": [
+        "Yayalar.",
+        "Motorlu araç sürücüleri.",
+        "Tramvay sürücüleri.",
+        "Engelli taşıtı sürücüleri.",
+        "Bisikletliler."
+      ],
+      "feedback": {
+        "metin": "Bir trafik görevlisinin talimatlarına uyma yükümlülüğü tüm yol kullanıcıları için geçerlidir. Bu durum tüm yaya türlerini ve tüm sürücüleri kapsar. Bu nedenle tüm cevaplar doğrudur.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
