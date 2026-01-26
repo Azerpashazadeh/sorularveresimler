@@ -1,0 +1,24 @@
+{
+    "sorular": [
+        {
+            "numara": 2,
+            "soru": "Aracınız ve römorkunuz birlikte 8 metre uzunluğundadır. Hangi durumda bu şekilde sürmeye devam etmenize izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_b74eb1f09d9d445a8d8cd99153296f61~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_613aa1af1e9149bdb9cf76f720cf8953~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_5cc2d8621ce54ffbb53f28ff8acbac89~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_4a88efc4bb8042fdb53439051a730385~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_613aa1af1e9149bdb9cf76f720cf8953~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_4a88efc4bb8042fdb53439051a730385~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Sağ üstteki ve sağ alttaki durumlarda, doğru şeritte seyrediyorsunuz. Sol üstteki durumda ise, üç şeritli yolda en sol şeritte sürüyorsunuz. Araç ve römork kombinasyonunuz 7 metreden uzunsa, yalnızca en sağdaki iki şeridi kullanmanıza izin verilir. Sol alttaki durumda ise, yeterince sağda kalmıyorsunuz. Bu durumda yoğun saat şeridini kullanmanız gerekir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+  "sorular": [
+    {
+      "numara": 3,
+      "soru": "Doğru öncelik sıralaması nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "57.44%",
+            "left": "80.45%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "5.00%",
+            "left": "77.41%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "51.44%",
+            "left": "14.02%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_cb4d479d7ca645368dfb6001ad55f47b~mv2.gif",
+      "feedback": {
+        "metin": "Işıklı ve sesli sinyaller kullanan polis araçları birer acil durum aracıdır ve her zaman geçiş önceliğine sahiptir. At arabası, siz dönmek üzere olduğunuz yolda ilerlemeye devam etmektedir; bu nedenle ona yol vermelisiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 14,
+      "soru": "Doğru öncelik sıralaması nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "5.22%",
+            "left": "37.05%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "27.89%",
+            "left": "84.55%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "61.67%",
+            "left": "41.52%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_0d33d4623875488d91c916af86cc0360~mv2.jpg",
+      "feedback": {
+        "metin": "Kırmızı otomobilin sürücüsü hiçbir araca yol vermek zorunda değildir ve bu nedenle ilk geçiş hakkına sahiptir. Mavi otomobilin sürücüsü, kırmızı otomobile yol vermelidir. Siz ise mavi otomobile yol vermek zorundasınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 26,
+      "soru": "Doğru öncelik sıralaması nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.22%",
+            "left": "9.38%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "6.78%",
+            "left": "60.27%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "49.22%",
+            "left": "68.66%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_cda520f54c734e878171dd00004f16a2~mv2.jpg",
+      "feedback": {
+        "metin": "Kırmızı otomobilin sürücüsü hiçbir araca yol vermek zorunda değildir ve bu nedenle ilk geçiş hakkına sahiptir. Diğer iki sürücü ise sağdan gelen sürücüye yol vermelidir. Doğru sıralama şu şekildedir: kırmızı otomobil, mavi otomobil, siz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "İlk geçiş hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.22%",
+            "left": "46.70%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "31.67%",
+            "left": "8.84%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "61.67%",
+            "left": "19.55%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_f8c4e732831342d3bd2fc078a7c76d17~mv2.jpg",
+      "feedback": {
+        "metin": "Hem tramvay hem de moped sürücüsü, öncelik üçgenine ve B-6 işaretine yaklaşmaktadır. Bu nedenle kesişen yoldaki araçlara yol vermelidirler. Bir tramvay sürücüsü de bu trafik işaretlerine uymak zorundadır. Siz, öncelikli bir yolda seyir halindesiniz ve bu nedenle ilk geçiş hakkına sahipsiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "İlk geçiş hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "3.67%",
+            "left": "45.63%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "58.11%",
+            "left": "55.63%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_e771fef51cee4f7aa2e020cf8c029785~mv2.jpg",
+      "feedback": {
+        "metin": "Dönüş yaparken, aynı yolda düz seyreden araçlara yol vermeniz gerekir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

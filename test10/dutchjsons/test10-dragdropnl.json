@@ -1,0 +1,348 @@
+{
+  "sorular": [
+    {
+      "numara": 3,
+      "soru": "Wat is de juiste volgorde van voorrang?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "57.44%",
+            "left": "80.45%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "5.00%",
+            "left": "77.41%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "51.44%",
+            "left": "14.02%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_cb4d479d7ca645368dfb6001ad55f47b~mv2.gif",
+      "feedback": {
+        "metin": "Politievoertuigen die optische en geluidssignalen gebruiken zijn voorrangsvoertuigen, waaraan altijd voorrang moet worden verleend. Het paard-en-wagen gaat rechtdoor op dezelfde weg waarvan jij wilt afslaan, dus jij moet daaraan voorrang verlenen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 14,
+      "soru": "Wat is de juiste volgorde van voorrang?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "5.22%",
+            "left": "37.05%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "27.89%",
+            "left": "84.55%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "61.67%",
+            "left": "41.52%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_0d33d4623875488d91c916af86cc0360~mv2.jpg",
+      "feedback": {
+        "metin": "De bestuurder van de rode personenauto hoeft aan niemand voorrang te verlenen en mag daarom als eerste gaan. De bestuurder van de blauwe personenauto moet de rode personenauto voor laten gaan. Jij moet de blauwe personenauto voorrang verlenen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 26,
+      "soru": "Wat is de juiste volgorde van voorrang?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.22%",
+            "left": "9.38%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "6.78%",
+            "left": "60.27%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "49.22%",
+            "left": "68.66%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_cda520f54c734e878171dd00004f16a2~mv2.jpg",
+      "feedback": {
+        "metin": "De bestuurder van de rode personenauto hoeft aan niemand voorrang te verlenen en mag daarom als eerste gaan. Beide andere bestuurders moeten voorrang verlenen aan de bestuurder die van rechts nadert. De juiste volgorde is: rode personenauto, blauwe personenauto, jij.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "Wie mag er als eerste rijden?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.22%",
+            "left": "46.70%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "31.67%",
+            "left": "8.84%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "61.67%",
+            "left": "19.55%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_f8c4e732831342d3bd2fc078a7c76d17~mv2.jpg",
+      "feedback": {
+        "metin": "Zowel de tram als de bromfietser naderen haaientanden en bord B-6. Zij moeten voorrang verlenen aan bestuurders op de kruisende weg. Een trambestuurder moet deze verkeerstekens ook opvolgen. Jij rijdt op de voorrangsweg en mag daarom als eerste gaan.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "Wie mag er als eerste rijden?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "3.67%",
+            "left": "45.63%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "58.11%",
+            "left": "55.63%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_e771fef51cee4f7aa2e020cf8c029785~mv2.jpg",
+      "feedback": {
+        "metin": "Bij het afslaan moet jij voorrang verlenen aan doorgaand verkeer dat op dezelfde weg rijdt.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
