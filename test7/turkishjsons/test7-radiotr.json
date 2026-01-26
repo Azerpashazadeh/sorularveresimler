@@ -1,0 +1,680 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Burada bir otobüs şoförü araç sürebilir mi?",
+      "resim": "https://static.wixstatic.com/media/4b688f_ecff458c068f400795f38ce57073560d~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Bu şeridi yalnızca otobüs şoförleri kullanabilir. Bir otobüs, aynı zamanda bir otobüs türüdür, bu nedenle izin verilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 2,
+      "soru": "Burada doğru şekilde mi araç kullanıyorsunuz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_06973e39993d436e8f91e64f36125c4e~mv2.jpg",
+      "cevaplar": [
+        "Evet. Burada doğru araç kullanıyorsunuz.",
+        "Hayır. Daha sağdan gitmelisiniz.",
+        "Hayır. Daha soldan gitmelisiniz."
+      ],
+      "dogruCevap": "Evet. Burada doğru araç kullanıyorsunuz.",
+      "feedback": {
+        "metin": "Sarı geçici yol çizgileri beyaz çizgilerin üzerindedir. Yol geçici olarak sola kaydırılmıştır, bu nedenle sağ şeridin ortasında sürüyorsunuz. Konumunuz doğrudur.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 3,
+      "soru": "Burada sola dönebilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_1c6e05959f6e49799297ee06fc51e959~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Tabela, bu yola her iki yönden de girilebileceğini gösteriyor. Bu nedenle sola dönmenize izin verilir. Bu tabela genellikle belirsiz durumlarda, yolun her iki yönden de girilebilir olduğunu belirtmek için kullanılır; bu nedenle karşıdan gelen araçları dikkate almalısınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 4,
+      "soru": "İlerlemeye devam edebilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_b20a62564d85422cbd2e2796ad69e2d6~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Dur tabelası, denetleyiciye sağdan yaklaşan trafik için geçerlidir. Siz soldan yaklaştığınız için ilerlemeye devam edebilirsiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 5,
+      "soru": "Cam yıkama suyu bittiğinde araç sürebilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_574cffd98920437187cd59be289dbfbc~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Yeterli cam yıkama suyu olmadan araç kullanılamaz. Kirli bir ön cam, yetersiz cam yıkama suyu olduğunda temizlenemez, bu da görüşün yetersiz olmasına neden olabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 7,
+      "soru": "Hangi durumda yayaya öncelik vermeniz gerekir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_b09d71e3433b4ee8acf4a2523db9d3e9~mv2.jpg",
+      "cevaplar": [
+        "Yalnızca A durumunda.",
+        "Yalnızca B durumunda.",
+        "A ve B durumlarında.",
+        "Hiçbir durumda."
+      ],
+      "dogruCevap": "A ve B durumlarında.",
+      "feedback": {
+        "metin": "Dur tabelası, yolcu aracının kavşaktaki tüm sürücülere öncelik vermesi gerektiğini belirtir. Bu, aynı yolda yürüyen yayalar için geçerli değildir. \"Aynı yoldaki geçiş üstünlüğüne sahip trafik, dönüş yapan trafikten önce geçer\" kuralı hala geçerlidir. Yaya düz yürüdüğü ve araç dönüş yaptığı için, her iki durumda da yaya önce geçebilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 8,
+      "soru": "Burada otostop yapan birini almak için durabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_5d42999c1df94e52b328d2e63e174101~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Acil bir durum olmadıkça bankette durmanıza izin verilmez. Otostop yapan birini almak acil bir durum değildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 9,
+      "soru": "Katılan trafik şeride girecek yeterli alana sahip değilse ne yapmalısınız?",
+      "resim": "https://static.wixstatic.com/media/4b688f_72013ad9c78c4ecba8f26b7436a80021~mv2.jpg",
+      "cevaplar": [
+        "Mümkünse sol şeride geçin.",
+        "Fren yaparak yer açın.",
+        "Hiçbir şey yapmayın. Onlar size yol vermek zorunda."
+      ],
+      "dogruCevap": "Mümkünse sol şeride geçin.",
+      "feedback": {
+        "metin": "Hem sağ şerit hem de hızlanma şeridi doluysa, yer açmanın en iyi yolu sol şeride geçmektir. Ancak bunu yalnızca sol şeritteki sürücülere engel olmadan yapın! Sol şerit de doluysa, gazı bırakmak ya da hızlanmak suretiyle yer açmayı deneyebilirsiniz. Asla aniden fren yapmayın.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 11,
+      "soru": "Telefon görüşmesi yapmak için burada durabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_a5b7468059924dc9a4b68f8ca5516c22~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Kesintisiz yol çizgisini geçmek serbesttir, bu nedenle tabelalar tarafından yasaklanmadıkça yol kenarına park edebilirsiniz. Otoyol veya bölünmüş karayolu sığınma şeridine park etmek yasaktır; bu alanlar yalnızca acil durumlar için kullanılabilir. Ancak burası bir otoyol veya bölünmüş karayolu değildir. Bilgi tabelasının varlığı burada park etmenin serbest olduğuna dair önemli bir göstergedir. Beklemek, haritaya bakmak ve telefon kullanmak park etme sayılır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 13,
+      "soru": "Bu tabelalar hangi sürücüler için geçerlidir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_6715624e80b14f1da5a2c0792f537007~mv2.jpg",
+      "cevaplar": [
+        "Yalnızca motorlu bisiklet sürücüleri için.",
+        "Motorlu bisiklet ve hızlı elektrikli bisiklet (speed pedelec) sürücüleri için.",
+        "Motorlu bisiklet, hızlı elektrikli bisiklet ve düşük hızlı elektrikli bisiklet (snorfiets) sürücüleri için."
+      ],
+      "dogruCevap": "Motorlu bisiklet ve hızlı elektrikli bisiklet sürücüleri için.",
+      "feedback": {
+        "metin": "Bu tabelalar, motorlu bisiklet sürücülerinin tabelada belirtilen yönden geçmesini zorunlu kılar. Hızlı elektrikli bisiklet sürücüleri, motorlu bisiklet sürücüleriyle aynı kurallara uymak zorundadır, bu nedenle bu tabelalar onlar için de geçerlidir. Bu tabelalar, bu sürücülerin yoldan çıkıp bisiklet/motorlu bisiklet yoluna geçmeleri ya da tam tersini yapmaları gerektiğini gösterir. Snorfiets sürücüleri bisikletlilere yönelik kurallara ve tabelalara uymalıdır, bu nedenle bu tabelalar onlar için geçerli değildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 15,
+      "soru": "Bir binek araçta ön sis farlarının bulunması zorunlu mudur?",
+      "resim": "https://static.wixstatic.com/media/4b688f_9a6fabc2def848fc8808fc32eafd8d91~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Binek araçlarda ön sis farları zorunlu değildir. Bir binek araçta en fazla iki ön sis farı bulunabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 16,
+      "soru": "Bazı ilaçlar sürüş yeteneğini etkileyebilir mi?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f2e0943ed16147b489a697e052969d95~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Bazı ilaçlar sürüş yeteneğinizi etkileyebilir; örneğin bazı kalp ve tansiyon ilaçları, uyku hapları ve sakinleştiriciler gibi. Bu tür ilaçlarda, üzerinde uyarı metni bulunan sarı bir etiket yer alır. Bazı öksürük şurupları ve reçetesiz satılan diğer ilaçlar da sürüş yeteneğini olumsuz etkileyebilir. Kullanımdan önce eczacınıza danışın.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 17,
+      "soru": "Burada sizden hangi trafik davranışı beklenir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_58897f5f075540bf831858772683655a~mv2.gif",
+      "cevaplar": [
+        "Fren yapıp bankete yönelin.",
+        "Sol şeritten devam edin.",
+        "Aynı hızla devam edin."
+      ],
+      "dogruCevap": "Aynı hızla devam edin.",
+      "feedback": {
+        "metin": "Arkadan gelen polis aracına en iyi şekilde yardımcı olmak için öngörülebilir sürüş yapmalı ve trafik kurallarına uymalısınız. Fren yapmayın ya da ani manevra yapmayın.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "Düz gitmek zorunda mısınız?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8cb35018d4474b129f9b8b994cc6c7dc~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Tabeladaki ok, yalnızca belirli tehlikeli maddeleri taşıyan araçların izlemesi gereken yönü belirtir. Tehlikeli madde taşımıyorsanız belirtilen yönü takip etmek zorunda değilsiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 21,
+      "soru": "Hangi bölüm kör nokta olarak adlandırılır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_bb0d0d24fd89435180675dd9940bc0ad~mv2.jpg",
+      "cevaplar": [
+        "A bölgesi.",
+        "B bölgesi.",
+        "C bölgesi."
+      ],
+      "dogruCevap": "B bölgesi.",
+      "feedback": {
+        "metin": "A bölgesi, aracın sol ön kısmındaki alandır. Sürücünün bu alanı görme olasılığı yüksektir; sadece ön cam ve yan camın birleştiği açının arkasındaki küçük bir bölüm doğrudan görünmez. Sürücü, C bölgesini sol aynadan yeterince görebilir. Ancak B bölgesinde sürücünün doğrudan görüşü yoktur. Bu nedenle bu alan \"kör nokta\" olarak adlandırılır. Bu alanı net görebilmek için sürücünün başını çevirip omzunun üzerinden bakması gerekir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 22,
+      "soru": "Burada ne yapmalısınız?",
+      "video": "https://video.wixstatic.com/video/4b688f_0e5036b2b95c4f48ab8fe7013f155194/720p/mp4/file.mp4",
+      "cevaplar": [
+        "Aynı pozisyonda sürmeye devam edin.",
+        "Biraz daha sağa geçin.",
+        "Biraz daha sola geçin."
+      ],
+      "dogruCevap": "Biraz daha sola geçin.",
+      "feedback": {
+        "metin": "Arkadaki motosikletli büyük ihtimalle trafikteki sıkışıklığın arasından geçmek istiyor. Bu duruma izin verilir. Bunun için şeridinizin biraz daha soluna geçerek yer açmanız gerekir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 23,
+      "soru": "Burada yola çıkan motorlu bisikletleri beklemeli misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f61d870c19c840a79ae22fee875e1b43~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "J-24 trafik işareti, karşıya geçen bisikletliler, motorlu bisikletliler, düşük hızlı elektrikli bisikletliler (snorfiets) ve hızlı elektrikli bisikletliler (speed pedelec) konusunda uyarır. Alttaki levha bu yol kullanıcılarının hem sağdan hem soldan geçebileceğini belirtir. Bu tabela, geçiş üstünlüğü hakkında bilgi vermez. Geçiş üstünlüğünü belirten işaretleri daima kontrol edin. Bu işaretler yoksa, sağdan gelen araçlara geçiş hakkı verilmelidir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 24,
+      "soru": "Bu yolda hangi hız sınırını beklemelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_c935e29042df42f9842b2d575fccfc78~mv2.jpg",
+      "cevaplar": [
+        "60 km/s.",
+        "80 km/s.",
+        "100 km/s."
+      ],
+      "dogruCevap": "80 km/s.",
+      "feedback": {
+        "metin": "Ortasında yeşil şerit bulunmayan çift yol çizgili yollar, 80 km/s tasarlanmıştır. Bu merkez çizgileri kesikli veya düz olabilir. Merkez çizgi tek de olabilir. Genellikle kenar çizgileri kesiklidir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 25,
+      "soru": "Araç arızası yaşadığınızda burada durmak en güvenli yer midir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_bc14efdc085a416e82bc3a4c334ac0c7~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Burada bankette durabilirsiniz. Yoldan ne kadar uzak olursanız, o kadar güvende olursunuz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 26,
+      "soru": "Düz devam etmek istiyorsanız bu şekilde sürmeye devam edebilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_2bcd31ba946d4f6f90089939ca1cb38c~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Burada düz gitmek için sağ şeridi kullanıyorsunuz. Bu konum, düz devam etmek isteyenler için uygundur. Sağdaki iki şerit dönüş içindir. Bu nedenle böyle sürmeye devam etmenize izin verilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 27,
+      "soru": "Burada 100 km/s hızla araç kullanabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_07af9e2d56d34c83bbc5954c781f50a7~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Şu anda hız sınırının 100 km/s olduğu bir bölünmüş karayolundasınız (autoweg). Bu hız sınırı, bisiklet taşıyıcılı binek araçlar için de geçerlidir. Bisiklet taşıyıcılar, römork olarak değerlendirilmez. Römorklu binek araçlar için bölünmüş karayolları ve otoyollarda hız sınırı 90 km/s'dir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 28,
+      "soru": "Yolun hangi bölümü şerit olarak adlandırılır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4d0ab189be2c4da981a801ba734979c7~mv2.jpg",
+      "cevaplar": [
+        "A bölgesi.",
+        "B bölgesi.",
+        "C bölgesi."
+      ],
+      "dogruCevap": "B bölgesi.",
+      "feedback": {
+        "metin": "Bir şerit, katı ya da kesikli çizgilerle işaretlenmiş taşıt yolunun bir bölümüdür. Bir şerit, bir otomobilin sığabileceği genişlikte olmalıdır. Bu da bisiklet yollarının ayrı bir şerit sayılmadığı anlamına gelir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 29,
+      "soru": "Hasar görmüş bir ehliyetle araç kullanabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_c0542739f4334ca5a3c6c5efd307db41~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Sadece geçerli, orijinal ve hasarsız bir sürücü belgesine sahipseniz araç kullanmanıza izin verilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 31,
+      "soru": "Bir otoyolda karşıdan gelen trafik beklemeli misiniz?",
+      "resim": "",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Otoyollar, ayrı taşıt yollarına ve farklı seviyedeki kavşaklara sahiptir. Bu nedenle karşı yönden gelen bir trafik beklenmez.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 32,
+      "soru": "Römork ile sollama yapabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_1cec1994e35b405995fdba3a35b586e4~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Bu tabelada kamyonlar için sollama yasağı vardır. Bu kural römorklu binek araçlar için geçerli değildir. Sollama yapmanıza izin verilir. Ancak römorkla hızlanmanız daha zor olduğu için sollama mesafesi daha uzun olacaktır. Ayrıca tamamen geçmeden sağ şeride geçmemelisiniz. Bu nedenle her durumda sollama yapmak mantıklı olmayabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 34,
+      "soru": "Kısa takip mesafesinin enerji tüketimi üzerindeki etkisi nedir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4a2aa943bea74957bf7e9c5ecbfbb5b1~mv2.jpg",
+      "cevaplar": [
+        "Enerji tüketimi üzerinde etkisi yoktur.",
+        "Enerji tüketimi önemli ölçüde artar.",
+        "Enerji tüketimi hafifçe azalır."
+      ],
+      "dogruCevap": "Enerji tüketimi önemli ölçüde artar.",
+      "feedback": {
+        "metin": "Önünüzdeki araçla yeterli takip mesafesi bırakmak yalnızca daha güvenli olmakla kalmaz, aynı zamanda hızınızı daha sabit tutmanıza olanak tanır. Yakından takip etmek sık sık fren yapmanıza ve yeniden hızlanmanıza neden olur, bu da enerji tüketimini önemli ölçüde artırır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 35,
+      "soru": "Burada park edebilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_5ee23ad7cdcc4feea63df98fbdd2aa57~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Kesintisiz sarı çizgi boyunca durmanıza izin verilmez, bu da park etmenin de yasak olduğu anlamına gelir. Sarı çizgi kesikli olsaydı, kısa süreli durmak serbest olurdu, ancak park yine de yasak olurdu.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 36,
+      "soru": "Bu yayaya karşıdan geçmesi için fırsat vermeli misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_61e561df35934348bae120b7658e3765~mv2.jpg",
+      "cevaplar": [
+        "Hayır, burada yasaktır.",
+        "Evet, bu zorunludur.",
+        "Hayır, zorunlu değildir ancak tavsiye edilir."
+      ],
+      "dogruCevap": "Evet, bu zorunludur.",
+      "feedback": {
+        "metin": "Koltuk değnekli kişi “hareket kabiliyeti kısıtlı birey” kategorisine girer. Bu nedenle bu kişiye geçiş üstünlüğü vermeniz zorunludur. Tramvay durağı ve platformun varlığı bu durumda önemli değildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 37,
+      "soru": "Burada 30 km bölgesine mi giriyorsunuz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_b61a960adf70408ba9eff76b125ec7ab~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Burada önerilen hız limitini gösteren bir tabelanın yanından geçiyorsunuz. Bu bir 30 km bölgesi değildir. Bu tabeladan sonra 30 km/s hızla gitmeniz tavsiye edilir, ancak bu zorunlu değildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 38,
+      "soru": "Ön cama takılan ayrı bir navigasyon sisteminin riskleri nelerdir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_ecfa9ce1837b494b8d03680a7a8b2210~mv2.jpg",
+      "cevaplar": [
+        "Sistemi takarken ön camı zarar verebilirsiniz.",
+        "Ek bir kör nokta oluşturabilirsiniz.",
+        "Dahili bir sisteme kıyasla daha fazla dikkat dağınıklığı yaşayabilirsiniz."
+      ],
+      "dogruCevap": "Ek bir kör nokta oluşturabilirsiniz.",
+      "feedback": {
+        "metin": "Navigasyon sistemini ön cama takarken daima dikkatli olun. Mümkünse bu cihazları ön camın alt kısmına ya da köşelere yerleştirmeye çalışın. Cihaz küçük olsa bile, bisikletliler ve hatta zaman zaman araçlar bu sistemler nedeniyle görünmez hâle gelebilir. Bu sistemler ek bir kör nokta oluşturur ve bu alanı kontrol etmek önemlidir. Camın zarar görme riski yoktur çünkü bu cihazlar buna uygun şekilde üretilmiştir. Dikkat dağınıklığı açısından ise, bu sistemler yerleşik sistemlerden daha tehlikeli değildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 39,
+      "soru": "Bu uyarı ışığı yandığında ne yapmalısınız?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8428c9bb3daf443caafcd05a0b344004~mv2.jpg",
+      "cevaplar": [
+        "En kısa sürede lastik basıncını kontrol edin.",
+        "Hemen durun. Lastiğiniz patlamış.",
+        "Sürmeye devam edin ve evden servisi arayın."
+      ],
+      "dogruCevap": "En kısa sürede lastik basıncını kontrol edin.",
+      "feedback": {
+        "metin": "Bu ışık, en az bir lastiğin diğerlerinden daha düşük basınca sahip olduğunu gösterir. Bu durum lastiğin patlamış olabileceği anlamına gelir. Mümkün olan ilk fırsatta (örneğin bir benzin istasyonunda) durup lastik basıncını kontrol edin. Beklemeyin çünkü düşük lastik basıncı, patlama riski ile birlikte yol tutuşunu da azaltır. Basıncı düşük olan lastikleri tekrar şişirin ve hasar, çivi ya da vida olup olmadığını kontrol edin.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 40,
+      "soru": "Römorka el yazısıyla yazılmış bir plaka ile araç kullanabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_9b43eb21c8bf4c83abebcc07115248c0~mv2.jpg",
+      "cevaplar": [
+        "Hayır. Bu yasaktır.",
+        "Evet. Plaka net okunuyorsa.",
+        "Sadece azami yüklü ağırlığı 750 kg olan römorklarla."
+      ],
+      "dogruCevap": "Hayır. Bu yasaktır.",
+      "feedback": {
+        "metin": "Azami yüklü ağırlığı 750 kg'a kadar olan römorklarda, taşıyıcı araçla aynı plakaya sahip orijinal beyaz bir plaka olmalıdır. 750 kg üzerindeki römorkların kendilerine ait sarı plakaları vardır ve bu plakalar çekici araçla aynı değildir. Hiçbir durumda el yazısıyla yazılmış bir plaka kullanılamaz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 41,
+      "soru": "Araç kullanırken mesajlarınızı okumaya izin var mı?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4a1bafc4ec3f4781a3c7e797bb9dffe2~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Araç kullanırken cep telefonu elde tutmak yasaktır. Bu, diğer yol kullanıcılarını gereksiz yere tehlikeye atar. Bu yasak, müzik değiştirmek, trafik bilgisi kontrol etmek, navigasyonu ayarlamak, arama yapmak ya da mesajlaşmak gibi tüm telefon kullanım şekilleri için geçerlidir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "Bu durumda ne yapmalısınız?",
+      "video": "https://video.wixstatic.com/video/4b688f_b4fd08029c8f4068a3a2ef3768ff0a10/720p/mp4/file.mp4",
+      "cevaplar": [
+        "Yavaşlayın ve kavşaktan geçene kadar bisikletlinin arkasında kalın.",
+        "Korna çalarak bisikletlinin daha sağa geçmesini sağlayın.",
+        "Devam edin ve bisikletliyi rahatça sollayın."
+      ],
+      "dogruCevap": "Yavaşlayın ve kavşaktan geçene kadar bisikletlinin arkasında kalın.",
+      "feedback": {
+        "metin": "Kavşakta sollama yalnızca tehlikeli bir durum yaratıyorsa yasaktır. Trafik akışının net olmadığı kavşaklarda sollama yasaktır. Bu kavşak oldukça düzenlidir ve bir öncelik yolunda ilerlediğiniz için kimseye yol vermek zorunda değilsiniz. Ancak bisikletlilerin omzunun üzerinden kontrol etmeden dönüş yapabileceklerini göz önünde bulundurmalısınız. Bu nedenle bu durumda bisikletliyi geçene kadar arkasında kalmak en mantıklısıdır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 44,
+      "soru": "Çocuklar hangi boydan itibaren sadece üç noktalı emniyet kemeri kullanabilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_bd6bdfc050484e2d914073cc8708f427~mv2.jpg",
+      "cevaplar": [
+        "1 metreden itibaren.",
+        "1,25 metreden itibaren.",
+        "1,35 metreden itibaren."
+      ],
+      "dogruCevap": "1,35 metreden itibaren.",
+      "feedback": {
+        "metin": "Boyu 1,35 metreden kısa ve yaşı 18’in altında olan çocuklar yalnızca çocuk koltuğunda taşınabilir. Boyu 1,35 metre ve üzerindeyse, üç noktalı emniyet kemeri yeterlidir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "Küçük tampon hasarıyla sonuçlanan bir kaza sonrası kavşağın ortasında duruyorsanız ne yapmalısınız?",
+      "resim": "https://static.wixstatic.com/media/4b688f_0831ab3ad67e4cabbe42e415b1cc8f6a~mv2.jpg",
+      "cevaplar": [
+        "Hasarı halledin, ardından aracı hareket ettirin.",
+        "Polisi arayın ve gelene kadar aracı hareket ettirmeyin.",
+        "Önce aracı kenara alın, sonra hasarı halledin."
+      ],
+      "dogruCevap": "Önce aracı kenara alın, sonra hasarı halledin.",
+      "feedback": {
+        "metin": "Eğer araç hâlâ sürülebilir durumdaysa ve küçük hasarlı bir kazaya karıştıysanız, hasarla ilgilenmeden önce daima aracı yol dışına güvenli bir şekilde çekin. Polis yalnızca ciddi hasar durumlarında veya karşı taraf kimlik ya da sigorta bilgilerini vermek istemediğinde çağrılmalıdır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 46,
+      "soru": "Tramvay bir motorlu taşıt mıdır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_77ea9852c2f74be197fa1db9852abc84~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Motorlu taşıtlar, motorla çalışan ve ray üzerinde hareket etmeyen tüm araçlardır (örneğin tren, metro, tramvay raylı taşıtlardır). Pedal destekli bisikletler motorlu taşıt sayılmaz; ancak speed pedelec sayılır. Troleybüsler de motorlu taşıt olarak kabul edilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 47,
+      "soru": "Bu kamyonu sollayabilir misiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_6ea13324d9f141d8a8793670a937daa5~mv2.jpg",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Katı çizgi olmasına rağmen, bu kamyonu sollayabilirsiniz. Yoğun saatler şeridi (rush hour lane) açık olduğunda, bu şeridi ana yola ayıran katı çizgi dikkate alınmaz. Bu nedenle çizgiyi geçmenize izin verilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 48,
+      "soru": "Vergi memurları araç tescil belgenizi inceleyebilir mi?",
+      "resim": "",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Vergi dairesi görevlileri, polis memurları, Hollanda Kraliyet Jandarması (Koninklijke Marechaussee), savcı ve ilgili bakan tarafından atanmış görevliler araç tescil belgenizi talep edebilir. Yolcu taşıt vergisinin ödenmemesi veya aracın teknik şartlara uymaması gibi durumlarda daha ileri incelemeler ve sonuçlar olabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 49,
+      "soru": "Buradaki hız sınırı nedir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_dc2dfedb56c24103abdd7465aa816c35~mv2.jpg",
+      "cevaplar": [
+        "10 km/s.",
+        "15 km/s.",
+        "30 km/s."
+      ],
+      "dogruCevap": "15 km/s.",
+      "feedback": {
+        "metin": "Oyun sokağı (erf) içinde sürücüler 15 km/s hız sınırını aşamaz. Yayalar ve oynayan çocuklar dikkate alınmalıdır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "Uygun koşullarda düşünme süresi ne kadardır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_b11a2d3384764dfeb64727f90cbd4ddb~mv2.jpg",
+      "cevaplar": [
+        "Yaklaşık 1 saniye.",
+        "Yaklaşık 2 saniye.",
+        "Yaklaşık 3 saniye."
+      ],
+      "dogruCevap": "Yaklaşık 1 saniye.",
+      "feedback": {
+        "metin": "Ortalama bir sürücünün uygun koşullarda düşünme süresi yaklaşık 1 saniyedir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
