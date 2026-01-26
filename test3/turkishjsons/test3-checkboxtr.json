@@ -1,0 +1,72 @@
+{
+  "sorular": [
+    {
+      "numara": 33,
+      "soru": "Sürücü belgeniz askıya alındığında hangi araçları kullanmanıza izin verilmez?",
+      "resim": "",
+      "cevaplar": [
+        "Snorfiets.",
+        "Bisiklet.",
+        "Brommobiel.",
+        "Binek otomobil."
+      ],
+      "dogruCevap": [
+        "Snorfiets.",
+        "Brommobiel.",
+        "Binek otomobil."
+      ],
+      "feedback": {
+        "metin": "Sürücü belgeniz askıya alındığında hiçbir motorlu taşıtı kullanmanıza izin verilmez. Bu nedenle sadece binek otomobil değil, aynı zamanda brommobiel, moped veya snorfiets kullanmak da yasaktır. Bisiklet motorlu bir taşıt olmadığından bisiklet sürmeye devam edebilirsiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 35,
+      "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_71a324a016384a3b9484e61e4fbe08f2~mv2.jpg",
+      "cevaplar": [
+        "Brommobiel sürücüleri.",
+        "Hızlı elektrikli bisiklet (speed pedelec) kullanıcıları.",
+        "Moped sürücüleri.",
+        "Bisikletliler.",
+        "Snorfiets kullanıcıları."
+      ],
+      "dogruCevap": [
+        "Brommobiel sürücüleri.",
+        "Hızlı elektrikli bisiklet (speed pedelec) kullanıcıları.",
+        "Moped sürücüleri."
+      ],
+      "feedback": {
+        "metin": "Taşıt yolunun yanında zorunlu bisiklet yolu bulunmaktadır. Bu, yalnızca bisikletlilerin ve snorfiets kullanıcılarının taşıt yolunu değil, bisiklet yolunu kullanmak zorunda olduğu anlamına gelir. Diğer tüm sürücüler bisiklet yolunu kullanamaz, bu yüzden onları taşıt yolunda beklemelisiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 39,
+      "soru": "Hangi aydınlatmaları kullanmanıza izin verilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_74d21dc049994b0ebda13bdf28a372fb~mv2.jpg",
+      "cevaplar": [
+        "Uzun farlar.",
+        "Kısa farlarla birlikte ön sis farları.",
+        "Pozisyon (park) lambalarıyla birlikte ön sis farları.",
+        "Arka sis lambası.",
+        "Kısa farlar."
+      ],
+      "dogruCevap": [
+        "Kısa farlarla birlikte ön sis farları.",
+        "Pozisyon (park) lambalarıyla birlikte ön sis farları.",
+        "Kısa farlar."
+      ],
+      "feedback": {
+        "metin": "Görüş mesafesi sis nedeniyle azalmış durumda. Ancak en az 100 metre görüş mevcuttur çünkü sonraki hektometre levhası hâlâ görülebiliyor. Bu durumda kısa farlar, ön sis farları ile birlikte ya da tek başına kullanılabilir. Ayrıca ön sis farları pozisyon lambalarıyla da birlikte kullanılabilir. Gündüz vakti uzun farların kullanılması yasaktır. Arka sis lambaları da izinli değildir; yalnızca görüş mesafesi 50 metreden azsa kullanılabilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
