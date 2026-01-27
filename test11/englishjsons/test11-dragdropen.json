@@ -1,0 +1,232 @@
+{
+    "sorular": [
+      {
+        "numara": 11,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "55.22%",
+              "left": "28.66%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "3.67%",
+              "left": "19.20%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "52.33%",
+              "left": "70.63%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_8c25ae49132b4b3d8a1dff8c40c1298b~mv2.jpg",
+        "feedback": {
+          "metin": "The pedestrian may go first because they are continuing straight ahead on the same road as both you and the cyclist. You must wait for the cyclist because the short turn goes before the long one.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 23,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "15.00%",
+              "left": "54.73%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "58.33%",
+              "left": "50.63%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_c7ec8db16a924d18b0dae528e07ab5c8~mv2.jpg",
+        "feedback": {
+          "metin": "You are driving on intersecting unpaved roads. This is an equivalent intersection, and drivers coming from the right have right of way. Horse riders qualify as drivers, so they have right of way.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 33,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "56.11%",
+              "left": "29.20%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "17.22%",
+              "left": "70.98%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_e15fbc2a1d7843b0b712954be0c84902~mv2.jpg",
+        "feedback": {
+          "metin": "You only have to give right of way to drivers from the right. A pedestrian is not a driver. You are allowed to go first.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 38,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "62.33%",
+              "left": "62.77%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "6.78%",
+              "left": "23.48%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "18.56%",
+              "left": "73.30%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_c952a35bfe894903be7dc48b6a5774e7~mv2.jpg",
+        "feedback": {
+          "metin": "You see the priority road sign, and the lower sign indicating a divergent priority road to the left. The thick black stripe indicates the course of the priority road, and the thin black stripes indicate the side roads. The driver of the white car is continuing on the priority road and therefore has right of way. The motorcycle has right of way after the white car, because it is coming from the right in relation to the red car. They both have priority triangles which makes them equal. In equal situations, the driver coming from the right has priority.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      }
+    ]
+  }
