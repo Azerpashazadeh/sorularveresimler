@@ -1,0 +1,59 @@
+{
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "Hangi işaretten sonra U dönüşü yapmanıza izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_666a0f713fb643e0a8c3d9a1c801e75f~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_109ce5e9e0214004a655a8d807ef701d~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_38bab02a65424501a52763bdb7e7d2e5~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_38bab02a65424501a52763bdb7e7d2e5~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Sadece H-2 işaretinden sonra U dönüşü yapmaya izin verilir. Bu işaret, yerleşim alanının bittiğini belirtir. G-1 işareti otoyolu, G-3 işareti ise hızlı yolu (autoweg) belirtir. Bu yol türlerinde U dönüşü yapmak yasaktır.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Hangi durumda taşıt yolunun sol tarafına park etmenize izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_c7d6dc09e2d34519881256a050ffaf5b~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_6ad879e2d8e540019bf3ac520ba00894~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_c7d6dc09e2d34519881256a050ffaf5b~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Tek yönlü bir caddede, taşıt yolunun sol tarafına park etme yasağı yoktur. Bu durumda sol tarafa park edebilirsiniz. Park yasağı bölgesinde taşıt yolunun her iki tarafında da park etmek yasaktır. Eğer 'zone' ibaresi olmadan ayrı bir E-1 işareti (park yasağı) varsa, bu durumda sol tarafa park etmek serbesttir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 32,
+            "soru": "Telefon etmek için duruyorsunuz. Hangi durumda buna izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_1b13bcd4f0bb48079f02d7803463db8f~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a8f27beaf1e445579c6df1ad1a649fd5~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_9523535133554a34a291e096f95baa29~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_56de51e60c6f4cf28e05904ad74c73f5~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_9523535133554a34a291e096f95baa29~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_56de51e60c6f4cf28e05904ad74c73f5~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Telefon etmek için durmak, duraklama değil park etme kapsamına girer. Bu, sol üstteki durumda olduğu gibi kesintisiz sarı çizginin yanında yasaktır. Ayrıca, sağ üstteki durumda olduğu gibi yaya geçidinden beş metre içinde de yasaktır. Alt kısımdaki iki durumda ise öneri şeridinde veya park alanında buna izin verilir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

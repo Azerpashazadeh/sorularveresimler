@@ -1,0 +1,28 @@
+{
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "Bir Çarşamba günü saat 11:00. Burada en fazla kaç hızla gidebilirsiniz?",
+            "resim": "https://static.wixstatic.com/media/4b688f_f45a7d3453834b21968bebf9506c40a3~mv2.jpg",
+            "dogruCevap": "90",
+            "feedback": {
+                "metin": "Bir römorklu araç, otobanda her zaman en fazla 90 km/sa hızla gidebilir, otobanda veya yol kenarındaki tabelalar daha düşük bir hız göstermediği sürece. Burada böyle bir durum yok. Bu kombinasyon bu nedenle en fazla 90 km/sa hızla gidebilir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "Yerleşim alanlarında yasal hız sınırı nedir?",
+            "resim": "https://static.wixstatic.com/media/4b688f_287efd04b6c0430a9bc99a72417cd810~mv2.jpg",
+            "dogruCevap": "50",
+            "feedback": {
+                "metin": "Yerleşim alanları içinde yasal hız sınırı 50 km/saattir, aksi belirtilmedikçe, örneğin bir 30 km/sa hız sınırı tabelası veya erf tabelası ile. Yerel olarak daha yüksek bir hız sınırı da geçerli olabilir, örneğin 70 km/sa. Bu da tabelalarla belirtilir. Eğer herhangi bir tabela yoksa hız sınırı 50 km/saattir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

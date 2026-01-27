@@ -1,0 +1,59 @@
+{
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "بعد أي إشارة مسموحلك تعمل رجعة (U-turn)؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_666a0f713fb643e0a8c3d9a1c801e75f~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_109ce5e9e0214004a655a8d807ef701d~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_38bab02a65424501a52763bdb7e7d2e5~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_38bab02a65424501a52763bdb7e7d2e5~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "مسموح تعمل رجعة بس بعد الإشارة H-2. هالإشارة بتدل ع نهاية المنطقة المبنية. الإشارة G-1 بتدل عالأوتوستراد، والإشارة G-3 بتدل ع طريق سريع (autoweg). الرجعة ممنوعة بهالنوعين من الطرق.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "بأي حالة مسموح توقف (باركينغ) عالجهة اليسار من الطريق؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_c7d6dc09e2d34519881256a050ffaf5b~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_6ad879e2d8e540019bf3ac520ba00894~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_c7d6dc09e2d34519881256a050ffaf5b~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "بالشارع ذو الاتجاه الواحد، ما في منع للتوقف عالجهة اليسار من الطريق. بهالحالة فيك توقف عاليسار عادي. التوقف ممنوع عالجهتين من الطريق إذا في منطقة ممنوع توقف. إذا في إشارة E-1 لحالها (ممنوع توقف) من دون كلمة 'zone'، فالتوقف مسموح عالجهة اليسار.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 32,
+            "soru": "وقفت لتعمل مكالمة تليفون. بأي حالة هاد مسموح؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_1b13bcd4f0bb48079f02d7803463db8f~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a8f27beaf1e445579c6df1ad1a649fd5~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_9523535133554a34a291e096f95baa29~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_56de51e60c6f4cf28e05904ad74c73f5~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_9523535133554a34a291e096f95baa29~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_56de51e60c6f4cf28e05904ad74c73f5~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "التوقف لتعمل مكالمة ما بينحسب وقوف قصير، بينحسب توقف (باركينغ). هاد ممنوع جنب الخط الأصفر المتين متل الحالة فوق يسار. كمان ممنوع توقف على بعد أقل من خمس متر من معبر المشاة، متل الحالة فوق يمين. مسموح توقف عمسرب الاقتراح أو بموقف سيارات، متل الحالتين تحت.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
