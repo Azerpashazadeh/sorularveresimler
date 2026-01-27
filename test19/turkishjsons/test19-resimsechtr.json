@@ -1,0 +1,43 @@
+{
+    "sorular": [
+        {
+            "numara": 29,
+            "soru": "Hangi durumda sollama yasaktır?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_5d4a76c951c94de5bb1786dd21794b91~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_efd194144bd54ebd940d132f7969d7dc~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_fc6b05b090954570ab0ddc2af6cc795a~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_9345d53274fa421cb227edc6b3cd675d~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_5d4a76c951c94de5bb1786dd21794b91~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_efd194144bd54ebd940d132f7969d7dc~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_9345d53274fa421cb227edc6b3cd675d~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sollama sol üstte, sağ üstte ve sağ alttaki durumlarda yasaktır. Görüşü kısıtlı, tehlikeli bir kavşaktan hemen önce veya kör bir virajda sollama yapmanıza izin verilmez. Ayrıca, bir yaya geçidinden (zebra geçidi) hemen önce veya üzerinde sollama yapmanıza izin verilmez. Sol alttaki durumda sollamaya izin verilir. F-3 işareti, kamyonların sollama yapamayacağını belirtir, ancak onların sollanmasına izin verilir. Beyaz çizgiler kesiktir, bu nedenle onları geçmenize izin verilir. Bunun için yeşil çizginin kesik olması gerekmez.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "Bir römorkun arkasından bir metreden fazla taşan yükü nasıl işaretlersiniz?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_ca95c546776f42689d297976a9f8e3f2~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_e9cf3e3faba54515bfa792052a4c6150~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_f3e80b706969429f820be66be101164f~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_e9cf3e3faba54515bfa792052a4c6150~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Yük, bir römorkun arkasından bir metreden fazla taşıyorsa, beyaz ve kırmızı kare bir işaret ile belirtilmelidir. Siyah-beyaz işaret, sert banketin bitişini veya daralmasını gösterir, kesik üçgen ise tarım araçları gibi düşük hızlı motorlu araçlar için gereklidir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

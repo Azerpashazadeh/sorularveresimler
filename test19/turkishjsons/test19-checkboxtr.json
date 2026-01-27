@@ -1,0 +1,26 @@
+{
+  "sorular": [
+    {
+      "numara": 35,
+      "soru": "Hangi sıvıları kontrol ettikten sonra kendiniz oldukça kolay doldurabilirsiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_d22d979eeca348929e27de9cbea976c7~mv2.jpg",
+      "cevaplar": [
+        "Fren hidroliği.",
+        "Cam suyu.",
+        "Motor yağı.",
+        "Soğutma sıvısı."
+      ],
+      "dogruCevap": [
+        "Cam suyu.",
+        "Motor yağı.",
+        "Soğutma sıvısı."
+      ],
+      "feedback": {
+        "metin": "Sıvı seviyesini kontrol ettikten sonra, gerekirse soğutma sıvısını, cam suyunu ve motor yağını kendiniz oldukça kolay doldurabilirsiniz. Fren hidroliğini kendiniz doldurmanız ise mantıklı değildir, çünkü bu fren sistemine hava girmesi riskini artırır. Bu da fren performansını olumsuz etkiler. Fren hidroliği seviyesi çok düşükse bayiye başvurmalısınız. Bu genellikle frenlerde bir sorun olduğunu gösterir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
