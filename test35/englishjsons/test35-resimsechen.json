@@ -1,0 +1,43 @@
+{
+    "sorular": [
+        {
+            "numara": 5,
+            "soru": "Which sign permits you to turn left?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_7463419b3c3040358e3cd166bf76e0d2~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a6f9a9aa01c24f69a8022993e0e2cbb7~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a0fa12eff0f5437b9fed9e17be6313b1~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_7463419b3c3040358e3cd166bf76e0d2~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sign C-3 indicates that the road is a one-way street and may only be driven on in this direction. You can turn left here. Sign C-4 indicates a one-way street that you can only enter to the right. You are not allowed to turn left here. Sign D-4 indicates a mandatory direction of travel. You may only go straight on and not turn left.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 23,
+            "soru": "You are dropping off a passenger. In which situation is that allowed?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_3746020907ec4d0e9b6681cb6fcfdada~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_30da98b54d20466686f237e3532124e2~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_661646692fe64def84097106b730afaf~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_1a18fa6cd5d34652b7dbe29fab5fd4a9~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_3746020907ec4d0e9b6681cb6fcfdada~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_30da98b54d20466686f237e3532124e2~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_1a18fa6cd5d34652b7dbe29fab5fd4a9~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "In the upper left, upper right and bottom right situations, you are not allowed to park, but you are allowed to stop to let someone get out of the car. This applies next to other parallel parked vehicles, at an exit construction and next to a broken yellow line. Only in the bottom left situation you are not allowed to park or stop, as there is a solid yellow line on the kerb.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
