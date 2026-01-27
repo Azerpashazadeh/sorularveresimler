@@ -1,0 +1,27 @@
+{
+  "sorular": [
+    {
+      "numara": 11,
+      "soru": "Bu bisiklet yolunda hangi sürücüleri beklemelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_e85acc526ca0404da11c6480f8d85cd7~mv2.jpg",
+      "cevaplar": [
+        "Snorfiets sürücüleri.",
+        "Engelli aracı sürücüleri.",
+        "Bisikletliler.",
+        "Hızlı pedelec kullanıcıları.",
+        "Moped sürücüleri."
+      ],
+      "dogruCevap": [
+        "Snorfiets sürücüleri.",
+        "Engelli aracı sürücüleri.",
+        "Bisikletliler."
+      ],
+      "feedback": {
+        "metin": "Bir bisiklet yolunun kenarında kesintisiz (düz) çizgi varsa, sadece bisikletliler, snorfiets sürücüleri ve engelli aracı sürücüleri burayı kullanabilir. Moped sürücüleri, hızlı pedelec kullanıcıları ve motorlu araç sürücüleri bu bisiklet yolunu kullanamaz. Hatta yön değiştirme veya sollama için bile izin verilmez.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
