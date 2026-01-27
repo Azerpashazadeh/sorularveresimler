@@ -1,0 +1,75 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Bu araçlardan hangileri öncelikli (acil durum) araçlardır?",
+      "resim": "",
+      "cevaplar": [
+        "Optik ve sesli uyarı sistemleri açık olan Su Yolları ve Altyapı Dairesi (Rijkswaterstaat) aracı.",
+        "Tramvay.",
+        "Optik ve sesli uyarı sistemleri açık olan ambulans.",
+        "Sarı yanıp sönen ışıklarla donatılmış kurtarma şirketi araçları.",
+        "Sarı yanıp sönen ışıklarla donatılmış hayvan ambulansı.",
+        "Askeri konvoya ait araç."
+      ],
+      "dogruCevap": [
+        "Optik ve sesli uyarı sistemleri açık olan Su Yolları ve Altyapı Dairesi (Rijkswaterstaat) aracı.",
+        "Optik ve sesli uyarı sistemleri açık olan ambulans."
+      ],
+      "feedback": {
+        "metin": "Yalnızca (mavi) optik uyarı sistemleri ve sesli uyarı sistemleri bulunan araçlar öncelikli (acil durum) araçlardır. Buna polis araçları, itfaiye araçları, ambulanslar ve Su Yolları ve Altyapı Dairesi (Rijkswaterstaat) araçları da dahildir. Mavi optik uyarı ışıkları ve çift tonlu siren kullanan her araç, bu sistemleri aktif hale getirdiği anda öncelikli araç sayılır. Sarı yanıp sönen ışıklara sahip araçlar öncelikli araç değildir. Tramvaylar ve askeri konvoy araçları da, özel geçiş haklarına sahip olsalar da, öncelikli araçlar sınıfına girmezler.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "Bu işaretten sonra hangi sürücüleri sollamanıza izin verilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8f0bfd1718304e25a257e5b897431825~mv2.jpg",
+      "cevaplar": [
+        "Tarım aracı sürücüleri.",
+        "Kamyon sürücüleri.",
+        "Moped sürücüleri.",
+        "Bisikletliler.",
+        "Motosiklet sürücüleri."
+      ],
+      "dogruCevap": [
+        "Tarım aracı sürücüleri.",
+        "Kamyon sürücüleri.",
+        "Moped sürücüleri.",
+        "Bisikletliler.",
+        "Motosiklet sürücüleri."
+      ],
+      "feedback": {
+        "metin": "Bu işaret, kamyon sürücülerinin diğer motorlu araçları sollamasını yasaklar. Yani bu işaret size yönelik değildir. Uygun ve güvenli olduğu sürece tüm araçları sollayabilirsiniz. Buna kamyonlar da dahildir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "Bu işaret hangi sürücüler için geçerlidir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_cd31cb19527e4e8a97360b619191005e~mv2.jpg",
+      "cevaplar": [
+        "Yan römorklu motosiklet sürücüleri.",
+        "Kamyon sürücüleri.",
+        "Moped sürücüleri.",
+        "Brommobiel (hafif motorlu araç) sürücüleri.",
+        "İki tekerlekli motosiklet sürücüleri."
+      ],
+      "dogruCevap": [
+        "Yan römorklu motosiklet sürücüleri.",
+        "Kamyon sürücüleri.",
+        "Brommobiel (hafif motorlu araç) sürücüleri."
+      ],
+      "feedback": {
+        "metin": "C-6 işareti, iki tekerlekten fazla tekerleğe sahip tüm motorlu araçlar için yolu kapalı olduğunu belirtir. Bu sadece otomobilleri değil, aynı zamanda yan römorklu motosikletleri, kamyonları, otobüsleri ve brommobiel araçlarını da kapsar. Brommobiel araçları motorlu taşıt sınıfında olmasalar da motorlu araç kurallarına tabidirler.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

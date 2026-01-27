@@ -1,0 +1,75 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Welke van deze voertuigen zijn voorrangsvoertuigen?",
+      "resim": "",
+      "cevaplar": [
+        "Voertuig van Rijkswaterstaat met optische en geluidssignalen.",
+        "Tram.",
+        "Ambulance met optische en geluidssignalen.",
+        "Bergingsvoertuigen met gele knipperlichten.",
+        "Dierenambulance met gele knipperlichten.",
+        "Voertuig van een militair konvooi."
+      ],
+      "dogruCevap": [
+        "Voertuig van Rijkswaterstaat met optische en geluidssignalen.",
+        "Ambulance met optische en geluidssignalen."
+      ],
+      "feedback": {
+        "metin": "Alleen voertuigen met (blauwe) optische signalen en geluidssignalen zijn voorrangsvoertuigen. Dit omvat politievoertuigen, brandweerwagens, ambulances, maar ook voertuigen van Rijkswaterstaat. Elk voertuig dat gebruik mag maken van blauwe zwaailichten en een tweetonige hoorn is een voorrangsvoertuig zodra deze signalen worden gebruikt. Voertuigen met gele knipperlichten zijn geen voorrangsvoertuigen. Trams of voertuigen van een militair konvooi zijn dit ook niet, ondanks dat zij bijzondere voorrangsrechten hebben.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "Welke bestuurders mag u na dit bord inhalen?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8f0bfd1718304e25a257e5b897431825~mv2.jpg",
+      "cevaplar": [
+        "Bestuurders van landbouwvoertuigen.",
+        "Vrachtwagenbestuurders.",
+        "Bromfietsers.",
+        "Fietsers.",
+        "Motorrijders."
+      ],
+      "dogruCevap": [
+        "Bestuurders van landbouwvoertuigen.",
+        "Vrachtwagenbestuurders.",
+        "Bromfietsers.",
+        "Fietsers.",
+        "Motorrijders."
+      ],
+      "feedback": {
+        "metin": "Dit bord geeft een inhaalverbod aan voor vrachtwagens ten opzichte van andere motorvoertuigen. Dit verbod geldt dus niet voor u. U mag alle voertuigen inhalen, mits dit veilig kan. Ook vrachtwagens.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "Voor welke bestuurders geldt dit bord?",
+      "resim": "https://static.wixstatic.com/media/4b688f_cd31cb19527e4e8a97360b619191005e~mv2.jpg",
+      "cevaplar": [
+        "Bestuurders van motorfietsen met zijspan.",
+        "Vrachtwagenbestuurders.",
+        "Bromfietsers.",
+        "Bestuurders van een brommobiel.",
+        "Bestuurders van tweewielige motorfietsen."
+      ],
+      "dogruCevap": [
+        "Bestuurders van motorfietsen met zijspan.",
+        "Vrachtwagenbestuurders.",
+        "Bestuurders van een brommobiel."
+      ],
+      "feedback": {
+        "metin": "Bord C-6 geeft een geslotenverklaring aan voor alle motorvoertuigen op meer dan twee wielen. Dit geldt naast personenauto’s ook voor motorfietsen met zijspan, vrachtwagens, bussen, maar ook voor brommobielen. Deze laatste vallen onder de regels voor motorvoertuigen, ook al zijn zij dat strikt genomen niet.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

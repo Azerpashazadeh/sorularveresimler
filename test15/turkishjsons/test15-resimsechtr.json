@@ -1,0 +1,44 @@
+{
+    "sorular": [
+        {
+            "numara": 19,
+            "soru": "Hangi durumda diğer yol kullanıcısına geçiş hakkı vermeniz gerekir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_f06afc2ad4ef4bee8fa482b5a51b17da~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_222f8561ac854a3e923c87b8ffc0e4e1~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_0d446ec84ec640558acf63c813b758e4~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_8847b010f63f4550807832ee05950e4c~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_222f8561ac854a3e923c87b8ffc0e4e1~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_8847b010f63f4550807832ee05950e4c~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sağ üst ve sağ alt durumlar doğrudur. Tüm durumlarda, kavşaktaki yoldan gelen sürücülere geçiş hakkı vermeniz gerekir. Sol üstteki durumda yoldaki yaya bir sürücü olmadığı için geçiş hakkı vermek zorunda değilsiniz. Sağ üstteki durumda ise yaya size önden yaklaşmaktadır. Bu durumda, 'aynı yol üzerindeki düz giden araç, dönüş yapan araca göre önceliklidir' kuralı geçerlidir ve yayaya geçiş hakkı vermelisiniz. Sol alttaki durumda 'kısa dönüş uzun dönüşe göre önceliklidir' kuralı geçerlidir; siz sağa döndüğünüz ve karşı araç sola döndüğü için sizin önceliğiniz vardır. Sağ alttaki durumda ise ana yolda ilerleyen sürücüye geçiş hakkı vermeniz gerekir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Hangi durumda sollama yapmak serbesttir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_960226ba80094942b8779064c19a6c3b~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_d4514b1e363543aabe04487298234e70~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_f89f498830884f67be09b7bb1082c881~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a2b3afb62b2d44f182537745a1d71dce~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_960226ba80094942b8779064c19a6c3b~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a2b3afb62b2d44f182537745a1d71dce~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sollama, sol üstteki ve sağ alttaki durumlarda serbesttir. Sol üstte yaya geçidi (zebra geçit) bulunmamaktadır, bu nedenle sollama yasağı söz konusu değildir. Sağ üstte ise sisli hava vardır; bu da sollamayı tehlikeli ve dolayısıyla yasak hale getirir. Sol alttaki durumda yol kenarında F-1 işareti bulunur. Bu işaret motorlu araçların birbirini sollamasını yasaklar. Traktör de bir motorlu araç olduğu için burada sollanamaz. Sağ altta ise çizginin sizin tarafınızda kesikli olması, sollamanın serbest olduğu anlamına gelir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
