@@ -1,0 +1,27 @@
+{
+  "sorular": [
+    {
+      "numara": 22,
+      "soru": "Who are allowed to use the rightmost lane here?",
+      "resim": "https://static.wixstatic.com/media/4b688f_fb7f453a6e1846708619f6ab1f8d9ff9~mv2.jpg",
+      "cevaplar": [
+        "Public bus drivers.",
+        "Passenger car drivers.",
+        "Emergency vehicle drivers.",
+        "Lorry drivers.",
+        "Coach drivers."
+      ],
+      "dogruCevap": [
+        "Public bus drivers.",
+        "Emergency vehicle drivers.",
+        "Coach drivers."
+      ],
+      "feedback": {
+        "metin": "The electronic matrix sign above the rightmost lane indicates that this lane may only be used by bus drivers. These include public bus drivers and coach drivers. Drivers of emergency vehicles are also allowed to use target group lanes, so they are also allowed to drive here. Drivers of passenger cars and lorries are not allowed to use the rightmost lane here.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
