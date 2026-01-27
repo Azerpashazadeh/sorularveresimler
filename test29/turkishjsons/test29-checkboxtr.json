@@ -1,0 +1,27 @@
+{
+  "sorular": [
+    {
+      "numara": 25,
+      "soru": "Bu tür plaka nerede bulunur?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f5aae73b4e654959ba52744c138a825f~mv2.jpg",
+      "cevaplar": [
+        "Bir brommobiel üzerinde.",
+        "Bir bisiklet taşıyıcısında.",
+        "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta.",
+        "Bir takside.",
+        "Bir kamyon arkasındaki yarı römorkta.",
+        "Azami yüklü ağırlığı 750 kg’dan fazla olan bir römorkta."
+      ],
+      "dogruCevap": [
+        "Bir bisiklet taşıyıcısında.",
+        "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta."
+      ],
+      "feedback": {
+        "metin": "Beyaz plaka, hafif römorklarda (azami yüklü ağırlığı 750 kg’a kadar) ve bisiklet taşıyıcıları gibi çeki demirine takılan taşıyıcılarda bulunur. Bu plakada çeken aracın plaka numarası yer alır. Brommobiel, daha ağır römorklar ve kamyon arkasındaki yarı römorklar ise sarı plaka üzerinde kendi plaka numarasına sahiptir. Taksilerde ise mavi plaka bulunur.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

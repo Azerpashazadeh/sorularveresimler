@@ -1,0 +1,27 @@
+{
+  "sorular": [
+    {
+      "numara": 25,
+      "soru": "Where can you spot this type of number plate?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f5aae73b4e654959ba52744c138a825f~mv2.jpg",
+      "cevaplar": [
+        "On a  brommobiel .",
+        "On a bicycle carrier.",
+        "On a trailer with a maximum authorised mass up to 750 kg.",
+        "On a taxi.",
+        "On a semi-trailer behind a lorry.",
+        "On a trailer with a maximum authorised mass of more than 750 kg."
+      ],
+      "dogruCevap": [
+        "On a bicycle carrier.",
+        "On a trailer with a maximum authorised mass up to 750 kg."
+      ],
+      "feedback": {
+        "metin": "A white number plate can be found on light trailers (up to 750 kg maximum authorised mass) and carriers on the tow bar such as bicycle carriers. On this number plate you find the registration number of the towing vehicle. Brommobielen, heavier trailers and semi-trailers behind lorries have an own registration number on a yellow number plate. A taxi has a blue number plate.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
