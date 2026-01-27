@@ -1,0 +1,24 @@
+{
+    "sorular": [
+        {
+            "numara": 43,
+            "soru": "Hangi durumda sollamaya izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_990c8f1817b042708fe566485381a8c2~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_0c710bf1a299459e9221098db1e9a7b3~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_d3f22a7464e74468aea74ae8a1852ba7~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_7d2d0bd67ea0447788cdfd4121d5a9b4~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_0c710bf1a299459e9221098db1e9a7b3~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_d3f22a7464e74468aea74ae8a1852ba7~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Sollama sağ üstteki ve sol alttaki durumda serbesttir. Sol üstteki durumda yolun yanında F-1 işareti vardır. Bu işaret motorlu araçların birbirlerini sollamasının yasak olduğunu belirtir. Traktör de bir motorlu araçtır ve bu nedenle burada sollanamaz. Sağ üstteki durumda yaya geçidi (zebra geçidi) yoktur. Burada sollama yasak değildir. Sol alttaki durumda kesik çizgi sizin tarafınızda olduğundan sollamaya izin verilir. Sağ alttaki durumda sis vardır. Bu, sollamayı tehlikeli hale getirir ve bu nedenle yasaktır.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
