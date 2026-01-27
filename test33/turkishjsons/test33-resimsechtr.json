@@ -1,0 +1,24 @@
+{
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "Hangi durumda diğer yol kullanıcısına önce geçiş hakkı vermelisiniz?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_14148bf79f7f452bb6d1ac68c1e60f18~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_503c16ad251d46a29691efb0904da187~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a6c2ee0757b34a04926cf3f1ed5cf7bd~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_b10286689a0647cead78675fe0c180ef~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_14148bf79f7f452bb6d1ac68c1e60f18~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_a6c2ee0757b34a04926cf3f1ed5cf7bd~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Doğru cevap soldaki iki durumdur. Bir çıkış yoluna girerken tüm diğer trafiğe yol vermek zorundasınız. Bu nedenle sol üstteki durumda yayaya yol vermelisiniz. Sol alttaki durumda ise siren ve yanıp sönen ışıkları olan bir acil durum aracıyla karşılaşıyorsunuz. Acil durum araçlarına her zaman yol vermelisiniz. Sağdaki iki durumda ise soldan gelen araca ve sağdan gelen yayaya yol vermek zorunda değilsiniz. Sadece sağdan gelen sürücülere yol vermek zorundasınız. Yani soldan gelen sürücülere veya sağdan gelen yayalara yol vermek zorunda değilsiniz.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
