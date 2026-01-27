@@ -1,0 +1,49 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Eğer bir at yolu yoksa, bir atlı nerede sürebilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_a39e6d00ba54417fb993a9d0c1d3c426~mv2.jpg",
+      "cevaplar": [
+        "Yaya yolunda.",
+        "Bisiklet yolunda.",
+        "Bisiklet/moped yolunda.",
+        "Taşıt yolunda.",
+        "Bankette."
+      ],
+      "dogruCevap": [
+        "Taşıt yolunda.",
+        "Bankette."
+      ],
+      "feedback": {
+        "metin": "Bir atlı, varsa at yolunu kullanmalıdır. Eğer at yolu yoksa, taşıt yolu ile banket arasında seçim yapmasına izin verilir. Bir atlı bisiklet yolunu, bisiklet/moped yolunu veya yaya yolunu kullanamaz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 7,
+      "soru": "Sürüş yasağı sırasında hangi araçları kullanmanıza izin verilmez?",
+      "resim": "https://static.wixstatic.com/media/4b688f_3cef347263174c3892f403bd6768b6e2~mv2.jpg",
+      "cevaplar": [
+        "Binek otomobil.",
+        "Bisiklet.",
+        "Snorfiets.",
+        "Brommobiel."
+      ],
+      "dogruCevap": [
+        "Binek otomobil.",
+        "Bisiklet.",
+        "Snorfiets.",
+        "Brommobiel."
+      ],
+      "feedback": {
+        "metin": "Sürüş yasağı sırasında hiçbir aracı kullanmanıza izin verilmez. Yani sadece binek otomobil kullanmak yasak değildir; aynı zamanda brommobiel, moped veya snorfiets de yasaktır. Hatta bisiklet sürmek bile yasaktır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
