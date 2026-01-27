@@ -1,0 +1,42 @@
+{
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "Hangi durumda eşya yüklemek veya boşaltmak için durmanıza izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_ec04c2840f874a6bbf26ccaac3eb3a98~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_9a6d0fc6168e4a838755ad30e48bc8de~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_42917e9a1e404f218b2927e886fd78d9~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a73035e2748c4022ba805beada4df9a6~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_ec04c2840f874a6bbf26ccaac3eb3a98~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_9a6d0fc6168e4a838755ad30e48bc8de~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_a73035e2748c4022ba805beada4df9a6~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Sol üstte, sağ üstte ve sağ alttaki durumlarda, eşya yüklemek veya boşaltmak için kısa süreliğine durmanıza izin verilir. Sol üstteki durumda yalnızca park etmek yasaktır. Sağ üstteki ve sağ alttaki durumlarda park ederken park diski kullanmanız gerekir, ancak bu yükleme veya boşaltma sırasında geçerli değildir. Sol alttaki durumda ise hiçbir şekilde durmanıza izin verilmez, yalnızca yolcu indirip bindirmek için durabilirsiniz. Bu nedenle yükleme ve boşaltma burada yasaktır.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 35,
+            "soru": "Hangi senaryoda yayaya yol vermelisiniz?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_845afdf027ab4d8eb66eb346a3d5b32a~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_5103f335370645efab43b2081a15d092~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_845afdf027ab4d8eb66eb346a3d5b32a~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Soldaki senaryoda yaya sizinle aynı yolda yürüyor ve bu yolda ilerlemeye devam ediyor. Siz bu yoldan dönmek istiyorsunuz, bu nedenle yayaya yol vermek zorundasınız. Sağdaki senaryoda yaya soldan yaklaşıyor ve bu nedenle aynı yolda değildir. 'Aynı yolda devam eden trafiğin, yoldan dönen trafiğe üstünlüğü vardır' kuralı burada geçerli değildir, bu yüzden yaya beklemek zorundadır. Öncelik üçgenleri burada önemsizdir çünkü onlar yalnızca kavşaktaki diğer araçlara yol vermeniz gerektiğini belirtir, yayalar araç sürücüsü değildir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

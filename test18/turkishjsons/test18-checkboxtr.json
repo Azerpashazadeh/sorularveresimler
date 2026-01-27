@@ -1,0 +1,46 @@
+{
+  "sorular": [
+    {
+      "numara": 28,
+      "soru": "Kim(ler) sizden önce geçebilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4209efcb25164a56b1eafedab256f2f7~mv2.jpg",
+      "cevaplar": [
+        "Yaya.",
+        "Moped sürücüsü.",
+        "Bisikletli."
+      ],
+      "dogruCevap": [
+        "Yaya.",
+        "Moped sürücüsü.",
+        "Bisikletli."
+      ],
+      "feedback": {
+        "metin": "Moped sürücüsü ve bisikletli, öncelikli yolda ilerliyor. B-6 işareti ve öncelik üçgenleri, kesişen yoldaki sürücülere yol vermeniz gerektiğini gösterir. Bu nedenle moped sürücüsü ve bisikletli sizden önce geçebilir. Yaya ise düz ilerleyerek sizin dönmek istediğiniz yolda devam ediyor. Geçiş üstünlüğü kuralına göre düz giden trafik, dönen trafikten önce geçer. Bu nedenle yaya da sizden önce geçebilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "Ruhsat kartında hangi bilgiler bulunabilir?",
+      "resim": "",
+      "cevaplar": [
+        "Aracın sigortasına ilişkin bilgiler.",
+        "Periyodik genel muayeneye (APK) ilişkin bilgiler.",
+        "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
+        "Motorla ilgili teknik bilgiler."
+      ],
+      "dogruCevap": [
+        "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
+        "Motorla ilgili teknik bilgiler."
+      ],
+      "feedback": {
+        "metin": "Araç ruhsat kartında aracın sahibi veya hak sahibine dair bilgiler ile aracın kendisine dair bilgiler bulunur. Örneğin; rengi, silindir hacmi, yakıt türü ve azami ağırlığı. Periyodik genel muayene (APK) bilgileri muayene belgesinde bulunur. Sigorta bilgileri ise sigorta kartında yer alır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
