@@ -1,0 +1,46 @@
+{
+    "sorular": [
+        {
+            "numara": 2,
+            "soru": "You want to turn right. In which situation are you pre-sorting correctly?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_68e5f44ac6a04e63ab0a3ccd3b9a86ac~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_d35c4a5202f144e39f0e061d192410d7~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_13f79fca243046e0b85b960fdd2ba06f~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_646ea8db990b4f20846582931ae80e79~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_68e5f44ac6a04e63ab0a3ccd3b9a86ac~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_d35c4a5202f144e39f0e061d192410d7~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_13f79fca243046e0b85b960fdd2ba06f~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "In the upper left, upper right and bottom left situations, you are pre-sorting correctly. At the upper left you have to wait for pedestrians who want to cross straight ahead. To avoid standing still on the cycle lane, it is better to pre-sort next to it. In the upper right situation it is best to pre-sort on the cycle lane to avoid waiting on the vehicle lined up to turn left. In the bottom left situation, you should not pre-sort on the cycle lane because it has a solid line. This also applies to the situation on the bottom right. This last situation is therefore the only wrong answer.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 49,
+            "soru": "In which situation is overtaking prohibited?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_c67fc12ad8ea4c4388eb590f8bed5556~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_9663d8b3abb845be95379cd57a5eb803~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_2761a18d0c7347b6aaa736363e137260~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_4adabe3beab84efaa39066f74b4d1148~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_c67fc12ad8ea4c4388eb590f8bed5556~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_9663d8b3abb845be95379cd57a5eb803~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_2761a18d0c7347b6aaa736363e137260~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Overtaking is prohibited in the upper left, upper right and bottom left situations. You are not allowed to overtake just before a blind turn. You are also not allowed to overtake just before or on a pedestrian crossing (zebra crossing). Overtaking is also forbidden in places where it is dangerous, such as just before or at a poorly visible dangerous intersection. In the bottom right situation, overtaking is allowed. The F-3 sign indicates that lorries are not allowed to overtake, but they may be overtaken. The white stripes are interrupted, so you are allowed to cross them. This does not require the green line to be interrupted.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

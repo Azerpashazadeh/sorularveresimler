@@ -1,0 +1,16 @@
+{
+    "sorular": [
+        {
+            "numara": 42,
+            "soru": "What is the speed limit here at 4:00 PM?",
+            "resim": "https://static.wixstatic.com/media/4b688f_cdf892708b21492d9617355ac1801fb8~mv2.jpg",
+            "dogruCevap": "100",
+            "feedback": {
+                "metin": "You are driving on a motorway with a speed limit of 100 km/h at this time of day. The A-1 sign indicates a speed limit of 90 km/h, but the bottom sign indicates that this speed limit only applies when the road surface is wet.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
