@@ -1,0 +1,643 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Mag je hier even stoppen?",
+      "resim": "https://static.wixstatic.com/media/4b688f_c7435f032e084a38b752d2f9fc6b8123~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Je mag hier stoppen of parkeren zolang je het overige verkeer niet hindert of in gevaar brengt. Hier stoppen is niet hinderlijker dan wanneer je naast de stoep parkeert in een smallere straat.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 2,
+      "soru": "Mag je hier rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_d1eabdbca10845fda18826f233082e8c~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Deze weg is gesloten voor motorvoertuigen met aanhangwagens.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 3,
+      "soru": "Sta je hier goed opgesteld?",
+      "resim": "https://static.wixstatic.com/media/4b688f_646167fd99a64a46b987bf5188950b6a~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Je moet voorrang geven aan de bus die van rechts komt. Deze kan echter niet linksaf slaan vanwege de lengte van het voertuig. Je had eerder moeten stoppen zodat de bus linksaf kon slaan.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 4,
+      "soru": "Moet je richting aangeven als je naar rechts wilt opschuiven?",
+      "resim": "https://static.wixstatic.com/media/4b688f_eca6a91000a24408821d13cc8a2a5dcf~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Bij iedere belangrijke zijwaartse verplaatsing moet je richting aangeven. Dit geldt ook voor het inhalen van andere motorvoertuigen. Je moet richting naar links aangeven vóór het inhalen en richting naar rechts als je na het inhalen weer naar rechts wilt opschuiven.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 5,
+      "soru": "Wat is de stopafstand?",
+      "resim": "",
+      "cevaplar": [
+        "Reactieafstand.",
+        "Reactie- en remweg samen.",
+        "Remweg."
+      ],
+      "dogruCevap": "Reactie- en remweg samen.",
+      "feedback": {
+        "metin": "De stopafstand wordt bepaald door de tijd die je nodig hebt om te reageren op een situatie en de tijd die het kost om het voertuig tot stilstand te brengen. De afstand die je aflegt tot je voet het rempedaal raakt heet reactieafstand. De afstand die je aflegt vanaf het moment van remmen tot stilstand heet remweg.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 8,
+      "soru": "Hoe hard mag je hier rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_df9baa22f8d44fc894fca52ee25dfc91~mv2.jpg",
+      "cevaplar": [
+        "Maximaal 50 km/h.",
+        "Maximaal 80 km/h.",
+        "Maximaal 100 km/h."
+      ],
+      "dogruCevap": "Maximaal 80 km/h.",
+      "feedback": {
+        "metin": "Hier is het einde van de maximumsnelheid van 70 km/h aangegeven. Het getal op het bord geeft aan welke snelheidsbeperking is opgeheven. Het voorrangsbord na de kruising betekent dat je buiten de bebouwde kom rijdt, dus de maximumsnelheid is hier 80 km/h.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 9,
+      "soru": "Mag je hier van rijstrook wisselen?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4acb213f7c0249d585a0372522b29358~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Je rijdt op een geopende spitsstrook, aangeduid met bord C-23-1. Hierbij wordt de vluchtstrook als extra rijstrook gebruikt. In dit geval mag je de doorgetrokken streep overschrijden.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 10,
+      "soru": "Op welk moment moet je hier richting naar rechts aangeven?",
+      "resim": "https://static.wixstatic.com/media/4b688f_fc7ccf55b1e64bc6a40f19da58698992~mv2.jpg",
+      "cevaplar": [
+        "Meteen na de tweede afslag.",
+        "Zodra je de rotonde oprijdt.",
+        "Je hoeft geen richting aan te geven."
+      ],
+      "dogruCevap": "Meteen na de tweede afslag.",
+      "feedback": {
+        "metin": "Als je driekwart van de rotonde wilt nemen – dus linksaf – geef je vóór het oprijden richting naar links aan. Tijdens het rijden op de rotonde geef je richting naar rechts aan zodra je de tweede afslag voorbij bent. Dit eerder doen of helemaal niet doen veroorzaakt verwarring bij ander verkeer.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 12,
+      "soru": "Moet je hier bromfietsers van rechts verwachten?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4b826e437ce643ce8ca6fe7e3e16257e~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Het bord C-4 geeft een eenrichtingsweg aan en staat bij T-splitsingen. Jij bent verplicht de weg naar rechts te volgen. Fietsers en bromfietsers zijn uitgezonderd van dit bord. Zij mogen de eenrichtingsweg in beide richtingen gebruiken. Je kunt dus tegemoetkomende fietsers en bromfietsers verwachten.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 13,
+      "soru": "Tot welke verkeerscategorie behoort iemand die lopend een fiets, bromfiets of motor aan de hand meeneemt?",
+      "resim": "",
+      "cevaplar": [
+        "Bestuurder.",
+        "Voetganger op de stoep, bestuurder op de rijbaan.",
+        "Voetganger."
+      ],
+      "dogruCevap": "Voetganger.",
+      "feedback": {
+        "metin": "Iedereen die lopend een fiets, bromfiets of motor aan de hand meevoert, wordt aangemerkt als voetganger – ongeacht waar hij loopt.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 14,
+      "soru": "Betekenen de matrixborden het einde van de autosnelweg?",
+      "resim": "https://static.wixstatic.com/media/4b688f_07dc1ad8f4e0424684929038a243607b~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Deze matrixborden, of elektronische signaleringsborden, geven het einde aan van eerder opgelegde verboden door matrixborden. Bijvoorbeeld het opheffen van een maximumsnelheid of een inhaalverbod voor vrachtauto’s. Het betekent dus niet het einde van de autosnelweg.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 15,
+      "soru": "Mag je rijden met een versleten gordel?",
+      "resim": "https://static.wixstatic.com/media/4b688f_bcfd496bc92a46d3be580f35af318580~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Alle veiligheidsgordels moeten goed vastzitten en mogen niet beschadigd of versleten zijn. Pluizen van het gordelweefsel wordt niet als schade beschouwd.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 16,
+      "soru": "Is het beter voor het milieu om de verbrandingsmotor uit te zetten tijdens het wachten?",
+      "resim": "https://static.wixstatic.com/media/4b688f_9ab5c4eaf1e6421f8d68d119adbd6a5b~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Als je ergens langere tijd moet wachten, bespaar je brandstof door de verbrandingsmotor uit te schakelen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 17,
+      "soru": "Mag je hier stoppen om te bellen?",
+      "resim": "https://static.wixstatic.com/media/4b688f_6f06c7b664614dbfa4a6acc889795adb~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Het is verboden stil te staan naast een doorgetrokken gele streep. Dit betekent dat je hier ook niet mag parkeren. Daarom mag je hier ook niet stoppen om te bellen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "Mag je de vrachtauto rechts inhalen?",
+      "video": "https://video.wixstatic.com/video/4b688f_7d979d683a0b401da527c6edbf272985/720p/mp4/file.mp4",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Je mag vlak vóór en ook óp een rotonde zowel links als rechts inhalen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 20,
+      "soru": "Mag je kinderen in de kofferbak vervoeren tijdens een kinderfeestje?",
+      "resim": "",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Er mogen niet meer passagiers in een auto worden vervoerd dan er zitplaatsen met gordels zijn. Ook niet bij uitzondering, zoals tijdens een kinderfeestje. Het is verboden om passagiers in de kofferbak van de auto te vervoeren.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 21,
+      "soru": "Welk raam breek je het beste in als je met de auto te water raakt?",
+      "resim": "",
+      "cevaplar": [
+        "De voorruit.",
+        "Een zijraam.",
+        "De achterruit."
+      ],
+      "dogruCevap": "Een zijraam.",
+      "feedback": {
+        "metin": "Als je met de auto te water raakt, moet je zo snel mogelijk uit de auto zien te komen. Als de ramen niet meer open kunnen, moet je ze inslaan met de veiligheidshamer. Dit doe je met een zijraam. De voorruit is van gelaagd glas met folie ertussen en breekt niet makkelijk. De zijruiten zijn van veiligheidsglas dat in kleine stukjes uiteenvalt zodra je het breekt. Omdat de achterruit bedrading heeft voor de achterruitverwarming, breekt die ook moeilijker. Bovendien is de achterruit minder goed bereikbaar. Alleen als een zijruit niet breekt, kies je een ander raam.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 22,
+      "soru": "Mag je hier 100 km/h rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_87ccd8bc470045b589dfce6ddf16b906~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Je passeert een bord dat het einde aangeeft van een adviessnelheid. Op gewone wegen buiten de bebouwde kom geldt een maximumsnelheid van 80 km/h, tenzij borden anders aangeven.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 23,
+      "soru": "Mag je zo rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_bb08d077ffa24f7784b44462399fd048~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "De doos die wordt vervoerd bedekt de versnellingspook, waardoor de bestuurder niet goed kan schakelen. Ook bij een automaat moet je de pook gemakkelijk kunnen bedienen. Lading die het besturen belemmert is verboden, dus je mag zo niet rijden.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 24,
+      "soru": "Mag je hier parkeren?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8bc5fd83715d4b179e39f8db359ae5f4~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Bord E-2 geeft aan dat je aan die zijde van de weg niet mag stilstaan. Dit geldt echter niet voor parkeervakken of een parkeerstrook. Als er een parkeerstrook aan de zijde van bord E-2 ligt, mag je daar parkeren.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 25,
+      "soru": "Mag je rijden met een defecte snelheidsmeter?",
+      "resim": "https://static.wixstatic.com/media/4b688f_06d15721668d4d5da97181f9c759cfe8~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Met een defecte kilometerteller mag je wél rijden, maar met een defecte snelheidsmeter niet. Een kilometerteller registreert de afstand die een voertuig aflegt, terwijl de snelheidsmeter de snelheid aangeeft.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 27,
+      "soru": "Wat gebeurt er als je een verplichte cursus zoals de LEMA, EMA of EMG niet volgt?",
+      "resim": "https://static.wixstatic.com/media/4b688f_68c16bd93cbf4791a8601b72b2b25c90~mv2.jpg",
+      "cevaplar": [
+        "Je krijgt een boete.",
+        "Je rijbewijs wordt ongeldig verklaard.",
+        "Je krijgt een herinnering."
+      ],
+      "dogruCevap": "Je rijbewijs wordt ongeldig verklaard.",
+      "feedback": {
+        "metin": "Als je een verplichte cursus zoals de LEMA, EMA, EMD, LEMG of EMG niet volgt, wordt je rijbewijs ongeldig verklaard en moet je dit opnieuw halen. Deze cursussen kunnen worden opgelegd bij te hard rijden, asociaal rijgedrag of rijden onder invloed van alcohol of drugs.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 29,
+      "soru": "Wat betekenen deze zigzagstrepen op de weg?",
+      "resim": "https://static.wixstatic.com/media/4b688f_3243904683db485baade07e692078de7~mv2.jpg",
+      "cevaplar": [
+        "Waarschuwing voor een gevaarlijke verkeerssituatie.",
+        "Waarschuwing voor een voorrangskruising.",
+        "Waarschuwing voor een onbeveiligde overweg."
+      ],
+      "dogruCevap": "Waarschuwing voor een gevaarlijke verkeerssituatie.",
+      "feedback": {
+        "metin": "De zigzaglijn betekent dat je een gevaarlijke verkeerssituatie nadert. Het zegt niets over de voorrang. Wel is het verstandig je snelheid te minderen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 31,
+      "soru": "Is een trolleybus een motorrijtuig?",
+      "resim": "https://static.wixstatic.com/media/4b688f_0913013f0a124c7faccb55a2bbe35e83~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Motorrijtuigen zijn voertuigen die door een motor worden aangedreven en geen spoor gebruiken (zoals trein, metro, tram). Fietsen met trapondersteuning zijn ook geen motorrijtuigen, maar speed-pedelecs wel. Een trolleybus is ook een motorrijtuig.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 33,
+      "soru": "Mag je in deze situatie de vluchtstrook gebruiken?",
+      "resim": "https://static.wixstatic.com/media/4b688f_a24cd7748e35413ba5b62b1cb6932169~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Een vluchtstrook is een deel van de weg dat is afgescheiden van een autoweg of autosnelweg en bestemd is voor noodgevallen. Als je onverwacht moet uitwijken, bevind je je in een noodsituatie en mag je de vluchtstrook gebruiken.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 34,
+      "soru": "Welke verlichting moet je hier voeren?",
+      "resim": "https://static.wixstatic.com/media/4b688f_e22de4118cdb43568b0c020c6469749e~mv2.jpg",
+      "cevaplar": [
+        "Dagrijlicht.",
+        "Stadslicht.",
+        "Dimlicht."
+      ],
+      "dogruCevap": "Dimlicht.",
+      "feedback": {
+        "metin": "Als je door een tunnel rijdt, moet je dimlicht voeren. Je moet het dimlicht al inschakelen ruim voordat je de tunnel inrijdt.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 37,
+      "soru": "Welke bocht geeft het minste risico op een ongeval bij te hoge snelheid?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8796770f56ba4a70b8d83f5dc9e2c843~mv2.jpg",
+      "cevaplar": [
+        "Een bocht met negatieve verkanting.",
+        "Een bocht met positieve verkanting.",
+        "Een bocht zonder verkanting."
+      ],
+      "dogruCevap": "Een bocht met positieve verkanting.",
+      "feedback": {
+        "metin": "Als je een bocht te snel nadert, loop je het risico de bocht niet te halen en te slippen. Dit risico is het kleinst bij bochten met een positieve verkanting. Dit betekent dat de buitenbocht hoger ligt dan de binnenbocht, waardoor de centrifugaalkracht deels wordt opgevangen. Bij bochten met negatieve verkanting geldt het tegenovergestelde en wordt de centrifugaalkracht juist versterkt.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 38,
+      "soru": "In welke situatie mag je hier met een elektrische auto parkeren?",
+      "resim": "https://static.wixstatic.com/media/4b688f_db32550f55ef411d93b132341837287e~mv2.jpg",
+      "cevaplar": [
+        "Alleen tijdens het opladen.",
+        "Tijdens en na het opladen.",
+        "Als je maximaal 2 uur wilt parkeren."
+      ],
+      "dogruCevap": "Alleen tijdens het opladen.",
+      "feedback": {
+        "metin": "Op een parkeerplaats met dit bord mag je alleen parkeren tijdens het opladen van je elektrische auto. Als je klaar bent met opladen, moet je je auto verplaatsen zodat anderen ook kunnen opladen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 39,
+      "soru": "Moet de voetganger rechts voorrang aan jou geven?",
+      "resim": "https://static.wixstatic.com/media/4b688f_d8eaebbb5b644beeba2a48d9ad53e978~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "De voetganger moet jou voor laten gaan voordat hij de weg oversteekt. Jij hoeft geen voorrang te geven aan een voetganger die van links of rechts komt, tenzij er sprake is van een voetgangersoversteekplaats of als je een uitritconstructie in- of uitrijdt. Voetgangers zijn geen bestuurders.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 40,
+      "soru": "Is een aparte caravanverzekering verplicht?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f49a3de1c2ea45c59fdd6a4d62e33a40~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Caravans zijn meestal meeverzekerd via de autoverzekering van het trekkende voertuig, zoals aangegeven met de letters AF op de verzekeringskaart, waarbij F staat voor aanhanger. Schade die je aan anderen veroorzaakt is verzekerd zolang de aanhanger of caravan is gekoppeld aan het voertuig. Voor schade aan je eigen caravan of aanhanger moet je een aparte verzekering afsluiten. Dit is echter niet verplicht.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "Wanneer mag je de claxon gebruiken om anderen te waarschuwen voor dreigend gevaar?",
+      "resim": "https://static.wixstatic.com/media/4b688f_4eba2cb5b9024aa58fc5f16c717588c5~mv2.jpg",
+      "cevaplar": [
+        "Zowel binnen als buiten de bebouwde kom.",
+        "Alleen binnen de bebouwde kom.",
+        "Alleen buiten de bebouwde kom."
+      ],
+      "dogruCevap": "Zowel binnen als buiten de bebouwde kom.",
+      "feedback": {
+        "metin": "Je mag licht- of geluidssignalen niet onnodig gebruiken. Dit is alleen toegestaan om andere weggebruikers te waarschuwen voor dreigend gevaar, en dit mag zowel binnen als buiten de bebouwde kom.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "Beïnvloedt vermoeidheid je rijvaardigheid?",
+      "resim": "",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Er zijn verschillende factoren die je rijvaardigheid kunnen beïnvloeden, zoals vermoeidheid. Ook het gebruik van drugs of stimulerende middelen kan een negatief effect hebben op je rijvaardigheid.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 44,
+      "soru": "Het is 13:00 uur. Hoe hard mag je hier rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_e7c778d4e25b47af8bb65d13989ecb7d~mv2.jpg",
+      "cevaplar": [
+        "Maximaal 90 km/h.",
+        "Maximaal 100 km/h.",
+        "Maximaal 130 km/h."
+      ],
+      "dogruCevap": "Maximaal 90 km/h.",
+      "feedback": {
+        "metin": "Je rijdt op een autosnelweg waar de maximumsnelheid op dit tijdstip 100 km/h is. Het onderste bord geeft een maximumsnelheid van 90 km/h aan wanneer het wegdek nat is.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "Wat moet je in deze situatie doen?",
+      "resim": "https://static.wixstatic.com/media/4b688f_63f51de281ea4952b15f5f419d8cd13b~mv2.gif",
+      "cevaplar": [
+        "Lichtsignalen geven en de andere weghelft oprijden.",
+        "Snelheid verminderen, lichtsignalen geven en voorzichtig de berm inrijden.",
+        "Toeteren, lichtsignalen geven en voorzichtig de berm inrijden."
+      ],
+      "dogruCevap": "Snelheid verminderen, lichtsignalen geven en voorzichtig de berm inrijden.",
+      "feedback": {
+        "metin": "Als een tegenligger bij het inhalen een inschattingsfout maakt, waarschuw hem dan met lichtsignalen. Rem zoveel mogelijk af binnen je eigen rijstrook en stuur, indien nodig, met lage snelheid de berm in.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 46,
+      "soru": "Mag je zo rijden?",
+      "resim": "https://static.wixstatic.com/media/4b688f_2b159730fad942d7af92d96af93ef5ef~mv2.jpg",
+      "cevaplar": [
+        "Ja. Maar de airbag moet uitgeschakeld zijn.",
+        "Nee. Het kind moet met de rijrichting mee geplaatst worden.",
+        "Nee. Kinderen mogen alleen op de achterbank worden geplaatst."
+      ],
+      "dogruCevap": "Ja. Maar de airbag moet uitgeschakeld zijn.",
+      "feedback": {
+        "metin": "Kinderen mogen zowel voorin als achterin de auto worden vervoerd. Voor kinderen tot 1,35 meter is een goedgekeurd kinderzitje verplicht. Afhankelijk van de leeftijd kan dit een babyzitje, kinderzitje of zitverhoger zijn. Houd het zitje zo lang mogelijk achterwaarts gericht, dit is de veiligste manier. Het uitschakelen van de passagiersairbag wordt aangeraden voor alle kinderen onder 1,35 meter en is verplicht als het zitje achterwaarts is geplaatst.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 47,
+      "soru": "Heeft een verkeersregelaar dezelfde bevoegdheden als een politieagent?",
+      "resim": "https://static.wixstatic.com/media/4b688f_03f2e282220d4ca887288516fa4efc7f~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Je moet altijd de aanwijzingen van een verkeersregelaar opvolgen, net als die van een politieagent. Een verkeersregelaar heeft echter niet dezelfde bevoegdheden als een politieagent. Zo mag een verkeersregelaar je rijbewijs niet vragen, geen alcoholtest afnemen en ook geen boete uitschrijven.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 48,
+      "soru": "Wat betekent dit bord?",
+      "resim": "https://static.wixstatic.com/media/4b688f_463ff2983801443fa1ba98e6d3309bdc~mv2.jpg",
+      "cevaplar": [
+        "Voetgangersgebied.",
+        "Voetpad.",
+        "Voetgangersoversteekplaats."
+      ],
+      "dogruCevap": "Voetgangersoversteekplaats.",
+      "feedback": {
+        "metin": "Dit bord geeft een voetgangersoversteekplaats aan. Bestuurders moeten voorrang verlenen aan voetgangers en bestuurders van gehandicaptenvoertuigen die de oversteekplaats oversteken of op het punt staan dit te doen.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 49,
+      "soru": "Mag je hier rechtsaf slaan?",
+      "resim": "https://static.wixstatic.com/media/4b688f_e4cc74340ae44106851d54ee0a345536~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Het gele bord geeft een omleidingsroute aan. Je bent niet verplicht deze te volgen, wat betekent dat je hier rechtsaf mag slaan.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "Moet je de fietser voorrang geven?",
+      "resim": "https://static.wixstatic.com/media/4b688f_8532cc6c95254686953b828bf8365783~mv2.jpg",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "De fietser rijdt rechtdoor op de weg die jij wilt verlaten. Verkeer dat rechtdoor gaat op dezelfde weg heeft voorrang op verkeer dat afslaat.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
