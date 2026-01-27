@@ -1,0 +1,25 @@
+{
+  "sorular": [
+    {
+      "numara": 22,
+      "soru": "Hangi araçlar motorlu taşıtlar kategorisine girer fakat motorlu araçlar kategorisine girmez?",
+      "resim": "",
+      "cevaplar": [
+        "Tramvay.",
+        "Traktör.",
+        "Motorlu engelli araçları.",
+        "Moped."
+      ],
+      "dogruCevap": [
+        "Motorlu engelli araçları.",
+        "Moped."
+      ],
+      "feedback": {
+        "metin": "Motorlu taşıtlar kategorisine girip motorlu araçlar kategorisine girmeyen tek araçlar mopetler ve motorlu engelli araçlarıdır.\nDiğer tüm araçlar ya her iki kategoriye de girer ya da hiçbirine girmez.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

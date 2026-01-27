@@ -1,0 +1,25 @@
+{
+  "sorular": [
+    {
+      "numara": 22,
+      "soru": "Which vehicles do fall under the category motor carriages, but do not fall under the category motor vehicles?",
+      "resim": "",
+      "cevaplar": [
+        "Tram.",
+        "Tractor.",
+        "Motorised disabled vehicles.",
+        "Moped."
+      ],
+      "dogruCevap": [
+        "Motorised disabled vehicles.",
+        "Moped."
+      ],
+      "feedback": {
+        "metin": "The only vehicles that do fall under the category motor carriages but do not fall under the category motor vehicles, are mopeds and motorised disabled vehicles.\nAll other vehicles fall under both categories, or neither.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
