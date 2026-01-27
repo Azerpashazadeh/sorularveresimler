@@ -1,0 +1,27 @@
+{
+  "sorular": [
+    {
+      "numara": 50,
+      "soru": "أي إشارات عالطريق ما مسموح تقطعها؟",
+      "resim": "",
+      "cevaplar": [
+        "خط مسار متقطع.",
+        "خط محوري متصل.",
+        "خط طرفي متصل.",
+        "نقطة فاصلة.",
+        "تخطيطات مائلة عالطريق."
+      ],
+      "dogruCevap": [
+        "خط محوري متصل.",
+        "نقطة فاصلة.",
+        "تخطيطات مائلة عالطريق."
+      ],
+      "feedback": {
+        "metin": "مسموح تقطع بس الخط المتقطع. ما مسموح تقطع الخط المتصل. خط الطرف المتصل إلو استثناء، مسموح تمرق عليه مثلاً إذا بدك توقف عالطرف أو توصل لموقف جانبي. بس ممنوع تماماً تمرق فوق النقطة الفاصلة أو التخطيطات المائلة (gores).",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
