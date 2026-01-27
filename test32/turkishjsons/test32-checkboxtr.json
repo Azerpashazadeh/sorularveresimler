@@ -1,0 +1,51 @@
+{
+  "sorular": [
+    {
+      "numara": 11,
+      "soru": "Durma mesafesini ne etkiler?",
+      "resim": "",
+      "cevaplar": [
+        "Fren mesafesi.",
+        "Düşünme süresi.",
+        "Başlangıç hızı.",
+        "Hava koşulları.",
+        "Takip mesafesi."
+      ],
+      "dogruCevap": [
+        "Fren mesafesi.",
+        "Düşünme süresi.",
+        "Başlangıç hızı.",
+        "Hava koşulları."
+      ],
+      "feedback": {
+        "metin": "Durma mesafesi, bir durumu fark etme ile tamamen durma arasında kat edilen mesafedir. Buna düşünme mesafesi ve fren mesafesi dahildir. Verilen faktörlerin hemen hepsi düşünme veya fren mesafesini etkiler. Sadece takip mesafesi durma mesafesini etkilemez. Tam tersi geçerlidir: Takip mesafesini belirlerken durma mesafesini dikkate almalısınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "Bir autoweg’de her zaman ne yasaktır?",
+      "resim": "https://static.wixstatic.com/media/4b688f_1b1b4d803a9244139a2d2fc9d84aa78a~mv2.jpg",
+      "cevaplar": [
+        "Sollama.",
+        "50 km/sa’den yavaş sürmek.",
+        "Bankete park etmek.",
+        "Geri gitmek.",
+        "U dönüşü yapmak."
+      ],
+      "dogruCevap": [
+        "Bankete park etmek.",
+        "Geri gitmek.",
+        "U dönüşü yapmak."
+      ],
+      "feedback": {
+        "metin": "Bir autoweg’de her zaman u dönüşü yapmak, geri gitmek ve bankette durmak veya park etmek yasaktır. 50 km/sa’den yavaş sürmek tehlike veya engel yaratmadıkça yasak değildir. Ancak, autoweg’i kullanabilmek için aracınızın en az 50 km/sa hız yapabilmesi ve buna izinli olması gerekir. Sollama ise kesik eksen çizgisinde, güvenli olduğu ve yasaklayıcı bir işaret olmadığı sürece serbesttir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sorular": [
+    {
+      "numara": 11,
+      "soru": "What affects the stopping distance?",
+      "resim": "",
+      "cevaplar": [
+        "The braking distance.",
+        "The thinking time.",
+        "The initial speed of travel.",
+        "The weather conditions.",
+        "The following distance."
+      ],
+      "dogruCevap": [
+        "The braking distance.",
+        "The thinking time.",
+        "The initial speed of travel.",
+        "The weather conditions."
+      ],
+      "feedback": {
+        "metin": "The stopping distance is the distance traveled between observing and standing still completely. This includes the thinking distance and the braking distance. Almost all given factors will affect the thinking or braking distance. Only the following distance has no effect on the stopping distance. It is the other way around: To determine the following distance, you should take the stopping distance into account.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "What is always prohibited on an autoweg?",
+      "resim": "https://static.wixstatic.com/media/4b688f_1b1b4d803a9244139a2d2fc9d84aa78a~mv2.jpg",
+      "cevaplar": [
+        "Overtaking.",
+        "Driving slower than 50 km/h.",
+        "Parking on the verge.",
+        "Reversing.",
+        "Make a u-turn."
+      ],
+      "dogruCevap": [
+        "Parking on the verge.",
+        "Reversing.",
+        "Make a u-turn."
+      ],
+      "feedback": {
+        "metin": "On an autoweg, it is always prohibited to make a u-turn, reverse and stop or park on the verge. Driving slower than 50 km/h is not prohibited unless you cause danger or inconvenience. However, your vehicle must be able and allowed to drive at least 50 km/h to use the autoweg. Overtaking is permitted at a broken axis line, provided this can be done safely and there are no signs prohibiting it.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
