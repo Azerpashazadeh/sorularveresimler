@@ -1,0 +1,53 @@
+{
+  "sorular": [
+    {
+      "numara": 8,
+      "soru": "Hangi durumlarda sağdan sollamaya izin verilir?",
+      "resim": "",
+      "cevaplar": [
+        "Birisi gereksiz yere solda gidiyorsa.",
+        "Bir dönel kavşağın hemen öncesinde ve üzerinde.",
+        "Blok çizgisinin sağında gidiyorsanız.",
+        "Bir tramvayı sollamak istiyorsanız.",
+        "Trafik sıkışıklığı içinde.",
+        "Önünüzdeki araç sağa dönmek için sinyal veriyorsa."
+      ],
+      "dogruCevap": [
+        "Bir dönel kavşağın hemen öncesinde ve üzerinde.",
+        "Blok çizgisinin sağında gidiyorsanız.",
+        "Bir tramvayı sollamak istiyorsanız.",
+        "Trafik sıkışıklığı içinde."
+      ],
+      "feedback": {
+        "metin": "Sağdan sollamaya trafik sıkışıklığında, bir tramvayı sollarken, blok çizgisinin sağında giderken, bir dönel kavşağın hemen öncesinde ve üzerinde ve birisi sola dönmek için şerit değiştirip sinyal verdiğinde izin verilir. Birisi gereksiz yere solda gidiyorsa sağdan sollamaya izin verilmez. Ayrıca, birisi sağa dönmek için sinyal veriyorsa da sağdan sollama yasaktır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 18,
+      "soru": "Aracınız çekileceği zaman nelere dikkat etmelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_96e68afc04e14c3e86bcac110668e44e~mv2.jpg",
+      "cevaplar": [
+        "Direksiyon kilidinin devreye girebileceğine.",
+        "Kablonun sürekli gergin olmaması gerektiğine.",
+        "Dörtlü flaşörleri açmanın akıllıca olduğuna.",
+        "Elektrikli bir aracın çekilemeyeceğine.",
+        "Direksiyon ve fren destek sistemlerinin çoğunlukla çalışmayacağına."
+      ],
+      "dogruCevap": [
+        "Direksiyon kilidinin devreye girebileceğine.",
+        "Dörtlü flaşörleri açmanın akıllıca olduğuna.",
+        "Elektrikli bir aracın çekilemeyeceğine.",
+        "Direksiyon ve fren destek sistemlerinin çoğunlukla çalışmayacağına."
+      ],
+      "feedback": {
+        "metin": "Aracınız çekiliyorsa, direksiyon kilidinin devreye girebileceğini göz önünde bulundurmalısınız. Bunu önlemek için her zaman anahtarı kontağa çevirin. Motor kapalıyken fren destek sistemi ve direksiyon destek sistemi genellikle çalışmaz. Elektrikli bir aracınız mı var? O zaman genellikle hiç çekilmesine izin verilmez. Ayrıca dörtlü flaşörleri açmanın akıllıca olduğunu ve aracınız ile çekici araç arasındaki kablonun mümkün olduğunca gergin olması gerektiğini unutmayın.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
