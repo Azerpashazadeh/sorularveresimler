@@ -1,0 +1,224 @@
+{
+    "sorular": [
+      {
+        "numara": 1,
+        "soru": "Öncelik hakkı kime ait?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "64.66666666666667%",
+              "left": "48.57142857142857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "12.88888888888889%",
+              "left": "20.892857142857142%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_bb7111499c0849d0a8e5d89dce7d850f~mv2.jpg",
+        "feedback": {
+          "metin": "Bu eşdeğer kavşağa diğer aracın sağından yaklaşıyorsunuz. Bu nedenle, geçiş önceliği sizindir.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 8,
+        "soru": "Doğru öncelik sıralaması nedir?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "42.56%",
+              "left": "24.38%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "5.67%",
+              "left": "58.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "60.78%",
+              "left": "72.77%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_8d5096dcf9e747dba2743a828b831c6f~mv2.jpg",
+        "feedback": {
+          "metin": "Yaya, yaya geçidinden karşıya geçme niyetini belirtmiştir ve bu nedenle önce geçme hakkına sahiptir. Tramvay ve otomobil yayaya yol vermek zorundadır. Yayadan sonra geçiş önceliği tramvaya, ardından otomobile aittir. Bu senaryoda tramvayın ilk geçiş hakkı yoktur çünkü tramvaylar da diğer araçlar gibi trafik işaretlerine ve yol çizgilerine uymak zorundadır. Bu nedenle, tramvay da yaya geçidini kullanan yayalara ve kavşakta öncelik üçgeni bulunan yollardan gelen araçlara yol vermek zorundadır.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 12,
+        "soru": "Öncelik hakkı kime ait?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "13.89%",
+              "left": "83.13%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "13.67%",
+              "left": "50.63%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_c05b2e955154478d8abbc0c4f4382ff6~mv2.jpg",
+        "feedback": {
+          "metin": "Eşdeğer bir kavşakta, tramvayların her zaman geçiş önceliği vardır. Hangi yönden yaklaştıkları ya da hangi yöne gittikleri önemli değildir.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 24,
+        "soru": "Öncelik hakkı kime ait?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "5.31%",
+              "left": "46.34%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "63.09%",
+              "left": "55.09%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_70e4f2c3debc4647b3ba9108f9aa7a05~mv2.jpg",
+        "feedback": {
+          "metin": "Sağa ya da sola dönerken, aynı yolda ilerleyen tüm yol kullanıcılarına yol vermek zorundasınız.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      }
+    ]
+  }
+  
