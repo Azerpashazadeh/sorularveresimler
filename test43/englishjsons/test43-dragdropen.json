@@ -1,0 +1,379 @@
+{
+    "sorular": [
+      {
+        "numara": 2,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "2.56%",
+              "left": "23.84%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "48.11%",
+              "left": "76.88%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "58.33%",
+              "left": "30.27%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_dd970eb39bad456e911c4584bbbbd1de~mv2.jpg",
+        "feedback": {
+          "metin": "The blue car may go first, as it is driving on a priority road. You are leaving the main road and must give way to the vehicle going straight ahead. The red car on the side road must give way to both you and the blue car as it is approaching a priority road, as evidenced by the B-6 sign and the priority triangles.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 14,
+        "soru": "What is the correct order of priority",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "63.44%",
+              "left": "59.02%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "5.44%",
+              "left": "51.52%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "54.78%",
+              "left": "3.30%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_aec16b0e173242a3ab8ae4b01d194ddd~mv2.jpg",
+        "feedback": {
+          "metin": "Drivers must give way to pedestrians at a pedestrian crossing. The pedestrians will go first. The moped must then give way to the tram because the tram has special rights. The moped may then go. The correct order is pedestrian, tram, moped",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 28,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger4",
+            "value": "4",
+            "position": {
+              "top": "84.4444%",
+              "left": "41.38569999999999%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "39.89%",
+              "left": "10.09%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "8.56%",
+              "left": "65.98%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "56.33%",
+              "left": "71.34%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target4",
+            "value": "",
+            "position": {
+              "top": "5.00%",
+              "left": "20.98%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          },
+          {
+            "id": "dragger4",
+            "target": "target4"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_4d9bc1b5443746f08a94e954c259fbde~mv2.jpg",
+        "feedback": {
+          "metin": "You and the motorcyclist must stop and give way to drivers on the intersecting road. The moped has priority over the cyclist because the moped is continuing ahead on the same road that the cyclist is leaving. You have right of way over the motorcyclist because the motorcyclist is turning, while you are continuing straight on. So the correct order is moped, cyclist, you, motorcyclist.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 31,
+        "soru": "Who is allowed to go first?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "3.44%",
+              "left": "36.16%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "11.00%",
+              "left": "66.52%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "62.11%",
+              "left": "32.23%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_f1162e313cab4c4f94385b577403048b~mv2.jpg",
+        "feedback": {
+          "metin": "The cyclist is continuing on the same road that both cars want to turn off of, and therefore has right of way. The blue car has right of way after the cyclist, because the short turn goes before the long turn.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      },
+      {
+        "numara": 44,
+        "soru": "What is the correct order of priority?",
+        "elements": [
+          {
+            "type": "box",
+            "class": "dragger1",
+            "value": "1",
+            "position": {
+              "top": "84.4444%",
+              "left": "1.7857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger2",
+            "value": "2",
+            "position": {
+              "top": "84.4444%",
+              "left": "14.9857%"
+            }
+          },
+          {
+            "type": "box",
+            "class": "dragger3",
+            "value": "3",
+            "position": {
+              "top": "84.4444%",
+              "left": "28.185699999999997%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target1",
+            "value": "",
+            "position": {
+              "top": "42.78%",
+              "left": "83.84%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target2",
+            "value": "",
+            "position": {
+              "top": "11.89%",
+              "left": "10.98%"
+            }
+          },
+          {
+            "type": "target",
+            "id": "target3",
+            "value": "",
+            "position": {
+              "top": "63.89%",
+              "left": "22.77%"
+            }
+          }
+        ],
+        "dogruCevap": [
+          {
+            "id": "dragger1",
+            "target": "target1"
+          },
+          {
+            "id": "dragger2",
+            "target": "target2"
+          },
+          {
+            "id": "dragger3",
+            "target": "target3"
+          }
+        ],
+        "resim": "https://static.wixstatic.com/media/4b688f_af0b29c95d8349e8bd356d2b4d189981~mv2.jpg",
+        "feedback": {
+          "metin": "The lorry and the cyclist are on a priority road, so they have right of way over you. As the cyclist is continuing along the road that the lorry driver wants to turn off of, the cyclist has first right of way.",
+          "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+          "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+          "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+        }
+      }
+    ]
+  }

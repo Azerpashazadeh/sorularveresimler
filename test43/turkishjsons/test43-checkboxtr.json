@@ -1,0 +1,72 @@
+{
+  "sorular": [
+    {
+      "numara": 4,
+      "soru": "Burada ne zaman durmanıza izin verilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_b5992891591249899a273bc9461b3a77~mv2.jpg",
+      "cevaplar": [
+        "Yol tarifi sormak istediğinizde.",
+        "Otostopçu almak istediğinizde.",
+        "Navigasyonu sıfırlamak istediğinizde.",
+        "Ağır bir paketi indirmek istediğinizde.",
+        "Bir yolcuyu indirmek istediğinizde."
+      ],
+      "dogruCevap": [
+        "Otostopçu almak istediğinizde.",
+        "Bir yolcuyu indirmek istediğinizde."
+      ],
+      "feedback": {
+        "metin": "Bir otobüs durağında yalnızca yolcu indirmek veya almak amacıyla durmanıza izin verilir. Bu, otostopçuyu almak da dahil olmak üzere geçerlidir. Ancak ağır bir paketi indirmek, yol tarifi sormak veya navigasyonu sıfırlamak amacıyla durmak yasaktır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 17,
+      "soru": "Hangi araçlar motorlu araç kategorisine girer?",
+      "resim": "",
+      "cevaplar": [
+        "Moped.",
+        "Traktör.",
+        "Motosiklet.",
+        "Tramvay.",
+        "Binek otomobil."
+      ],
+      "dogruCevap": [
+        "Traktör.",
+        "Motosiklet.",
+        "Binek otomobil."
+      ],
+      "feedback": {
+        "metin": "Motorlu araçlar, raylı sistem kullanan araçlar (tren, metro, tramvay), mopedler ve engelli araçları hariç tüm motorlu taşıtlardır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 41,
+      "soru": "Bu sokaktan çıkarken kime yol vermelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_f866a7348a634664936d9744e896dacb~mv2.jpg",
+      "cevaplar": [
+        "Yayalar.",
+        "Moped sürücüleri.",
+        "Motorlu araç sürücüleri.",
+        "Bisikletliler."
+      ],
+      "dogruCevap": [
+        "Yayalar.",
+        "Moped sürücüleri.",
+        "Motorlu araç sürücüleri.",
+        "Bisikletliler."
+      ],
+      "feedback": {
+        "metin": "Bir çıkış yapısından (exit constructie) çıkarken tüm diğer yol kullanıcılarına yol vermek zorundasınız. Bu sadece tüm sürücüleri değil, aynı zamanda yayaları da kapsar.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
