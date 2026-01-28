@@ -1,0 +1,61 @@
+{
+    "sorular": [
+        {
+            "numara": 2,
+            "soru": "Hangi durumda yükleme veya boşaltma yapmak için durmanıza izin verilir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_5365498780c34445a68058377b2837f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_b00ad3da1b344088a9f5508b8ffdf607~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_8d3bb45e37e34c3d83cb9d0b8e7f5c61~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_f74eb34f73924b3b850524f022822ca8~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_5365498780c34445a68058377b2837f8~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_8d3bb45e37e34c3d83cb9d0b8e7f5c61~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_f74eb34f73924b3b850524f022822ca8~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Sol üst, sol alt ve sağ alt görsellerdeki durumlarda kısa süreliğine yükleme veya boşaltma yapmak için durmanıza izin verilir. Sol üst ve sol alt durumlarda park ederken park diski kullanmanız gerekir, ancak bu yükleme ve boşaltma esnasında geçerli değildir. Sağ alt durumda ise sadece park etmek yasaktır. Sağ üstteki durumda ise yolcu indirip bindirme dışında durmak kesinlikle yasaktır, bu nedenle yükleme ve boşaltmaya izin verilmez.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 15,
+            "soru": "Hangi sembol düşük akü voltajını bildirir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_84e1212b4dd74003bd9e58c3d0e114a4~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_60745159a0e24e0a9fc08f7d4ebadd13~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_2c44ddcff5d44697978dcf559c5d41cc~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_60745159a0e24e0a9fc08f7d4ebadd13~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "İlk sembol arızalı bir lambayı, ikinci sembol düşük akü voltajını ve üçüncü sembol düşük soğutma sıvısı seviyesini gösterir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Sürücüleri soldan beklememeniz gereken yer neresidir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_8825ece016ba4beb9655daa3e76b2ff4~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_942158f7e973463b9d9fd1ca9d5ed18a~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_c23df02757764dde8e1971401e336fda~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_8825ece016ba4beb9655daa3e76b2ff4~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "C-4 işaretinde soldan sürücü beklemenize gerek yoktur. Bu işaret, sola tek yönlü bir yolu gösterir. Dolayısıyla araçlar sadece sağdan gelebilir. D-5 işareti zorunlu seyir yönünü belirtir, ancak bu karşıdan araç gelip gelemeyeceği hakkında bilgi vermez. L-9 işareti ise sol taraftaki yolun çıkmaz sokak olduğunu belirtir, ancak bu durum sürücülerin o sokaktan çıkamayacağı anlamına gelmez.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

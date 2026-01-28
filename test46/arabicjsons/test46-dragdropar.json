@@ -1,0 +1,374 @@
+{
+  "sorular": [
+    {
+      "numara": 9,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "36.33%",
+            "left": "28.13%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "5.67%",
+            "left": "67.95%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "58.56%",
+            "left": "41.88%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_02e741c25c774295a7222d67823aba04~mv2.jpg",
+      "feedback": {
+        "metin": "إنت والسيارة التانية لازم تفسحوا المجال للمشاة، لأنه عنده أولوية المرور على الطريق اللي إنتو عم تلفوا منه. كمان لازم تخلّي السيارة الحمرا تمرّ قبلك لأنه عندها التفاف قصير وإنت عندك التفاف طويل.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 25,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "48.78%",
+            "left": "71.70%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "18.33%",
+            "left": "12.59%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "51.44%",
+            "left": "22.23%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_d6e2de9589f447f59ac0f09fbaa63f72~mv2.jpg",
+      "feedback": {
+        "metin": "الراكب على الدراجة لازم يفسح المجال للدراجة النارية والسيارة، لأنهم عم يمشوا على طريق رئيسي. الدراجة النارية ماشيه بشكل مستقيم، فبتمرّ أولاً، بعدها السيارة، وبعدين راكب الدراجة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 27,
+      "soru": "مين مسموح له يمرّ أول؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "6.33%",
+            "left": "17.77%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "59.00%",
+            "left": "81.52%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_9dabf4ea720946c59b3fe4437fcb8d57~mv2.jpg",
+      "feedback": {
+        "metin": "لازم تفسح المجال للمركبة اللي ضمن القافلة العسكرية، لأنه ما بصير تقطع القافلة إذا كانت بلشت تلتف.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 49,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "41.89%",
+            "left": "8.66%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "3.67%",
+            "left": "44.38%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "64.78%",
+            "left": "70.80%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_55cde638c32b475ab17caa8134f4ef35~mv2.jpg",
+      "feedback": {
+        "metin": "لازم تفسح المجال للسواقين اللي ماشيين على الطريق ذي الأولوية، يعني الراكب على الدراجة له حق المرور أولاً. المشاة مكملين على نفس الطريق، فبتعطيهم أولوية كمان. بس لأن المشاة عم يقطعوا طريق الدراجة، لازم هني يعطوا أولوية لراكب الدراجة. الترتيب الصحيح هو: راكب الدراجة، بعدين المشاة، وبعدين إنت.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "51.22%",
+            "left": "38.48%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "13.44%",
+            "left": "60.09%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "28.33%",
+            "left": "10.63%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_f72a8e0725d74cf8ad8361d7cf2599da~mv2.jpg",
+      "feedback": {
+        "metin": "بالتقاطعات المتساوية، لازم تعطي أولوية للسواقين الجايين من اليمين. المشاة مو سواقين. هاد المشاة مو ماشيين على نفس الطريق اللي إنت عليه، هن على طريق متقاطع، يعني ما لازم تعطيهم أولوية. بس لأن المشاة مكملين على نفس الطريق اللي الشاحنة رح تطلع منه، لازم الشاحنة تعطيهم أولوية. فالتريب الصحيح هو: إنت، بعدين المشاة، وبعدين الشاحنة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
