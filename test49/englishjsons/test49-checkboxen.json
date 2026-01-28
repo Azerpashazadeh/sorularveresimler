@@ -1,0 +1,25 @@
+{
+  "sorular": [
+    {
+      "numara": 11,
+      "soru": "You are involved in an accident. When should you call 112?",
+      "resim": "",
+      "cevaplar": [
+        "If vehicles are on the open rush-hour lane.",
+        "If there is bodywork damage.",
+        "If the other party cannot identify themselves.",
+        "If there are injured people."
+      ],
+      "dogruCevap": [
+        "If vehicles are on the open rush-hour lane.",
+        "If there are injured people."
+      ],
+      "feedback": {
+        "metin": "You should only call 112 if really necessary. If you are involved in an accident, you should call 112 if there are injuries, or if the vehicles are in a dangerous place such as an opened rush-hour lane. If there is only minor bodywork damage, move the vehicles from the main carriageway to a safe place as soon as possible and deal with the damage further there. If the other party has no identification with them and you don't trust the case, call 0900-8844. This is the national police number if there is no life-threatening situation. Make sure you write down as much information as possible about the other party if they do not cooperate, such as the registration number, brand, type and colour of the vehicle.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

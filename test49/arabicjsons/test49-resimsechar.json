@@ -1,0 +1,61 @@
+{
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "أي إشارة ما بتدل عالطريق السريع (motorway)؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_e9c1d669c6864f03b860e36f72751963~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_803ae9ed7d5d4e048c7c2118570b914e~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_aae1f6754ba24297af80a4a36341f90b~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_aae1f6754ba24297af80a4a36341f90b~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "الإشارة اللي عليها حرف E ورقم بتدل عالطريق السريع الدولي. الإشارة اللي عليها حرف A ورقم بتدل عالطريق السريع الوطني. غالبًا الطريق السريع بيكون إله رقم A ورقم E مع بعض. الإشارة اللي عليها حرف N ورقم بتدل عالطريق الإقليمي أو autoweg.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 10,
+            "soru": "أي إشارة بتدل إنه ممنوع الدخول لكل المركبات الآلية؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_4ff32994e6a448ada3dc929219f09066~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_62d554a5ace648c298b4881105e5f4dd~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_495551ecd45a4fbe81cc39da35dd385e~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_85769ec1cd444c38bd54f9460794e27e~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_62d554a5ace648c298b4881105e5f4dd~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "الإشارة A بتدل إنه ممنوع الدخول للمركبات اللي عندها أكتر من دولابين، متل الشاحنات والباصات والجرارات. الإشارة B بتدل إنه ممنوع الدخول لكل المركبات الآلية، مو بس سيارات ودراجات نارية. الإشارة C بتمنع المركبات الآلية من تجاوز بعض. يعني مو بس السيارات، كل المركبات الآلية مشمولة. الإشارة D بتدل ممنوع دخول الدراجات النارية، وكمان بتنطبق عالدراجات النارية مع sidecar.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 46,
+            "soru": "بأي موقف لازم تخلّي مستخدم الطريق التاني يمشي قبلك؟",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_971cf7281959429c887c526cc7bc8aac~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_22c8ea24e6f74f42927b75240d0c206d~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_e114646bc719464184adc5326e83c482~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_2f339f4a5b604f1aa21f0d7c87c26a22~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_971cf7281959429c887c526cc7bc8aac~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_e114646bc719464184adc5326e83c482~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "إذا كنت جاي من طريق ترابي، لازم تعطي أولوية للسواق اللي جايين من اليمين ومن الشمال بالطريق المعبّد. بالموقفين عالجهة اليسار، الدراجة جاي من اليمين والموتور جاي من الشمال. التنين إلهم أولوية لأنك جاي من طريق ترابي. يعني لازم تخلّيهم يمرقوا قبلك. بالموقفين عاليمين، ما لازم تعطي أولوية لمستخدم الطريق التاني. المشاة مو سواق ولازم يستنوا. سائق الجرار جاي قدامك. القاعدة \"السير المستقيم عالطريق له أولوية على السير اللي عم ينعطف\" بتنطبق كمان عالطرق الترابية. يعني فيك تمشي قبل الجرار اللي عم يلف.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}

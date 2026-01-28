@@ -1,0 +1,695 @@
+{
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Should you already indicate direction here, to indicate that you want to get in lane?",
+            "resim": "https://static.wixstatic.com/media/4b688f_9a5dc776d0484e44a853488d521f43e3~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "You should only indicate direction immediately before getting in lane. Indicating direction here is too soon. Joining the carriageway from the acceleration lane is a special manoeuvre, and you must give way to all drivers currently on the carriageway.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 2,
+            "soru": "What should you not do when it starts snowing?",
+            "resim": "https://static.wixstatic.com/media/4b688f_d6e02d366c8c4ed18169564baadd1851~mv2.jpg",
+            "cevaplar": [
+                "Increase your following distance as much as possible.",
+                "Reduce your speed as much as possible.",
+                "Drive with a higher engine speed (RPM)."
+            ],
+            "dogruCevap": "Drive with a higher engine speed (RPM).",
+            "feedback": {
+                "metin": "When it starts snowing, the first thing you should do is reduce your speed and increase your following distance. Look as far ahead as possible so you can react in time. Pull up slowly, drive at the lowest possible engine speed and try to brake as little as possible.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 3,
+            "soru": "Should you expect oncoming snorfietsen here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_e60d6390f3614a32b3aaf97db68c1cc6~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "The sign C-3 indicates a one-way street. The supplementary sign indicates that this one-way street does not apply ('uitgezonderd') to the vehicle symbols depicted on it. Sometimes one symbol represents several vehicles. In this case, the supplementary sign applies to bicycles, snorfietsen, mopeds, speed pedelecs and disabled vehicles. The drivers of these vehicles may therefore also enter this road from the other side.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 4,
+            "soru": "What is the biggest risk here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_9fda1a0ef1bd4af4adecf6ed527fc207~mv2.jpg",
+            "cevaplar": [
+                "That the lorry is going to take the bend too wide.",
+                "That the red passenger car does not see the white passenger car.",
+                "That the white passenger car does not see the red passenger car."
+            ],
+            "dogruCevap": "That the white passenger car does not see the red passenger car.",
+            "feedback": {
+                "metin": "The pre-sorted lorry is blocking the white passenger car’s view, so they cannot see the red passenger car. The white car must give way to the red car. As he cannot see the red passenger car, the driver may wrongly assume that the road is clear and continue driving, increasing the risk of a collision.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 5,
+            "soru": "What happens during the thinking time?",
+            "resim": "",
+            "cevaplar": [
+                "You start to brake.",
+                "You drive on at the same speed.",
+                "You release your accelerator."
+            ],
+            "dogruCevap": "You drive on at the same speed.",
+            "feedback": {
+                "metin": "Thinking time, or reaction time, is the time that elapses between perceiving and acting. That is, from the moment you see that you have to do something until you actually do it. So during the thinking time, you do not react yet, and drive on at the same speed. The thinking time for a healthy alert driver is on average one second.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 6,
+            "soru": "Are caravan mirrors always mandatory when driving a caravan?",
+            "resim": "https://static.wixstatic.com/media/4b688f_c2c5242b886c41c98bfa841e53c7e784~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "If you drive with a caravan behind the car, you must use the wing mirrors to look past the caravan. If this is not possible, extra-wide wing mirrors (caravan mirrors) are mandatory. Some caravans are as narrow as the car, in which case extra mirrors are usually not necessary.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "How many children of 1.40 metres tall are allowed to sit here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_98a23483adf74799a09a9723662cb413~mv2.jpg",
+            "cevaplar": [
+                "None.",
+                "Two.",
+                "Three."
+            ],
+            "dogruCevap": "Two.",
+            "feedback": {
+                "metin": "Children from 1.35 metres tall are allowed to sit in the vehicle without a child safety device. As this rear seat has two seats with a seat belt, only two passengers are allowed to sit here.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 8,
+            "soru": "Should you give way to the tram?",
+            "resim": "https://static.wixstatic.com/media/4b688f_04bdf7031d7443e2870749f2f59b5033~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "You should always give way to a tram unless you are on a priority road and the tram is not. The rule for through traffic on the same road does not apply to tram drivers either.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 12,
+            "soru": "Can you pre-sort like this?",
+            "resim": "https://static.wixstatic.com/media/4b688f_f33220b8198a4e6a8724d19d04412245~mv2.jpg",
+            "cevaplar": [
+                "Yes. But you may not hinder cyclists or snorfiets riders.",
+                "No. Driving on a cycle lane is never allowed."
+            ],
+            "dogruCevap": "Yes. But you may not hinder cyclists or snorfiets riders.",
+            "feedback": {
+                "metin": "You may only pre-sort on a cycle lane if it is separated from the carriageway with a broken line. Pre-sorting on a cycle lane improves traffic flow. You may not obstruct cyclists or snorfiets riders. Pre-sorting on a cycle lane with a solid line is prohibited.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 13,
+            "soru": "Are you allowed to overtake like this?",
+            "resim": "https://static.wixstatic.com/media/4b688f_4940be97d6c94062826f4d42625edb05~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "Overtaking should normally be done on the left-hand side. There are a number of exceptions when you can or even have to overtake on the right, like when the vehicle in front of you is indicating an intention to turn left, and is presorting to do so. It is also allowed when overtaking a tram, on the right side of the block marking, in case of a traffic congestion, and on and just before roundabouts. None of these exceptions apply here.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 14,
+            "soru": "Will one glass of alcohol adversely affect your riding ability?",
+            "resim": "https://static.wixstatic.com/media/4b688f_878e972d79f44ccfa2842833e0d9c17e~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "Drinking just one glass of alcohol can impact your driving skills. Your perception is worse, your thinking time slower, and you have increased difficulty concentrating.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 16,
+            "soru": "In case of a breakdown, can you park your car on a rush-hour lane if it is marked with a red cross?",
+            "resim": "https://static.wixstatic.com/media/4b688f_a25f4ff30a30497280326a79c320b17e~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "If a rush-hour lane is marked with a red cross, it is used as an emergency lane. If you are unable to continue due to a breakdown, you can use this lane to park your car. However, if you have the possibility to continue to an exit or car park, this is always preferable.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Do you exit the motorway here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_d5774bf2a6fa415bb4702ecda49ce4fc~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "The green with white striped sign is a chevron sign. This sign indicates a fork in equivalent roads, such as two motorways or autowegen. You stay on the motorway and do not exit it. At a motorway exit you find a sign with the word 'uit' on it.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 18,
+            "soru": "Are you allowed to drive if you are suffering from a severe headache?",
+            "resim": "https://static.wixstatic.com/media/4b688f_0ad97c1c54934c1bbd196a39a33f078d~mv2.jpg",
+            "cevaplar": [
+                "Yes. This is allowed.",
+                "Only if you cannot arrange anything else.",
+                "No. This is prohibited."
+            ],
+            "dogruCevap": "No. This is prohibited.",
+            "feedback": {
+                "metin": "If you are suffering from a severe headache, driving is unwise and therefore prohibited. If you do have to travel somewhere, arrange for someone to take you.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 20,
+            "soru": "What is the minimum tread depth in the main grooves of the tyres of a caravan?",
+            "resim": "https://static.wixstatic.com/media/4b688f_d2e833b7c6c44d5c96780a48c61639b6~mv2.jpg",
+            "cevaplar": [
+                "Minimum 1.6 mm.",
+                "Minimum 2.2 mm.",
+                "Minimum 4.0 mm."
+            ],
+            "dogruCevap": "Minimum 1.6 mm.",
+            "feedback": {
+                "metin": "The same rules apply to the tyres of a trailer or caravan as to the tyres of a car. The tyres must have a minimum tread depth of 1.6 mm in the main grooves of the tyre throughout their circumference.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 21,
+            "soru": "Your passenger car weighs 1900 kg and the weight of your trailer is 1400 kg. Are you allowed to drive here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_eae7f2aceabd4f6baf14522af2905e32~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "The total weight of your vehicle and trailer is 3300 kg. This road is closed to vehicles and combinations of vehicles with a total weight of more than 3200 kg.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 22,
+            "soru": "Are there motor carriages that do not need to have their own registration number?",
+            "resim": "https://static.wixstatic.com/media/4b688f_8d212c58f252421188b78bdf083c28e8~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "Narrow motor carriages with limited speed, like small road sweepers and motorised lawn mowers, are not required to have a registration number. These are vehicles with a width of maximum 1,30 metres. Also disabled vehicles and special mopeds like segways do not have to have their own registration number.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 23,
+            "soru": "What is the name of the system where the internal combustion engine switches itself off during standstill in order to save fuel?",
+            "resim": "",
+            "cevaplar": [
+                "Fuel assist system.",
+                "Start-stop system.",
+                "Adaptive cruise control."
+            ],
+            "dogruCevap": "Start-stop system.",
+            "feedback": {
+                "metin": "With a start-stop system, the combustion engine switches off during standstill. Usually, you have to put the car in neutral and release the clutch. As soon as you put the clutch back in, the engine of the car starts again. This way, fuel is saved. Adaptive cruise control also saves energy, but it does this by maintaining the speed as constant as possible and the following distance large enough. The fuel assist system is not an existing system.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 25,
+            "soru": "Should you turn on your sidelights here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_3498734e4da041a3905dd2e9aeb24876~mv2.jpg",
+            "cevaplar": [
+                "Yes. Sidelights.",
+                "No. Dipped headlights.",
+                "No. Full beam headlights."
+            ],
+            "dogruCevap": "No. Dipped headlights.",
+            "feedback": {
+                "metin": "Sidelights in tunnels are insufficient. With dipped headlights, you can see better yourself and you are more visible to others. You must turn on dipped headlights well in advance of entering a tunnel.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 26,
+            "soru": "Can you pick up a passenger here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_6b72acb1839a4517909713b9ef8d1c5b~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "The E-6 sign indicates that this is a parking space for disabled people. You are not allowed to park here unless you have a disabled parking card. However, picking up or dropping off a passenger is not considered parking and therefore allowed, provided you drive away immediately afterwards.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 27,
+            "soru": "Should you give way to vehicles on the main carriageway when merging?",
+            "resim": "",
+            "cevaplar": [
+                "Yes.",
+                "No. "
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "Merging is a special manoeuvre. Drivers who perform a special manoeuvre must give way to all other traffic. Drivers on the main carriageway therefore have right of way.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 28,
+            "soru": "Are you allowed to merge onto the main carriageway?",
+            "resim": "https://static.wixstatic.com/media/4b688f_5f0ca5934e154ca4aee33f23517c0112~mv2.jpg",
+            "cevaplar": [
+                "Yes, this is allowed until you approach the dividing point.",
+                "No, that is never allowed on a deceleration lane.",
+                "No, because arrows are pointing to the right on the exit lane."
+            ],
+            "dogruCevap": "No, because arrows are pointing to the right on the exit lane.",
+            "feedback": {
+                "metin": "You can cross a block marking. You are therefore allowed to enter and exit the main carriageway to or from an exit lane. There is one exception to this rule, however. If there are arrows on the exit lane next to the main carriageway, you are not allowed to leave the lane. This is to prevent vehicles from avoiding traffic jams by using the exit lane.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "You want to turn left. Do you have to give way to the cyclist going straight?",
+            "resim": "https://static.wixstatic.com/media/4b688f_6bb9e17772ea4c53a88376a9b9120f39~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "You have to give way to the cyclist. You and the cyclist are on the same road. Through traffic on the same road goes before traffic turning off. That is why the cyclist may go first.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 30,
+            "soru": "Should you indicate direction on a pre-sort lane to turn right?",
+            "resim": "https://static.wixstatic.com/media/4b688f_d175a468c8b84cb594206855375cd9aa~mv2.jpg",
+            "cevaplar": [
+                "Yes, this is always required for turning off.",
+                "No, this is not necessary if you are already in the lane.",
+                "This is only required when there are no arrows on the road."
+            ],
+            "dogruCevap": "Yes, this is always required for turning off.",
+            "feedback": {
+                "metin": "If you plan to turn off, you must always indicate your direction - even if you pre-sort in a lane with arrows before you turn off. You should indicate before you enter the sorting lane, and only turn off your indicator after you have actually turned off.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 31,
+            "soru": "Can you stop here to send a text?",
+            "resim": "https://static.wixstatic.com/media/4b688f_4454848929fd4e4f89371dbd997bd8e3~mv2.jpg",
+            "cevaplar": [
+                "Yes. Unless you are interfering with other traffic.",
+                "No. This is only allowed in emergencies.",
+                "Yes. But only if you are fully stopped."
+            ],
+            "dogruCevap": "No. This is only allowed in emergencies.",
+            "feedback": {
+                "metin": "A hard shoulder is a part of a road separated from the carriageway of a motorway, which is only intended for use in emergencies.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 32,
+            "soru": "Can you drive here with a vehicle combination that is 7.5 metres long and 2.1 metres wide?",
+            "resim": "https://static.wixstatic.com/media/4b688f_3de6317c5a60458e9e8b945d97af83a5~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "This road is closed to vehicles that, including their load, are wider than indicated on the sign. The combination is not wider than 2.3 metres so it may drive here. The sign does not say anything about length.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Does a coupling of a trailer have to have an approval mark?",
+            "resim": "https://static.wixstatic.com/media/4b688f_bd99f66071404fccb53baa69fb56fc1f~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "You are only allowed to drive with a trailer that has an approval mark on the coupling.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "Are you allowed to drive now?",
+            "resim": "https://static.wixstatic.com/media/4b688f_60191f15e9564e5cb9c08d0133da2be4~mv2.jpg",
+            "cevaplar": [
+                "Yes. Because the traffic light is green.",
+                "Yes. But you are only allowed to turn right.",
+                "No. The traffic controller is telling you to stop."
+            ],
+            "dogruCevap": "No. The traffic controller is telling you to stop.",
+            "feedback": {
+                "metin": "The traffic controller's instructions take precedence over traffic lights, signs, and traffic rules. In this situation, you are required to follow the instructions given by the traffic controller, who is indicating that all traffic approaching from in front of him must stop.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 35,
+            "soru": "Are you allowed to overtake on the right here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_6340846f31a34f4f87ed3ef3ce948928~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "Driving over a cycle lane with a solid line is prohibited. You cannot use this lane to overtake the vehicle preparing to turn left.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 37,
+            "soru": "Are you allowed to park here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_4bf12f4211dc4100bc8a70476243796d~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "The E-7 sign indicates that you can only load and unload goods here. Parking is prohibited here.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "You are driving 60 km/h on this motorway. Is this allowed?",
+            "video": "https://video.wixstatic.com/video/4b688f_ce1f8cdd63f14b3b9f851082edd137a6/720p/mp4/file.mp4",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "By driving so much slower than other traffic, you are causing danger or at least hindrance on the motorway. This is not allowed under article 5 of the Road Traffic Act.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 39,
+            "soru": "What is the best thing to do if you are blinded by the lights of the vehicle behind you?",
+            "resim": "https://static.wixstatic.com/media/4b688f_78c22ce7a2a245ba954163172f470bbe~mv2.jpg",
+            "cevaplar": [
+                "Set the rearview mirror to dimming position.",
+                "Briefly apply the brakes.",
+                "Turn on the hazard lights."
+            ],
+            "dogruCevap": "Set the rearview mirror to dimming position.",
+            "feedback": {
+                "metin": "If you are blinded by the bright light of a moving vehicle behind you, stay calm and set the rearview mirror to the dimming position. Do not perform dangerous and prohibited manoeuvres by suddenly applying the brake or turning on the hazard lights.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 40,
+            "soru": "Are you allowed to continue driving if the motorcyclist does not give you priority?",
+            "resim": "https://static.wixstatic.com/media/4b688f_f718218b7d6342d3a5f3fc10cc0d125e~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "You are never allowed to take priority, you have to receive it. Does someone not give you priority? React in a defensive way by stopping yourself. You have to negate accidents at all times.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "In what situation are rear fog lights allowed?",
+            "resim": "https://static.wixstatic.com/media/4b688f_7e9f8431c8704030a578e65b96069d84~mv2.jpg",
+            "cevaplar": [
+                "When visibility due to snowfall is less than 50 metres.",
+                "When visibility due to rain is less than 100 metres.",
+                "When visibility due to fog is less than 200 metres."
+            ],
+            "dogruCevap": "When visibility due to snowfall is less than 50 metres.",
+            "feedback": {
+                "metin": "In the event of fog or snowfall with visibility of less than 50 metres, drivers of motor vehicles may use one or two rear fog lights. The use of only one rear fog light is also safer as two rear fog lights are very similar to brake lights and may cause confusion. Rear fog lights should not be used at all in rainy weather.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 42,
+            "soru": "Can you load or unload goods here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_981df760b2f94301a76a8179c926c29f~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "You are not allowed to park or wait next to a solid yellow line. You are not allowed to load or unload or pick up or drop off passengers here. The latter is allowed next to a broken yellow line.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 43,
+            "soru": "What do you do if merging traffic does not have enough space to get in lane?",
+            "resim": "https://static.wixstatic.com/media/4b688f_17a9ba851c7247e7a180ee2260a8c9e5~mv2.jpg",
+            "cevaplar": [
+                "Brake to make space.",
+                "Nothing. They have to give way to you.",
+                "If possible, move to the left lane."
+            ],
+            "dogruCevap": "If possible, move to the left lane.",
+            "feedback": {
+                "metin": "If both the right lane and acceleration lane are busy, the best thing you can do to make space is move over to the left lane. However, only do this if you do not cause any hindrance to the drivers on the left lane! If the left lane is busy as well, you can try and make space by either releasing the accelerator or by accelerating. Never brake just like that.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 44,
+            "soru": "What should you do if this is on the carriageway of a motorway?",
+            "resim": "https://static.wixstatic.com/media/4b688f_bee40cd02cfb4376b19233c0d8e45345~mv2.jpg",
+            "cevaplar": [
+                "Stop and clean up the stones.",
+                "Warn the breakdown service.",
+                "Call 112 as soon as possible."
+            ],
+            "dogruCevap": "Call 112 as soon as possible.",
+            "feedback": {
+                "metin": "If you see something dangerous on the carriageway of a motorway, call 112 as soon as possible. Report the place and the location as accurately as possible. Under no circumstances should you clean it up yourself. This puts yourself in danger.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "If you lease a vehicle, are you the owner?",
+            "resim": "",
+            "cevaplar": [
+                "Yes. You are the owner.",
+                "No. You are not the owner or holder.",
+                "No. But you are the holder."
+            ],
+            "dogruCevap": "No. But you are the holder.",
+            "feedback": {
+                "metin": "If you lease a vehicle, you do not own it. In this case, you are using the vehicle for an extended period and are therefore the holder.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 47,
+            "soru": "At what point in this situation do you indicate right?",
+            "resim": "https://static.wixstatic.com/media/4b688f_40692adb3ccb41e294c76165ccb3cfb0~mv2.jpg",
+            "cevaplar": [
+                "Before you enter the roundabout.",
+                "When you enter the roundabout.",
+                "Before exiting the roundabout."
+            ],
+            "dogruCevap": "Before you enter the roundabout.",
+            "feedback": {
+                "metin": "If you want to exit the roundabout immediately, indicate right before joining the roundabout. This lets other drivers know where you are going so they can react in time, as well as improving traffic flow.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "You have already parked for one hour at this sign. Are you allowed to reset your parking disc?",
+            "resim": "https://static.wixstatic.com/media/4b688f_b66deff79a5f4f5dbfce6d89c330d21b~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "No.",
+            "feedback": {
+                "metin": "You may not reset a set parking disc later, for example after you have already parked for an hour. You set it as soon as you start parking, after which you may not change it again. Within this zone, you may park for a maximum of two hours. You must leave two hours after the set time.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 49,
+            "soru": "Are you allowed to overtake the motorcycle here?",
+            "resim": "https://static.wixstatic.com/media/4b688f_5c66e80bdf96489fa433687f35d8a84d~mv2.jpg",
+            "cevaplar": [
+                "Yes.",
+                "No."
+            ],
+            "dogruCevap": "Yes.",
+            "feedback": {
+                "metin": "The F-3 sign indicates that lorry drivers overtaking motor vehicles is prohibited. A lorry is not allowed to overtake a motorcyclist here, but you are.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 50,
+            "soru": "Which sign indicates a parking ban?",
+            "resim": "https://static.wixstatic.com/media/4b688f_5368475dbba04cc184dbc8aaeea786e3~mv2.jpg",
+            "cevaplar": [
+                "The E-1 sign.",
+                "The E-2 sign.",
+                "The E-4 sign."
+            ],
+            "dogruCevap": "The E-1 sign.",
+            "feedback": {
+                "metin": "The E-1 sign indicates parking on the side of the road where the sign is placed is prohibited. The E-2 sign indicates waiting on the side of the road where the sign is placed is prohibited, and the E-4 sign indicates parking is allowed.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
