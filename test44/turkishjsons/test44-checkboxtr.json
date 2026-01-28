@@ -1,0 +1,29 @@
+{
+  "sorular": [
+    {
+      "numara": 40,
+      "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
+      "resim": "https://static.wixstatic.com/media/4b688f_3bb93f47135f4f6d847a1f2b31c01f17~mv2.jpg",
+      "cevaplar": [
+        "Snorfiets kullanıcıları.",
+        "Bisikletliler.",
+        "Moped sürücüleri.",
+        "Speed pedelec kullanıcıları.",
+        "Brommobiel (mini otomobil) sürücüleri."
+      ],
+      "dogruCevap": [
+        "Snorfiets kullanıcıları.",
+        "Bisikletliler.",
+        "Moped sürücüleri.",
+        "Speed pedelec kullanıcıları.",
+        "Brommobiel (mini otomobil) sürücüleri."
+      ],
+      "feedback": {
+        "metin": "Taşıt yolunun yanında isteğe bağlı bir bisiklet yolu bulunmaktadır. Bisikletliler bu yolu kullanabilirler, ancak bu zorunlu değildir. Taşıt yolu ile bisiklet yolu arasında seçim yapabilirler.\nSnorfiets kullanıcıları, yalnızca içten yanmalı motorları kapalıyken bu isteğe bağlı bisiklet yolunu kullanabilir. Diğer sürücüler için bu yol yasaktır. Yol isteğe bağlı olduğundan, listelenen tüm sürücüleri taşıt yolunda beklemelisiniz.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

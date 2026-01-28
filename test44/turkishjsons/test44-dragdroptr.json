@@ -1,0 +1,431 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Öncelik hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "52.56%",
+            "left": "54.91%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "3.22%",
+            "left": "20.27%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_4397195c32db44f1b29ac8a0e455c54c~mv2.jpg",
+      "feedback": {
+        "metin": "Bu Y kavşağı, eşdeğer yolların kesiştiği bir kavşaktır. Sürücüler, sağdan gelen diğer sürücülere yol vermek zorundadır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 2,
+      "soru": "Doğru öncelik sırası nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "57.22%",
+            "left": "6.16%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "59.89%",
+            "left": "38.13%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "17.44%",
+            "left": "14.55%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_8bd0e680e96f45e9a7c451413b6131a0~mv2.jpg",
+      "feedback": {
+        "metin": "Bisikletli, sizin devam ettiğiniz yoldan sapmak istiyor ve bu nedenle size yol vermek zorunda. Motosikletli ise sağdan gelen tüm araçlara – buna siz ve bisikletli de dahilsiniz – yol vermek zorundadır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 20,
+      "soru": "Öncelik hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "56.33%",
+            "left": "57.77%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "14.33%",
+            "left": "18.30%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_a4a7ddbc2e21448a9281f91191c5f033~mv2.jpg",
+      "feedback": {
+        "metin": "Polis, itfaiye veya Bakan tarafından belirlenen diğer acil servis araçları, yalnızca optik ve akustik sinyaller kullandıklarında öncelikli (acil) araç sayılırlar. Eğer bu sinyalleri kullanmıyorlarsa – bu durumda olduğu gibi – normal öncelik kurallarına uymak zorundadırlar.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 31,
+      "soru": "Öncelik hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "38.666666666666664%",
+            "left": "8.928571428571429%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "60.22222222222222%",
+            "left": "63.392857142857146%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_4e462f74dbb0401ab824d81a50d6628d~mv2.jpg",
+      "feedback": {
+        "metin": "Bir çıkış yapısından çıkıyorsunuz. Diğer tüm trafik türlerine – yaya dahil – yol vermek zorundasınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 39,
+      "soru": "Öncelik hakkı kime aittir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "31.89%",
+            "left": "15.45%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "51.67%",
+            "left": "55.09%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_0b0a09a30da242378d885358cf49cca2~mv2.jpg",
+      "feedback": {
+        "metin": "Dönüş yaparken, aynı yolda düz giden araçlara yol vermek zorundasınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 41,
+      "soru": "Doğru öncelik sırası nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "4.888888888888889%",
+            "left": "35%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "31.11111111111111%",
+            "left": "81.25%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "59.333333333333336%",
+            "left": "42.5%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_6741b95a2f784ccf8015706b2330c487~mv2.jpg",
+      "feedback": {
+        "metin": "Kırmızı otomobilin sürücüsü kimseye yol vermek zorunda değildir ve bu nedenle önce geçebilir. Mavi otomobilin sürücüsü, kırmızı otomobile yol vermek zorundadır. Siz de mavi otomobile yol vermek zorundasınız.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "Doğru öncelik sırası nedir?",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "2.2222222222222223%",
+            "left": "73.57142857142857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "50.666666666666664%",
+            "left": "69.82142857142857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "58.22222222222222%",
+            "left": "12.142857142857142%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://static.wixstatic.com/media/4b688f_a4aada5c48b2441db20c819f1ee45824~mv2.jpg",
+      "feedback": {
+        "metin": "Sağdan gelen mavi otomobile yol vermek zorundasınız. Mavi otomobil de size doğru yaklaşan beyaz tavanlı araca yol vermek zorundadır.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}
