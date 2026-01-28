@@ -1,0 +1,51 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "أي سائقين مسموح لك تتجاوز بعد هالإشارة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_022919d6b0d04d5baa96f109d3c2febe~mv2.jpg",
+      "cevaplar": [
+        "سائقي الدراجات النارية.",
+        "راكبي الدراجات الهوائية.",
+        "سائقي الشاحنات.",
+        "راكبي الدراجات النارية الصغيرة (الموبيد).",
+        "سائقي المركبات الزراعية."
+      ],
+      "dogruCevap": [
+        "سائقي الدراجات النارية.",
+        "راكبي الدراجات الهوائية.",
+        "سائقي الشاحنات.",
+        "راكبي الدراجات النارية الصغيرة (الموبيد).",
+        "سائقي المركبات الزراعية."
+      ],
+      "feedback": {
+        "metin": "هالإشارة معناها إنه ممنوع على سائقي الشاحنات تجاوز المركبات التانية. يعني هالإشارة ما بتنطبق عليك. فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 33,
+      "soru": "بأي حالات مسموح توقف هون؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_ae13b75bb9124c17bc4cdd18197e9c7c~mv2.jpg",
+      "cevaplar": [
+        "لتنزيل طرد تقيل.",
+        "لتسأل عن الاتجاهات.",
+        "لترجع تضبط نظام الملاحة.",
+        "لتستنى الراكب ليجي.",
+        "لتنزيل راكب."
+      ],
+      "dogruCevap": [
+        "لتنزيل طرد تقيل.",
+        "لتنزيل راكب."
+      ],
+      "feedback": {
+        "metin": "الإشارة E-1 معناها ممنوع التوقف بهالطرف من الطريق. بس مسموح توقف لتنزيل أو تحميل راكب، أو لتحميل أو تنزيل بضائع وزنها أو حجمها كبير. ما مسموح توقف لتسأل عن الاتجاهات، أو لتضبط الملاحة، أو لتستنى الراكب، لأن هالشي بيعتبر كموقف، مو توقف مؤقت.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

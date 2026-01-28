@@ -1,0 +1,51 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Bu işaretin ardından hangi sürücüleri geçmenize izin verilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_022919d6b0d04d5baa96f109d3c2febe~mv2.jpg",
+      "cevaplar": [
+        "Motosiklet sürücüleri.",
+        "Bisikletliler.",
+        "Kamyon sürücüleri.",
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri."
+      ],
+      "dogruCevap": [
+        "Motosiklet sürücüleri.",
+        "Bisikletliler.",
+        "Kamyon sürücüleri.",
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri."
+      ],
+      "feedback": {
+        "metin": "Bu işaret, kamyon sürücülerinin diğer motorlu araçları geçmesini yasaklayan bir işarettir. Bu, bu işaretin size uygulanmadığı anlamına gelir. Güvenli bir şekilde geçiş yapabildiğiniz sürece tüm araçları geçebilirsiniz. Kamyonları bile.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 33,
+      "soru": "Burada hangi durumlarda durmanıza izin verilir?",
+      "resim": "https://static.wixstatic.com/media/4b688f_ae13b75bb9124c17bc4cdd18197e9c7c~mv2.jpg",
+      "cevaplar": [
+        "Ağır bir paket indirmek için.",
+        "Yol tarifi sormak için.",
+        "Navigasyonu sıfırlamak için.",
+        "Bir yolcunun gelmesini beklemek için.",
+        "Bir yolcuyu bırakmak için."
+      ],
+      "dogruCevap": [
+        "Ağır bir paket indirmek için.",
+        "Bir yolcuyu bırakmak için."
+      ],
+      "feedback": {
+        "metin": "E-1 işareti, yolun bu tarafında park yasağı olduğunu gösterir. Burada yalnızca önemli ağırlık ve boyutta yük indirmek ya da yüklemek, ya da yolcu almak veya bırakmak için durmanıza izin verilir. Yol tarifi sormak, navigasyonu sıfırlamak veya bir yolcunun gelmesini beklemek için durmak yasaktır, çünkü bunlar park etme olarak kabul edilir.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

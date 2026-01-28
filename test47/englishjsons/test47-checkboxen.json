@@ -1,0 +1,51 @@
+{
+  "sorular": [
+    {
+      "numara": 1,
+      "soru": "Which drivers are you allowed to overtake after this sign?",
+      "resim": "https://static.wixstatic.com/media/4b688f_022919d6b0d04d5baa96f109d3c2febe~mv2.jpg",
+      "cevaplar": [
+        "Motorcyclists.",
+        "Cyclists.",
+        "Drivers of lorries.",
+        "Moped riders.",
+        "Drivers of agricultural vehicles."
+      ],
+      "dogruCevap": [
+        "Motorcyclists.",
+        "Cyclists.",
+        "Drivers of lorries.",
+        "Moped riders.",
+        "Drivers of agricultural vehicles."
+      ],
+      "feedback": {
+        "metin": "This sign indicates a prohibition for lorry drivers to overtake other motor vehicles. This means that this sign does not apply to you. You may overtake all vehicles, as long as it is safe to do so. Even lorries.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 33,
+      "soru": "In what situations are you allowed to stop here?",
+      "resim": "https://static.wixstatic.com/media/4b688f_ae13b75bb9124c17bc4cdd18197e9c7c~mv2.jpg",
+      "cevaplar": [
+        "To unload a heavy package.",
+        "To ask for directions.",
+        "To reset your navigation.",
+        "To wait for a passenger to arrive.",
+        "To drop off a passenger."
+      ],
+      "dogruCevap": [
+        "To unload a heavy package.",
+        "To drop off a passenger."
+      ],
+      "feedback": {
+        "metin": "Sign E-1 indicates a parking prohibition on that side of the carriageway. You are only allowed to stop here to drop off or pick up a passenger, or to load or unload goods of a considerable weight or size. You are not allowed to stop to ask for directions, to reset your navigation or to wait for a passenger to arrive, for this is all considered parking.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "sorular": [
+    {
+      "numara": 2,
+      "soru": "بعدك مسموحلك تغير المسار وتكمل دغري؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_fa1e36301efa412797c21719b3997a7d~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "ممنوع تغير المسار عند الخط المتصل، ولازم تمشي بالاتجاه اللي بيشير عليه السهم بمسار الفرز المسبق.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 3,
+      "soru": "مجبور تلف يسار هون؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_666213d9967d4f008771d39a013028e0~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "الطريق الرئيسي بيكمل لليسار. الخط العريض بيوضح مسار الطريق الرئيسي، والخطوط الرفيعة بتبيّن الطرق الفرعية. السيارات الجايين من الطرفين اليمين لازم يعطوك أفضلية. مو ضروري تتبع الطريق الرئيسي.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 4,
+      "soru": "لازم تعطي أفضلية للمشاة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_38e63ad5100043be9b87b28e40190d38~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "الشخص اللي بيتحرك بعكاز، عصاية أو مشّاية بينحسب من الأشخاص اللي عندهم صعوبة بالحركة. لازم تعطيهم أفضلية حتى لو ما كانوا عَ ممر مشاة. بس إذا عم يتحرك بكرسي متحرك أو مركبة للمعاقين، هالقاعدة ما بتطبق.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 5,
+      "soru": "بأي حالة من الحكمة تشغل الضو العالي؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_95ada554c2e14fa68277425bdf8c706f~mv2.jpg",
+      "cevaplar": [
+        "فقط بالحالة أ.",
+        "فقط بالحالة ب.",
+        "بالحالتين."
+      ],
+      "dogruCevap": "فقط بالحالة أ.",
+      "feedback": {
+        "metin": "مسموح تشغل الضو العالي بس بالليل، وبشرط ما تزعج غير السائقين. بس إذا في ضباب، الضو العالي ممكن يسببلك عتمة لأنو بينعكس عليك. مشان هيك الأفضل تشغله بس بالحالة أ.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 7,
+      "soru": "فيك توقف هون لتاخد راكب؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_956272e708804cf7820ac8983de36b5b~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "ممنوع توقف عند تقاطع، سكة قطار، نفق، مسار دراجات أو الشارع جنب مسار الدراجات. فممنوع توقف هون لتاخد راكب.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 8,
+      "soru": "لازم تعطي أفضلية للمشاة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_228127bc8f964baaba94ac3f3f1bf5a5~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "المشاة نادرًا بيكون إلهم أفضلية، بس في استثناءات. من هالاستثناءات: إذا المشاة مكملين ع نفس الطريق وإنت بدك تطلع منه، لازم تعطيهم أفضلية. كمان إذا كان في ممر مشاة أو ممر دخول/خروج.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 9,
+      "soru": "مين بيحقله يمر أول شي عند هالإشارة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_cc9f0809bd1c4f089ca4de490f16c136~mv2.jpg",
+      "cevaplar": [
+        "بس المشاة.",
+        "المشاة وسائقي مركبات المعاقين."
+      ],
+      "dogruCevap": "المشاة وسائقي مركبات المعاقين.",
+      "feedback": {
+        "metin": "هالإشارة بتدل على ممر مشاة (زِبرا). المشاة عندهم أولوية فيه. وسائقي مركبات المعاقين كمان عندهم أولوية إذا عم يسوقوا ع الرصيف أو عم يعبروا من رصيف لرصيف.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 11,
+      "soru": "فيك تفرز بهالمسار لتلف يسار؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_7b612c0d4e7a4b52b5d752e773f4ce64~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "إذا بدك تلف، لازم تعطي إشارة بوقت مناسب. اختار المسار حسب وين رايح بعدين. إذا ناوي تتجاوز أو تلف يسار مباشرة بعدين، المسار اليساري أفضل. بس عادةً الأفضل تمشي بأقصى اليمين.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 12,
+      "soru": "مسموحلك تصفّ هون؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_b0bf2e846108435bb48134de2b16f1b2~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "هالإشارة معناها ممنوع توقف دراجات، دراجات نارية خفيفة أو \"سنورفيتسن\" ع الرصيف. بس ما بتمنع وقوف السيارات، فمسموحلك تصفّ هون.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 13,
+      "soru": "بأي حالة مسموحلك تلف يمين؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_90c1cdc51c1e4690a22c8dbf16deaa2f~mv2.jpg",
+      "cevaplar": [
+        "فقط بالحالة أ.",
+        "فقط بالحالة ب.",
+        "بالحالتين أ و ب."
+      ],
+      "dogruCevap": "فقط بالحالة أ.",
+      "feedback": {
+        "metin": "بالحالة أ، الشرطي عم يعطي إشارة توقّف للسيارات الجاية من وراك. فمسموحلك تكمّل دغري أو تلف يمين أو يسار. بالحالة ب، عم يعطي إشارة توقف للسيارات الجاية مقابله، فلازم توقف.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 14,
+      "soru": "شو ممكن تتوقع بهالحالة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_19a476bff80d4170819079146ccbae8b~mv2.jpg",
+      "cevaplar": [
+        "إنو السائق اللي وراك مو منتبه.",
+        "إنو السائق اللي وراك ناوي يتجاوز بأسرع وقت.",
+        "إنو السائق اللي وراك سكران."
+      ],
+      "dogruCevap": "إنو السائق اللي وراك ناوي يتجاوز بأسرع وقت.",
+      "feedback": {
+        "metin": "إذا السائق صار قريب منك كتير وبلش يمشي ع خط المنتصف، غالباً ناوي يتجاوزك. ممكن يكون في خطر لأنو المسافة مو كافية. إذا لازم، قرّب شوي ع اليمين ولا تسرع إذا حب يتجاوز.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 15,
+      "soru": "السلم على المقطورة طولو ٣ متر وعم يبرز ٢ متر. مسموح تسوق هيك؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_b9680570cb8146e68eea572425e90f4a~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "الحمولة الغير قابلة للتقسيم مسموح تبرز نص طول المقطورة كحد أقصى، يعني بهالحالة ١.٥ متر. لازم كمان تتثبت الحمولة وتكون واضحة بإشارة تحذيرية إذا كانت بارزة أكثر من متر.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 16,
+      "soru": "فيك تتجاوز السيارة الرمادية من اليمين؟",
+      "video": "https://video.wixstatic.com/video/4b688f_098f3e436a134265a024c336d88fe050/720p/mp4/file.mp4",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "تجاوزت الراكب ع الدراجة بمسافة أمان، وفيك تتجاوز ع مسار الدراجة ع اليمين. هالشي مسموح لأنو السيارة الرمادية مأشرة إنو بدها تلف يسار ومفرّزة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 17,
+      "soru": "مين ما بيحقله يفتّش أوراقك؟",
+      "resim": "",
+      "cevaplar": [
+        "الشرطة العسكرية.",
+        "خدمة التصليحات.",
+        "الشرطة."
+      ],
+      "dogruCevap": "خدمة التصليحات.",
+      "feedback": {
+        "metin": "الشرطة، الجمارك والشرطة العسكرية بيحق إلهم يطلبوا أوراقك ويفتشوا. خدمة التصليحات ما عندها هالصلاحية.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 18,
+      "soru": "وين ممكن تلاقي الوزن الأقصى المسموح للمقطورة؟",
+      "resim": "",
+      "cevaplar": [
+        "بس بسجل تسجيل المركبة وشهادة التسجيل.",
+        "بس بسجل تسجيل المركبة.",
+        "بسجل تسجيل المركبة، شهادة التسجيل ولوحة الموافقة النوعية."
+      ],
+      "dogruCevap": "بسجل تسجيل المركبة، شهادة التسجيل ولوحة الموافقة النوعية.",
+      "feedback": {
+        "metin": "الوزن الأقصى المسموح للمقطورة ممكن تلاقيه بأماكن متعددة. إذا عندها رقم تسجيل خاص فيها، المعلومات بتكون على شهادة التسجيل، سجل تسجيل المركبة، وأحيانًا على لوحة الموافقة النوعية ع المقطورة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 21,
+      "soru": "شو يعني هالضو الأبيض اللي عم يغمز؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_f0f719a25f52478cb7e46d17c673af89~mv2.gif",
+      "cevaplar": [
+        "لازم تنطر القطار الجاي.",
+        "النظام خربان أو معطّل.",
+        "فيك تكمل، ما في قطار جاي."
+      ],
+      "dogruCevap": "فيك تكمل، ما في قطار جاي.",
+      "feedback": {
+        "metin": "هون، انت قرّبت على تقاطع سكة حديد بدون حواجز. إذا الضو الأبيض اللي فوق عم يغمز، يعني ما في قطار جاي وعبور السكة آمن. أما إذا في قطار جاي، فبيغمزوا الضوين الحمرا اللي تحت بالتناوب.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 22,
+      "soru": "إمتى أفضل وقت لتقيس ضغط الدولاب؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_45c0b7d8629040e89b0651764a3b42b7~mv2.jpg",
+      "cevaplar": [
+        "قبل ما تسوق.",
+        "بعد ساعة من السواقة.",
+        "فورًا بعد المشوار."
+      ],
+      "dogruCevap": "قبل ما تسوق.",
+      "feedback": {
+        "metin": "لازم تقيس ضغط الدواليب قبل ما تسوق، هيك بتاخد قراءة دقيقة للضغط الصحيح.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 23,
+      "soru": "سائقي سيارات الطوارئ فيهم يتجاوزوا السرعة المحددة؟",
+      "resim": "",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "إذا كانت سيارة الطوارئ عم تستخدم الإشارات الضوئية والصوتية المخصصة، بيحق إلهم يتجاوزوا السرعة ويتجاوزوا قوانين السير العادية.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 24,
+      "soru": "بشو لازم تنتبه إذا بدك تنزل من السيارة بهالازدحام الطويل؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_5ca2e99da9fc4b6b8612e41afa7c8e98~mv2.jpg",
+      "cevaplar": [
+        "سيارات بمنطقة العمى.",
+        "دراجات نارية بين المسارات.",
+        "سيارات الطوارئ اللي عم تمر."
+      ],
+      "dogruCevap": "دراجات نارية بين المسارات.",
+      "feedback": {
+        "metin": "وقت يصير الزحام طويل والسيارات واقفة، كتير ناس بتنزل من سيارتها. لكن لأنو الدراجات النارية بيحق إلها تمر بين أول مسارين عاليسار، لازم تنتبه حوالينك قبل ما تفتح الباب. كمان خليك منتبه لحركة السير التانية وما تبتعد عن السيارة، لأنو ممكن ترجع الحركة فجأة. الأفضل تبقى جوات السيارة وتتذكر إنو سيارات الطوارئ ممكن تمر ع خط الطوارئ.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 25,
+      "soru": "فيك تاخد راكب من هون؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_91604968bc54409b86ca18302fa3b687~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "إشارة E-8 معناها إنو المكان مخصص لسيارات الشرطة. ممنوع تصف فيه. بس أخذ أو تنزيل راكب ما بينحسب صف، فمسموح فيه إذا مشيت فورًا بعدين.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 27,
+      "soru": "لازم تستخدم مسار ساعة الذروة المفتوح؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_e5b5e26a7fa34dfbb58b77ee10de343f~mv2.jpg",
+      "cevaplar": [
+        "لا. هو مخصص للشاحنات.",
+        "لا. استخدامه اختياري.",
+        "نعم. لازم تبقى عاليمين قدر الإمكان."
+      ],
+      "dogruCevap": "نعم. لازم تبقى عاليمين قدر الإمكان.",
+      "feedback": {
+        "metin": "إذا كان مسار الذروة المفتوح عاليمين، فهالشي يعني إنو كتف الطريق مؤقتًا صار مسار للقيادة. لازم تمشي قدر الإمكان عاليمين، وهاد بيشمل هالمسار. حتى لو في كتير شاحنات عليه، مو مخصص بس إلهم.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 28,
+      "soru": "وين أنسب مكان تركب مطرقة الطوارئ؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_8c4c2423fc2947ccb65a9736b1ba68e8~mv2.jpg",
+      "cevaplar": [
+        "بالكبّوت أو الكونسول الوسطي.",
+        "من جوة السقف جنب باب السائق.",
+        "جنب كرسي الراكب."
+      ],
+      "dogruCevap": "من جوة السقف جنب باب السائق.",
+      "feedback": {
+        "metin": "لازم المطرقة تكون بمكان سهل الوصول إله فورًا، حتى لو السيارة انقلبت. أفضل مكان هو من جوة السقف جنب باب السائق. يفضل يكون في مطرقة تانية كمان جنب باب الراكب. إذا السائق فقد الوعي، الراكب بيقدر يستخدمها. لا تحط المطرقة بالكبّوت أو الكونسول، لأنو ممكن ما ينفتحوا أو يطيروا وقت الحادث.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 30,
+      "soru": "بعد أي إشارة لازم تتوقع وجود مشاة عالطريق؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_8f6e2cf1aa5c4a11b66e39452c6c08b0~mv2.jpg",
+      "cevaplar": [
+        "الإشارة C-16.",
+        "الإشارة G-1.",
+        "الإشارة G-5."
+      ],
+      "dogruCevap": "الإشارة G-5.",
+      "feedback": {
+        "metin": "الإشارة C-16 معناها: ممنوع دخول المشاة. الإشارة G-1 معناها: طريق سريع، والمشاة ممنوعين فيه. بعد الإشارة G-5 (منطقة سكنية \"Erf\") لازم تتوقع مشاة عالطريق. المشاة فيهم يمشوا وين ما كان بهالمنطقة، والأطفال كمان فيهم يلعبوا بالطريق.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 32,
+      "soru": "ممكن تركيبة سيارة خصوصي مع مقطورة يكون فيها نقطتين دوران؟",
+      "resim": "",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "تركيبة السيارة مع المقطورة ممكن يكون فيها نقطة دوران وحدة أو تنتين. إذا المقطورة بمحور واحد، في نقطة دوران عند التوصيلة. إذا بمحورين، غالبًا في نقطة دوران كمان عند المحور الأول.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 35,
+      "soru": "أي مسار فيه أعلى خطر للانزلاق المائي (aquaplaning)؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_f58ce6bd96bd4324a8931812e7430168~mv2.jpg",
+      "cevaplar": [
+        "المسار 1.",
+        "المسار 2.",
+        "المسار 3."
+      ],
+      "dogruCevap": "المسار 3.",
+      "feedback": {
+        "metin": "المسار 3 عالطريق السريع هو الأكتر استخدام من الشاحنات الثقيلة، وهاد بيخلي سطح الطريق يتآكل ويصير فيه تعرجات. وقت المطر، المي بتجمع بهالتعرجات وبتزيد احتمال الانزلاق.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 36,
+      "soru": "لازم تستخدم أضوية الضباب الخلفية؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_b2c51242faa1478abd652311fe409d15~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "وقت المطر، ممنوع تستخدم أضوية الضباب الخلفية لأنو ممكن تزعج اللي وراك. بس إذا في ضباب أو تلج، مسموح بس إذا كانت الرؤية أقل من ٥٠ متر.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 37,
+      "soru": "هل لازم يكون لمركبة المعاقين رقم تسجيل خاص؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_71cd3b5aade148748ef033d187337e9c~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "مركبة المعاقين ما لازم يكون إلها رقم تسجيل. هي مستثناة من المركبات الآلية اللي لازم يكون إلها رقم تسجيل خاص، مثل السيارات الخاصة، الدراجات النارية والدراجات الخفيفة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 40,
+      "soru": "أي جزء من الطريق يعتبر \"الطريق المخصص للمركبات\"؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_ad869f00875949c4af19a9996bbaaef3~mv2.jpg",
+      "cevaplar": [
+        "الجزء أ.",
+        "الجزء ب.",
+        "الجزء ج."
+      ],
+      "dogruCevap": "الجزء ج.",
+      "feedback": {
+        "metin": "الطريق المخصص للمركبات هو الجزء المخصص للسيارات، ما عدا مسارات الدراجات والموبيدات. أما مسارات الدراجات اللي مرسومة عالطريق فهي جزء من الطريق المخصص للمركبات.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 41,
+      "soru": "شو لازم تعمل إذا صار معك حادث عالطريق السريع وما في إصابات والسيارتين بعدها بتشتغل؟",
+      "resim": "",
+      "cevaplar": [
+        "تنطر الشرطة ليعملوا تقرير رسمي.",
+        "تكمّل للطريق اللي بعد المخرج وتعبّوا النماذج.",
+        "توقفوا عكتف الطريق وتعبّوا النماذج."
+      ],
+      "dogruCevap": "تكمّل للطريق اللي بعد المخرج وتعبّوا النماذج.",
+      "feedback": {
+        "metin": "إذا صار معك حادث خفيف عالطريق السريع، يعني ضرر خارجي بس، لازم إنت والطرف التاني تروحوا لمكان آمن وتعبّوا استمارات الحادث. خد أول مخرج ودوّر على موقف مناسب وعبّوا النموذج الأوروبي سوا.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 43,
+      "soru": "مسموح تتجاوز بهالطريقة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_d877b53fae1a42009e57649b27bca73c~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "ما بصير تتجاوز إذا الوضع ما آمن. بهالحالة، التجاوز ممكن يشكّل خطر عراكب الدراجة، لأنو المسافة ضيقة كتير.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 44,
+      "soru": "فيك تسوق بنسخة عن رخصة السواقة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_6f5cea6144784df58ffc5b23dd2c6fcc~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "لازم دايمًا يكون معك الرخصة الأصلية وبحالة جيدة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "عند أي علامة لازم تعطي أفضلية؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_305dcdd3237f4a1cb5e6bb86f89d1e4e~mv2.jpg",
+      "cevaplar": [
+        "العلامة أ.",
+        "العلامة ب.",
+        "عند العلامتين."
+      ],
+      "dogruCevap": "العلامة أ.",
+      "feedback": {
+        "metin": "العلامة أ فيها مثلثات الأفضلية. هالمثلثات بتدل على إنك داخل ع طريق رئيسي ولازم تعطي أفضلية. أما العلامة ب فهي للإشارة لشي خاص، مثل مطب السرعة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 46,
+      "soru": "كيف لازم تلبس حزام الأمان؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_a61f380f582c4057a3eb654f37d70ab3~mv2.jpg",
+      "cevaplar": [
+        "خليه مرخي قد ما فيك.",
+        "شده قد ما فيك.",
+        "شده لحتى ما يضل فيه فراغ."
+      ],
+      "dogruCevap": "شده لحتى ما يضل فيه فراغ.",
+      "feedback": {
+        "metin": "وقت تلبس الحزام، شده منيح لحتى يكون ملاصق لجسمك وما في فراغ. الحزام المترخي مو آمن، والشد المبالغ فيه ممكن يكون مزعج.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 47,
+      "soru": "واقف بمكانك الصحيح؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_f687576e837c47a8a121015b362e592c~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "المركبات الطويلة بتحتاج مجال أوسع لتلف. بهالحالة، لأنك متقدم زيادة، الباص ما بيقدر يلف بشكل صحيح.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 48,
+      "soru": "فيك تسوق بهالطريقة؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_7b2a7ce560674a48b15e0c8f38be9976~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "الأضوية الإلزامية ما لازم تكون مغطاة بالثلج. بهالحالة، ممنوع تسوق.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 49,
+      "soru": "فيك تصف هون؟",
+      "resim": "https://static.wixstatic.com/media/4b688f_9b09af51f3054f0d837dd523d4aab739~mv2.jpg",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "التوقّف أو الصف ممنوع فوق أو ضمن ٥ متر من ممر المشاة.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    },
+    {
+      "numara": 50,
+      "soru": "عم تنقل طفل عمره ٧ سنين وطوله ١.٢٥ متر بالمقعد الأمامي بدون كرسي أمان. هالشي مسموح؟",
+      "resim": "",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "ما بيصير تنقل طفل أقل من ١٨ سنة وطوله أقل من ١.٣٥ متر بالمقعد الأمامي بدون كرسي أمان، حتى لو لمرة وحدة. ممكن أحيانًا تنقل طفل بالخلف بدون كرسي، مثلاً بحفلات الأطفال أو إذا ما عاد في مجال لكرسي أمان ثالث بالخلف، والطفل الثالث مضطر يركب. بهالحالة لازم يلبس الحزام الثلاثي.",
+        "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+        "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+        "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+      }
+    }
+  ]
+}

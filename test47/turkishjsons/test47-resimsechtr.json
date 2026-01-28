@@ -1,0 +1,59 @@
+{
+    "sorular": [
+        {
+            "numara": 10,
+            "soru": "Hangi araç en yüksek enerji tüketimine sahiptir?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_b7403c9188c1443aa9738f638ab42830~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_be6d67f495d149fab9177707464d2aaf~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_b7403c9188c1443aa9738f638ab42830~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "Bisiklet taşıyıcısı olan bir yolcu aracı, bisiklet taşıyıcısı olmayan bir yolcu aracına göre daha fazla hava direncine sahiptir ve dolayısıyla daha yüksek enerji tüketir. Ancak, bir yolcu aracı bir remorkla birlikte olduğunda, hava direnci ve remorkun ekstra ağırlığı nedeniyle daha fazla enerji tüketir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "Hangi işaret kayma tehlikesine dikkat çeker?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_2960bceb2a894f2f8c78d5490fc10229~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_eb4b2c50297e43d49e5fb9314ad06ea6~mv2.jpg",
+                "https://static.wixstatic.com/media/4b688f_187838cf403044ee8e78c8136ec3f9ef~mv2.jpg"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_2960bceb2a894f2f8c78d5490fc10229~mv2.jpg"
+            ],
+            "feedback": {
+                "metin": "J-20 işareti kayma tehlikesine dikkat çeker. J-25 işareti gevşek taşlar konusunda uyarırken, J-34 işareti daha ileride bir kazaya dikkat çeker. Sonuncusu genellikle elektronik bir matris işaretiyle belirtilir.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "Hangi durumda diğer yol kullanıcılarına önce geçiş hakkı vermelisiniz?",
+            "secenekler": [
+                "https://static.wixstatic.com/media/4b688f_ac94dec316cc4eb0b76a2f2f85aee4ab~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_f3bb5caa9c184b04a64d1933af8b0464~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_1d64ade3d3bc425eaf69cd880980e943~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_ee59b97eb17246cc9c2dc561f6e8d2b0~mv2.gif"
+            ],
+            "dogruCevap": [
+                "https://static.wixstatic.com/media/4b688f_1d64ade3d3bc425eaf69cd880980e943~mv2.gif",
+                "https://static.wixstatic.com/media/4b688f_ee59b97eb17246cc9c2dc561f6e8d2b0~mv2.gif"
+            ],
+            "feedback": {
+                "metin": "Üstteki iki durumda, soldan gelen araca veya sağdan gelen yayaya geçiş hakkı vermek zorunda değilsiniz. Sadece sağdan gelen araçlara geçiş hakkı vermelisiniz. Yani soldan gelen araçlara veya sağdan gelen yayalara geçiş hakkı vermeniz gerekmez. Bir çıkış inşaatına girerken tüm diğer trafiğe geçiş hakkı vermelisiniz. Yani alt soldaki durumda yayaya geçiş hakkı vermelisiniz. Alt sağdaki durumda ise acil durum aracıyla karşılaşıyorsunuz ve o araç ışıklar ve sirenle geliyor. Her zaman acil durum araçlarına geçiş hakkı vermelisiniz. Bu nedenle doğru cevap alt iki durumdur.",
+                "dogruCevapResim": "https://static.wixstatic.com/media/4b688f_12a1098a791f44f88cd7265a0517b851~mv2.png",
+                "yanlisCevapResim": "https://static.wixstatic.com/media/4b688f_149ee4392b034dac89b73aef8268aef9~mv2.png",
+                "cevaplanmamisResim": "https://static.wixstatic.com/media/4b688f_1bcf096f901b4677a8c0eb8f9327ba35~mv2.png"
+            }
+        }
+    ]
+}
