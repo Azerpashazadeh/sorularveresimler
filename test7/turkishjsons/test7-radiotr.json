@@ -157,7 +157,7 @@
         "Motorlu bisiklet ve hızlı elektrikli bisiklet (speed pedelec) sürücüleri için.",
         "Motorlu bisiklet, hızlı elektrikli bisiklet ve düşük hızlı elektrikli bisiklet (snorfiets) sürücüleri için."
       ],
-      "dogruCevap": "Motorlu bisiklet ve hızlı elektrikli bisiklet sürücüleri için.",
+      "dogruCevap": "Motorlu bisiklet ve hızlı elektrikli bisiklet (speed pedelec) sürücüleri için.",
       "feedback": {
         "metin": "Bu tabelalar, motorlu bisiklet sürücülerinin tabelada belirtilen yönden geçmesini zorunlu kılar. Hızlı elektrikli bisiklet sürücüleri, motorlu bisiklet sürücüleriyle aynı kurallara uymak zorundadır, bu nedenle bu tabelalar onlar için de geçerlidir. Bu tabelalar, bu sürücülerin yoldan çıkıp bisiklet/motorlu bisiklet yoluna geçmeleri ya da tam tersini yapmaları gerektiğini gösterir. Snorfiets sürücüleri bisikletlilere yönelik kurallara ve tabelalara uymalıdır, bu nedenle bu tabelalar onlar için geçerli değildir.",
         "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
@@ -677,4 +677,5 @@
       }
     }
   ]
+
 }
