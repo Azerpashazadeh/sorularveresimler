@@ -1,291 +1,291 @@
 {
-    "sorular": [
+  "sorular": [
+    {
+      "numara": 6,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
         {
-            "numara": 6,
-            "soru": "مين لازم يمشي أولاً؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "59.89%",
-                        "left": "55.45%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "36.11%",
-                        "left": "21.70%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/6_edited.jpg",
-            "feedback": {
-                "metin": "ما لازم تعطي أفضلية للمشاة إذا ما في ممر مشاة أو إنشاء خاص للمخرج. هاد الشخص ماشي مو بنفس اتجاهك بالسواقة، ولا حتى بعكس اتجاهك (يعني مو من السير المقابل). المشاة يلي بيقطعوا الشارع بيجوا من اليمين أو اليسار. بهيك حالات، المشاة إلهم أفضلية بس إذا كانوا عم يقطعوا على ممر مشاة، أو بمكان فيه إنشاء خروج، أو إذا كانوا أشخاص عندهم صعوبة بالحركة أو مكفوفين.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
         },
         {
-            "numara": 21,
-            "soru": "مين لازم يمشي أولاً؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "11.89%",
-                        "left": "54.37%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "52.11%",
-                        "left": "60.27%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/21_edited.jpg",
-            "feedback": {
-                "metin": "لازم تعطي أفضلية لسائق الدراجة يلي عاليمين.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "59.89%",
+            "left": "55.45%"
+          }
         },
         {
-            "numara": 23,
-            "soru": "شو هو الترتيب الصحيح لأولوية المرور؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "box",
-                    "class": "dragger2",
-                    "value": "2",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "14.9857%"
-                    }
-                },
-                {
-                    "type": "box",
-                    "class": "dragger3",
-                    "value": "3",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "28.185699999999997%"
-                    }
-                },
-                {
-                    "type": "box",
-                    "class": "dragger4",
-                    "value": "4",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "41.38569999999999%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "11.00%",
-                        "left": "72.59%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "62.56%",
-                        "left": "35.45%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target3",
-                    "value": "",
-                    "position": {
-                        "top": "32.78%",
-                        "left": "85.98%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target4",
-                    "value": "",
-                    "position": {
-                        "top": "26.33%",
-                        "left": "18.30%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                },
-                {
-                    "id": "dragger2",
-                    "target": "target2"
-                },
-                {
-                    "id": "dragger3",
-                    "target": "target3"
-                },
-                {
-                    "id": "dragger4",
-                    "target": "target4"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/23_edited.jpg",
-            "feedback": {
-                "metin": "الترتيب الصحيح هون هو: المشاة، بعدين إنت، بعدين سائق الدراجة النارية، وآخر شي سائق الدراجة الصغيرة. المشاة بيمشوا أولاً لأنو عم يقطعوا عبر ممر مشاة. إنت ماشي على طريق رئيسي، ولهيك إلك أفضلية بعدن. سائق الدراجة النارية بيجي بعدك، لأنو الدوران القصير إلو أفضلية على الطويل.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 41,
-            "soru": "مين لازم يمشي أولاً؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "19.44%",
-                        "left": "11.34%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "2.11%",
-                        "left": "27.41%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/41_edited.jpg",
-            "feedback": {
-                "metin": "سائق الدراجة إلو أفضلية لأنه عم يكمل بطريق رئيسي متفرّع. السيارة عم تطلع من هاد الطريق الرئيسي، ولهيك لازم تعطيه أفضلية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 48,
-            "soru": "مين لازم يمشي أولاً؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "21.98%",
-                        "left": "14.55%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "55.98%",
-                        "left": "64.55%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/48_edited.jpg",
-            "feedback": {
-                "metin": "الترام جاي من الأمام وعم يلف. لازم دائماً تعطي أفضلية للترام إذا جاي من نفس الطريق. إذا كنت ماشي بطريق رئيسي، هالشي ما بيفرق هون، لأنو هالقانون بينطبق بس على التقاطعات، مو على المركبات يلي جاية من نفس الطريق.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "36.11%",
+            "left": "21.70%"
+          }
         }
-    ]
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/6_edited.jpg",
+      "feedback": {
+        "metin": "لا يجب عليك إعطاء حق الأولوية للمشاة الذين يعبرون الطريق إذا لم يكن هناك ممر مشاة (zebrapad) أو بناء مخرج (exit construction). المشاة هنا ليسوا على نفس الطريق معك لأنهم لا يسيرون في نفس اتجاه قيادتك ولا في الاتجاه المعاكس (حركة المرور القادمة). المشاة العابرون يأتون من اليمين أو اليسار، وفي هذه الحالة، لا يملكون حق الأولوية إلا عند العبور من ممر مشاة، أو بناء مخرج، أو إذا كانوا من ذوي الاحتياجات الخاصة أو المكفوفين.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 21,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.89%",
+            "left": "54.37%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "52.11%",
+            "left": "60.27%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/21_edited.jpg",
+      "feedback": {
+        "metin": "يجب عليك إعطاء حق الأولوية لراكب الدراجة الهوائية القادم من جهة اليمين.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 23,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger4",
+          "value": "4",
+          "position": {
+            "top": "84.4444%",
+            "left": "41.38569999999999%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "11.00%",
+            "left": "72.59%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "62.56%",
+            "left": "35.45%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "32.78%",
+            "left": "85.98%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target4",
+          "value": "",
+          "position": {
+            "top": "26.33%",
+            "left": "18.30%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        },
+        {
+          "id": "dragger4",
+          "target": "target4"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/23_edited.jpg",
+      "feedback": {
+        "metin": "الترتيب الصحيح هنا هو: المُشاة، ثم أنت، ثم سائق الدراجة النارية، وأخيراً سائق الدراجة النارية الصغيرة (Moped). يمر المشاة أولاً لأنهم يعبرون من ممر مشاة. أنت تقود على طريق ذو أولوية ولذلك لك حق الأولوية. يليه سائق الدراجة النارية، لأن الانعطافات القصيرة لها الأولوية على الانعطافات الطويلة.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 41,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "19.44%",
+            "left": "11.34%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "2.11%",
+            "left": "27.41%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/41_edited.jpg",
+      "feedback": {
+        "metin": "راكب الدراجة الهوائية له حق الأولوية لأنه يستمر في السير على الطريق ذو الأولوية المتفرع. أما المركبة فهي تنعطف للخروج من هذا الطريق، ولذلك يجب عليها إعطاء حق الأولوية لراكب الدراجة.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 48,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "21.98%",
+            "left": "14.55%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "55.98%",
+            "left": "64.55%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/48_edited.jpg",
+      "feedback": {
+        "metin": "الترام قادم من الأمام وينعطف. يجب عليك دائماً إعطاء حق الأولوية للترام القادم من نفس الطريق. لا يهم هنا إذا كنت تقود على طريق ذو أولوية، فهذا ينطبق فقط على حركة المرور في الطرق المتقاطعة ولا يغير من قواعد التعامل مع حركة المرور على نفس الطريق.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  ]
 }
