@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 18,
-            "soru": "أي إشارة تدل على طريق باتجاه واحد؟",
+            "soru": "أي إشارة تدل على طريق ذو اتجاه واحد؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/18.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/18.2.jpg",
@@ -12,7 +12,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/18.1.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة C-3 تدل على طريق باتجاه واحد، ويُسمح بالدخول من هذا الطرف. الإشارة D-1 تدل على اتجاه السير الإجباري وتُستخدم غالباً في الدوارات. الإشارة D-4 تدل على اتجاه السير الإجباري عند التقاطع القادم، لكنها لا تشير إلى ما إذا كان هناك مركبات قادمة من الاتجاه المعاكس.",
+                "metin": "تشير الإشارة C-3 إلى طريق ذو اتجاه واحد، حيث يُسمح بالدخول من هذا الجانب. تشير الإشارة D-1 إلى اتجاه إلزامي للسير وتُستخدم في الدوارات. أما الإشارة D-4 فتشير إلى اتجاه إلزامي عند التقاطع الذي تقترب منه، وهذه الإشارة لا توضح ما إذا كان يجب توقع وجود حركة مرور قادمة من الاتجاه المعاكس أم لا.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -20,7 +20,7 @@
         },
         {
             "numara": 26,
-            "soru": "في أي حالة يجب أن تعطي الأولوية لمستخدم الطريق الآخر؟",
+            "soru": "في أي حالة يجب عليك إعطاء حق الأولوية لمستخدم الطريق الآخر؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/26.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/26.2.jpg",
@@ -33,7 +33,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/26.3.jpg"
             ],
             "feedback": {
-                "metin": "فقط في الحالة السفلية اليمنى لا يتوجب عليك إعطاء الأولوية لمستخدم الطريق الآخر. في الحالة العلوية اليسرى، يتابع راكب الدراجة في السير داخل الدوار الذي تنوي الخروج منه، لذلك عليك إعطاؤه الأولوية. في الحالة العلوية اليمنى، أنت تقترب من مثلثات الأولوية والإشارة B-6، مما يعني أنه يجب عليك إعطاء الأولوية للمركبات على الطريق المتقاطع. في الحالة السفلية اليسرى، تقوم بالانعطاف عن الطريق الذي يتابعه راكب الدراجة، لذا يجب عليك أيضًا إعطاؤه الأولوية. أما في الحالة السفلية اليمنى، فإن سائق الدراجة النارية الصغيرة يقترب من مثلثات الأولوية، ويجب عليه إعطاء الأولوية لمركبات الطريق الرئيسي، وبالتالي لا يتوجب عليك إعطاؤه الأولوية.",
+                "metin": "فقط في الحالة الموجودة أسفل اليمين لا يتعين عليك إعطاء حق الأولوية لمستخدم الطريق الآخر. في الحالة أعلى اليسار، يستمر راكب الدراجة في الدوار الذي تنوي الخروج منه؛ وحركة المرور المستقيمة على نفس الطريق لها الأولوية على حركة المرور المنعطفة، لذا يجب إعطاء الأولوية للدراجة. في الحالة أعلى اليمين، تقترب من 'مثلثات الأولوية' والإشارة B-6، مما يعني وجوب إعطاء الأولوية للمركبات على الطريق المتقاطع. في الحالة أسفل اليسار، أنت تنعطف عن الطريق الذي يستمر فيه راكب الدراجة، لذا يجب إعطاؤه الأولوية. أما في الحالة أسفل اليمين، فإن قائد الدراجة النارية الصغيرة (moped) يقترب من مثلثات الأولوية ويجب عليه إعطاء حق الأولوية للمركبات على الطريق المتقاطع، لذا لا يتعين عليك إعطاؤه حق الأولوية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -41,7 +41,7 @@
         },
         {
             "numara": 28,
-            "soru": "توقفت لإجراء مكالمة هاتفية. في أي حالة يُسمح بذلك؟",
+            "soru": "لقد توقفت لإجراء مكالمة هاتفية. في أي حالة يُعد هذا مسموحاً؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/28.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/28.2.jpg",
@@ -53,7 +53,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/28.4.jpg"
             ],
             "feedback": {
-                "metin": "التوقف لإجراء مكالمة هاتفية لا يُعتبر توقفًا مؤقتًا، بل يُعد وقوفًا. وهذا غير مسموح به ضمن مسافة ٥ أمتار من ممر المشاة، كما هو موضح في الحالة العلوية اليسرى. ولا يُسمح به أيضًا بجانب خط أصفر متصل، كما في الحالة السفلية اليسرى. أما في المواقف أو على ممرات الاقتراح، كما في الحالتين اليمنيين، فيُسمح بذلك.",
+                "metin": "التوقف لإجراء مكالمة هاتفية لا يُصنف كـ 'توقف مؤقت' (standing still)، بل يُعد 'ركناً' (parking). وهذا غير مسموح به ضمن مسافة 5 أمتار من ممر المشاة كما في الحالة أعلى اليسار، ولا بجانب خط أصفر متصل كما في الحالة أسفل اليسار. يُسمح بذلك فقط في أماكن ركن السيارات أو على 'ممرات الاقتراح' (suggestion lanes) كما هو موضح في الحالتين على جهة اليمين.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -61,7 +61,7 @@
         },
         {
             "numara": 34,
-            "soru": "في أي حالة يُسمح بركن السيارة على الجهة اليسرى من الطريق؟",
+            "soru": "في أي حالة يُسمح لك بركن مركبتك على الجانب الأيسر من الطريق؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/34.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/34.2.jpg"
@@ -70,7 +70,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/34.2.jpg"
             ],
             "feedback": {
-                "metin": "في الشوارع ذات الاتجاه الواحد، لا يوجد حظر على الوقوف في الجهة اليسرى من الطريق. في هذه الحالة، يمكنك ببساطة ركن السيارة على اليسار. في منطقة الحظر على الوقوف، يُمنع الوقوف على جانبي الطريق. إذا كانت هناك إشارة E-1 (ممنوع الوقوف) بدون عبارة 'منطقة' (zone)، فإن الوقوف مسموح على الجانب الأيسر.",
+                "metin": "في الشوارع ذات الاتجاه الواحد، لا يوجد حظر على الركن في الجانب الأيسر من الطريق، لذا يمكنك الركن هناك ببساطة. أما في 'منطقة حظر الركن' (no-parking zone)، فيُمنع الركن على كلا جانبي الطريق. إذا كانت هناك إشارة E-1 منفردة بدون كلمة 'Zone'، فإن الركن يكون مسموحاً في الجانب الأيسر.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -78,7 +78,7 @@
         },
         {
             "numara": 35,
-            "soru": "أي ضوء في لوحة القيادة يشير إلى تشغيل الضوء العالي؟",
+            "soru": "أي ضوء تحذيري في لوحة القيادة يشير إلى أن الضوء العالي (full-beam) يعمل؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/35.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/35.2.jpg",
@@ -88,7 +88,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/35.3.jpg"
             ],
             "feedback": {
-                "metin": "الضوء الأيسر يدل على تشغيل ضوء الضباب الأمامي. الضوء الأوسط يدل على تشغيل ضوء الضباب الخلفي. الضوء الأيمن يدل على تشغيل الضوء العالي.",
+                "metin": "الضوء الموجود على اليسار يشير إلى أن ضوء الضباب الأمامي مفعل. الضوء الأوسط يشير إلى أن ضوء الضباب الخلفي مفعل. أما الضوء الموجود على اليمين فيشير إلى أن الضوء العالي (full-beam) مفعل.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -107,7 +107,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test2/resimdensech/36.3.png"
             ],
             "feedback": {
-                "metin": "الإشارة C تدل على أن المسار مغلق. لا يُسمح باستخدام المسار الذي تحت هذه الإشارة. الإشارة A تُعتبر إنذاراً مسبقاً بوجود تقاطع أحمر قادم. الإشارة B تدل على أن المسار يمكن استخدامه دون قيود. الإشارة D تعني أن جميع التحذيرات السابقة على اللوحات الإلكترونية قد تم إلغاؤها.",
+                "metin": "تشير الإشارة C إلى مسار مغلق (علامة X حمراء)، ولا يُسمح لك باستخدام المسار الموجود تحت هذه الإشارة. تشير الإشارة A إلى إشعار مسبق بوجود علامة X حمراء؛ المسار لم يُغلق بعد ولكنه سيُغلق لاحقاً، وتطلب منك الإشارة البدء في إخلاء المسار. تشير الإشارة B إلى إمكانية استخدام المسار دون قيود إضافية، أما الإشارة D فتعني إلغاء جميع القيود السابقة المفروضة عبر اللوحات الإلكترونية (matrix signs).",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
