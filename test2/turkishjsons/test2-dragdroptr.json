@@ -1,291 +1,291 @@
 {
-  "sorular": [
-    {
-      "numara": 6,
-      "soru": "İlk geçiş hakkı kime aittir?",
-      "elements": [
+    "sorular": [
         {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
+            "numara": 6,
+            "soru": "İlk geçiş hakkı kime aittir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "59.89%",
+                        "left": "55.45%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "36.11%",
+                        "left": "21.70%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/6_edited.jpg",
+            "feedback": {
+                "metin": "Yaya geçidi veya bir çıkış yapısı yoksa, karşıdan karşıya geçen yayaya yol vermek zorunda değilsiniz. Yaya sizinle aynı yolda sayılmaz çünkü sizin gittiğiniz yönle aynı yönde yürümüyor ve karşı yönde (gelen trafik yönünde) de yürümüyor. Karşıdan karşıya geçen bir yaya soldan veya sağdan gelir. Bu durumda yayaların geçiş hakkı yalnızca bir yaya geçidinden veya bir çıkış yapısından geçiyorlarsa, ya da hareket kabiliyeti kısıtlı veya görme engelli iseler geçerlidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "59.89%",
-            "left": "55.45%"
-          }
+            "numara": 21,
+            "soru": "İlk geçiş hakkı kime aittir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "11.89%",
+                        "left": "54.37%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "52.11%",
+                        "left": "60.27%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/21_edited.jpg",
+            "feedback": {
+                "metin": "Sağınızdaki bisikletliye yol vermek zorundasınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "36.11%",
-            "left": "21.70%"
-          }
+            "numara": 23,
+            "soru": "Doğru geçiş sırası nedir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger4",
+                    "value": "4",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "41.38569999999999%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "11.00%",
+                        "left": "72.59%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "62.56%",
+                        "left": "35.45%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "32.78%",
+                        "left": "85.98%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target4",
+                    "value": "",
+                    "position": {
+                        "top": "26.33%",
+                        "left": "18.30%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                },
+                {
+                    "id": "dragger4",
+                    "target": "target4"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/23_edited.jpg",
+            "feedback": {
+                "metin": "Doğru sıra; yaya, siz, motosiklet sürücüsü, moped sürücüsüdür. Yaya bir yaya geçidinden geçtiği için önce geçer. Siz bir öncelikli yolda seyir halindesiniz ve bu nedenle geçiş hakkına sahipsiniz. Motosiklet sürücüsü sıradaki kişidir çünkü kısa dönüş yapanlar uzun dönüş yapanlara göre önceliklidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "İlk geçiş hakkı kime aittir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "19.44%",
+                        "left": "11.34%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "2.11%",
+                        "left": "27.41%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/41_edited.jpg",
+            "feedback": {
+                "metin": "Bisikletli, farklı yönlere ayrılan öncelikli yolda ilerlemeye devam ettiği için geçiş hakkına sahiptir. Araç ise bu öncelikli yoldan sapmakta olduğu için bisikletliye yol vermek zorundadır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "İlk geçiş hakkı kime aittir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "21.98%",
+                        "left": "14.55%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "55.98%",
+                        "left": "64.55%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/48_edited.jpg",
+            "feedback": {
+                "metin": "Tramvay önden gelmekte ve sapmaktadır. Aynı yoldan gelen bir tramvaya her zaman yol vermelisiniz. Burada bir öncelikli yolda sürüyor olmanız önemli değildir. Bu durum yalnızca kesişen yollardaki trafik için geçerlidir ve aynı yoldaki trafik hakkında bir şey ifade etmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Yaya geçidi veya bir çıkış yapısı yoksa, karşıdan karşıya geçen yayaya yol vermek zorunda değilsiniz. Yaya sizinle aynı yolda sayılmaz çünkü sizin gittiğiniz yönle aynı yönde yürümüyor ve karşı yönde (gelen trafik yönünde) de yürümüyor. Karşıdan karşıya geçen bir yaya soldan veya sağdan gelir. Bu durumda yayaların geçiş hakkı yalnızca bir yaya geçidinden veya bir çıkış yapısından geçiyorlarsa, ya da hareket kabiliyeti kısıtlı veya görme engelli iseler geçerlidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 21,
-      "soru": "İlk geçiş hakkı kime aittir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "11.89%",
-            "left": "54.37%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "52.11%",
-            "left": "60.27%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Sağınızdaki bisikletliye yol vermek zorundasınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 23,
-      "soru": "Doğru geçiş sırası nedir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger4",
-          "value": "4",
-          "position": {
-            "top": "84.4444%",
-            "left": "41.38569999999999%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "11.00%",
-            "left": "72.59%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "62.56%",
-            "left": "35.45%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "32.78%",
-            "left": "85.98%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target4",
-          "value": "",
-          "position": {
-            "top": "26.33%",
-            "left": "18.30%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        },
-        {
-          "id": "dragger4",
-          "target": "target4"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Doğru sıra; yaya, siz, motosiklet sürücüsü, moped sürücüsüdür. Yaya bir yaya geçidinden geçtiği için önce geçer. Siz bir öncelikli yolda seyir halindesiniz ve bu nedenle geçiş hakkına sahipsiniz. Motosiklet sürücüsü sıradaki kişidir çünkü kısa dönüş yapanlar uzun dönüş yapanlara göre önceliklidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "İlk geçiş hakkı kime aittir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "19.44%",
-            "left": "11.34%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "2.11%",
-            "left": "27.41%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Bisikletli, farklı yönlere ayrılan öncelikli yolda ilerlemeye devam ettiği için geçiş hakkına sahiptir. Araç ise bu öncelikli yoldan sapmakta olduğu için bisikletliye yol vermek zorundadır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "İlk geçiş hakkı kime aittir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "21.98%",
-            "left": "14.55%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "55.98%",
-            "left": "64.55%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Tramvay önden gelmekte ve sapmaktadır. Aynı yoldan gelen bir tramvaya her zaman yol vermelisiniz. Burada bir öncelikli yolda sürüyor olmanız önemli değildir. Bu durum yalnızca kesişen yollardaki trafik için geçerlidir ve aynı yoldaki trafik hakkında bir şey ifade etmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    ]
 }
