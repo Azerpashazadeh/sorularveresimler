@@ -1,72 +1,72 @@
 {
-  "sorular": [
-    {
-      "numara": 33,
-      "soru": "أي من هذه المركبات لا يُسمح لك بقيادتها عندما يتم تعليق رخصة القيادة الخاصة بك؟",
-      "resim": "",
-      "cevaplar": [
-        "دراجة بمحرك خفيف (سنورفيتس).",
-        "دراجة هوائية.",
-        "مركبة صغيرة (برومموبييل).",
-        "سيارة ركاب."
-      ],
-      "dogruCevap": [
-        "دراجة بمحرك خفيف (سنورفيتس).",
-        "مركبة صغيرة (برومموبييل).",
-        "سيارة ركاب."
-      ],
-      "feedback": {
-        "metin": "عندما يتم تعليق رخصة القيادة الخاصة بك، لا يُسمح لك بقيادة أي مركبة آلية. وهذا لا يشمل فقط قيادة سيارة ركاب، بل أيضًا مركبة برومموبييل، أو دراجة نارية خفيفة أو سنورفيتس. الدراجة الهوائية ليست مركبة آلية، لذا لا يزال بإمكانك قيادتها.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 35,
-      "soru": "أي من السائقين يجب أن تتوقع وجودهم على الطريق هنا؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائقو مركبات برومموبييل.",
-        "راكبو دراجات سبيد بيديليك.",
-        "سائقو الدراجات النارية الخفيفة.",
-        "راكبو الدراجات الهوائية.",
-        "سائقو سنورفيتس."
-      ],
-      "dogruCevap": [
-        "سائقو مركبات برومموبييل.",
-        "راكبو دراجات سبيد بيديليك.",
-        "سائقو الدراجات النارية الخفيفة."
-      ],
-      "feedback": {
-        "metin": "يوجد بجانب الطريق مسار دراجات إلزامي. هذا يعني أن راكبي الدراجات الهوائية وسائقي سنورفيتس فقط مُلزمون باستخدام مسار الدراجات بدلاً من الطريق. جميع السائقين الآخرين غير مسموح لهم باستخدام مسار الدراجات، لذلك يجب أن تتوقع وجودهم على الطريق.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 39,
-      "soru": "ما هي الأضواء التي يُسمح لك باستخدامها؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "الضوء العالي.",
-        "أضواء الضباب الأمامية مع الأضواء المنخفضة.",
-        "أضواء الضباب الأمامية مع أضواء الموضع.",
-        "ضوء الضباب الخلفي.",
-        "الأضواء المنخفضة."
-      ],
-      "dogruCevap": [
-        "أضواء الضباب الأمامية مع الأضواء المنخفضة.",
-        "أضواء الضباب الأمامية مع أضواء الموضع.",
-        "الأضواء المنخفضة."
-      ],
-      "feedback": {
-        "metin": "الرؤية ضعيفة بسبب الضباب، لكن لا تزال ترى على الأقل 100 متر، لأن لوحة المئة متر التالية لا تزال مرئية. في هذه الحالة، يمكنك استخدام الأضواء المنخفضة، سواء مع أو بدون أضواء الضباب الأمامية. يمكنك أيضًا استخدام أضواء الضباب الأمامية مع أضواء الموضع بدلاً من الأضواء المنخفضة. الضوء العالي غير مسموح به أثناء النهار. وكذلك ضوء الضباب الخلفي غير مسموح به، إلا إذا كانت الرؤية أقل من 50 مترًا.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 33,
+            "soru": "أي من هذه المركبات لا يُسمح لك بقيادتها عندما يتم تعليق رخصة القيادة الخاصة بك؟",
+            "resim": "",
+            "cevaplar": [
+                "دراجة بمحرك خفيف (سنورفيتس).",
+                "دراجة هوائية.",
+                "مركبة صغيرة (برومموبييل).",
+                "سيارة ركاب."
+            ],
+            "dogruCevap": [
+                "دراجة بمحرك خفيف (سنورفيتس).",
+                "مركبة صغيرة (برومموبييل).",
+                "سيارة ركاب."
+            ],
+            "feedback": {
+                "metin": "عندما يتم تعليق رخصة القيادة الخاصة بك، لا يُسمح لك بقيادة أي مركبة آلية. وهذا لا يشمل فقط قيادة سيارة ركاب، بل أيضًا مركبة برومموبييل، أو دراجة نارية خفيفة أو سنورفيتس. الدراجة الهوائية ليست مركبة آلية، لذا لا يزال بإمكانك قيادتها.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 35,
+            "soru": "أي من السائقين يجب أن تتوقع وجودهم على الطريق هنا؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/35.jpg",
+            "cevaplar": [
+                "سائقو مركبات برومموبييل.",
+                "راكبو دراجات سبيد بيديليك.",
+                "سائقو الدراجات النارية الخفيفة.",
+                "راكبو الدراجات الهوائية.",
+                "سائقو سنورفيتس."
+            ],
+            "dogruCevap": [
+                "سائقو مركبات برومموبييل.",
+                "راكبو دراجات سبيد بيديليك.",
+                "سائقو الدراجات النارية الخفيفة."
+            ],
+            "feedback": {
+                "metin": "يوجد بجانب الطريق مسار دراجات إلزامي. هذا يعني أن راكبي الدراجات الهوائية وسائقي سنورفيتس فقط مُلزمون باستخدام مسار الدراجات بدلاً من الطريق. جميع السائقين الآخرين غير مسموح لهم باستخدام مسار الدراجات، لذلك يجب أن تتوقع وجودهم على الطريق.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 39,
+            "soru": "ما هي الأضواء التي يُسمح لك باستخدامها؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/39.jpg",
+            "cevaplar": [
+                "الضوء العالي.",
+                "أضواء الضباب الأمامية مع الأضواء المنخفضة.",
+                "أضواء الضباب الأمامية مع أضواء الموضع.",
+                "ضوء الضباب الخلفي.",
+                "الأضواء المنخفضة."
+            ],
+            "dogruCevap": [
+                "أضواء الضباب الأمامية مع الأضواء المنخفضة.",
+                "أضواء الضباب الأمامية مع أضواء الموضع.",
+                "الأضواء المنخفضة."
+            ],
+            "feedback": {
+                "metin": "الرؤية ضعيفة بسبب الضباب، لكن لا تزال ترى على الأقل 100 متر، لأن لوحة المئة متر التالية لا تزال مرئية. في هذه الحالة، يمكنك استخدام الأضواء المنخفضة، سواء مع أو بدون أضواء الضباب الأمامية. يمكنك أيضًا استخدام أضواء الضباب الأمامية مع أضواء الموضع بدلاً من الأضواء المنخفضة. الضوء العالي غير مسموح به أثناء النهار. وكذلك ضوء الضباب الخلفي غير مسموح به، إلا إذا كانت الرؤية أقل من 50 مترًا.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
