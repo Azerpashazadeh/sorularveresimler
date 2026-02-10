@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 25,
-      "soru": "Bu tür plaka nerede bulunur?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bir brommobiel üzerinde.",
-        "Bir bisiklet taşıyıcısında.",
-        "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta.",
-        "Bir takside.",
-        "Bir kamyon arkasındaki yarı römorkta.",
-        "Azami yüklü ağırlığı 750 kg’dan fazla olan bir römorkta."
-      ],
-      "dogruCevap": [
-        "Bir bisiklet taşıyıcısında.",
-        "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta."
-      ],
-      "feedback": {
-        "metin": "Beyaz plaka, hafif römorklarda (azami yüklü ağırlığı 750 kg’a kadar) ve bisiklet taşıyıcıları gibi çeki demirine takılan taşıyıcılarda bulunur. Bu plakada çeken aracın plaka numarası yer alır. Brommobiel, daha ağır römorklar ve kamyon arkasındaki yarı römorklar ise sarı plaka üzerinde kendi plaka numarasına sahiptir. Taksilerde ise mavi plaka bulunur.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 25,
+            "soru": "Bu tür plaka nerede bulunur?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/25.jpg",
+            "cevaplar": [
+                "Bir brommobiel üzerinde.",
+                "Bir bisiklet taşıyıcısında.",
+                "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta.",
+                "Bir takside.",
+                "Bir kamyon arkasındaki yarı römorkta.",
+                "Azami yüklü ağırlığı 750 kg’dan fazla olan bir römorkta."
+            ],
+            "dogruCevap": [
+                "Bir bisiklet taşıyıcısında.",
+                "Azami yüklü ağırlığı 750 kg’a kadar olan bir römorkta."
+            ],
+            "feedback": {
+                "metin": "Beyaz plaka, hafif römorklarda (azami yüklü ağırlığı 750 kg’a kadar) ve bisiklet taşıyıcıları gibi çeki demirine takılan taşıyıcılarda bulunur. Bu plakada çeken aracın plaka numarası yer alır. Brommobiel, daha ağır römorklar ve kamyon arkasındaki yarı römorklar ise sarı plaka üzerinde kendi plaka numarasına sahiptir. Taksilerde ise mavi plaka bulunur.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
