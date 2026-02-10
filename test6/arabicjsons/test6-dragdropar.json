@@ -1,407 +1,407 @@
 {
-    "sorular": [
+  "sorular": [
+    {
+      "numara": 4,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
         {
-            "numara": 4,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "18.56%",
-                        "left": "57.59%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "44.56%",
-                        "left": "7.77%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/4_edited.jpg",
-            "feedback": {
-                "metin": "العربيات اللي بموكب الجنازة عم تفرع من الطريق اللي إنت مكمل فيه. هاد معناه إنك ما فيك تقطع الموكب ولازم تعطيهن أولوية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
         },
         {
-            "numara": 5,
-            "soru": "شو هو الترتيب الصحيح للأولوية؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "box",
-                    "class": "dragger2",
-                    "value": "2",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "14.9857%"
-                    }
-                },
-                {
-                    "type": "box",
-                    "class": "dragger3",
-                    "value": "3",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "28.185699999999997%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "10.33%",
-                        "left": "13.48%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "11.44%",
-                        "left": "65.27%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target3",
-                    "value": "",
-                    "position": {
-                        "top": "61.44%",
-                        "left": "63.48%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                },
-                {
-                    "id": "dragger2",
-                    "target": "target2"
-                },
-                {
-                    "id": "dragger3",
-                    "target": "target3"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/5_edited.jpg",
-            "feedback": {
-                "metin": "كل السواقين، ما عدا سائق السيارة الحمرا، لازم يعطوا أولوية للسواقين الجايين من اليمين. وبما إنو السيارة الحمرا ما لازم تعطي أولوية لحدا، فهي إلها الأولوية. إنت لازم تعطي أولوية للسيارة الزرقا، ولَهيك سائق السيارة الزرقا بيروح تاني.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "18.56%",
+            "left": "57.59%"
+          }
         },
         {
-            "numara": 19,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "6.56%",
-                        "left": "25.27%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "37.67%",
-                        "left": "44.20%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/19_edited.jpg",
-            "feedback": {
-                "metin": "إذا الباص أشار إنو بدو يطلع من الموقف ضمن منطقة مبنية، لازم تعطيه أولوية – سواء كان باص نقل عام أو باص سياحي. بهالحالة، الباص إله الأولوية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 30,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "52.11%",
-                        "left": "50.09%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "10.56%",
-                        "left": "16.34%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/30_edited.jpg",
-            "feedback": {
-                "metin": "السواقين الجايين من طرق غير معبّدة لازم يعطوا أولوية للسواقين الجايين من اليمين أو من الشمال بالطريق المعبّد. هالقاعدة بتطبق بس على السواقين اللي عالطرق المتقاطعة، وما بتشمل السير المقابل. كمان القاعدة اللي بتقول \"الفرع القصير بيروح قبل الطويل\" بتطبق بالطرق غير المعبّدة. إنت عندك فرع قصير، ولَهيك إلك الأولوية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 31,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "6.11%",
-                        "left": "31.16%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "54.11%",
-                        "left": "22.05%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/31_edited.jpg",
-            "feedback": {
-                "metin": "الترام ما لازم يعطي أولوية للسواقين الجايين من اليمين عند تقاطع متساوي، متل باقي السواقين.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 35,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "26.78%",
-                        "left": "57.77%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "51.67%",
-                        "left": "60.98%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/35_edited.jpg",
-            "feedback": {
-                "metin": "وقت بتفرع، لازم تعطي أولوية للسير المستمر بنفس الطريق.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 42,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "53.89%",
-                        "left": "70.80%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "11.00%",
-                        "left": "11.88%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/42_edited.jpg",
-            "feedback": {
-                "metin": "الشخص اللي ماشي مع الحصان وعم يفرع على نفس الطريق اللي إنت رايح عليه. بهالحالة، الدوران القصير بيروح قبل الطويل، يعني اللي عم يلف يمين إله أولوية عاللي عم يلف شمال. لذلك، الشخص اللي مع الحصان إله أولوية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        },
-        {
-            "numara": 45,
-            "soru": "مين مسموح يروح بالأول؟",
-            "elements": [
-                {
-                    "type": "box",
-                    "class": "dragger1",
-                    "value": "1",
-                    "position": {
-                        "top": "84.4444%",
-                        "left": "1.7857%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target1",
-                    "value": "",
-                    "position": {
-                        "top": "45.44%",
-                        "left": "51.34%"
-                    }
-                },
-                {
-                    "type": "target",
-                    "id": "target2",
-                    "value": "",
-                    "position": {
-                        "top": "17.00%",
-                        "left": "14.20%"
-                    }
-                }
-            ],
-            "dogruCevap": [
-                {
-                    "id": "dragger1",
-                    "target": "target1"
-                }
-            ],
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/45_edited.jpg",
-            "feedback": {
-                "metin": "إنت طالع من طريق غير معبّد ولازم تعطي أولوية لكل السواقين اللي عالطريق المعبّد المتقاطع. بس المشاة ما بينحسبوا كسواق، ولَهيك إلك الأولوية.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "44.56%",
+            "left": "7.77%"
+          }
         }
-    ]
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/4_edited.jpg",
+      "feedback": {
+        "metin": "المركبات المشاركة في موكب الجنازة تنعطف من الطريق الذي تواصل أنت السير فيه بشكل مستقيم. هذا يعني أنه لا يمكنك قطع الموكب ويجب عليك إعطاؤهم حق الأولوية.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 5,
+      "soru": "ما هو الترتيب الصحيح للأولوية؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger2",
+          "value": "2",
+          "position": {
+            "top": "84.4444%",
+            "left": "14.9857%"
+          }
+        },
+        {
+          "type": "box",
+          "class": "dragger3",
+          "value": "3",
+          "position": {
+            "top": "84.4444%",
+            "left": "28.185699999999997%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "10.33%",
+            "left": "13.48%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "11.44%",
+            "left": "65.27%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target3",
+          "value": "",
+          "position": {
+            "top": "61.44%",
+            "left": "63.48%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        },
+        {
+          "id": "dragger2",
+          "target": "target2"
+        },
+        {
+          "id": "dragger3",
+          "target": "target3"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/5_edited.jpg",
+      "feedback": {
+        "metin": "يجب على جميع السائقين، باستثناء سائق السيارة الحمراء، إعطاء حق الأولوية للسائقين القادمين من جهة اليمين. وبما أن السيارة الحمراء لا يجب عليها إعطاء الأولوية لأي شخص، فلها حق الأولوية بالمرور أولاً. يجب عليك إعطاء الأولوية للسيارة الزرقاء، لذا يمكن لسائق السيارة الزرقاء المرور في المرتبة الثانية.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 19,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "6.56%",
+            "left": "25.27%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "37.67%",
+            "left": "44.20%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/19_edited.jpg",
+      "feedback": {
+        "metin": "إذا أعطت حافلة إشارة برغبتها في الانطلاق من الموقف داخل المناطق السكنية، فيجب عليك إعطاؤها حق الأولوية، بغض النظر عما إذا كانت حافلة نقل عام أو حافلة سياحية. في هذه الحالة، الحافلة لها حق الأولوية.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 30,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "52.11%",
+            "left": "50.09%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "10.56%",
+            "left": "16.34%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/30_edited.jpg",
+      "feedback": {
+        "metin": "يجب على السائقين القادمين من طرق غير معبدة إعطاء حق الأولوية للسائقين القادمين من اليسار واليمين على الطرق المعبدة. تنطبق هذه القاعدة فقط على السائقين في الطرق المتقاطعة وليس على حركة المرور القادمة من الاتجاه المعاكس. تنطبق أيضاً قاعدة 'المنعطف القصير يسبق المنعطف الطويل' في الطرق غير المعبدة؛ وبما أنك تسلك المنعطف القصير، فلك حق الأولوية.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 31,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "6.11%",
+            "left": "31.16%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "54.11%",
+            "left": "22.05%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/31_edited.jpg",
+      "feedback": {
+        "metin": "لا يتعين على الترام إعطاء حق الأولوية للسائقين القادمين من جهة اليمين في التقاطعات المتكافئة، على عكس السائقين الآخرين.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 35,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "26.78%",
+            "left": "57.77%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "51.67%",
+            "left": "60.98%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/35_edited.jpg",
+      "feedback": {
+        "metin": "عند الانعطاف، يجب عليك إعطاء حق الأولوية للمرور المستقيم الذي يسير على نفس الطريق.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 42,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "53.89%",
+            "left": "70.80%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "11.00%",
+            "left": "11.88%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/42_edited.jpg",
+      "feedback": {
+        "metin": "ينعطف مروض الحصان إلى نفس الطريق الذي تسلكه أنت. في هذه الحالة، المنعطف القصير يسبق المنعطف الطويل؛ أي أن الشخص الذي ينعطف يميناً له الأولوية على الشخص الذي ينعطف يساراً. مروض الحصان له حق الأولوية.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    },
+    {
+      "numara": 45,
+      "soru": "من المسموح له بالمرور أولاً؟",
+      "elements": [
+        {
+          "type": "box",
+          "class": "dragger1",
+          "value": "1",
+          "position": {
+            "top": "84.4444%",
+            "left": "1.7857%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target1",
+          "value": "",
+          "position": {
+            "top": "45.44%",
+            "left": "51.34%"
+          }
+        },
+        {
+          "type": "target",
+          "id": "target2",
+          "value": "",
+          "position": {
+            "top": "17.00%",
+            "left": "14.20%"
+          }
+        }
+      ],
+      "dogruCevap": [
+        {
+          "id": "dragger1",
+          "target": "target1"
+        }
+      ],
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/45_edited.jpg",
+      "feedback": {
+        "metin": "أنت تغادر طريقاً غير معبد ويجب عليك إعطاء حق الأولوية لجميع السائقين على الطريق المعبد المتقاطع. ومع ذلك، لا يُصنف المشاة كـ 'سائقين'، مما يعني أن لك حق الأولوية هنا.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  ]
 }

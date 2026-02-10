@@ -1,27 +1,27 @@
 {
-    "sorular": [
-        {
-            "numara": 25,
-            "soru": "وين بتشوف هالنوع من النمرة؟",
-            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/25.jpg",
-            "cevaplar": [
-                "عـ brommobiel.",
-                "ع حامل بسكليت.",
-                "ع مقطورة بوزن أقصى مسموح فيه لحد 750 كغ.",
-                "ع تاكسي.",
-                "ع نص مقطورة ورا الشاحنة.",
-                "ع مقطورة بوزن أقصى مسموح فيه أكتر من 750 كغ."
-            ],
-            "dogruCevap": [
-                "ع حامل بسكليت.",
-                "ع مقطورة بوزن أقصى مسموح فيه لحد 750 كغ."
-            ],
-            "feedback": {
-                "metin": "النمرة البيضا بتنحط ع المقطورات الخفيفة (لحد 750 كغ وزن أقصى مسموح فيه) وعلى الحوامل عالقاطرة متل حامل البسكليت. ع هالنمرة بينكتب رقم تسجيل السيارة الساحبة. الـBrommobielen والمقطورات الأتقل ونص المقطورات ورا الشاحنات عندن رقم تسجيل خاص ع نمرة صفرا. التاكسي عندو نمرة زرقا.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-            }
-        }
-    ]
+  "sorular": [
+    {
+      "numara": 25,
+      "soru": "أين يمكنك أن تجد هذا النوع من لوحات الأرقام؟",
+      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test6/25.jpg",
+      "cevaplar": [
+        "على مركبة من فئة (brommobiel).",
+        "على حامل الدراجات الهوائية.",
+        "على مقطورة بكتلة قصوى مسموح بها تصل إلى 750 كجم.",
+        "على سيارة أجرة (تاكسي).",
+        "على نصف مقطورة خلف شاحنة.",
+        "على مقطورة بكتلة قصوى مسموح بها تزيد عن 750 كجم."
+      ],
+      "dogruCevap": [
+        "على حامل الدراجات الهوائية.",
+        "على مقطورة بكتلة قصوى مسموح بها تصل إلى 750 كجم."
+      ],
+      "feedback": {
+        "metin": "توجد لوحة الأرقام البيضاء على المقطورات الخفيفة (التي تصل كتلتها القصوى المسموح بها إلى 750 كجم) والحوامل المثبتة على قضيب القطر مثل حوامل الدراجات الهوائية. تحمل هذه اللوحة رقم تسجيل المركبة التي تقوم بالقطر. أما مركبات (Brommobielen) والمقطورات الثقيلة ونصف المقطورات خلف الشاحنات فلها رقم تسجيل خاص بها على لوحة صفراء. بينما تحمل سيارة الأجرة لوحة أرقام زرقاء.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  ]
 }
