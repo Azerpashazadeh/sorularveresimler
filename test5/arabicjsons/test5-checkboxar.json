@@ -2,22 +2,22 @@
   "sorular": [
     {
       "numara": 37,
-      "soru": "أي مركبات بتنحسب من فئة المركبات الآلية؟",
+      "soru": "أي من هذه المركبات تندرج تحت فئة المركبات الآلية (motorvoertuigen)؟",
       "resim": "",
       "cevaplar": [
         "دراجة نارية.",
-        "جرار.",
+        "جرار زراعي.",
         "سيارة ركاب.",
-        "موبيد.",
+        "دراجة آلية (موبيد).",
         "ترام."
       ],
       "dogruCevap": [
         "دراجة نارية.",
-        "جرار.",
+        "جرار زراعي.",
         "سيارة ركاب."
       ],
       "feedback": {
-        "metin": "المركبات الآلية هني كل المركبات الميكانيكية إلا المركبات يلي بتمشي عالسكة (قطار، مترو، ترام)، الموبيدات، ومركبات ذوي الاحتياجات.",
+        "metin": "المركبات الآلية هي جميع المركبات ذات المحرك، باستثناء المركبات التي تسير على قضبان (القطار، المترو، الترام)، والدراجات الآلية (الموبيد)، ومركبات ذوي الاحتياجات الخاصة.",
         "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
         "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
         "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
