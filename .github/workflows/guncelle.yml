@@ -1,5 +1,16 @@
-name: JSON Link Guncelleyici
-on: workflow_dispatch
+name: JSON Yonetim Paneli
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: 'Yapmak istediğiniz işlemi seçin'
+        required: true
+        default: 'temizlik'
+        type: choice
+        options:
+          - 'link_enjekte_et'
+          - 'bosluk_temizle'
+          - 'hepsini_yap'
 
 jobs:
   build:
@@ -7,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Tüm geçmişi çekerek çakışmayı önler
+          fetch-depth: 0
 
       - name: Python Kur
         uses: actions/setup-python@v4
@@ -19,14 +30,19 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
 
-      - name: Önce Güncel Hali Çek
-        run: git pull origin main
+      - name: İşlemi Çalıştır
+        run: |
+          if [ "${{ github.event.inputs.islem }}" == "link_enjekte_et" ]; then
+            python toplu_guncelle.py
+          elif [ "${{ github.event.inputs.islem }}" == "bosluk_temizle" ]; then
+            python link_temizle.py
+          else
+            python toplu_guncelle.py
+            python link_temizle.py
+          fi
 
-      - name: Scripti Calistir
-        run: python toplu_guncelle.py
-
-      - name: Degisiklikleri Kaydet ve Gönder
+      - name: Kaydet ve Gönder
         run: |
           git add .
-          git commit -m "Test7-32 arası JSON linkleri otomatik güncellendi" || echo "Degisiklik yok"
+          git commit -m "JSON İşlemi: ${{ github.event.inputs.islem }}" || echo "Değişiklik yok"
           git push origin main
