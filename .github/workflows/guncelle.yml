@@ -1,22 +1,32 @@
 name: JSON Link Guncelleyici
-on: workflow_dispatch # Sen butona basınca çalışır
+on: workflow_dispatch
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Tüm geçmişi çekerek çakışmayı önler
+
       - name: Python Kur
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - name: Scripti Calistir
-        run: python toplu_guncelle.py
-      - name: Degisiklikleri Kaydet
+
+      - name: Git Yapılandırması
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git pull origin main --rebase  # Bu satırı ekledik: Önce güncel hali al
+
+      - name: Önce Güncel Hali Çek
+        run: git pull origin main
+
+      - name: Scripti Calistir
+        run: python toplu_guncelle.py
+
+      - name: Degisiklikleri Kaydet ve Gönder
+        run: |
           git add .
           git commit -m "Test7-32 arası JSON linkleri otomatik güncellendi" || echo "Degisiklik yok"
           git push origin main
