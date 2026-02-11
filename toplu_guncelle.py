@@ -14,7 +14,7 @@ def linkleri_enjekte_et(kaynak_veriler, hedef_veriler):
             if "resim" in kaynak_soru: hedef_soru["resim"] = kaynak_soru["resim"]
             if "video" in kaynak_soru: hedef_soru["video"] = kaynak_soru["video"]
             
-            # 2. Seçeneklerdeki Linkler (T4 formatı vb.)
+            # 2. Seçeneklerdeki Linkler
             if "secenekler" in kaynak_soru:
                 hedef_soru["secenekler"] = kaynak_soru["secenekler"]
             
@@ -35,21 +35,22 @@ def linkleri_enjekte_et(kaynak_veriler, hedef_veriler):
     
     return hedef_veriler
 
-# Ayarlar
-klasor_araligi = range(7, 33) # 7'den 32'ye kadar (33 dahil değil)
+# --- GÜNCELLEDİĞİMİZ KISIM BURASI ---
+klasor_araligi = range(7, 51) # 7'den başlar, 51'e kadar (50 dahil) gider
+# -----------------------------------
+
 dosya_tipleri = ["radio", "fillblank", "checkbox", "dragdrop"]
 diller = {"arabicjsons": "ar", "dutchjsons": "nl", "turkishjsons": "tr"}
 
 for i in klasor_araligi:
     ana_klasor = f"test{i}"
     if not os.path.exists(ana_klasor):
-        print(f"Atlanıyor: {ana_klasor} bulunamadı.")
+        print(f"Atlanıyor: {ana_klasor} henüz mevcut değil.")
         continue
 
     print(f"--- İşleniyor: {ana_klasor} ---")
 
     for tip in dosya_tipleri:
-        # Örn: test7/englishjsons/test7-radioen.json
         eng_dosya_yolu = os.path.join(ana_klasor, "englishjsons", f"{ana_klasor}-{tip}en.json")
         
         if not os.path.exists(eng_dosya_yolu):
@@ -59,7 +60,6 @@ for i in klasor_araligi:
             eng_data = json.load(f)
 
         for klasor_adi, dil_kodu in diller.items():
-            # Örn: test7/turkishjsons/test7-radiotr.json
             hedef_dosya_yolu = os.path.join(ana_klasor, klasor_adi, f"{ana_klasor}-{tip}{dil_kodu}.json")
             
             if os.path.exists(hedef_dosya_yolu):
