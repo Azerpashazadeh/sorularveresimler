@@ -1,293 +1,293 @@
 {
-  "sorular": [
-    {
-      "numara": 13,
-      "soru": "Doğru geçiş önceliği sırası nedir?",
-      "elements": [
+    "sorular": [
         {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
+            "numara": 13,
+            "soru": "Doğru geçiş önceliği sırası nedir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "38.33%",
+                        "left": "23.13%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "54.56%",
+                        "left": "52.95%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "1.00%",
+                        "left": "26.34%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/13_edited.jpg",
+            "feedback": {
+                "metin": "Kavşaklarda geçiş önceliğini düzenleyen herhangi bir işaret yoksa, tramvayların hem sağdan hem soldan gelen trafiğe karşı önceliği vardır. Aynı yolda düz devam eden trafik bile tramvaylara karşı öncelikli değildir. Bu nedenle önce tramvayın, ardından ise bisikletlinin önceliği vardır; çünkü bisikletli, moped ile aynı yolda ilerlemektedir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
+            "numara": 22,
+            "soru": "Doğru geçiş önceliği sırası nedir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "38.56%",
+                        "left": "81.16%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "2.56%",
+                        "left": "64.38%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "50.11%",
+                        "left": "30.98%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/22_edited.jpg",
+            "feedback": {
+                "metin": "Kavşaklarda geçiş önceliğini düzenleyen işaretler yoksa, tramvay sürücüleri mopetlere karşı önceliğe sahiptir. Ancak öncelik üçgenlerinde, tramvay sürücüleri sağdan ve soldan gelen araçlara yol vermek zorundadır. Bu durumda öncelik mopedindir. “Aynı yolda düz devam eden trafiğin, dönen araçlara göre önceliği vardır” kuralı tramvay sürücüleri için geçerli değildir. Bu nedenle bisikletli, tramvaya yol vermek zorundadır. Doğru sıra: moped, tramvay, bisikletli.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
+            "numara": 33,
+            "soru": "Doğru geçiş önceliği sırası nedir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "59.44%",
+                        "left": "47.05%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "21.00%",
+                        "left": "15.80%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "3.22%",
+                        "left": "64.73%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/33_edited.jpg",
+            "feedback": {
+                "metin": "Hiç kimseye yol vermek zorunda değilsiniz, yani ilk siz geçebilirsiniz. Diğer iki aracın sürücüleri ise sağlarındaki sürücülere yol vermek zorundadır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "38.33%",
-            "left": "23.13%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "54.56%",
-            "left": "52.95%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "1.00%",
-            "left": "26.34%"
-          }
+            "numara": 41,
+            "soru": "İlk önce kimin gitmesine izin verilir?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "25.44%",
+                        "left": "59.73%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "55.00%",
+                        "left": "60.98%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/41_edited.jpg",
+            "feedback": {
+                "metin": "Dönüş yaparken, aynı yolda düz devam eden trafiğe yol vermek zorundasınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Kavşaklarda geçiş önceliğini düzenleyen herhangi bir işaret yoksa, tramvayların hem sağdan hem soldan gelen trafiğe karşı önceliği vardır. Aynı yolda düz devam eden trafik bile tramvaylara karşı öncelikli değildir. Bu nedenle önce tramvayın, ardından ise bisikletlinin önceliği vardır; çünkü bisikletli, moped ile aynı yolda ilerlemektedir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 22,
-      "soru": "Doğru geçiş önceliği sırası nedir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "38.56%",
-            "left": "81.16%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "2.56%",
-            "left": "64.38%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "50.11%",
-            "left": "30.98%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Kavşaklarda geçiş önceliğini düzenleyen işaretler yoksa, tramvay sürücüleri mopetlere karşı önceliğe sahiptir. Ancak öncelik üçgenlerinde, tramvay sürücüleri sağdan ve soldan gelen araçlara yol vermek zorundadır. Bu durumda öncelik mopedindir. “Aynı yolda düz devam eden trafiğin, dönen araçlara göre önceliği vardır” kuralı tramvay sürücüleri için geçerli değildir. Bu nedenle bisikletli, tramvaya yol vermek zorundadır. Doğru sıra: moped, tramvay, bisikletli.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Doğru geçiş önceliği sırası nedir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "59.44%",
-            "left": "47.05%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "21.00%",
-            "left": "15.80%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "3.22%",
-            "left": "64.73%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Hiç kimseye yol vermek zorunda değilsiniz, yani ilk siz geçebilirsiniz. Diğer iki aracın sürücüleri ise sağlarındaki sürücülere yol vermek zorundadır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "İlk önce kimin gitmesine izin verilir?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "25.44%",
-            "left": "59.73%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "55.00%",
-            "left": "60.98%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Dönüş yaparken, aynı yolda düz devam eden trafiğe yol vermek zorundasınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    ]
 }

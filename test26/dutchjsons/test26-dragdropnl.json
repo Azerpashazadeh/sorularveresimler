@@ -1,258 +1,258 @@
 {
-  "sorular": [
-    {
-      "numara": 21,
-      "soru": "Wat is de juiste volgorde van voorrang?",
-      "elements": [
+    "sorular": [
         {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
+            "numara": 21,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "17.44%",
+                        "left": "63.48%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "59.67%",
+                        "left": "70.09%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "56.78%",
+                        "left": "26.88%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test26/21_edited.jpg",
+            "feedback": {
+                "metin": "Dit is een gelijkwaardig kruispunt en je moet voorrang verlenen aan bestuurders van rechts. Een voetganger is geen bestuurder, daarom heeft de auto voorrang, gevolgd door de bromfiets en tenslotte de voetganger.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
+            "numara": 23,
+            "soru": "Wie mag er als eerste gaan?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "12.33%",
+                        "left": "56.34%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "50.78%",
+                        "left": "40.27%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test26/23_edited.jpg",
+            "feedback": {
+                "metin": "Bij het afslaan moet je voorrang verlenen aan doorgaand verkeer op dezelfde weg.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
+            "numara": 27,
+            "soru": "Wie mag er als eerste gaan?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "52.11%",
+                        "left": "51.52%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "48.11%",
+                        "left": "10.98%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test26/27_edited.jpg",
+            "feedback": {
+                "metin": "Bij deze Y-splitsing komen twee onverharde wegen samen. Dit maakt de Y-splitsing gelijkwaardig. De ruiter valt onder de categorie bestuurders en omdat hij van rechts komt, mag hij als eerste gaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "17.44%",
-            "left": "63.48%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "59.67%",
-            "left": "70.09%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "56.78%",
-            "left": "26.88%"
-          }
+            "numara": 30,
+            "soru": "Wat is de juiste volgorde van voorrang?",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "3.67%",
+                        "left": "30.27%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "60.11%",
+                        "left": "72.41%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "55.00%",
+                        "left": "34.91%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test26/30_edited.jpg",
+            "feedback": {
+                "metin": "De blauwe auto mag als eerste gaan. De blauwe auto heeft de korte bocht en jij hebt de lange bocht. De rode auto moet op jou wachten omdat jij van rechts komt. De juiste volgorde is dus: blauwe auto, dan jij, en daarna de rode auto.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Dit is een gelijkwaardig kruispunt en je moet voorrang verlenen aan bestuurders van rechts. Een voetganger is geen bestuurder, daarom heeft de auto voorrang, gevolgd door de bromfiets en tenslotte de voetganger.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 23,
-      "soru": "Wie mag er als eerste gaan?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "12.33%",
-            "left": "56.34%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "50.78%",
-            "left": "40.27%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Bij het afslaan moet je voorrang verlenen aan doorgaand verkeer op dezelfde weg.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 27,
-      "soru": "Wie mag er als eerste gaan?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "52.11%",
-            "left": "51.52%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "48.11%",
-            "left": "10.98%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "Bij deze Y-splitsing komen twee onverharde wegen samen. Dit maakt de Y-splitsing gelijkwaardig. De ruiter valt onder de categorie bestuurders en omdat hij van rechts komt, mag hij als eerste gaan.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 30,
-      "soru": "Wat is de juiste volgorde van voorrang?",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "3.67%",
-            "left": "30.27%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "60.11%",
-            "left": "72.41%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "55.00%",
-            "left": "34.91%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "De blauwe auto mag als eerste gaan. De blauwe auto heeft de korte bocht en jij hebt de lange bocht. De rode auto moet op jou wachten omdat jij van rechts komt. De juiste volgorde is dus: blauwe auto, dan jij, en daarna de rode auto.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    ]
 }

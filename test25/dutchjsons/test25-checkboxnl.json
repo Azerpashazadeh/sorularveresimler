@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "In welke situaties mag je hier stoppen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Als je een passagier wilt afzetten.",
-        "Als je de weg wilt vragen.",
-        "Als je op een passagier moet wachten.",
-        "Als je een zwaar pakket wilt uitladen."
-      ],
-      "dogruCevap": [
-        "Als je een passagier wilt afzetten.",
-        "Als je een zwaar pakket wilt uitladen."
-      ],
-      "feedback": {
-        "metin": "Het is niet toegestaan om te parkeren naast een onderbroken gele streep. Stoppen om passagiers af te zetten of op te halen is toegestaan. Net als stoppen om goederen te laden of lossen. Deze moeten wel van aanzienlijk gewicht of formaat zijn. Wachten op een passagier of de weg vragen wordt gezien als parkeren en is hier dus niet toegestaan.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "In welke situaties mag je hier stoppen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test25/27.jpg",
+            "cevaplar": [
+                "Als je een passagier wilt afzetten.",
+                "Als je de weg wilt vragen.",
+                "Als je op een passagier moet wachten.",
+                "Als je een zwaar pakket wilt uitladen."
+            ],
+            "dogruCevap": [
+                "If you want to drop off a passenger.",
+                "If you want to unload a heavy package."
+            ],
+            "feedback": {
+                "metin": "Het is niet toegestaan om te parkeren naast een onderbroken gele streep. Stoppen om passagiers af te zetten of op te halen is toegestaan. Net als stoppen om goederen te laden of lossen. Deze moeten wel van aanzienlijk gewicht of formaat zijn. Wachten op een passagier of de weg vragen wordt gezien als parkeren en is hier dus niet toegestaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

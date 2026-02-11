@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "شو لازم تعمل إذا عن طريق الغلط طلعت عالحافة الطرية؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "كبس فرامل فوراً.",
-        "لف دغري لترجع عالطريق.",
-        "كمل بنفس السرعة.",
-        "خفف دعسة البنزين.",
-        "رجع عالطريق بسرعة واطية."
-      ],
-      "dogruCevap": [
-        "خفف دعسة البنزين.",
-        "رجع عالطريق بسرعة واطية."
-      ],
-      "feedback": {
-        "metin": "إذا طلعت عالحافة الطرية، مثلاً لأنك اضطرّيت تغير مسارك، انتبه ما تكبس فرامل أو تلف بشكل مفاجئ. خفف دعسة البنزين، استنى لحتى تخف سرعتك وبعدين رجع عالطريق بهدوء.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 36,
-      "soru": "سيارتك وزنا الأقصى المسموح 1500 كغ. أي مقطورات فيك تسحب برخصة B بس؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "مقطورات وزنا الأقصى المسموح 750 كغ.",
-        "مقطورات وزنا الأقصى المسموح 1000 كغ.",
-        "مقطورات وزنا الأقصى المسموح 1500 كغ.",
-        "مقطورات وزنا الأقصى المسموح 2000 كغ."
-      ],
-      "dogruCevap": [
-        "مقطورات وزنا الأقصى المسموح 750 كغ.",
-        "مقطورات وزنا الأقصى المسموح 1000 كغ.",
-        "مقطورات وزنا الأقصى المسموح 1500 كغ.",
-        "مقطورات وزنا الأقصى المسموح 2000 كغ."
-      ],
-      "feedback": {
-        "metin": "برخصة B، فيك تسحب أي مقطورة وزنا الأقصى المسموح لحد 750 كغ. المقطورات الأتقل مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة سوا ما بيتجاوز 3500 كغ. يعني إذا سيارتك وزنا الأقصى 1500 كغ، فيك تسحب مقطورات لحد 2000 كغ. للمقطورات الأتقل بدك رخصة BE. دايماً تأكد من الوزن الأقصى المسموح لسيارتك تسحبوا من الناحية التقنية.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "شو لازم تعمل إذا عن طريق الغلط طلعت عالحافة الطرية؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/8.jpg",
+            "cevaplar": [
+                "كبس فرامل فوراً.",
+                "لف دغري لترجع عالطريق.",
+                "كمل بنفس السرعة.",
+                "خفف دعسة البنزين.",
+                "رجع عالطريق بسرعة واطية."
+            ],
+            "dogruCevap": [
+                "Release the accelerator.",
+                "Steer back at a low speed."
+            ],
+            "feedback": {
+                "metin": "إذا طلعت عالحافة الطرية، مثلاً لأنك اضطرّيت تغير مسارك، انتبه ما تكبس فرامل أو تلف بشكل مفاجئ. خفف دعسة البنزين، استنى لحتى تخف سرعتك وبعدين رجع عالطريق بهدوء.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 36,
+            "soru": "سيارتك وزنا الأقصى المسموح 1500 كغ. أي مقطورات فيك تسحب برخصة B بس؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/36.jpg",
+            "cevaplar": [
+                "مقطورات وزنا الأقصى المسموح 750 كغ.",
+                "مقطورات وزنا الأقصى المسموح 1000 كغ.",
+                "مقطورات وزنا الأقصى المسموح 1500 كغ.",
+                "مقطورات وزنا الأقصى المسموح 2000 كغ."
+            ],
+            "dogruCevap": [
+                "Trailers with a maximum authorised mass of 750 kg.",
+                "Trailers with a maximum authorised mass of 1000 kg.",
+                "Trailers with a maximum authorised mass of 1500 kg.",
+                "Trailers with a maximum authorised mass of 2000 kg."
+            ],
+            "feedback": {
+                "metin": "برخصة B، فيك تسحب أي مقطورة وزنا الأقصى المسموح لحد 750 كغ. المقطورات الأتقل مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة سوا ما بيتجاوز 3500 كغ. يعني إذا سيارتك وزنا الأقصى 1500 كغ، فيك تسحب مقطورات لحد 2000 كغ. للمقطورات الأتقل بدك رخصة BE. دايماً تأكد من الوزن الأقصى المسموح لسيارتك تسحبوا من الناحية التقنية.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

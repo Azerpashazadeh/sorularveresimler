@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "أي مركبات بتنحسب من فئة العربات الآلية بس ما بتنحسب من فئة المركبات الآلية؟",
-      "resim": "",
-      "cevaplar": [
-        "ترام.",
-        "تراكتور.",
-        "مركبات معاقين بمحرك.",
-        "موپد."
-      ],
-      "dogruCevap": [
-        "مركبات معاقين بمحرك.",
-        "موپد."
-      ],
-      "feedback": {
-        "metin": "المركبات الوحيدة اللي بتنحسب من فئة العربات الآلية بس ما بتنحسب من فئة المركبات الآلية، هني الموپدات ومركبات المعاقين بمحرك.\nكل المركبات التانية بتنحسب من الفئتين سوا، أو من ولا وحدة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "أي مركبات بتنحسب من فئة العربات الآلية بس ما بتنحسب من فئة المركبات الآلية؟",
+            "resim": "",
+            "cevaplar": [
+                "ترام.",
+                "تراكتور.",
+                "مركبات معاقين بمحرك.",
+                "موپد."
+            ],
+            "dogruCevap": [
+                "Motorised disabled vehicles.",
+                "Moped."
+            ],
+            "feedback": {
+                "metin": "المركبات الوحيدة اللي بتنحسب من فئة العربات الآلية بس ما بتنحسب من فئة المركبات الآلية، هني الموپدات ومركبات المعاقين بمحرك.\nكل المركبات التانية بتنحسب من الفئتين سوا، أو من ولا وحدة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

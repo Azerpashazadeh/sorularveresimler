@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "Burada hangi durumlarda durmanıza izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bir yolcuyu indirmek isterseniz.",
-        "Yön sormak isterseniz.",
-        "Bir yolcunun gelmesini beklemek zorundaysanız.",
-        "Ağır bir paketi boşaltmak isterseniz."
-      ],
-      "dogruCevap": [
-        "Bir yolcuyu indirmek isterseniz.",
-        "Ağır bir paketi boşaltmak isterseniz."
-      ],
-      "feedback": {
-        "metin": "Sarı kesik çizginin yanında park etmek yasaktır. Yolcu indirip bindirmek için durmaya izin verilir. Ayrıca yükleme veya boşaltma için durmak da serbesttir. Ancak bu yükün önemli bir ağırlığı veya boyutu olmalıdır. Bir yolcunun gelmesini beklemek veya yön sormak park etmek sayılır ve bu nedenle burada yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "Burada hangi durumlarda durmanıza izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test25/27.jpg",
+            "cevaplar": [
+                "Bir yolcuyu indirmek isterseniz.",
+                "Yön sormak isterseniz.",
+                "Bir yolcunun gelmesini beklemek zorundaysanız.",
+                "Ağır bir paketi boşaltmak isterseniz."
+            ],
+            "dogruCevap": [
+                "If you want to drop off a passenger.",
+                "If you want to unload a heavy package."
+            ],
+            "feedback": {
+                "metin": "Sarı kesik çizginin yanında park etmek yasaktır. Yolcu indirip bindirmek için durmaya izin verilir. Ayrıca yükleme veya boşaltma için durmak da serbesttir. Ancak bu yükün önemli bir ağırlığı veya boyutu olmalıdır. Bir yolcunun gelmesini beklemek veya yön sormak park etmek sayılır ve bu nedenle burada yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "بأي حالات مسموح توقف هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "إذا بدك تنزل راكب.",
-        "إذا بدك تسأل عن الطريق.",
-        "إذا لازم تنطر راكب ليجي.",
-        "إذا بدك تفرغ طرد تقيل."
-      ],
-      "dogruCevap": [
-        "إذا بدك تنزل راكب.",
-        "إذا بدك تفرغ طرد تقيل."
-      ],
-      "feedback": {
-        "metin": "ممنوع توقف جنب الخط الأصفر المتقطع. مسموح توقف لتنزيل أو تحميل ركاب. وكمان مسموح توقف لتفريغ أو تحميل بضاعة إذا كانت تقيلة أو كبيرة. بس الانتظار لراكب ليجي أو السؤال عن الطريق بينحسب موقف، وهيك بيكون ممنوع هون.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "بأي حالات مسموح توقف هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test25/27.jpg",
+            "cevaplar": [
+                "إذا بدك تنزل راكب.",
+                "إذا بدك تسأل عن الطريق.",
+                "إذا لازم تنطر راكب ليجي.",
+                "إذا بدك تفرغ طرد تقيل."
+            ],
+            "dogruCevap": [
+                "If you want to drop off a passenger.",
+                "If you want to unload a heavy package."
+            ],
+            "feedback": {
+                "metin": "ممنوع توقف جنب الخط الأصفر المتقطع. مسموح توقف لتنزيل أو تحميل ركاب. وكمان مسموح توقف لتفريغ أو تحميل بضاعة إذا كانت تقيلة أو كبيرة. بس الانتظار لراكب ليجي أو السؤال عن الطريق بينحسب موقف، وهيك بيكون ممنوع هون.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

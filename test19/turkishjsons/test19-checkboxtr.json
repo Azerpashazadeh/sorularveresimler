@@ -1,26 +1,26 @@
 {
-  "sorular": [
-    {
-      "numara": 35,
-      "soru": "Hangi sıvıları kontrol ettikten sonra kendiniz oldukça kolay doldurabilirsiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Fren hidroliği.",
-        "Cam suyu.",
-        "Motor yağı.",
-        "Soğutma sıvısı."
-      ],
-      "dogruCevap": [
-        "Cam suyu.",
-        "Motor yağı.",
-        "Soğutma sıvısı."
-      ],
-      "feedback": {
-        "metin": "Sıvı seviyesini kontrol ettikten sonra, gerekirse soğutma sıvısını, cam suyunu ve motor yağını kendiniz oldukça kolay doldurabilirsiniz. Fren hidroliğini kendiniz doldurmanız ise mantıklı değildir, çünkü bu fren sistemine hava girmesi riskini artırır. Bu da fren performansını olumsuz etkiler. Fren hidroliği seviyesi çok düşükse bayiye başvurmalısınız. Bu genellikle frenlerde bir sorun olduğunu gösterir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 35,
+            "soru": "Hangi sıvıları kontrol ettikten sonra kendiniz oldukça kolay doldurabilirsiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/35.jpg",
+            "cevaplar": [
+                "Fren hidroliği.",
+                "Cam suyu.",
+                "Motor yağı.",
+                "Soğutma sıvısı."
+            ],
+            "dogruCevap": [
+                "Wiper fluid.",
+                "Engine oil.",
+                "Coolant."
+            ],
+            "feedback": {
+                "metin": "Sıvı seviyesini kontrol ettikten sonra, gerekirse soğutma sıvısını, cam suyunu ve motor yağını kendiniz oldukça kolay doldurabilirsiniz. Fren hidroliğini kendiniz doldurmanız ise mantıklı değildir, çünkü bu fren sistemine hava girmesi riskini artırır. Bu da fren performansını olumsuz etkiler. Fren hidroliği seviyesi çok düşükse bayiye başvurmalısınız. Bu genellikle frenlerde bir sorun olduğunu gösterir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

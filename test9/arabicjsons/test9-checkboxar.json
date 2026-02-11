@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 33,
-      "soru": "كيف بتسوق بأكتر شكل موفّر للطاقة؟",
-      "resim": "",
-      "cevaplar": [
-        "استعمل cruise control قد ما بتقدر.",
-        "ضلّك عالغيار الواطي أطول وقت ممكن.",
-        "خلي مسافة أمان كافية.",
-        "استعمل المكيّف قد ما بتقدر.",
-        "انطلق دغري بعد ما تشغّل المحرك.",
-        "اكبس دعسة الكلاتش أول ما تبلّش تكبس فرامل."
-      ],
-      "dogruCevap": [
-        "استعمل cruise control قد ما بتقدر.",
-        "خلي مسافة أمان كافية.",
-        "انطلق دغري بعد ما تشغّل المحرك."
-      ],
-      "feedback": {
-        "metin": "لتسوق بأكتر شكل موفّر للطاقة، لازم تنطلق دغري بعد ما تشغّل المحرك وتبدّل عالغيار الأعلى بأسرع وقت ممكن. ولما تحتاج تكبس فرامل، استعمل فرملة المحرك وما تكبس الكلاتش بكّير. لازم تخلي مسافة أمان كافية وتستعمل cruise control قد ما بتقدر. وحاول تقلل من استعمال الأجهزة يلي بتستهلك طاقة مثل المكيّف وتدفئة الكراسي وغيرها.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 33,
+            "soru": "كيف بتسوق بأكتر شكل موفّر للطاقة؟",
+            "resim": "",
+            "cevaplar": [
+                "استعمل cruise control قد ما بتقدر.",
+                "ضلّك عالغيار الواطي أطول وقت ممكن.",
+                "خلي مسافة أمان كافية.",
+                "استعمل المكيّف قد ما بتقدر.",
+                "انطلق دغري بعد ما تشغّل المحرك.",
+                "اكبس دعسة الكلاتش أول ما تبلّش تكبس فرامل."
+            ],
+            "dogruCevap": [
+                "Use the cruise control as much as possible.",
+                "Keep a sufficient following distance.",
+                "Drive off immediately after starting the engine."
+            ],
+            "feedback": {
+                "metin": "لتسوق بأكتر شكل موفّر للطاقة، لازم تنطلق دغري بعد ما تشغّل المحرك وتبدّل عالغيار الأعلى بأسرع وقت ممكن. ولما تحتاج تكبس فرامل، استعمل فرملة المحرك وما تكبس الكلاتش بكّير. لازم تخلي مسافة أمان كافية وتستعمل cruise control قد ما بتقدر. وحاول تقلل من استعمال الأجهزة يلي بتستهلك طاقة مثل المكيّف وتدفئة الكراسي وغيرها.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

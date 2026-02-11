@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 25,
-      "soru": "Wat moet je in deze situatie doen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ga zo snel mogelijk naar de rechterrijstrook.",
-        "Tik kort op het rempedaal als waarschuwing.",
-        "Blijf met dezelfde snelheid doorrijden.",
-        "Verhoog je snelheid."
-      ],
-      "dogruCevap": [
-        "Ga zo snel mogelijk naar de rechterrijstrook.",
-        "Blijf met dezelfde snelheid doorrijden."
-      ],
-      "feedback": {
-        "metin": "Als je last hebt van bumperkleven, blijf rustig en verhoog je snelheid niet. Tik ook niet op het rempedaal als waarschuwing. Dit kan ervoor zorgen dat de bumperklever plotseling uitwijkt en ander verkeer in gevaar brengt. Blijf met dezelfde snelheid rijden en ga zo snel mogelijk naar de rechterrijstrook.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 25,
+            "soru": "Wat moet je in deze situatie doen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test11/25.jpg",
+            "cevaplar": [
+                "Ga zo snel mogelijk naar de rechterrijstrook.",
+                "Tik kort op het rempedaal als waarschuwing.",
+                "Blijf met dezelfde snelheid doorrijden.",
+                "Verhoog je snelheid."
+            ],
+            "dogruCevap": [
+                "Move to the right lane as soon as possible.",
+                "Continue driving at the same speed."
+            ],
+            "feedback": {
+                "metin": "Als je last hebt van bumperkleven, blijf rustig en verhoog je snelheid niet. Tik ook niet op het rempedaal als waarschuwing. Dit kan ervoor zorgen dat de bumperklever plotseling uitwijkt en ander verkeer in gevaar brengt. Blijf met dezelfde snelheid rijden en ga zo snel mogelijk naar de rechterrijstrook.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

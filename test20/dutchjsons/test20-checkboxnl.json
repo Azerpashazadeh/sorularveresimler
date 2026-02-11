@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "Welke voertuigen vallen wel onder de categorie motorrijtuigen, maar niet onder de categorie motorvoertuigen?",
-      "resim": "",
-      "cevaplar": [
-        "Tram.",
-        "Tractor.",
-        "Gehandicaptenvoertuigen met motor.",
-        "Bromfiets."
-      ],
-      "dogruCevap": [
-        "Gehandicaptenvoertuigen met motor.",
-        "Bromfiets."
-      ],
-      "feedback": {
-        "metin": "De enige voertuigen die wel onder de categorie motorrijtuigen vallen maar niet onder de categorie motorvoertuigen, zijn bromfietsen en gehandicaptenvoertuigen met motor.\nAlle andere voertuigen vallen onder beide categorieën, of onder geen van beide.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "Welke voertuigen vallen wel onder de categorie motorrijtuigen, maar niet onder de categorie motorvoertuigen?",
+            "resim": "",
+            "cevaplar": [
+                "Tram.",
+                "Tractor.",
+                "Gehandicaptenvoertuigen met motor.",
+                "Bromfiets."
+            ],
+            "dogruCevap": [
+                "Motorised disabled vehicles.",
+                "Moped."
+            ],
+            "feedback": {
+                "metin": "De enige voertuigen die wel onder de categorie motorrijtuigen vallen maar niet onder de categorie motorvoertuigen, zijn bromfietsen en gehandicaptenvoertuigen met motor.\nAlle andere voertuigen vallen onder beide categorieën, of onder geen van beide.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

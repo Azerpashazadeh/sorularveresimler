@@ -1,482 +1,482 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
+    "sorular": [
         {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
+            "numara": 4,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "11.44%",
+                        "left": "39.91%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "53.89%",
+                        "left": "63.30%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/4_edited.jpg",
+            "feedback": {
+                "metin": "إذا سائق مركبة المعاقين استعمل الرصيف أو الممر، أو قطع من رصيف لرصيف، بينحسب كمشاة مو كسائق. هاد الشي يعني إنو إلو أولوية لما بيقطع بممر المشاة. إنت لازم تعطي أولوية لمركبة المعاقين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "11.44%",
-            "left": "39.91%"
-          }
+            "numara": 8,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "11.89%",
+                        "left": "19.91%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "2.11%",
+                        "left": "35.63%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "10.56%",
+                        "left": "85.98%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/8_edited.jpg",
+            "feedback": {
+                "metin": "الدرّاج إلو أولوية. سائق السيارة الحمرا لازم يعطي أولوية للسائق والدرّاج الجايين من اليمين. وإنت لازم تعطي أولوية للدرّاج لأنه مكمل بنفس الطريق وإنت بدك تلف وتتركه.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         },
         {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "53.89%",
-            "left": "63.30%"
-          }
+            "numara": 11,
+            "soru": "شو الترتيب الصحيح للأولوية؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger4",
+                    "value": "4",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "41.38569999999999%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "19.00%",
+                        "left": "15.27%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "57.22%",
+                        "left": "77.05%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "12.33%",
+                        "left": "57.95%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target4",
+                    "value": "",
+                    "position": {
+                        "top": "54.78%",
+                        "left": "19.38%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                },
+                {
+                    "id": "dragger4",
+                    "target": "target4"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/11_edited.jpg",
+            "feedback": {
+                "metin": "سيارة الركاب والموبيد عم يمشوا بطريق أولوية. لازم الدراجة النارية والدرّاج يعطوهن أولوية. وبما إنو سيارة الركاب بدها تلف وتترك نفس الطريق اللي راكب الموبيد مكمل فيه، فالموبيد إلو أولوية. بعده بتجي الدراجة النارية لأنها مكملة بنفس الطريق اللي الدرّاج بدو يتركه.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 16,
+            "soru": "شو الترتيب الصحيح للأولوية؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger2",
+                    "value": "2",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "14.9857%"
+                    }
+                },
+                {
+                    "type": "box",
+                    "class": "dragger3",
+                    "value": "3",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "28.185699999999997%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "41.00%",
+                        "left": "11.16%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "65.00%",
+                        "left": "61.88%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "3.22%",
+                        "left": "35.63%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                },
+                {
+                    "id": "dragger2",
+                    "target": "target2"
+                },
+                {
+                    "id": "dragger3",
+                    "target": "target3"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/16_edited.jpg",
+            "feedback": {
+                "metin": "سيارة التعليم وسائق الموتورسيكل جايين من طريق ترابي، ولهيك لازم يعطوا أولوية للسواقين اللي عالطريق المعبد جايين من اليمين أو من اليسار. راكب الموبيد عالطريق المعبد مسموح يروح أول شي. المرور اللي ماشي دغري بيروح قبل المرور اللي عم يلف بنفس الطريق. سيارة التعليم ماشية دغري بينما الموتورسيكل عم يلف. سيارة التعليم بتروح تاني، والموتورسيكل بيروح تالت. الطريق الترابي ما بيأثر بهالقاعدة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 22,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "55.89%",
+                        "left": "51.16%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "6.33%",
+                        "left": "21.52%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/22_edited.jpg",
+            "feedback": {
+                "metin": "هاد المفرق على شكل Y هو تقاطع طرق متساوية. السواقين لازم يعطوا أولوية للسواقين الجايين من اليمين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "15.22%",
+                        "left": "20.80%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "61.00%",
+                        "left": "24.02%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/29_edited.gif",
+            "feedback": {
+                "metin": "سيارة التعليم لازم تعطي أولوية للإسعاف. لأنو الإسعاف مشغل إشارات ضوئية وصوتية، فهو بينحسب كمركبة إسعاف طارئة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 31,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "5.44%",
+                        "left": "54.02%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "9.22%",
+                        "left": "72.05%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target3",
+                    "value": "",
+                    "position": {
+                        "top": "65.00%",
+                        "left": "28.13%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/31_edited.jpg",
+            "feedback": {
+                "metin": "بهالتقاطع، فيك تلف يمين أو يسار أو تكمل دغري إذا الإشارة خضرا. إذا الإشارة دائرية مو بشكل سهم، لازم دايمًا تحسب حساب السيارات المقابلة لأن ممكن كمان يكون عندها خضرا بنفس الوقت. القواعد اللي بتقول \"اللي ماشي دغري بنفس الطريق إلو أولوية عاللي عم يلف\" و\"اللفة القصيرة بتسبق الطويلة\" بيضلوا مطبقين. بهالحالة، لازم تعطي أولوية للسيارة والدرّاج. والسيارة المقابلة كمان لازم تعطي أولوية للدرّاج اللي مكمل دغري. الدرّاج إلو أولوية.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 44,
+            "soru": "مين مسموح يروح أول شي؟",
+            "elements": [
+                {
+                    "type": "box",
+                    "class": "dragger1",
+                    "value": "1",
+                    "position": {
+                        "top": "84.4444%",
+                        "left": "1.7857%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target1",
+                    "value": "",
+                    "position": {
+                        "top": "4.11%",
+                        "left": "30.80%"
+                    }
+                },
+                {
+                    "type": "target",
+                    "id": "target2",
+                    "value": "",
+                    "position": {
+                        "top": "43.00%",
+                        "left": "42.05%"
+                    }
+                }
+            ],
+            "dogruCevap": [
+                {
+                    "id": "dragger1",
+                    "target": "target1"
+                }
+            ],
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/44_edited.jpg",
+            "feedback": {
+                "metin": "إذا باص أشار إنو بدو يطلع من موقفه ضمن منطقة معمورة، لازم تعطيه أولوية – سواء كان باص عام أو باص سفر. بهالحالة الباص إلو أولوية.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
         }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "إذا سائق مركبة المعاقين استعمل الرصيف أو الممر، أو قطع من رصيف لرصيف، بينحسب كمشاة مو كسائق. هاد الشي يعني إنو إلو أولوية لما بيقطع بممر المشاة. إنت لازم تعطي أولوية لمركبة المعاقين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 8,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "11.89%",
-            "left": "19.91%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "2.11%",
-            "left": "35.63%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "10.56%",
-            "left": "85.98%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "الدرّاج إلو أولوية. سائق السيارة الحمرا لازم يعطي أولوية للسائق والدرّاج الجايين من اليمين. وإنت لازم تعطي أولوية للدرّاج لأنه مكمل بنفس الطريق وإنت بدك تلف وتتركه.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 11,
-      "soru": "شو الترتيب الصحيح للأولوية؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger4",
-          "value": "4",
-          "position": {
-            "top": "84.4444%",
-            "left": "41.38569999999999%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "19.00%",
-            "left": "15.27%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "57.22%",
-            "left": "77.05%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "12.33%",
-            "left": "57.95%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target4",
-          "value": "",
-          "position": {
-            "top": "54.78%",
-            "left": "19.38%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        },
-        {
-          "id": "dragger4",
-          "target": "target4"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "سيارة الركاب والموبيد عم يمشوا بطريق أولوية. لازم الدراجة النارية والدرّاج يعطوهن أولوية. وبما إنو سيارة الركاب بدها تلف وتترك نفس الطريق اللي راكب الموبيد مكمل فيه، فالموبيد إلو أولوية. بعده بتجي الدراجة النارية لأنها مكملة بنفس الطريق اللي الدرّاج بدو يتركه.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 16,
-      "soru": "شو الترتيب الصحيح للأولوية؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger2",
-          "value": "2",
-          "position": {
-            "top": "84.4444%",
-            "left": "14.9857%"
-          }
-        },
-        {
-          "type": "box",
-          "class": "dragger3",
-          "value": "3",
-          "position": {
-            "top": "84.4444%",
-            "left": "28.185699999999997%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "41.00%",
-            "left": "11.16%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "65.00%",
-            "left": "61.88%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "3.22%",
-            "left": "35.63%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        },
-        {
-          "id": "dragger2",
-          "target": "target2"
-        },
-        {
-          "id": "dragger3",
-          "target": "target3"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "سيارة التعليم وسائق الموتورسيكل جايين من طريق ترابي، ولهيك لازم يعطوا أولوية للسواقين اللي عالطريق المعبد جايين من اليمين أو من اليسار. راكب الموبيد عالطريق المعبد مسموح يروح أول شي. المرور اللي ماشي دغري بيروح قبل المرور اللي عم يلف بنفس الطريق. سيارة التعليم ماشية دغري بينما الموتورسيكل عم يلف. سيارة التعليم بتروح تاني، والموتورسيكل بيروح تالت. الطريق الترابي ما بيأثر بهالقاعدة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 22,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "55.89%",
-            "left": "51.16%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "6.33%",
-            "left": "21.52%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "هاد المفرق على شكل Y هو تقاطع طرق متساوية. السواقين لازم يعطوا أولوية للسواقين الجايين من اليمين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "15.22%",
-            "left": "20.80%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "61.00%",
-            "left": "24.02%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "سيارة التعليم لازم تعطي أولوية للإسعاف. لأنو الإسعاف مشغل إشارات ضوئية وصوتية، فهو بينحسب كمركبة إسعاف طارئة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 31,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "5.44%",
-            "left": "54.02%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "9.22%",
-            "left": "72.05%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target3",
-          "value": "",
-          "position": {
-            "top": "65.00%",
-            "left": "28.13%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "بهالتقاطع، فيك تلف يمين أو يسار أو تكمل دغري إذا الإشارة خضرا. إذا الإشارة دائرية مو بشكل سهم، لازم دايمًا تحسب حساب السيارات المقابلة لأن ممكن كمان يكون عندها خضرا بنفس الوقت. القواعد اللي بتقول \"اللي ماشي دغري بنفس الطريق إلو أولوية عاللي عم يلف\" و\"اللفة القصيرة بتسبق الطويلة\" بيضلوا مطبقين. بهالحالة، لازم تعطي أولوية للسيارة والدرّاج. والسيارة المقابلة كمان لازم تعطي أولوية للدرّاج اللي مكمل دغري. الدرّاج إلو أولوية.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 44,
-      "soru": "مين مسموح يروح أول شي؟",
-      "elements": [
-        {
-          "type": "box",
-          "class": "dragger1",
-          "value": "1",
-          "position": {
-            "top": "84.4444%",
-            "left": "1.7857%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target1",
-          "value": "",
-          "position": {
-            "top": "4.11%",
-            "left": "30.80%"
-          }
-        },
-        {
-          "type": "target",
-          "id": "target2",
-          "value": "",
-          "position": {
-            "top": "43.00%",
-            "left": "42.05%"
-          }
-        }
-      ],
-      "dogruCevap": [
-        {
-          "id": "dragger1",
-          "target": "target1"
-        }
-      ],
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "feedback": {
-        "metin": "إذا باص أشار إنو بدو يطلع من موقفه ضمن منطقة معمورة، لازم تعطيه أولوية – سواء كان باص عام أو باص سفر. بهالحالة الباص إلو أولوية.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    ]
 }

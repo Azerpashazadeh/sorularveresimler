@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 25,
-      "soru": "شو لازم تعمل بهالموقف؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "انتقل للمسرب اليمين بأسرع وقت ممكن.",
-        "كبس دعسة الفرامل شوي كتحذير.",
-        "كمل تسوق بنفس السرعة.",
-        "زد سرعتك."
-      ],
-      "dogruCevap": [
-        "انتقل للمسرب اليمين بأسرع وقت ممكن.",
-        "كمل تسوق بنفس السرعة."
-      ],
-      "feedback": {
-        "metin": "إذا في سيارة ملزقة وراك، خليك هادي وما تزيد سرعتك. كمان لا تكبس الفرامل كتحذير. هالشي ممكن يخلي السائق اللي ملزقك ينحرف فجأة ويعرض باقي السير للخطر. كمل بنفس السرعة وانتقل للمسرب اليمين بأسرع وقت ممكن.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 25,
+            "soru": "شو لازم تعمل بهالموقف؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test11/25.jpg",
+            "cevaplar": [
+                "انتقل للمسرب اليمين بأسرع وقت ممكن.",
+                "كبس دعسة الفرامل شوي كتحذير.",
+                "كمل تسوق بنفس السرعة.",
+                "زد سرعتك."
+            ],
+            "dogruCevap": [
+                "Move to the right lane as soon as possible.",
+                "Continue driving at the same speed."
+            ],
+            "feedback": {
+                "metin": "إذا في سيارة ملزقة وراك، خليك هادي وما تزيد سرعتك. كمان لا تكبس الفرامل كتحذير. هالشي ممكن يخلي السائق اللي ملزقك ينحرف فجأة ويعرض باقي السير للخطر. كمل بنفس السرعة وانتقل للمسرب اليمين بأسرع وقت ممكن.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

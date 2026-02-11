@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Eğer bir at yolu yoksa, bir atlı nerede sürebilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yaya yolunda.",
-        "Bisiklet yolunda.",
-        "Bisiklet/moped yolunda.",
-        "Taşıt yolunda.",
-        "Bankette."
-      ],
-      "dogruCevap": [
-        "Taşıt yolunda.",
-        "Bankette."
-      ],
-      "feedback": {
-        "metin": "Bir atlı, varsa at yolunu kullanmalıdır. Eğer at yolu yoksa, taşıt yolu ile banket arasında seçim yapmasına izin verilir. Bir atlı bisiklet yolunu, bisiklet/moped yolunu veya yaya yolunu kullanamaz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 7,
-      "soru": "Sürüş yasağı sırasında hangi araçları kullanmanıza izin verilmez?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Binek otomobil.",
-        "Bisiklet.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "dogruCevap": [
-        "Binek otomobil.",
-        "Bisiklet.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "feedback": {
-        "metin": "Sürüş yasağı sırasında hiçbir aracı kullanmanıza izin verilmez. Yani sadece binek otomobil kullanmak yasak değildir; aynı zamanda brommobiel, moped veya snorfiets de yasaktır. Hatta bisiklet sürmek bile yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Eğer bir at yolu yoksa, bir atlı nerede sürebilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
+            "cevaplar": [
+                "Yaya yolunda.",
+                "Bisiklet yolunda.",
+                "Bisiklet/moped yolunda.",
+                "Taşıt yolunda.",
+                "Bankette."
+            ],
+            "dogruCevap": [
+                "On the carriageway.",
+                "On the verge."
+            ],
+            "feedback": {
+                "metin": "Bir atlı, varsa at yolunu kullanmalıdır. Eğer at yolu yoksa, taşıt yolu ile banket arasında seçim yapmasına izin verilir. Bir atlı bisiklet yolunu, bisiklet/moped yolunu veya yaya yolunu kullanamaz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "Sürüş yasağı sırasında hangi araçları kullanmanıza izin verilmez?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
+            "cevaplar": [
+                "Binek otomobil.",
+                "Bisiklet.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "dogruCevap": [
+                "Passenger car.",
+                "Bicycle.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "feedback": {
+                "metin": "Sürüş yasağı sırasında hiçbir aracı kullanmanıza izin verilmez. Yani sadece binek otomobil kullanmak yasak değildir; aynı zamanda brommobiel, moped veya snorfiets de yasaktır. Hatta bisiklet sürmek bile yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

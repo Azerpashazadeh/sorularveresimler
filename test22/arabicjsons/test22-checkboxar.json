@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "مين مسموح يستعمل المسرب اللي عاليمين هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سواقين الباصات العامة.",
-        "سواقين سيارات الركاب.",
-        "سواقين سيارات الطوارئ.",
-        "سواقين الشاحنات.",
-        "سواقين الباصات السياحية (كوتش)."
-      ],
-      "dogruCevap": [
-        "سواقين الباصات العامة.",
-        "سواقين سيارات الطوارئ.",
-        "سواقين الباصات السياحية (كوتش)."
-      ],
-      "feedback": {
-        "metin": "الشاشة الإلكترونية اللي فوق المسرب اليمين بتفرجي إنو هالمسرب مخصص بس لسواقين الباصات. هاد بيشمل سواقين الباصات العامة وباصات الكوتش. سواقين سيارات الطوارئ كمان مسموح يستعملو مسارب الفئات الخاصة، يعني كمان بيقدرو يسوقو هون. بس سواقين سيارات الركاب والشاحنات ما مسموح يمرّو بالمسرب اللي عاليمين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "مين مسموح يستعمل المسرب اللي عاليمين هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test22/22.jpg",
+            "cevaplar": [
+                "سواقين الباصات العامة.",
+                "سواقين سيارات الركاب.",
+                "سواقين سيارات الطوارئ.",
+                "سواقين الشاحنات.",
+                "سواقين الباصات السياحية (كوتش)."
+            ],
+            "dogruCevap": [
+                "Public bus drivers.",
+                "Emergency vehicle drivers.",
+                "Coach drivers."
+            ],
+            "feedback": {
+                "metin": "الشاشة الإلكترونية اللي فوق المسرب اليمين بتفرجي إنو هالمسرب مخصص بس لسواقين الباصات. هاد بيشمل سواقين الباصات العامة وباصات الكوتش. سواقين سيارات الطوارئ كمان مسموح يستعملو مسارب الفئات الخاصة، يعني كمان بيقدرو يسوقو هون. بس سواقين سيارات الركاب والشاحنات ما مسموح يمرّو بالمسرب اللي عاليمين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

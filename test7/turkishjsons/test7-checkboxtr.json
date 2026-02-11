@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 14,
-      "soru": "Burada taşıt yolunda hangi sürücülerin bulunması beklenmez?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Moped sürücüleri.",
-        "Snorfiets (hafif motorlu bisiklet) kullanıcıları.",
-        "Brommobiel (hafif dört tekerlekli araç) sürücüleri.",
-        "Speed pedelec (hızlı elektrikli bisiklet) kullanıcıları.",
-        "Bisikletliler."
-      ],
-      "dogruCevap": [
-        "Moped sürücüleri.",
-        "Snorfiets (hafif motorlu bisiklet) kullanıcıları.",
-        "Speed pedelec (hızlı elektrikli bisiklet) kullanıcıları.",
-        "Bisikletliler."
-      ],
-      "feedback": {
-        "metin": "Taşıt yolunun yanında zorunlu bisiklet/moped yolu bulunmaktadır. Bu durum, bisikletlilerin, snorfiets, moped ve speed pedelec kullanıcılarının taşıt yolunu değil, bu bisiklet/moped yolunu kullanmak zorunda oldukları anlamına gelir. Sadece brommobiel sürücülerinin bu yolu kullanmasına izin verilmez. Dolayısıyla taşıt yolunda brommobiel sürücülerini beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 14,
+            "soru": "Burada taşıt yolunda hangi sürücülerin bulunması beklenmez?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
+            "cevaplar": [
+                "Moped sürücüleri.",
+                "Snorfiets (hafif motorlu bisiklet) kullanıcıları.",
+                "Brommobiel (hafif dört tekerlekli araç) sürücüleri.",
+                "Speed pedelec (hızlı elektrikli bisiklet) kullanıcıları.",
+                "Bisikletliler."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Snorfietsers.",
+                "Speed pedelec riders.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Taşıt yolunun yanında zorunlu bisiklet/moped yolu bulunmaktadır. Bu durum, bisikletlilerin, snorfiets, moped ve speed pedelec kullanıcılarının taşıt yolunu değil, bu bisiklet/moped yolunu kullanmak zorunda oldukları anlamına gelir. Sadece brommobiel sürücülerinin bu yolu kullanmasına izin verilmez. Dolayısıyla taşıt yolunda brommobiel sürücülerini beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

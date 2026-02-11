@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "أي سواق لازم تتوقعون عهالمسلك تبع الدراجات؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "سواق مركبة لذوي الاحتياجات الخاصة.",
-        "راكبين الدراجات.",
-        "راكبين سبيد بيدالك.",
-        "راكبين موبيليات."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "سواق مركبة لذوي الاحتياجات الخاصة.",
-        "راكبين الدراجات."
-      ],
-      "feedback": {
-        "metin": "إذا مسلك الدراجات عليه خط متواصل، بس راكبين الدراجات، Snorfietsers وسواق مركبات ذوي الاحتياجات الخاصة بيحقلن يستعملوه. راكبين الموبيليات، راكبين السبيد بيدالك وسواق المركبات الآلية ما بيحقلهن يستعملو مسلك الدراجات. ولا حتى للمحاذاة أو للتجاوز.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "أي سواق لازم تتوقعون عهالمسلك تبع الدراجات؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test17/11.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "سواق مركبة لذوي الاحتياجات الخاصة.",
+                "راكبين الدراجات.",
+                "راكبين سبيد بيدالك.",
+                "راكبين موبيليات."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "إذا مسلك الدراجات عليه خط متواصل، بس راكبين الدراجات، Snorfietsers وسواق مركبات ذوي الاحتياجات الخاصة بيحقلن يستعملوه. راكبين الموبيليات، راكبين السبيد بيدالك وسواق المركبات الآلية ما بيحقلهن يستعملو مسلك الدراجات. ولا حتى للمحاذاة أو للتجاوز.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

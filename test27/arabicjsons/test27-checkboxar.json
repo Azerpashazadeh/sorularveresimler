@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 50,
-      "soru": "أي إشارات عالطريق ما مسموح تقطعها؟",
-      "resim": "",
-      "cevaplar": [
-        "خط مسار متقطع.",
-        "خط محوري متصل.",
-        "خط طرفي متصل.",
-        "نقطة فاصلة.",
-        "تخطيطات مائلة عالطريق."
-      ],
-      "dogruCevap": [
-        "خط محوري متصل.",
-        "نقطة فاصلة.",
-        "تخطيطات مائلة عالطريق."
-      ],
-      "feedback": {
-        "metin": "مسموح تقطع بس الخط المتقطع. ما مسموح تقطع الخط المتصل. خط الطرف المتصل إلو استثناء، مسموح تمرق عليه مثلاً إذا بدك توقف عالطرف أو توصل لموقف جانبي. بس ممنوع تماماً تمرق فوق النقطة الفاصلة أو التخطيطات المائلة (gores).",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 50,
+            "soru": "أي إشارات عالطريق ما مسموح تقطعها؟",
+            "resim": "",
+            "cevaplar": [
+                "خط مسار متقطع.",
+                "خط محوري متصل.",
+                "خط طرفي متصل.",
+                "نقطة فاصلة.",
+                "تخطيطات مائلة عالطريق."
+            ],
+            "dogruCevap": [
+                "Solid axis line.",
+                "Dividing point.",
+                "Hatched road markings."
+            ],
+            "feedback": {
+                "metin": "مسموح تقطع بس الخط المتقطع. ما مسموح تقطع الخط المتصل. خط الطرف المتصل إلو استثناء، مسموح تمرق عليه مثلاً إذا بدك توقف عالطرف أو توصل لموقف جانبي. بس ممنوع تماماً تمرق فوق النقطة الفاصلة أو التخطيطات المائلة (gores).",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 30,
-      "soru": "أي سواق لازم تتوقعهن عالطريق هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سواق الدراجات النارية الصغيرة (موبيد).",
-        "سواق البُروموبييل.",
-        "سواق السبيد بيديلك.",
-        "راكبين الدراجات.",
-        "سنورفيتسرس."
-      ],
-      "dogruCevap": [
-        "سواق الدراجات النارية الصغيرة (موبيد).",
-        "سواق البُروموبييل.",
-        "سواق السبيد بيديلك.",
-        "راكبين الدراجات.",
-        "سنورفيتسرس."
-      ],
-      "feedback": {
-        "metin": "في ممر دراجات غير إلزامي جنب الطريق. راكبين الدراجات مسموحلهم يستعملوا هالممر، بس مو إجباري. فيهن يختاروا بين الطريق والممر. السنورفيتسرس بس مسموحلهم يستعملوا الممر الغير إلزامي إذا مطفيين المحرك تبعهم. باقي السواق ما مسموحلهم بهالممر. ولأن الممر مو إلزامي، لازم تتوقع كل السواق المذكورين عالطريق.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "أي مستعملي الطريق عندن أولوية إذا جايين من اليمين جوّا الـ erf؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "مَشّاية.",
-        "مرافق حصان.",
-        "راكب دراجة.",
-        "سائق سيارة خصوصية."
-      ],
-      "dogruCevap": [
-        "مرافق حصان.",
-        "راكب دراجة.",
-        "سائق سيارة خصوصية."
-      ],
-      "feedback": {
-        "metin": "نفس قوانين الأولوية بتطبق جوّا الـ erf متل برا. بالمفارق يلي طرقها متساوية، لازم تعطي أولوية بس للسواق الجايين من اليمين. لأن المشاة مو سواق، ما عندن أولوية. مرافقين الأحصنة، راكبين الدراجات وسواق السيارات الخصوصية هني سواق، وعندن أولوية إذا جايين من اليمين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 30,
+            "soru": "أي سواق لازم تتوقعهن عالطريق هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/30.jpg",
+            "cevaplar": [
+                "سواق الدراجات النارية الصغيرة (موبيد).",
+                "سواق البُروموبييل.",
+                "سواق السبيد بيديلك.",
+                "راكبين الدراجات.",
+                "سنورفيتسرس."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "في ممر دراجات غير إلزامي جنب الطريق. راكبين الدراجات مسموحلهم يستعملوا هالممر، بس مو إجباري. فيهن يختاروا بين الطريق والممر. السنورفيتسرس بس مسموحلهم يستعملوا الممر الغير إلزامي إذا مطفيين المحرك تبعهم. باقي السواق ما مسموحلهم بهالممر. ولأن الممر مو إلزامي، لازم تتوقع كل السواق المذكورين عالطريق.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "أي مستعملي الطريق عندن أولوية إذا جايين من اليمين جوّا الـ erf؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/48.jpg",
+            "cevaplar": [
+                "مَشّاية.",
+                "مرافق حصان.",
+                "راكب دراجة.",
+                "سائق سيارة خصوصية."
+            ],
+            "dogruCevap": [
+                "Handler of a horse.",
+                "Cyclist.",
+                "Passenger car driver."
+            ],
+            "feedback": {
+                "metin": "نفس قوانين الأولوية بتطبق جوّا الـ erf متل برا. بالمفارق يلي طرقها متساوية، لازم تعطي أولوية بس للسواق الجايين من اليمين. لأن المشاة مو سواق، ما عندن أولوية. مرافقين الأحصنة، راكبين الدراجات وسواق السيارات الخصوصية هني سواق، وعندن أولوية إذا جايين من اليمين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

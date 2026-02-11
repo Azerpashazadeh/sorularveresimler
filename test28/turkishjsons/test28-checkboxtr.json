@@ -1,26 +1,26 @@
 {
-  "sorular": [
-    {
-      "numara": 34,
-      "soru": "Hangi durumlarda bir tramvay sürücüsüne yol vermelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "İkiniz de aynı öncelikli yolda olduğunuzda ve tramvay sürücüsü dönüyorsa.",
-        "Tramvay sürücüsü eşit yolların kavşağında soldan geliyorsa.",
-        "Siz düz devam ederken, tramvay sürücüsü sizin bulunduğunuz yoldan dönüyorsa.",
-        "Siz öncelikli bir yolda ilerlerken, tramvay sürücüsü öncelik üçgenlerine yaklaşıyorsa."
-      ],
-      "dogruCevap": [
-        "İkiniz de aynı öncelikli yolda olduğunuzda ve tramvay sürücüsü dönüyorsa.",
-        "Tramvay sürücüsü eşit yolların kavşağında soldan geliyorsa.",
-        "Siz düz devam ederken, tramvay sürücüsü sizin bulunduğunuz yoldan dönüyorsa."
-      ],
-      "feedback": {
-        "metin": "Eşit yolların kavşaklarında tramvay sürücüsünün her zaman geçiş üstünlüğü vardır. Soldan ya da sağdan gelmesi, önden ya da arkadan yaklaşması fark etmez. ‘Sürücüler sağdan gelen sürücülere yol verir’ ve ‘aynı yolda düz gidenler dönenlerden önce geçer’ kuralları tramvay sürücüleri için geçerli değildir. Ancak, öncelik üçgenleri ve öncelik levhaları gibi trafik işaretlerine ve yol çizgilerine uymak zorundadırlar. Siz öncelikli bir yolda ilerlerken tramvay sürücüsü bu yola soldan veya sağdan giriyorsa, öncelik üçgenlerine uymalı ve size yol vermelidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 34,
+            "soru": "Hangi durumlarda bir tramvay sürücüsüne yol vermelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test28/34.jpg",
+            "cevaplar": [
+                "İkiniz de aynı öncelikli yolda olduğunuzda ve tramvay sürücüsü dönüyorsa.",
+                "Tramvay sürücüsü eşit yolların kavşağında soldan geliyorsa.",
+                "Siz düz devam ederken, tramvay sürücüsü sizin bulunduğunuz yoldan dönüyorsa.",
+                "Siz öncelikli bir yolda ilerlerken, tramvay sürücüsü öncelik üçgenlerine yaklaşıyorsa."
+            ],
+            "dogruCevap": [
+                "When you are both on the same priority road and the tram driver is turning off.",
+                "When the tram driver is coming from the left on an intersection of equal roads.",
+                "When you are driving straight on the same road where the tram driver is turning off of."
+            ],
+            "feedback": {
+                "metin": "Eşit yolların kavşaklarında tramvay sürücüsünün her zaman geçiş üstünlüğü vardır. Soldan ya da sağdan gelmesi, önden ya da arkadan yaklaşması fark etmez. ‘Sürücüler sağdan gelen sürücülere yol verir’ ve ‘aynı yolda düz gidenler dönenlerden önce geçer’ kuralları tramvay sürücüleri için geçerli değildir. Ancak, öncelik üçgenleri ve öncelik levhaları gibi trafik işaretlerine ve yol çizgilerine uymak zorundadırlar. Siz öncelikli bir yolda ilerlerken tramvay sürücüsü bu yola soldan veya sağdan giriyorsa, öncelik üçgenlerine uymalı ve size yol vermelidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

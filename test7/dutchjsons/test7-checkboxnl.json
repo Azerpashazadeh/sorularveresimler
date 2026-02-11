@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 14,
-      "soru": "Welke bestuurders worden hier niet op de rijbaan verwacht?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bromfietsers.",
-        "Snorfietsers.",
-        "Brommobielbestuurders.",
-        "Speed-pedelecrijders.",
-        "Fietsers."
-      ],
-      "dogruCevap": [
-        "Bromfietsers.",
-        "Snorfietsers.",
-        "Speed-pedelecrijders.",
-        "Fietsers."
-      ],
-      "feedback": {
-        "metin": "Naast de rijbaan ligt een verplicht fiets/bromfietspad. Dit betekent dat fietsers, snorfietsers en bromfietsers en speed-pedelecrijders verplicht zijn het fiets/bromfietspad te gebruiken in plaats van de rijbaan. Alleen brommobielbestuurders mogen dit pad niet gebruiken. Je moet brommobielbestuurders dus op de rijbaan verwachten.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 14,
+            "soru": "Welke bestuurders worden hier niet op de rijbaan verwacht?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
+            "cevaplar": [
+                "Bromfietsers.",
+                "Snorfietsers.",
+                "Brommobielbestuurders.",
+                "Speed-pedelecrijders.",
+                "Fietsers."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Snorfietsers.",
+                "Speed pedelec riders.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Naast de rijbaan ligt een verplicht fiets/bromfietspad. Dit betekent dat fietsers, snorfietsers en bromfietsers en speed-pedelecrijders verplicht zijn het fiets/bromfietspad te gebruiken in plaats van de rijbaan. Alleen brommobielbestuurders mogen dit pad niet gebruiken. Je moet brommobielbestuurders dus op de rijbaan verwachten.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

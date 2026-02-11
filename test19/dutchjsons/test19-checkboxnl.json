@@ -1,26 +1,26 @@
 {
-  "sorular": [
-    {
-      "numara": 35,
-      "soru": "Welke vloeistoffen kun je na controle vrij eenvoudig zelf bijvullen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Remvloeistof.",
-        "Ruitensproeiervloeistof.",
-        "Motorolie.",
-        "Koelvloeistof."
-      ],
-      "dogruCevap": [
-        "Ruitensproeiervloeistof.",
-        "Motorolie.",
-        "Koelvloeistof."
-      ],
-      "feedback": {
-        "metin": "Na het controleren van het vloeistofpeil kun je koelvloeistof, ruitensproeiervloeistof en motorolie vrij eenvoudig zelf bijvullen, indien nodig. Het is niet verstandig om zelf remvloeistof bij te vullen, omdat dit het risico op lucht in het remsysteem vergroot. Dit heeft een negatief effect op het remmen. Wanneer het niveau van de remvloeistof te laag is, moet je contact opnemen met de dealer. Dit betekent meestal dat er iets mis is met de remmen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 35,
+            "soru": "Welke vloeistoffen kun je na controle vrij eenvoudig zelf bijvullen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/35.jpg",
+            "cevaplar": [
+                "Remvloeistof.",
+                "Ruitensproeiervloeistof.",
+                "Motorolie.",
+                "Koelvloeistof."
+            ],
+            "dogruCevap": [
+                "Wiper fluid.",
+                "Engine oil.",
+                "Coolant."
+            ],
+            "feedback": {
+                "metin": "Na het controleren van het vloeistofpeil kun je koelvloeistof, ruitensproeiervloeistof en motorolie vrij eenvoudig zelf bijvullen, indien nodig. Het is niet verstandig om zelf remvloeistof bij te vullen, omdat dit het risico op lucht in het remsysteem vergroot. Dit heeft een negatief effect op het remmen. Wanneer het niveau van de remvloeistof te laag is, moet je contact opnemen met de dealer. Dit betekent meestal dat er iets mis is met de remmen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

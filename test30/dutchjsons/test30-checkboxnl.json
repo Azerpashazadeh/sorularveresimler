@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 26,
-      "soru": "Welke voertuigen mogen hier op alle rijstroken rijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Personenauto’s.",
-        "Vrachtauto’s.",
-        "Motorfietsen.",
-        "Bussen.",
-        "Personenauto’s met een aanhanger van 7 meter lang."
-      ],
-      "dogruCevap": [
-        "Personenauto’s.",
-        "Vrachtauto’s.",
-        "Motorfietsen.",
-        "Bussen.",
-        "Personenauto’s met een aanhanger van 7 meter lang."
-      ],
-      "feedback": {
-        "metin": "Deze autosnelweg is verdeeld in tweemaal twee rijstroken, voor twee verschillende rijrichtingen. De autosnelweg gaat zich splitsen in twee verschillende autosnelwegen. Dit moet niet worden gezien als één rijbaan met vier rijstroken in één richting. U herkent dit aan de blokmarkering en de borden erboven. De regel dat vrachtauto’s en langere voertuigcombinaties alleen de twee rechter rijstroken mogen gebruiken, geldt hier niet. Beide rijrichtingen bestaan uit slechts twee rijstroken, die door bestuurders van alle genoemde voertuigen mogen worden gebruikt.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "Uw auto heeft een maximum toegestane massa van 2900 kg. Welke aanhangers mag u met alleen rijbewijs B trekken?",
-      "resim": "",
-      "cevaplar": [
-        "Een aanhanger met een maximum toegestane massa van 600 kg.",
-        "Een aanhanger met een maximum toegestane massa van 750 kg.",
-        "Een aanhanger met een maximum toegestane massa van 900 kg.",
-        "Een aanhanger met een maximum toegestane massa van 1100 kg."
-      ],
-      "dogruCevap": [
-        "Een aanhanger met een maximum toegestane massa van 600 kg.",
-        "Een aanhanger met een maximum toegestane massa van 750 kg."
-      ],
-      "feedback": {
-        "metin": "Met een rijbewijs B mag u alle aanhangers trekken met een maximum toegestane massa tot 750 kg. Zwaardere aanhangers zijn alleen toegestaan wanneer de gecombineerde maximum toegestane massa van de auto en aanhanger niet meer dan 3500 kg bedraagt. Dus als uw auto een maximum toegestane massa van 2900 kg heeft, mag u aanhangers trekken met een maximum toegestane massa tot 750 kg. Voor zwaardere aanhangers heeft u een BE-rijbewijs nodig.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 26,
+            "soru": "Welke voertuigen mogen hier op alle rijstroken rijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test30/26.jpg",
+            "cevaplar": [
+                "Personenauto’s.",
+                "Vrachtauto’s.",
+                "Motorfietsen.",
+                "Bussen.",
+                "Personenauto’s met een aanhanger van 7 meter lang."
+            ],
+            "dogruCevap": [
+                "Passenger cars.",
+                "Lorries.",
+                "Motorcycles.",
+                "Buses.",
+                "Passenger cars with a trailer of 7 metres long."
+            ],
+            "feedback": {
+                "metin": "Deze autosnelweg is verdeeld in tweemaal twee rijstroken, voor twee verschillende rijrichtingen. De autosnelweg gaat zich splitsen in twee verschillende autosnelwegen. Dit moet niet worden gezien als één rijbaan met vier rijstroken in één richting. U herkent dit aan de blokmarkering en de borden erboven. De regel dat vrachtauto’s en langere voertuigcombinaties alleen de twee rechter rijstroken mogen gebruiken, geldt hier niet. Beide rijrichtingen bestaan uit slechts twee rijstroken, die door bestuurders van alle genoemde voertuigen mogen worden gebruikt.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "Uw auto heeft een maximum toegestane massa van 2900 kg. Welke aanhangers mag u met alleen rijbewijs B trekken?",
+            "resim": "",
+            "cevaplar": [
+                "Een aanhanger met een maximum toegestane massa van 600 kg.",
+                "Een aanhanger met een maximum toegestane massa van 750 kg.",
+                "Een aanhanger met een maximum toegestane massa van 900 kg.",
+                "Een aanhanger met een maximum toegestane massa van 1100 kg."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 600 kg.",
+                "A trailer with a maximum authorised mass of 750 kg."
+            ],
+            "feedback": {
+                "metin": "Met een rijbewijs B mag u alle aanhangers trekken met een maximum toegestane massa tot 750 kg. Zwaardere aanhangers zijn alleen toegestaan wanneer de gecombineerde maximum toegestane massa van de auto en aanhanger niet meer dan 3500 kg bedraagt. Dus als uw auto een maximum toegestane massa van 2900 kg heeft, mag u aanhangers trekken met een maximum toegestane massa tot 750 kg. Voor zwaardere aanhangers heeft u een BE-rijbewijs nodig.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

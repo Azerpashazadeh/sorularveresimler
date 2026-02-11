@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "إيمتى التجاوز ممنوع دايمًا؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "قبل ممر المشاة مباشرة.",
-        "وقت استعمال مسرب فرز باتجاه غير اللي بدك تتابعو.",
-        "وقت السواقة فوق خطوط التمييز (الهاتش) أو المساحة الممنوعة (غور).",
-        "إذا لازم تقطع خط متقطع.",
-        "ضمن خمس أمتار من تقاطع."
-      ],
-      "dogruCevap": [
-        "قبل ممر المشاة مباشرة.",
-        "وقت استعمال مسرب فرز باتجاه غير اللي بدك تتابعو.",
-        "وقت السواقة فوق خطوط التمييز (الهاتش) أو المساحة الممنوعة (غور)."
-      ],
-      "feedback": {
-        "metin": "التجاوز ممنوع دايمًا فوق خطوط التمييز (الهاتش) أو المساحات الممنوعة (غور)، لأنك أصلاً ما مسموح تسوق فوق هالخطوط. كمان ما مسموح تتجاوز عن طريق مسرب فرز باتجاه غير اللي بدك تتابعو. وكمان التجاوز ممنوع قبل أو فوق ممر المشاة. التجاوز غالبًا مو آمن بمسافة قصيرة من تقاطع مع رؤية محدودة، بس مو دايمًا ممنوع إذا كانت الرؤية كافية.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "إيمتى التجاوز ممنوع دايمًا؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test13/27.jpg",
+            "cevaplar": [
+                "قبل ممر المشاة مباشرة.",
+                "وقت استعمال مسرب فرز باتجاه غير اللي بدك تتابعو.",
+                "وقت السواقة فوق خطوط التمييز (الهاتش) أو المساحة الممنوعة (غور).",
+                "إذا لازم تقطع خط متقطع.",
+                "ضمن خمس أمتار من تقاطع."
+            ],
+            "dogruCevap": [
+                "Just before a pedestrian crossing.",
+                "While using a pre-sorting lane in a direction different from the one you want to follow.",
+                "While driving over hatched road markings or gores."
+            ],
+            "feedback": {
+                "metin": "التجاوز ممنوع دايمًا فوق خطوط التمييز (الهاتش) أو المساحات الممنوعة (غور)، لأنك أصلاً ما مسموح تسوق فوق هالخطوط. كمان ما مسموح تتجاوز عن طريق مسرب فرز باتجاه غير اللي بدك تتابعو. وكمان التجاوز ممنوع قبل أو فوق ممر المشاة. التجاوز غالبًا مو آمن بمسافة قصيرة من تقاطع مع رؤية محدودة، بس مو دايمًا ممنوع إذا كانت الرؤية كافية.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

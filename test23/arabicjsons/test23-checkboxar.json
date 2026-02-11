@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "سيارتك عندها وزن أقصى مسموح 2500 كغ. أي مقطورات مسموح تسحب بس برخصة B؟",
-      "resim": "",
-      "cevaplar": [
-        "مقطورة وزنها الأقصى المسموح 750 كغ.",
-        "مقطورة وزنها الأقصى المسموح 900 كغ.",
-        "مقطورة وزنها الأقصى المسموح 1100 كغ.",
-        "مقطورة وزنها الأقصى المسموح 1500 كغ."
-      ],
-      "dogruCevap": [
-        "مقطورة وزنها الأقصى المسموح 750 كغ.",
-        "مقطورة وزنها الأقصى المسموح 900 كغ."
-      ],
-      "feedback": {
-        "metin": "برخصة B، مسموح تسحب كل المقطورات اللي وزنها الأقصى المسموح لحد 750 كغ. المقطورات الأتقل مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة مع بعض ما بيزيد عن 3500 كغ. يعني إذا سيارتك وزنها الأقصى المسموح 2500 كغ، فيك تسحب مقطورات وزنها الأقصى المسموح لحد 1000 كغ. إذا المقطورة أتقل، لازم رخصة BE.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "سيارتك عندها وزن أقصى مسموح 2500 كغ. أي مقطورات مسموح تسحب بس برخصة B؟",
+            "resim": "",
+            "cevaplar": [
+                "مقطورة وزنها الأقصى المسموح 750 كغ.",
+                "مقطورة وزنها الأقصى المسموح 900 كغ.",
+                "مقطورة وزنها الأقصى المسموح 1100 كغ.",
+                "مقطورة وزنها الأقصى المسموح 1500 كغ."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 750 kg.",
+                "A trailer with a maximum authorised mass of 900 kg."
+            ],
+            "feedback": {
+                "metin": "برخصة B، مسموح تسحب كل المقطورات اللي وزنها الأقصى المسموح لحد 750 كغ. المقطورات الأتقل مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة مع بعض ما بيزيد عن 3500 كغ. يعني إذا سيارتك وزنها الأقصى المسموح 2500 كغ، فيك تسحب مقطورات وزنها الأقصى المسموح لحد 1000 كغ. إذا المقطورة أتقل، لازم رخصة BE.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "وين مسموح للفارس يركب إذا ما في ممر خاص للخيول؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "عالطريق للمشاة.",
-        "عالطريق للبسكليت.",
-        "عالطريق للبسكليت/موتوسيكل صغير.",
-        "عالشارع (carriageway).",
-        "عالطرف (verge)."
-      ],
-      "dogruCevap": [
-        "عالشارع (carriageway).",
-        "عالطرف (verge)."
-      ],
-      "feedback": {
-        "metin": "الفارس لازم يستعمل ممر الخيول إذا موجود. إذا ما في ممر للخيول، بيقدر يختار بين الشارع (carriageway) أو الطرف (verge). ما مسموح للفارس يستعمل طريق البسكليت، طريق البسكليت/موتوسيكل صغير أو طريق المشاة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 7,
-      "soru": "أي مركبات ما مسموح تسوق وقت منع السواقة؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سيارة خصوصي.",
-        "بسكليت.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "dogruCevap": [
-        "سيارة خصوصي.",
-        "بسكليت.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "feedback": {
-        "metin": "وقت منع السواقة ما مسموح تسوق أي مركبة. يعني مو بس السيارة الخصوصية ممنوعة، كمان الـ Brommobiel، الموبيد أو Snorfiets. حتى ركوب البسكليت مو مسموح.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "وين مسموح للفارس يركب إذا ما في ممر خاص للخيول؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
+            "cevaplar": [
+                "عالطريق للمشاة.",
+                "عالطريق للبسكليت.",
+                "عالطريق للبسكليت/موتوسيكل صغير.",
+                "عالشارع (carriageway).",
+                "عالطرف (verge)."
+            ],
+            "dogruCevap": [
+                "On the carriageway.",
+                "On the verge."
+            ],
+            "feedback": {
+                "metin": "الفارس لازم يستعمل ممر الخيول إذا موجود. إذا ما في ممر للخيول، بيقدر يختار بين الشارع (carriageway) أو الطرف (verge). ما مسموح للفارس يستعمل طريق البسكليت، طريق البسكليت/موتوسيكل صغير أو طريق المشاة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "أي مركبات ما مسموح تسوق وقت منع السواقة؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
+            "cevaplar": [
+                "سيارة خصوصي.",
+                "بسكليت.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "dogruCevap": [
+                "Passenger car.",
+                "Bicycle.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "feedback": {
+                "metin": "وقت منع السواقة ما مسموح تسوق أي مركبة. يعني مو بس السيارة الخصوصية ممنوعة، كمان الـ Brommobiel، الموبيد أو Snorfiets. حتى ركوب البسكليت مو مسموح.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

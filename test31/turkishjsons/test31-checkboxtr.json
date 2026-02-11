@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "Yanlışlıkla yumuşak bankete çıktığınızda ne yapmalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Hemen fren yapın.",
-        "Hemen tekrar taşıt yoluna direksiyon çevirin.",
-        "Aynı hızla devam edin.",
-        "Gaz pedalını bırakın.",
-        "Düşük hızda tekrar direksiyon çevirin."
-      ],
-      "dogruCevap": [
-        "Gaz pedalını bırakın.",
-        "Düşük hızda tekrar direksiyon çevirin."
-      ],
-      "feedback": {
-        "metin": "Örneğin ani bir manevra nedeniyle yumuşak bankete çıktığınızda, ani fren yapmamaya veya direksiyonu aniden çevirmemeye dikkat edin. Gaz pedalını bırakın, yeterince yavaşlayana kadar bekleyin ve dikkatlice tekrar taşıt yoluna direksiyon çevirin.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 36,
-      "soru": "Aracınızın azami yüklü ağırlığı 1500 kg’dır. Yalnızca B ehliyeti ile hangi römorkları çekmenize izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Azami yüklü ağırlığı 750 kg olan römorklar.",
-        "Azami yüklü ağırlığı 1000 kg olan römorklar.",
-        "Azami yüklü ağırlığı 1500 kg olan römorklar.",
-        "Azami yüklü ağırlığı 2000 kg olan römorklar."
-      ],
-      "dogruCevap": [
-        "Azami yüklü ağırlığı 750 kg olan römorklar.",
-        "Azami yüklü ağırlığı 1000 kg olan römorklar.",
-        "Azami yüklü ağırlığı 1500 kg olan römorklar.",
-        "Azami yüklü ağırlığı 2000 kg olan römorklar."
-      ],
-      "feedback": {
-        "metin": "B ehliyeti ile azami yüklü ağırlığı 750 kg’a kadar olan tüm römorkları çekebilirsiniz. Daha ağır römorklara yalnızca aracın ve römorkun toplam azami yüklü ağırlığı 3500 kg’ı geçmediğinde izin verilir. Yani, aracınızın azami yüklü ağırlığı 1500 kg ise, 2000 kg’a kadar olan römorkları çekebilirsiniz. Daha ağır römorklar için BE ehliyeti gerekir.\nAncak, aracınızın teknik olarak çekmesine izin verilen azami ağırlığı her zaman kontrol edin.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "Yanlışlıkla yumuşak bankete çıktığınızda ne yapmalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/8.jpg",
+            "cevaplar": [
+                "Hemen fren yapın.",
+                "Hemen tekrar taşıt yoluna direksiyon çevirin.",
+                "Aynı hızla devam edin.",
+                "Gaz pedalını bırakın.",
+                "Düşük hızda tekrar direksiyon çevirin."
+            ],
+            "dogruCevap": [
+                "Release the accelerator.",
+                "Steer back at a low speed."
+            ],
+            "feedback": {
+                "metin": "Örneğin ani bir manevra nedeniyle yumuşak bankete çıktığınızda, ani fren yapmamaya veya direksiyonu aniden çevirmemeye dikkat edin. Gaz pedalını bırakın, yeterince yavaşlayana kadar bekleyin ve dikkatlice tekrar taşıt yoluna direksiyon çevirin.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 36,
+            "soru": "Aracınızın azami yüklü ağırlığı 1500 kg’dır. Yalnızca B ehliyeti ile hangi römorkları çekmenize izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/36.jpg",
+            "cevaplar": [
+                "Azami yüklü ağırlığı 750 kg olan römorklar.",
+                "Azami yüklü ağırlığı 1000 kg olan römorklar.",
+                "Azami yüklü ağırlığı 1500 kg olan römorklar.",
+                "Azami yüklü ağırlığı 2000 kg olan römorklar."
+            ],
+            "dogruCevap": [
+                "Trailers with a maximum authorised mass of 750 kg.",
+                "Trailers with a maximum authorised mass of 1000 kg.",
+                "Trailers with a maximum authorised mass of 1500 kg.",
+                "Trailers with a maximum authorised mass of 2000 kg."
+            ],
+            "feedback": {
+                "metin": "B ehliyeti ile azami yüklü ağırlığı 750 kg’a kadar olan tüm römorkları çekebilirsiniz. Daha ağır römorklara yalnızca aracın ve römorkun toplam azami yüklü ağırlığı 3500 kg’ı geçmediğinde izin verilir. Yani, aracınızın azami yüklü ağırlığı 1500 kg ise, 2000 kg’a kadar olan römorkları çekebilirsiniz. Daha ağır römorklar için BE ehliyeti gerekir.\nAncak, aracınızın teknik olarak çekmesine izin verilen azami ağırlığı her zaman kontrol edin.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

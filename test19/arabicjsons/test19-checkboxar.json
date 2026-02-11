@@ -1,26 +1,26 @@
 {
-  "sorular": [
-    {
-      "numara": 35,
-      "soru": "أي سوائل فيك تعبيهن بسهولة لحالك بعد ما تفحص؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائل الفرامل.",
-        "سائل المسّاحات.",
-        "زيت المحرك.",
-        "سائل التبريد."
-      ],
-      "dogruCevap": [
-        "سائل المسّاحات.",
-        "زيت المحرك.",
-        "سائل التبريد."
-      ],
-      "feedback": {
-        "metin": "بعد ما تفحص مستوى السوائل، فيك تعبي سائل التبريد، سائل المسّاحات وزيت المحرك بسهولة بنفسك إذا لزم الأمر. مو من المنطقي تعبي سائل الفرامل لحالك، لأن هالشي ممكن يسبب دخول هوا بنظام الفرامل. هالشي بيأثر سلباً عالكبح. إذا كان مستوى سائل الفرامل واطي، لازم تتواصل مع الوكيل. عادةً هالشي معناته في مشكلة بالفرامل.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 35,
+            "soru": "أي سوائل فيك تعبيهن بسهولة لحالك بعد ما تفحص؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/35.jpg",
+            "cevaplar": [
+                "سائل الفرامل.",
+                "سائل المسّاحات.",
+                "زيت المحرك.",
+                "سائل التبريد."
+            ],
+            "dogruCevap": [
+                "Wiper fluid.",
+                "Engine oil.",
+                "Coolant."
+            ],
+            "feedback": {
+                "metin": "بعد ما تفحص مستوى السوائل، فيك تعبي سائل التبريد، سائل المسّاحات وزيت المحرك بسهولة بنفسك إذا لزم الأمر. مو من المنطقي تعبي سائل الفرامل لحالك، لأن هالشي ممكن يسبب دخول هوا بنظام الفرامل. هالشي بيأثر سلباً عالكبح. إذا كان مستوى سائل الفرامل واطي، لازم تتواصل مع الوكيل. عادةً هالشي معناته في مشكلة بالفرامل.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

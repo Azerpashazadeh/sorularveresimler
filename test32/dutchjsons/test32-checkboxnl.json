@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Wat beïnvloedt de stopafstand?",
-      "resim": "",
-      "cevaplar": [
-        "De remafstand.",
-        "De reactietijd.",
-        "De beginsnelheid van de rit.",
-        "De weersomstandigheden.",
-        "De volgafstand."
-      ],
-      "dogruCevap": [
-        "De remafstand.",
-        "De reactietijd.",
-        "De beginsnelheid van de rit.",
-        "De weersomstandigheden."
-      ],
-      "feedback": {
-        "metin": "De stopafstand is de afstand die wordt afgelegd tussen het waarnemen en volledig stilstaan. Dit omvat de reactieafstand en de remafstand. Bijna alle genoemde factoren beïnvloeden de reactieafstand of de remafstand. Alleen de volgafstand heeft geen invloed op de stopafstand. Het is juist andersom: om de volgafstand te bepalen moet u rekening houden met de stopafstand.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "Wat is altijd verboden op een autoweg?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Inhalen.",
-        "Langzamer rijden dan 50 km/h.",
-        "Parkeren op de berm.",
-        "Achteruitrijden.",
-        "Keren."
-      ],
-      "dogruCevap": [
-        "Parkeren op de berm.",
-        "Achteruitrijden.",
-        "Keren."
-      ],
-      "feedback": {
-        "metin": "Op een autoweg is het altijd verboden om te keren, achteruit te rijden en te stoppen of parkeren op de berm. Langzamer rijden dan 50 km/h is niet verboden, tenzij u gevaar of hinder veroorzaakt. Uw voertuig moet echter technisch in staat zijn en toegestaan zijn om minimaal 50 km/h te rijden om de autoweg te gebruiken. Inhalen is toegestaan bij een onderbroken aslijn, mits dit veilig kan en er geen borden zijn die het verbieden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Wat beïnvloedt de stopafstand?",
+            "resim": "",
+            "cevaplar": [
+                "De remafstand.",
+                "De reactietijd.",
+                "De beginsnelheid van de rit.",
+                "De weersomstandigheden.",
+                "De volgafstand."
+            ],
+            "dogruCevap": [
+                "The braking distance.",
+                "The thinking time.",
+                "The initial speed of travel.",
+                "The weather conditions."
+            ],
+            "feedback": {
+                "metin": "De stopafstand is de afstand die wordt afgelegd tussen het waarnemen en volledig stilstaan. Dit omvat de reactieafstand en de remafstand. Bijna alle genoemde factoren beïnvloeden de reactieafstand of de remafstand. Alleen de volgafstand heeft geen invloed op de stopafstand. Het is juist andersom: om de volgafstand te bepalen moet u rekening houden met de stopafstand.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Wat is altijd verboden op een autoweg?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test32/19.jpg",
+            "cevaplar": [
+                "Inhalen.",
+                "Langzamer rijden dan 50 km/h.",
+                "Parkeren op de berm.",
+                "Achteruitrijden.",
+                "Keren."
+            ],
+            "dogruCevap": [
+                "Parking on the verge.",
+                "Reversing.",
+                "Make a u-turn."
+            ],
+            "feedback": {
+                "metin": "Op een autoweg is het altijd verboden om te keren, achteruit te rijden en te stoppen of parkeren op de berm. Langzamer rijden dan 50 km/h is niet verboden, tenzij u gevaar of hinder veroorzaakt. Uw voertuig moet echter technisch in staat zijn en toegestaan zijn om minimaal 50 km/h te rijden om de autoweg te gebruiken. Inhalen is toegestaan bij een onderbroken aslijn, mits dit veilig kan en er geen borden zijn die het verbieden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "Ne zaman sollama her zaman yasaktır?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yaya geçidinin hemen önünde.",
-        "Takip etmek istediğiniz yönden farklı bir yöndeki yön değiştirme (önceden sıralanma) şeridini kullanırken.",
-        "Taralı yol işaretlerinin veya üçgen bölgenin (gores) üzerinden sürerken.",
-        "Kesik çizgiyi geçmeniz gerektiğinde.",
-        "Bir kavşağa beş metre mesafede."
-      ],
-      "dogruCevap": [
-        "Yaya geçidinin hemen önünde.",
-        "Takip etmek istediğiniz yönden farklı bir yöndeki yön değiştirme (önceden sıralanma) şeridini kullanırken.",
-        "Taralı yol işaretlerinin veya üçgen bölgenin (gores) üzerinden sürerken."
-      ],
-      "feedback": {
-        "metin": "Sollama, taralı yol işaretleri veya üçgen bölgeler (gores) üzerinden asla yapılamaz, çünkü bu işaretlerin üzerinden sürmek yasaktır. Ayrıca, takip etmek istediğiniz yönden farklı bir yön için ayrılmış yön değiştirme (önceden sıralanma) şeridinden sollama da yasaktır. Sollama, yaya geçidinin hemen önünde veya üzerinde de yasaktır. Kavşaklara kısa mesafede ve görüşün sınırlı olduğu durumlarda sollama genellikle güvenli değildir, ancak görüş yeterliyse her zaman yasak değildir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "Ne zaman sollama her zaman yasaktır?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test13/27.jpg",
+            "cevaplar": [
+                "Yaya geçidinin hemen önünde.",
+                "Takip etmek istediğiniz yönden farklı bir yöndeki yön değiştirme (önceden sıralanma) şeridini kullanırken.",
+                "Taralı yol işaretlerinin veya üçgen bölgenin (gores) üzerinden sürerken.",
+                "Kesik çizgiyi geçmeniz gerektiğinde.",
+                "Bir kavşağa beş metre mesafede."
+            ],
+            "dogruCevap": [
+                "Just before a pedestrian crossing.",
+                "While using a pre-sorting lane in a direction different from the one you want to follow.",
+                "While driving over hatched road markings or gores."
+            ],
+            "feedback": {
+                "metin": "Sollama, taralı yol işaretleri veya üçgen bölgeler (gores) üzerinden asla yapılamaz, çünkü bu işaretlerin üzerinden sürmek yasaktır. Ayrıca, takip etmek istediğiniz yönden farklı bir yön için ayrılmış yön değiştirme (önceden sıralanma) şeridinden sollama da yasaktır. Sollama, yaya geçidinin hemen önünde veya üzerinde de yasaktır. Kavşaklara kısa mesafede ve görüşün sınırlı olduğu durumlarda sollama genellikle güvenli değildir, ancak görüş yeterliyse her zaman yasak değildir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

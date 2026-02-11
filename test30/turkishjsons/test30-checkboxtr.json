@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 26,
-      "soru": "Burada hangi araçların tüm şeritlerde sürmesine izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Binek otomobiller.",
-        "Kamyonlar.",
-        "Motosikletler.",
-        "Otobüsler.",
-        "7 metre uzunluğunda römorklu binek otomobiller."
-      ],
-      "dogruCevap": [
-        "Binek otomobiller.",
-        "Kamyonlar.",
-        "Motosikletler.",
-        "Otobüsler.",
-        "7 metre uzunluğunda römorklu binek otomobiller."
-      ],
-      "feedback": {
-        "metin": "Bu otoyol, iki farklı yön için ikişer şeritten oluşmaktadır. Otoyol, iki ayrı otoyola ayrılmak üzeredir. Bu durum, tek yönde dört şeritli bir taşıt yolu olarak görülmemelidir. Bunu blok çizgilerden ve üstteki işaretlerden anlayabilirsiniz. Kamyonlar ve uzun araç kombinasyonlarının yalnızca sağdaki iki şeridi kullanabileceği kuralı burada geçerli değildir. Her iki yön yalnızca ikişer şeritten oluşur ve listelenen tüm araçların sürücüleri tarafından kullanılabilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "Aracınızın azami yüklü ağırlığı 2900 kg’dır. Yalnızca B ehliyeti ile hangi römorkları çekmenize izin verilir?",
-      "resim": "",
-      "cevaplar": [
-        "Azami yüklü ağırlığı 600 kg olan bir römork.",
-        "Azami yüklü ağırlığı 750 kg olan bir römork.",
-        "Azami yüklü ağırlığı 900 kg olan bir römork.",
-        "Azami yüklü ağırlığı 1100 kg olan bir römork."
-      ],
-      "dogruCevap": [
-        "Azami yüklü ağırlığı 600 kg olan bir römork.",
-        "Azami yüklü ağırlığı 750 kg olan bir römork."
-      ],
-      "feedback": {
-        "metin": "B ehliyeti ile azami yüklü ağırlığı 750 kg’a kadar olan tüm römorkları çekebilirsiniz. Daha ağır römorklara yalnızca aracın ve römorkun toplam azami yüklü ağırlığı 3500 kg’ı geçmediğinde izin verilir. Yani, aracınızın azami yüklü ağırlığı 2900 kg ise, yalnızca azami yüklü ağırlığı 750 kg’a kadar olan römorkları çekebilirsiniz. Daha ağır römorklar için BE ehliyeti gerekir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 26,
+            "soru": "Burada hangi araçların tüm şeritlerde sürmesine izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test30/26.jpg",
+            "cevaplar": [
+                "Binek otomobiller.",
+                "Kamyonlar.",
+                "Motosikletler.",
+                "Otobüsler.",
+                "7 metre uzunluğunda römorklu binek otomobiller."
+            ],
+            "dogruCevap": [
+                "Passenger cars.",
+                "Lorries.",
+                "Motorcycles.",
+                "Buses.",
+                "Passenger cars with a trailer of 7 metres long."
+            ],
+            "feedback": {
+                "metin": "Bu otoyol, iki farklı yön için ikişer şeritten oluşmaktadır. Otoyol, iki ayrı otoyola ayrılmak üzeredir. Bu durum, tek yönde dört şeritli bir taşıt yolu olarak görülmemelidir. Bunu blok çizgilerden ve üstteki işaretlerden anlayabilirsiniz. Kamyonlar ve uzun araç kombinasyonlarının yalnızca sağdaki iki şeridi kullanabileceği kuralı burada geçerli değildir. Her iki yön yalnızca ikişer şeritten oluşur ve listelenen tüm araçların sürücüleri tarafından kullanılabilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "Aracınızın azami yüklü ağırlığı 2900 kg’dır. Yalnızca B ehliyeti ile hangi römorkları çekmenize izin verilir?",
+            "resim": "",
+            "cevaplar": [
+                "Azami yüklü ağırlığı 600 kg olan bir römork.",
+                "Azami yüklü ağırlığı 750 kg olan bir römork.",
+                "Azami yüklü ağırlığı 900 kg olan bir römork.",
+                "Azami yüklü ağırlığı 1100 kg olan bir römork."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 600 kg.",
+                "A trailer with a maximum authorised mass of 750 kg."
+            ],
+            "feedback": {
+                "metin": "B ehliyeti ile azami yüklü ağırlığı 750 kg’a kadar olan tüm römorkları çekebilirsiniz. Daha ağır römorklara yalnızca aracın ve römorkun toplam azami yüklü ağırlığı 3500 kg’ı geçmediğinde izin verilir. Yani, aracınızın azami yüklü ağırlığı 2900 kg ise, yalnızca azami yüklü ağırlığı 750 kg’a kadar olan römorkları çekebilirsiniz. Daha ağır römorklar için BE ehliyeti gerekir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

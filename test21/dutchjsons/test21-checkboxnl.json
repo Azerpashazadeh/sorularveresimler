@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Waar mag een ruiter rijden als er geen ruiterpad aanwezig is?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Op het voetpad.",
-        "Op het fietspad.",
-        "Op het fiets-/bromfietspad.",
-        "Op de rijbaan.",
-        "Op de berm."
-      ],
-      "dogruCevap": [
-        "Op de rijbaan.",
-        "Op de berm."
-      ],
-      "feedback": {
-        "metin": "Een ruiter moet gebruik maken van het ruiterpad, als dat aanwezig is. Als er geen ruiterpad is, mag hij of zij kiezen tussen de rijbaan en de berm. Een ruiter mag geen gebruik maken van het fietspad, fiets-/bromfietspad of voetpad.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 7,
-      "soru": "Welke voertuigen mag je niet besturen tijdens een rijverbod?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Personenauto.",
-        "Fiets.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "dogruCevap": [
-        "Personenauto.",
-        "Fiets.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "feedback": {
-        "metin": "Tijdens een rijverbod mag je geen enkel voertuig besturen. Dus niet alleen het besturen van een personenauto is verboden, maar ook een brommobiel, bromfiets of snorfiets. Zelfs fietsen is niet toegestaan.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Waar mag een ruiter rijden als er geen ruiterpad aanwezig is?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
+            "cevaplar": [
+                "Op het voetpad.",
+                "Op het fietspad.",
+                "Op het fiets-/bromfietspad.",
+                "Op de rijbaan.",
+                "Op de berm."
+            ],
+            "dogruCevap": [
+                "On the carriageway.",
+                "On the verge."
+            ],
+            "feedback": {
+                "metin": "Een ruiter moet gebruik maken van het ruiterpad, als dat aanwezig is. Als er geen ruiterpad is, mag hij of zij kiezen tussen de rijbaan en de berm. Een ruiter mag geen gebruik maken van het fietspad, fiets-/bromfietspad of voetpad.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "Welke voertuigen mag je niet besturen tijdens een rijverbod?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
+            "cevaplar": [
+                "Personenauto.",
+                "Fiets.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "dogruCevap": [
+                "Passenger car.",
+                "Bicycle.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "feedback": {
+                "metin": "Tijdens een rijverbod mag je geen enkel voertuig besturen. Dus niet alleen het besturen van een personenauto is verboden, maar ook een brommobiel, bromfiets of snorfiets. Zelfs fietsen is niet toegestaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

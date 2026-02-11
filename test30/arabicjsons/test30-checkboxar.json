@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 26,
-      "soru": "أي مركبات مسموح تسوق بكل المسارات هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سيارات خصوصية.",
-        "شاحنات.",
-        "دراجات نارية.",
-        "باصات.",
-        "سيارات خصوصية مع مقطورة طولها 7 متر."
-      ],
-      "dogruCevap": [
-        "سيارات خصوصية.",
-        "شاحنات.",
-        "دراجات نارية.",
-        "باصات.",
-        "سيارات خصوصية مع مقطورة طولها 7 متر."
-      ],
-      "feedback": {
-        "metin": "هالأوتوستراد مقسوم مسارين باتجاهين مختلفين. الطريق رح ينقسم لطريقين أوتوستراد منفصلين. ما لازم ينشاف كأنو طريق واحد فيه أربع مسارات باتجاه واحد. بتعرف هالشي من التخطيطات عالأرض والإشارات الفوق. القاعدة اللي بتقول إنو الشاحنات والمركبات الطويلة بيستعملو بس اليمين ما بتطبق هون. كل اتجاه فيه مسارين بس، ومسموح كل المركبات المذكورة تستعملن.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "سيارتك وزنا الأقصى المسموح 2900 كغ. أي مقطورات مسموح تسحب برخصة B بس؟",
-      "resim": "",
-      "cevaplar": [
-        "مقطورة وزنا الأقصى المسموح 600 كغ.",
-        "مقطورة وزنا الأقصى المسموح 750 كغ.",
-        "مقطورة وزنا الأقصى المسموح 900 كغ.",
-        "مقطورة وزنا الأقصى المسموح 1100 كغ."
-      ],
-      "dogruCevap": [
-        "مقطورة وزنا الأقصى المسموح 600 كغ.",
-        "مقطورة وزنا الأقصى mالمسموح 750 كغ."
-      ],
-      "feedback": {
-        "metin": "برخصة B، مسموح تسحب كل المقطورات يلي وزنها الأقصى المسموح فيه لحد 750 كغ. المقطورات الأتقل من هالوزن مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة سوا ما بيتجاوز 3500 كغ. يعني إذا سيارتك وزنا الأقصى المسموح 2900 كغ، فيك تسحب مقطورات لحد 750 كغ. للمقطورات الأتقل بدك رخصة BE.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 26,
+            "soru": "أي مركبات مسموح تسوق بكل المسارات هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test30/26.jpg",
+            "cevaplar": [
+                "سيارات خصوصية.",
+                "شاحنات.",
+                "دراجات نارية.",
+                "باصات.",
+                "سيارات خصوصية مع مقطورة طولها 7 متر."
+            ],
+            "dogruCevap": [
+                "Passenger cars.",
+                "Lorries.",
+                "Motorcycles.",
+                "Buses.",
+                "Passenger cars with a trailer of 7 metres long."
+            ],
+            "feedback": {
+                "metin": "هالأوتوستراد مقسوم مسارين باتجاهين مختلفين. الطريق رح ينقسم لطريقين أوتوستراد منفصلين. ما لازم ينشاف كأنو طريق واحد فيه أربع مسارات باتجاه واحد. بتعرف هالشي من التخطيطات عالأرض والإشارات الفوق. القاعدة اللي بتقول إنو الشاحنات والمركبات الطويلة بيستعملو بس اليمين ما بتطبق هون. كل اتجاه فيه مسارين بس، ومسموح كل المركبات المذكورة تستعملن.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "سيارتك وزنا الأقصى المسموح 2900 كغ. أي مقطورات مسموح تسحب برخصة B بس؟",
+            "resim": "",
+            "cevaplar": [
+                "مقطورة وزنا الأقصى المسموح 600 كغ.",
+                "مقطورة وزنا الأقصى المسموح 750 كغ.",
+                "مقطورة وزنا الأقصى المسموح 900 كغ.",
+                "مقطورة وزنا الأقصى المسموح 1100 كغ."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 600 kg.",
+                "A trailer with a maximum authorised mass of 750 kg."
+            ],
+            "feedback": {
+                "metin": "برخصة B، مسموح تسحب كل المقطورات يلي وزنها الأقصى المسموح فيه لحد 750 كغ. المقطورات الأتقل من هالوزن مسموحة بس إذا الوزن الكلي المسموح للسيارة والمقطورة سوا ما بيتجاوز 3500 كغ. يعني إذا سيارتك وزنا الأقصى المسموح 2900 كغ، فيك تسحب مقطورات لحد 750 كغ. للمقطورات الأتقل بدك رخصة BE.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

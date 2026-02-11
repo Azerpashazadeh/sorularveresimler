@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 25,
-      "soru": "Waar kom je dit type kentekenplaat tegen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Op een brommobiel.",
-        "Op een fietsendrager.",
-        "Op een aanhangwagen met een maximaal toegestane massa tot 750 kg.",
-        "Op een taxi.",
-        "Op een oplegger achter een vrachtauto.",
-        "Op een aanhangwagen met een maximaal toegestane massa van meer dan 750 kg."
-      ],
-      "dogruCevap": [
-        "Op een fietsendrager.",
-        "Op een aanhangwagen met een maximaal toegestane massa tot 750 kg."
-      ],
-      "feedback": {
-        "metin": "Een witte kentekenplaat vind je op lichte aanhangwagens (tot 750 kg maximaal toegestane massa) en dragers op de trekhaak zoals fietsendragers. Op dit kenteken staat het kenteken van het trekkende voertuig. Brommobielen, zwaardere aanhangwagens en opleggers achter vrachtauto’s hebben een eigen kenteken op een gele plaat. Een taxi heeft een blauwe kentekenplaat.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 25,
+            "soru": "Waar kom je dit type kentekenplaat tegen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test29/25.jpg",
+            "cevaplar": [
+                "Op een brommobiel.",
+                "Op een fietsendrager.",
+                "Op een aanhangwagen met een maximaal toegestane massa tot 750 kg.",
+                "Op een taxi.",
+                "Op een oplegger achter een vrachtauto.",
+                "Op een aanhangwagen met een maximaal toegestane massa van meer dan 750 kg."
+            ],
+            "dogruCevap": [
+                "On a bicycle carrier.",
+                "On a trailer with a maximum authorised mass up to 750 kg."
+            ],
+            "feedback": {
+                "metin": "Een witte kentekenplaat vind je op lichte aanhangwagens (tot 750 kg maximaal toegestane massa) en dragers op de trekhaak zoals fietsendragers. Op dit kenteken staat het kenteken van het trekkende voertuig. Brommobielen, zwaardere aanhangwagens en opleggers achter vrachtauto’s hebben een eigen kenteken op een gele plaat. Een taxi heeft een blauwe kentekenplaat.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

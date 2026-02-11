@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 33,
-      "soru": "Enerji açısından mümkün olan en verimli şekilde nasıl araç kullanırsınız?",
-      "resim": "",
-      "cevaplar": [
-        "Cruise control'ü mümkün olduğunca sık kullanın.",
-        "Mümkün olduğunca uzun süre düşük viteste kalın.",
-        "Yeterli takip mesafesi bırakın.",
-        "Klima kullanımını mümkün olduğunca artırın.",
-        "Motoru çalıştırdıktan hemen sonra harekete geçin.",
-        "Frene bastığınız anda debriyaja basın."
-      ],
-      "dogruCevap": [
-        "Cruise control'ü mümkün olduğunca sık kullanın.",
-        "Yeterli takip mesafesi bırakın.",
-        "Motoru çalıştırdıktan hemen sonra harekete geçin."
-      ],
-      "feedback": {
-        "metin": "Enerji açısından mümkün olan en verimli şekilde araç kullanmak için, motoru çalıştırdıktan hemen sonra harekete geçmeniz ve mümkün olan en kısa sürede yüksek vitese geçmeniz gerekir. Fren yapmanız gerektiğinde, debriyaja hemen basmak yerine motor freni kullanmalısınız. Yeterli takip mesafesi bırakmalı ve cruise control'ü mümkün olduğunca sık kullanmalısınız. Klima, koltuk ısıtma gibi enerji tüketen donanımların kullanımını sınırlamalısınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 33,
+            "soru": "Enerji açısından mümkün olan en verimli şekilde nasıl araç kullanırsınız?",
+            "resim": "",
+            "cevaplar": [
+                "Cruise control'ü mümkün olduğunca sık kullanın.",
+                "Mümkün olduğunca uzun süre düşük viteste kalın.",
+                "Yeterli takip mesafesi bırakın.",
+                "Klima kullanımını mümkün olduğunca artırın.",
+                "Motoru çalıştırdıktan hemen sonra harekete geçin.",
+                "Frene bastığınız anda debriyaja basın."
+            ],
+            "dogruCevap": [
+                "Use the cruise control as much as possible.",
+                "Keep a sufficient following distance.",
+                "Drive off immediately after starting the engine."
+            ],
+            "feedback": {
+                "metin": "Enerji açısından mümkün olan en verimli şekilde araç kullanmak için, motoru çalıştırdıktan hemen sonra harekete geçmeniz ve mümkün olan en kısa sürede yüksek vitese geçmeniz gerekir. Fren yapmanız gerektiğinde, debriyaja hemen basmak yerine motor freni kullanmalısınız. Yeterli takip mesafesi bırakmalı ve cruise control'ü mümkün olduğunca sık kullanmalısınız. Klima, koltuk ısıtma gibi enerji tüketen donanımların kullanımını sınırlamalısınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

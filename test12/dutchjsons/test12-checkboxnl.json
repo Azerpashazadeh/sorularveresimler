@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "Wie mogen hier de meest rechter rijstrook gebruiken?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bestuurders van lijndienstbussen.",
-        "Bestuurders van personenauto’s.",
-        "Bestuurders van hulpverleningsvoertuigen.",
-        "Bestuurders van vrachtauto’s.",
-        "Bestuurders van touringcars."
-      ],
-      "dogruCevap": [
-        "Bestuurders van lijndienstbussen.",
-        "Bestuurders van hulpverleningsvoertuigen.",
-        "Bestuurders van touringcars."
-      ],
-      "feedback": {
-        "metin": "Het elektronische matrixbord boven de meest rechter rijstrook geeft aan dat deze rijstrook uitsluitend gebruikt mag worden door busbestuurders. Hieronder vallen bestuurders van lijndienstbussen en touringcars. Bestuurders van hulpverleningsvoertuigen mogen ook gebruikmaken van doelgroepenstroken, dus zij mogen hier ook rijden. Bestuurders van personenauto’s en vrachtauto’s mogen de meest rechter rijstrook hier niet gebruiken.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "Wie mogen hier de meest rechter rijstrook gebruiken?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test12/22.jpg",
+            "cevaplar": [
+                "Bestuurders van lijndienstbussen.",
+                "Bestuurders van personenauto’s.",
+                "Bestuurders van hulpverleningsvoertuigen.",
+                "Bestuurders van vrachtauto’s.",
+                "Bestuurders van touringcars."
+            ],
+            "dogruCevap": [
+                "Public bus drivers.",
+                "Emergency vehicle drivers.",
+                "Coach drivers."
+            ],
+            "feedback": {
+                "metin": "Het elektronische matrixbord boven de meest rechter rijstrook geeft aan dat deze rijstrook uitsluitend gebruikt mag worden door busbestuurders. Hieronder vallen bestuurders van lijndienstbussen en touringcars. Bestuurders van hulpverleningsvoertuigen mogen ook gebruikmaken van doelgroepenstroken, dus zij mogen hier ook rijden. Bestuurders van personenauto’s en vrachtauto’s mogen de meest rechter rijstrook hier niet gebruiken.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

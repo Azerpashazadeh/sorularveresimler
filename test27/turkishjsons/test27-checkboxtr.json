@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 50,
-      "soru": "Hangi yol çizgilerinin üzerinden geçmenize izin verilmez?",
-      "resim": "",
-      "cevaplar": [
-        "Kesik şerit çizgisi.",
-        "Kesintisiz eksen çizgisi.",
-        "Kesintisiz kenar çizgisi.",
-        "Ayırma noktası.",
-        "Taralı yol işaretleri."
-      ],
-      "dogruCevap": [
-        "Kesintisiz eksen çizgisi.",
-        "Ayırma noktası.",
-        "Taralı yol işaretleri."
-      ],
-      "feedback": {
-        "metin": "Sadece kesik çizginin üzerinden geçmenize izin verilir. Kesintisiz çizginin üzerinden geçmenize izin verilmez. Kesintisiz kenar çizgisi bu kurala istisnadır. Örneğin bankete park etmek, yan taraftaki park yerine veya cep (lay-by) alanına girmek için kesintisiz kenar çizgisinin üzerinden geçebilirsiniz. Ayırma noktası veya taralı yol işaretlerinin (gores) üzerinden asla geçemezsiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 50,
+            "soru": "Hangi yol çizgilerinin üzerinden geçmenize izin verilmez?",
+            "resim": "",
+            "cevaplar": [
+                "Kesik şerit çizgisi.",
+                "Kesintisiz eksen çizgisi.",
+                "Kesintisiz kenar çizgisi.",
+                "Ayırma noktası.",
+                "Taralı yol işaretleri."
+            ],
+            "dogruCevap": [
+                "Solid axis line.",
+                "Dividing point.",
+                "Hatched road markings."
+            ],
+            "feedback": {
+                "metin": "Sadece kesik çizginin üzerinden geçmenize izin verilir. Kesintisiz çizginin üzerinden geçmenize izin verilmez. Kesintisiz kenar çizgisi bu kurala istisnadır. Örneğin bankete park etmek, yan taraftaki park yerine veya cep (lay-by) alanına girmek için kesintisiz kenar çizgisinin üzerinden geçebilirsiniz. Ayırma noktası veya taralı yol işaretlerinin (gores) üzerinden asla geçemezsiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

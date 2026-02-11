@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "شو اللي بيأثر ع مسافة التوقف؟",
-      "resim": "",
-      "cevaplar": [
-        "مسافة الفرملة.",
-        "وقت التفكير.",
-        "السرعة الأولى للسواقة.",
-        "ظروف الطقس.",
-        "مسافة الأمان (المتابعة)."
-      ],
-      "dogruCevap": [
-        "مسافة الفرملة.",
-        "وقت التفكير.",
-        "السرعة الأولى للسواقة.",
-        "ظروف الطقس."
-      ],
-      "feedback": {
-        "metin": "مسافة التوقف هي المسافة اللي بتقطعها من وقت الملاحظة لحد ما توقف كلياً. هالشي بيشمل مسافة التفكير ومسافة الفرملة. تقريباً كل العوامل المذكورة بتأثر ع مسافة التفكير أو الفرملة. بس مسافة الأمان ما إلها تأثير ع مسافة التوقف، بالعكس: لتحدد مسافة الأمان لازم تحسب مسافة التوقف.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "شو دايماً ممنوع ع طريق الـautoweg؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "التجاوز.",
-        "السواقة أبطأ من 50 كم/س.",
-        "الوقوف عالحافة.",
-        "السواقة لورا.",
-        "اللف والدوران (U-turn)."
-      ],
-      "dogruCevap": [
-        "الوقوف عالحافة.",
-        "السواقة لورا.",
-        "اللف والدوران (U-turn)."
-      ],
-      "feedback": {
-        "metin": "ع طريق autoweg، دايماً ممنوع تعمل U-turn أو ترجع لورا أو توقف/تصف عالحافة. السواقة أبطأ من 50 كم/س مو ممنوعة إلا إذا عملت خطر أو إزعاج. بس سيارتك لازم تكون بتقدر و مسموح إلها تمشي على الأقل 50 كم/س لتستعمل الـautoweg. التجاوز مسموح عند الخط المتقطع إذا في أمان وما في إشارات بتمنع.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "شو اللي بيأثر ع مسافة التوقف؟",
+            "resim": "",
+            "cevaplar": [
+                "مسافة الفرملة.",
+                "وقت التفكير.",
+                "السرعة الأولى للسواقة.",
+                "ظروف الطقس.",
+                "مسافة الأمان (المتابعة)."
+            ],
+            "dogruCevap": [
+                "The braking distance.",
+                "The thinking time.",
+                "The initial speed of travel.",
+                "The weather conditions."
+            ],
+            "feedback": {
+                "metin": "مسافة التوقف هي المسافة اللي بتقطعها من وقت الملاحظة لحد ما توقف كلياً. هالشي بيشمل مسافة التفكير ومسافة الفرملة. تقريباً كل العوامل المذكورة بتأثر ع مسافة التفكير أو الفرملة. بس مسافة الأمان ما إلها تأثير ع مسافة التوقف، بالعكس: لتحدد مسافة الأمان لازم تحسب مسافة التوقف.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "شو دايماً ممنوع ع طريق الـautoweg؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test32/19.jpg",
+            "cevaplar": [
+                "التجاوز.",
+                "السواقة أبطأ من 50 كم/س.",
+                "الوقوف عالحافة.",
+                "السواقة لورا.",
+                "اللف والدوران (U-turn)."
+            ],
+            "dogruCevap": [
+                "Parking on the verge.",
+                "Reversing.",
+                "Make a u-turn."
+            ],
+            "feedback": {
+                "metin": "ع طريق autoweg، دايماً ممنوع تعمل U-turn أو ترجع لورا أو توقف/تصف عالحافة. السواقة أبطأ من 50 كم/س مو ممنوعة إلا إذا عملت خطر أو إزعاج. بس سيارتك لازم تكون بتقدر و مسموح إلها تمشي على الأقل 50 كم/س لتستعمل الـautoweg. التجاوز مسموح عند الخط المتقطع إذا في أمان وما في إشارات بتمنع.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

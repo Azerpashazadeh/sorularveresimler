@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 25,
-      "soru": "Bu durumda ne yapmalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Mümkün olan en kısa sürede sağ şeride geçin.",
-        "Uyarı amacıyla fren pedalına hafifçe basın.",
-        "Aynı hızda sürmeye devam edin.",
-        "Hızınızı artırın."
-      ],
-      "dogruCevap": [
-        "Mümkün olan en kısa sürede sağ şeride geçin.",
-        "Aynı hızda sürmeye devam edin."
-      ],
-      "feedback": {
-        "metin": "Arkanızdan çok yakın takip eden bir sürücü sizi rahatsız ediyorsa, sakin kalın ve hızınızı artırmayın. Uyarı amaçlı fren yapmak da doğru değildir. Bu, arkadaki sürücünün ani manevralar yapmasına ve diğer trafiği tehlikeye atmasına neden olabilir. Aynı hızda devam edin ve mümkün olan en kısa sürede sağ şeride geçin.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 25,
+            "soru": "Bu durumda ne yapmalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test11/25.jpg",
+            "cevaplar": [
+                "Mümkün olan en kısa sürede sağ şeride geçin.",
+                "Uyarı amacıyla fren pedalına hafifçe basın.",
+                "Aynı hızda sürmeye devam edin.",
+                "Hızınızı artırın."
+            ],
+            "dogruCevap": [
+                "Move to the right lane as soon as possible.",
+                "Continue driving at the same speed."
+            ],
+            "feedback": {
+                "metin": "Arkanızdan çok yakın takip eden bir sürücü sizi rahatsız ediyorsa, sakin kalın ve hızınızı artırmayın. Uyarı amaçlı fren yapmak da doğru değildir. Bu, arkadaki sürücünün ani manevralar yapmasına ve diğer trafiği tehlikeye atmasına neden olabilir. Aynı hızda devam edin ve mümkün olan en kısa sürede sağ şeride geçin.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

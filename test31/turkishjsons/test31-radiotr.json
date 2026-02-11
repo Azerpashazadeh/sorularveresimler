@@ -1,682 +1,682 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Hızınızı iki katına çıkardığınızda fren mesafesi ne olur?",
-      "resim": "",
-      "cevaplar": [
-        "Fren mesafesi aynı kalır.",
-        "Fren mesafesi dört katına çıkar.",
-        "Fren mesafesi iki katına çıkar."
-      ],
-      "dogruCevap": "Fren mesafesi dört katına çıkar.",
-      "feedback": {
-        "metin": "Fren mesafesi aracın hızıyla doğru orantılıdır. Hızınızı artırırsanız fren mesafeniz uzar. Hızınızı iki katına çıkarırsanız, fren mesafesi dört katına çıkar.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 2,
-      "soru": "Araba ve römork toplamda 12 metre uzunluğunda. Bu yola girebilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "C-17 işareti, üzerinde belirtilen uzunluktan (bu durumda 10 metre) daha uzun olan araçların veya yük dahil araç kombinasyonlarının girişinin yasak olduğunu belirtir. Bir otomobil ve römorkun (yük dahil) toplam uzunluğu asla 18 metreyi geçemez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 3,
-      "soru": "Enerji tasarruflu şekilde nasıl araç kullanabilirsiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Sık sık vites değiştirmekten ve fren yapmaktan kaçınarak.",
-        "Hız sabitleyici (cruise control) kullanmaktan kaçınarak.",
-        "Motoru mümkün olduğunca az kapatarak."
-      ],
-      "dogruCevap": "Sık sık vites değiştirmekten ve fren yapmaktan kaçınarak.",
-      "feedback": {
-        "metin": "Gaza fazla basmadan kalkış yapmak, sakin şekilde hareket etmek ve zamanında vites değiştirmek enerji tasarruflu sürüşün en önemli unsurlarıdır. İleriyi dikkatli takip ederek sürekli fren yapma ve yeniden hızlanma ihtiyacını azaltırsınız. Bu da sürüşünüzü daha verimli hale getirir. Hız sabitleyici kullanımı, sabit hız sağladığı için genelde daha az enerji tüketilmesine yardımcı olur.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 5,
-      "soru": "Yerleşim yeri dışında bir autoweg’de römorklu bir otomobil için azami hız nedir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "80 km/sa.",
-        "90 km/sa.",
-        "100 km/sa."
-      ],
-      "dogruCevap": "90 km/sa.",
-      "feedback": {
-        "metin": "Hem autoweg’lerde hem de otoyollarda, yerleşim yeri dışında römorklu otomobiller için azami hız 90 km/sa’dir. Ancak trafik işaretleri daha düşük hız sınırı koyabilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 9,
-      "soru": "Virajda sizden ne tür trafik davranışı beklenir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Kamyonun yanında sürmeye devam edersiniz.",
-        "Kamyonun arkasında sürmeye devam edersiniz.",
-        "Kamyonu sakin şekilde sollarsınız."
-      ],
-      "dogruCevap": "Kamyonun arkasında sürmeye devam edersiniz.",
-      "feedback": {
-        "metin": "Kamyon ve otobüs gibi büyük araçlar viraj alırken binek araçlardan daha fazla alana ihtiyaç duyar. Çok şeritli virajlarda bu dikkate alınmalıdır. Bu durumda, kamyon virajda sizin şeridinize taşabilir. Bu yüzden kamyonun hemen yanında değil, arkasında kalmanız gerekir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 10,
-      "soru": "Bulunduğunuz şeritten kamyonu sollayabilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Blok çizgisinin sağında bulunduğunuzda, sol taraftaki araçları sollayabilirsiniz. Ancak kamyon şerit değiştirmek isteyebilir. Bu nedenle yalnızca güvenli ve gerekli olduğunda sollama yapmalısınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 11,
-      "soru": "Doğru pozisyonda mısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Sadece karşıdan bisikletli ya da mopedli gelmiyorsa.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Bisiklet yolunu kapatıyorsunuz ve bu yasaktır. Daha geride durmanız gerekir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 12,
-      "soru": "Tekerleklerin aracın genişliğinden dışarı taşmasına izin verilir mi?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Hayır. Bu yasaktır.",
-        "Evet, en fazla 3 cm.",
-        "Evet, en fazla 6 cm."
-      ],
-      "dogruCevap": "Evet, en fazla 3 cm.",
-      "feedback": {
-        "metin": "Tekerlekler aracın genişliğinden en fazla 3 cm dışarı taşabilir. Ayrıca iyi şekilde kapatılmış olmalı ve sürtünmemelidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 13,
-      "soru": "Hız sınırını 50 km/sa’den fazla aştığınız için durdurulursanız polis ehliyetinize el koyabilir mi?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Hız sınırını 50 km/sa’den fazla aştığınızda polis ehliyetinize el koymak zorundadır. Ehliyet, polis raporuyla birlikte savcılığa gönderilir. Bundan sonra savcı nasıl bir işlem yapılacağına karar verir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 14,
-      "soru": "Bisikletliye yol vermek zorunda mısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Bisikletli aynı yolda düz devam ediyor ve bu yüzden önceliğe sahiptir. Bisiklet yolu yolun tam paralelinde olmasa da yolun bir parçasıdır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 15,
-      "soru": "Baş dayanağını (kafalığı) doğru şekilde nasıl ayarlarsınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Destek alt kısmı omuz hizasında olmalı.",
-        "Destek üst kısmı başınızın tepesine eşit olmalı.",
-        "Destek alt kısmı kulak hizasında olmalı."
-      ],
-      "dogruCevap": "Destek üst kısmı başınızın tepesine eşit olmalı.",
-      "feedback": {
-        "metin": "Çarpışma durumunda yaralanmaları önlemek veya azaltmak için baş dayanakları gibi bazı güvenlik sistemleri vardır. Bunların doğru ayarlanması önemlidir. Baş dayanağı, kafaya mümkün olduğunca yakın olmalı ve üst kısmı başın en üst hizasında olmalıdır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 16,
-      "soru": "Hangi işaretten sonra yolda oynayan çocuklara dikkat etmelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Sadece G-5 işaretinden sonra.",
-        "Sadece J-21 işaretinden sonra.",
-        "Her iki işaretten sonra."
-      ],
-      "dogruCevap": "Her iki işaretten sonra.",
-      "feedback": {
-        "metin": "Her iki işaret de yolda oynayan çocuklara karşı uyarı yapar. G-5 işareti “erf” (yaşam alanı) anlamına gelir, burada yol üzerinde çocukların oynayabileceğini bilmelisiniz. J-21 işareti ise çocukların aniden yola çıkabileceğini belirtir. Bu işaret genellikle oyun alanlarının ve okulların yakınında görülür.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "Frenleriniz düzgün çalışmıyor. Onarılması için garaja gitmenize izin var mı?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Frenler her zaman düzgün çalışmalıdır. Frenler çalışmıyorsa, araç kullanmanız kesinlikle yasaktır. Garaja gitmek için bile kullanamazsınız. Bu durum hayatî tehlike oluşturur.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 18,
-      "soru": "Önünüzdeki aracı sağdan geçebilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Trafik sıkışıklığında sağdan geçmeye izin verilir. Ayrıca blok çizgisinin sağındaysanız ve önünüzdeki araç sola dönmek için sinyal veriyorsa sağdan geçebilirsiniz. Ancak emniyet şeridinden hiçbir zaman gidemezsiniz. Bu durumda sağdan geçemezsiniz, önünüzdeki aracın trafiğe katılmasını beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "Burada uzun huzmeli farları kullanabilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Hayır, bu yayayı rahatsız eder.",
-        "Hayır, sadece yerleşim yeri dışında.",
-        "Evet, bu serbesttir."
-      ],
-      "dogruCevap": "Hayır, bu yayayı rahatsız eder.",
-      "feedback": {
-        "metin": "Uzun huzmeli farları yalnızca gece kullanabilirsiniz; ancak karşınızdan araç geliyorsa veya kısa mesafeden bir aracı takip ediyorsanız kullanmanız yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 20,
-      "soru": "Snorfiets sürücüleri yan yana gidebilir mi?",
-      "resim": "",
-      "cevaplar": [
-        "Evet, buna izin verilir.",
-        "Hayır, bu yasaktır.",
-        "Hayır, ama bisikletlilerle yan yana gidebilirler."
-      ],
-      "dogruCevap": "Hayır, bu yasaktır.",
-      "feedback": {
-        "metin": "Snorfiets ve moped sürücülerinin yan yana gitmesine izin verilmez. Bisikletliler dışında hiçbir araç sürücüsü yan yana gidemaz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 21,
-      "soru": "Burada yolcu alabilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Bisiklet yolunda durmak veya park etmek yasaktır. Ancak bu şeritte bisiklet sembolleri olmadığı için bu bir “önerilen bisiklet şeridi”dir, gerçek bir bisiklet şeridi değildir. Bu nedenle burada durabilir, park edebilir ve yolcu alıp bırakabilirsiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 22,
-      "soru": "Bu uyarı ışığı yanarsa ne yapmalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Güvenli bir yerde durana kadar devam edin ve servisi arayın.",
-        "Sürmeye devam edin ve bir sonraki APK muayenesinde bildirin.",
-        "Hemen durun, çünkü sürmeye devam etmek ciddi hasara yol açabilir."
-      ],
-      "dogruCevap": "Güvenli bir yerde durana kadar devam edin ve servisi arayın.",
-      "feedback": {
-        "metin": "“Motor yönetim arızası” ışığı yanarsa, servisi veya yol yardımını aramanız tavsiye edilir. Araç normal çalışıyorsa ve ışık turuncuysa (kırmızı değilse), hemen durmanız gerekmez. Sakin şekilde güvenli bir yere gidip durun. Eğer aracın güç kaybettiğini veya düzgün çalışmadığını fark ederseniz hemen durmak daha güvenlidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 23,
-      "soru": "Yaya’ya yol vermek zorunda mısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Yaya, sizin dönmek istediğiniz yolda düz devam etmektedir. Dönüş yapan trafik, düz devam eden trafiğe yol vermelidir. Bu nedenle yaya’ya yol vermek zorundasınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 24,
-      "soru": "Yaya’ya yol vermek zorunda mısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Siz 30 km bölgesinden çıkıyorsunuz. Bu yol giriş-çıkış düzenlemesine sahip değildir. Dolayısıyla sağdan veya soldan gelen yayalara yol vermek zorunda değilsiniz. Yayalar sürücü sınıfına girmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 25,
-      "soru": "Yaya’ya yol vermek zorunda mısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Yaya, sizin dönmek istediğiniz yolda düz devam ediyor. Aynı yolda düz giden trafik, dönüş yapan araçlara göre önceliğe sahiptir. Bu nedenle yaya’ya yol vermek zorundasınız.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 26,
-      "soru": "Bu işaretli hemzemin geçitte kaç ray vardır?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bir ray.",
-        "İki veya daha fazla ray.",
-        "Dört ray."
-      ],
-      "dogruCevap": "İki veya daha fazla ray.",
-      "feedback": {
-        "metin": "Çift haç işareti, hemzemin geçitte iki veya daha fazla ray bulunduğunu gösterir. Tek haç işareti ise yalnızca bir ray olduğunu belirtir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 28,
-      "soru": "Yolcu beklemek için nerede durabilirsiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Sadece E-8 işaretinde.",
-        "Sadece E-7 işaretinde.",
-        "Her iki işarette."
-      ],
-      "dogruCevap": "Sadece E-8 işaretinde.",
-      "feedback": {
-        "metin": "Hukuken yolcu beklemek park etme olarak kabul edilir. Park etmeye yalnızca E-8 işaretinde izin verilir. E-7 işaretinde ise sadece yükleme, boşaltma veya yolcu indirme-bindirme yapılabilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "Çocuk koltuğunu bir kazadan sonra değiştirmek akıllıca mıdır?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Çocuk koltuğunun koruyucu etkisi, bir kazada kullanıldıktan sonra büyük ölçüde azalır. Bu yüzden her kazadan sonra çocuk koltuğunu mutlaka değiştirmelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 30,
-      "soru": "Hangi işaretten sonra karşıdan gelen trafiği beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Sadece A işaretinden sonra.",
-        "Sadece B işaretinden sonra.",
-        "Her iki işaretten sonra."
-      ],
-      "dogruCevap": "Her iki işaretten sonra.",
-      "feedback": {
-        "metin": "D-4 işareti, bir kavşakta belirli bir yönde gitme zorunluluğu olduğunu gösterir. Bu, tek yönlü yol anlamına gelmez. İşaret, sürücülerin sadece gösterilen yönde gitmesini ve sapmamasını zorunlu kılar. A durumunda bu kural bisikletliler ve mopedliler için geçerli değildir. Ancak her iki durumda da karşıdan gelen trafikle karşılaşmayı beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 31,
-      "soru": "Burada sağdan sollama yaparsanız neyi dikkate almalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Çıkış yapan araçlara yol vermek zorunda olduğunuzu.",
-        "Diğer sürücülerin sağdan sollamayı beklemediğini.",
-        "Bunun yalnızca yol çizgilerinde ok olmadığında mümkün olduğunu."
-      ],
-      "dogruCevap": "Diğer sürücülerin sağdan sollamayı beklemediğini.",
-      "feedback": {
-        "metin": "Blok çizgisinin sağında sollama yapmak her zaman güvenli değildir. Birçok sürücü sağdan sollamayı beklemez. Böyle bir sürücü son anda otoyoldan çıkmaya karar verirse sizi görmeyebilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 32,
-      "soru": "Bir römorka ön ve arka işaret lambaları ne zaman takılmalıdır?",
-      "resim": "",
-      "cevaplar": [
-        "Römork 1,55 metreden genişse.",
-        "Römork 1,75 metreden genişse.",
-        "Römork 2,10 metreden genişse."
-      ],
-      "dogruCevap": "Römork 2,10 metreden genişse.",
-      "feedback": {
-        "metin": "Bir römork veya karavan 2,10 metreden daha genişse, önünde iki beyaz, arkasında ise iki kırmızı işaret lambası bulunmalıdır. Bu lambalar, römork veya karavanın genişliğini belirgin hale getirir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Emniyet kemerini omuz yerine koltuk altından geçirmek tehlikeli midir?",
-      "resim": "",
-      "cevaplar": [
-        "Sadece araçta hava yastığı yoksa.",
-        "Hayır. Boyna fazla yakınsa böyle takmak gerekir.",
-        "Evet. Bu, kemerin etkisini büyük ölçüde azaltır."
-      ],
-      "dogruCevap": "Evet. Bu, kemerin etkisini büyük ölçüde azaltır.",
-      "feedback": {
-        "metin": "Üç noktalı emniyet kemeri yalnızca doğru takıldığında etkili olur. Bu, kemerin kalçadan sıkıca geçmesi ve omuzdan çapraz şekilde boyna çok yakın olmayacak biçimde takılması anlamına gelir. Kemer doğru takılmadığında —örneğin koltuk altından geçirildiğinde veya sadece bel kemeri olarak kullanıldığında— etkisi büyük ölçüde azalır. Araçta hava yastığı olup olmaması bu durumda fark yaratmaz çünkü hava yastıkları da yalnızca kemer doğru takıldığında etkili çalışır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 34,
-      "soru": "Burada araç kullanabilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Bu yol, römorklu motorlu araçlara kapalıdır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 35,
-      "soru": "Burada snorfiets sürücüsünü sollamak güvenli midir?",
-      "video": "https://video.wixstatic.com/video/4b688f_b9829e22e69b40edb197330f76fb6893/720p/mp4/file.mp4",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Kavşaklarda sollama ancak tehlike yaratmadığı sürece serbesttir. Trafik akışının belirsiz olduğu kavşaklarda sollama yasaktır. Bu kavşak düzenli görünse de, snorfiets sürücüsünün omzunun üzerinden bakmadan aniden dönebileceğini hesaba katmalısınız. Bu yüzden kavşağı geçene kadar snorfiets’in arkasında kalmanız daha güvenlidir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 39,
-      "soru": "İleri doğru sürmeye devam edebilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet. Ama yalnızca sola dönebilirsiniz.",
-        "Hayır. İleri gidemezsiniz.",
-        "Evet. Ama yalnızca sağa dönebilirsiniz."
-      ],
-      "dogruCevap": "Hayır. İleri gidemezsiniz.",
-      "feedback": {
-        "metin": "Trafik görevlisi, önünden gelen trafiğe dur işareti vermektedir. Bu durumda ilerlemenize izin verilmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 40,
-      "soru": "Burada yolcu indirebilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Hayır. Burada bekleyemezsiniz.",
-        "Evet. Burada bekleyebilirsiniz.",
-        "Evet. Burada park edebilirsiniz."
-      ],
-      "dogruCevap": "Hayır. Burada bekleyemezsiniz.",
-      "feedback": {
-        "metin": "Katı sarı çizgi yanında beklemenize izin verilmez. Bu nedenle yolcu alıp bırakmak veya yükleme-boşaltma yapmak da yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "Bu şekilde araç kullanmanıza izin var mı?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Ön cam ve ön yan camların hasarlı veya renkli olması yasaktır. Bu şekilde araç kullanmanıza izin verilmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 42,
-      "soru": "Burada yük indirip yüklemek için durabilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Bir erf’te yalnızca belirlenmiş park alanlarında park edebilirsiniz. Ancak yük indirip yüklemek park etme kapsamına girmez, bu yüzden burada buna izin verilir. Ayrıca bu durumda diğer yol kullanıcılarını da engellemiyorsunuz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 43,
-      "soru": "Burada sola dönebilir misiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "C-4 işareti, yaklaşmakta olduğunuz yolda yalnızca belirtilen yönde sürmenize izin verir. Ancak alttaki ek levha bu işaretin yalnızca kamyon ve otobüslere uygulandığını belirtmektedir. Bu nedenle siz dâhil diğer sürücüler sola dönebilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 44,
-      "soru": "Kurtarma şirketi araçları da acil durum aracı mıdır?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Kurtarma şirketi araçları acil durum aracı değildir. Polis veya itfaiye gibi mavi yanıp sönen ışık veya çift tonlu siren kullanmazlar. Ancak, çekici veya vinç gibi görevli araç sürücüleri sarı yanıp sönen ışık kullanabilir ve gerekirse kazaya daha hızlı ulaşmak için emniyet şeridini kullanabilirler.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 45,
-      "soru": "Sola dönmek için beklerken ön tekerlekleriniz en güvenli hangi pozisyonda olmalıdır?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Sola çevrilmiş.",
-        "Sağa çevrilmiş.",
-        "Düz ileri bakar durumda."
-      ],
-      "dogruCevap": "Düz ileri bakar durumda.",
-      "feedback": {
-        "metin": "Sola dönmek için yolda beklerken tekerleklerinizi düz ileri bakacak şekilde tutmanız en güvenli yoldur. Eğer tekerlekler sola çevrilmişse ve arkanızdan çarpan bir araç olursa, aracınız karşı şeride fırlatılır. Tekerlekleri sağa çevirmek de güvenliği garanti etmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 46,
-      "soru": "Bir trafik işaretinin altına daha detaylı açıklama yapmak için ek levha konulabilir mi?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Evet.",
-      "feedback": {
-        "metin": "Trafik işaretlerinin altına konulan ek levhalar daha detaylı açıklama yapar. Örneğin, tehlikenin niteliğini ya da işaretin kimler için ve ne zaman geçerli olduğunu belirtebilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 47,
-      "soru": "En sağdaki şeridi kimler kullanabilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Otobüs şoförleri.",
-        "Tur otobüsü şoförleri.",
-        "Toplu taşıma otobüsü şoförleri."
-      ],
-      "dogruCevap": "Toplu taşıma otobüsü şoförleri.",
-      "feedback": {
-        "metin": "Bu şerit yalnızca toplu taşıma otobüsü şoförleri tarafından kullanılabilir. Eğer matris tabelasında “BUS” yazıyorsa, tur otobüsü şoförleri de bu şeridi kullanabilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 49,
-      "soru": "Otoyolun taşıt yolunda bunu görürseniz ne yapmalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "En kısa sürede 112’yi arayın.",
-        "Durup taşları temizleyin.",
-        "Yol yardımını uyarın."
-      ],
-      "dogruCevap": "En kısa sürede 112’yi arayın.",
-      "feedback": {
-        "metin": "Otoyolda tehlikeli bir şey görürseniz, en kısa sürede 112’yi aramalısınız. Yeri mümkün olduğunca doğru bildirin. Kesinlikle kendiniz temizlemeye kalkışmayın, bu sizi tehlikeye atar.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 50,
-      "soru": "Tren geçti. İleri gitmenize izin var mı?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Evet.",
-        "Hayır."
-      ],
-      "dogruCevap": "Hayır.",
-      "feedback": {
-        "metin": "Ancak kırmızı ışık söndüğünde hemzemin geçidi geçebilirsiniz. Çift Andreas haçı, geçitte iki veya daha fazla ray bulunduğunu gösterir. Tren geçtikten sonra karşı yönden başka bir tren daha gelebilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Hızınızı iki katına çıkardığınızda fren mesafesi ne olur?",
+            "resim": "",
+            "cevaplar": [
+                "Fren mesafesi aynı kalır.",
+                "Fren mesafesi dört katına çıkar.",
+                "Fren mesafesi iki katına çıkar."
+            ],
+            "dogruCevap": "Fren mesafesi dört katına çıkar.",
+            "feedback": {
+                "metin": "Fren mesafesi aracın hızıyla doğru orantılıdır. Hızınızı artırırsanız fren mesafeniz uzar. Hızınızı iki katına çıkarırsanız, fren mesafesi dört katına çıkar.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 2,
+            "soru": "Araba ve römork toplamda 12 metre uzunluğunda. Bu yola girebilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/2.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "C-17 işareti, üzerinde belirtilen uzunluktan (bu durumda 10 metre) daha uzun olan araçların veya yük dahil araç kombinasyonlarının girişinin yasak olduğunu belirtir. Bir otomobil ve römorkun (yük dahil) toplam uzunluğu asla 18 metreyi geçemez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 3,
+            "soru": "Enerji tasarruflu şekilde nasıl araç kullanabilirsiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/3.jpg",
+            "cevaplar": [
+                "Sık sık vites değiştirmekten ve fren yapmaktan kaçınarak.",
+                "Hız sabitleyici (cruise control) kullanmaktan kaçınarak.",
+                "Motoru mümkün olduğunca az kapatarak."
+            ],
+            "dogruCevap": "Sık sık vites değiştirmekten ve fren yapmaktan kaçınarak.",
+            "feedback": {
+                "metin": "Gaza fazla basmadan kalkış yapmak, sakin şekilde hareket etmek ve zamanında vites değiştirmek enerji tasarruflu sürüşün en önemli unsurlarıdır. İleriyi dikkatli takip ederek sürekli fren yapma ve yeniden hızlanma ihtiyacını azaltırsınız. Bu da sürüşünüzü daha verimli hale getirir. Hız sabitleyici kullanımı, sabit hız sağladığı için genelde daha az enerji tüketilmesine yardımcı olur.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 5,
+            "soru": "Yerleşim yeri dışında bir autoweg’de römorklu bir otomobil için azami hız nedir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/5.jpg",
+            "cevaplar": [
+                "80 km/sa.",
+                "90 km/sa.",
+                "100 km/sa."
+            ],
+            "dogruCevap": "90 km/sa.",
+            "feedback": {
+                "metin": "Hem autoweg’lerde hem de otoyollarda, yerleşim yeri dışında römorklu otomobiller için azami hız 90 km/sa’dir. Ancak trafik işaretleri daha düşük hız sınırı koyabilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 9,
+            "soru": "Virajda sizden ne tür trafik davranışı beklenir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/9.jpg",
+            "cevaplar": [
+                "Kamyonun yanında sürmeye devam edersiniz.",
+                "Kamyonun arkasında sürmeye devam edersiniz.",
+                "Kamyonu sakin şekilde sollarsınız."
+            ],
+            "dogruCevap": "Kamyonun arkasında sürmeye devam edersiniz.",
+            "feedback": {
+                "metin": "Kamyon ve otobüs gibi büyük araçlar viraj alırken binek araçlardan daha fazla alana ihtiyaç duyar. Çok şeritli virajlarda bu dikkate alınmalıdır. Bu durumda, kamyon virajda sizin şeridinize taşabilir. Bu yüzden kamyonun hemen yanında değil, arkasında kalmanız gerekir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 10,
+            "soru": "Bulunduğunuz şeritten kamyonu sollayabilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/10.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Blok çizgisinin sağında bulunduğunuzda, sol taraftaki araçları sollayabilirsiniz. Ancak kamyon şerit değiştirmek isteyebilir. Bu nedenle yalnızca güvenli ve gerekli olduğunda sollama yapmalısınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 11,
+            "soru": "Doğru pozisyonda mısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/11.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Sadece karşıdan bisikletli ya da mopedli gelmiyorsa.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Bisiklet yolunu kapatıyorsunuz ve bu yasaktır. Daha geride durmanız gerekir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 12,
+            "soru": "Tekerleklerin aracın genişliğinden dışarı taşmasına izin verilir mi?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/12.jpg",
+            "cevaplar": [
+                "Hayır. Bu yasaktır.",
+                "Evet, en fazla 3 cm.",
+                "Evet, en fazla 6 cm."
+            ],
+            "dogruCevap": "Evet, en fazla 3 cm.",
+            "feedback": {
+                "metin": "Tekerlekler aracın genişliğinden en fazla 3 cm dışarı taşabilir. Ayrıca iyi şekilde kapatılmış olmalı ve sürtünmemelidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 13,
+            "soru": "Hız sınırını 50 km/sa’den fazla aştığınız için durdurulursanız polis ehliyetinize el koyabilir mi?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/13.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Hız sınırını 50 km/sa’den fazla aştığınızda polis ehliyetinize el koymak zorundadır. Ehliyet, polis raporuyla birlikte savcılığa gönderilir. Bundan sonra savcı nasıl bir işlem yapılacağına karar verir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 14,
+            "soru": "Bisikletliye yol vermek zorunda mısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/14.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Bisikletli aynı yolda düz devam ediyor ve bu yüzden önceliğe sahiptir. Bisiklet yolu yolun tam paralelinde olmasa da yolun bir parçasıdır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 15,
+            "soru": "Baş dayanağını (kafalığı) doğru şekilde nasıl ayarlarsınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/15.jpg",
+            "cevaplar": [
+                "Destek alt kısmı omuz hizasında olmalı.",
+                "Destek üst kısmı başınızın tepesine eşit olmalı.",
+                "Destek alt kısmı kulak hizasında olmalı."
+            ],
+            "dogruCevap": "Destek üst kısmı başınızın tepesine eşit olmalı.",
+            "feedback": {
+                "metin": "Çarpışma durumunda yaralanmaları önlemek veya azaltmak için baş dayanakları gibi bazı güvenlik sistemleri vardır. Bunların doğru ayarlanması önemlidir. Baş dayanağı, kafaya mümkün olduğunca yakın olmalı ve üst kısmı başın en üst hizasında olmalıdır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 16,
+            "soru": "Hangi işaretten sonra yolda oynayan çocuklara dikkat etmelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/16.jpg",
+            "cevaplar": [
+                "Sadece G-5 işaretinden sonra.",
+                "Sadece J-21 işaretinden sonra.",
+                "Her iki işaretten sonra."
+            ],
+            "dogruCevap": "Her iki işaretten sonra.",
+            "feedback": {
+                "metin": "Her iki işaret de yolda oynayan çocuklara karşı uyarı yapar. G-5 işareti “erf” (yaşam alanı) anlamına gelir, burada yol üzerinde çocukların oynayabileceğini bilmelisiniz. J-21 işareti ise çocukların aniden yola çıkabileceğini belirtir. Bu işaret genellikle oyun alanlarının ve okulların yakınında görülür.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Frenleriniz düzgün çalışmıyor. Onarılması için garaja gitmenize izin var mı?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/17.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Frenler her zaman düzgün çalışmalıdır. Frenler çalışmıyorsa, araç kullanmanız kesinlikle yasaktır. Garaja gitmek için bile kullanamazsınız. Bu durum hayatî tehlike oluşturur.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 18,
+            "soru": "Önünüzdeki aracı sağdan geçebilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/18.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Trafik sıkışıklığında sağdan geçmeye izin verilir. Ayrıca blok çizgisinin sağındaysanız ve önünüzdeki araç sola dönmek için sinyal veriyorsa sağdan geçebilirsiniz. Ancak emniyet şeridinden hiçbir zaman gidemezsiniz. Bu durumda sağdan geçemezsiniz, önünüzdeki aracın trafiğe katılmasını beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Burada uzun huzmeli farları kullanabilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/19.jpg",
+            "cevaplar": [
+                "Hayır, bu yayayı rahatsız eder.",
+                "Hayır, sadece yerleşim yeri dışında.",
+                "Evet, bu serbesttir."
+            ],
+            "dogruCevap": "Hayır, bu yayayı rahatsız eder.",
+            "feedback": {
+                "metin": "Uzun huzmeli farları yalnızca gece kullanabilirsiniz; ancak karşınızdan araç geliyorsa veya kısa mesafeden bir aracı takip ediyorsanız kullanmanız yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 20,
+            "soru": "Snorfiets sürücüleri yan yana gidebilir mi?",
+            "resim": "",
+            "cevaplar": [
+                "Evet, buna izin verilir.",
+                "Hayır, bu yasaktır.",
+                "Hayır, ama bisikletlilerle yan yana gidebilirler."
+            ],
+            "dogruCevap": "Hayır, bu yasaktır.",
+            "feedback": {
+                "metin": "Snorfiets ve moped sürücülerinin yan yana gitmesine izin verilmez. Bisikletliler dışında hiçbir araç sürücüsü yan yana gidemaz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 21,
+            "soru": "Burada yolcu alabilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/21.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Bisiklet yolunda durmak veya park etmek yasaktır. Ancak bu şeritte bisiklet sembolleri olmadığı için bu bir “önerilen bisiklet şeridi”dir, gerçek bir bisiklet şeridi değildir. Bu nedenle burada durabilir, park edebilir ve yolcu alıp bırakabilirsiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 22,
+            "soru": "Bu uyarı ışığı yanarsa ne yapmalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/22.jpg",
+            "cevaplar": [
+                "Güvenli bir yerde durana kadar devam edin ve servisi arayın.",
+                "Sürmeye devam edin ve bir sonraki APK muayenesinde bildirin.",
+                "Hemen durun, çünkü sürmeye devam etmek ciddi hasara yol açabilir."
+            ],
+            "dogruCevap": "Güvenli bir yerde durana kadar devam edin ve servisi arayın.",
+            "feedback": {
+                "metin": "“Motor yönetim arızası” ışığı yanarsa, servisi veya yol yardımını aramanız tavsiye edilir. Araç normal çalışıyorsa ve ışık turuncuysa (kırmızı değilse), hemen durmanız gerekmez. Sakin şekilde güvenli bir yere gidip durun. Eğer aracın güç kaybettiğini veya düzgün çalışmadığını fark ederseniz hemen durmak daha güvenlidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 23,
+            "soru": "Yaya’ya yol vermek zorunda mısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/23.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Yaya, sizin dönmek istediğiniz yolda düz devam etmektedir. Dönüş yapan trafik, düz devam eden trafiğe yol vermelidir. Bu nedenle yaya’ya yol vermek zorundasınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 24,
+            "soru": "Yaya’ya yol vermek zorunda mısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/24.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Siz 30 km bölgesinden çıkıyorsunuz. Bu yol giriş-çıkış düzenlemesine sahip değildir. Dolayısıyla sağdan veya soldan gelen yayalara yol vermek zorunda değilsiniz. Yayalar sürücü sınıfına girmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 25,
+            "soru": "Yaya’ya yol vermek zorunda mısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/25.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Yaya, sizin dönmek istediğiniz yolda düz devam ediyor. Aynı yolda düz giden trafik, dönüş yapan araçlara göre önceliğe sahiptir. Bu nedenle yaya’ya yol vermek zorundasınız.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 26,
+            "soru": "Bu işaretli hemzemin geçitte kaç ray vardır?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/26.jpg",
+            "cevaplar": [
+                "Bir ray.",
+                "İki veya daha fazla ray.",
+                "Dört ray."
+            ],
+            "dogruCevap": "İki veya daha fazla ray.",
+            "feedback": {
+                "metin": "Çift haç işareti, hemzemin geçitte iki veya daha fazla ray bulunduğunu gösterir. Tek haç işareti ise yalnızca bir ray olduğunu belirtir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 28,
+            "soru": "Yolcu beklemek için nerede durabilirsiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/28.jpg",
+            "cevaplar": [
+                "Sadece E-8 işaretinde.",
+                "Sadece E-7 işaretinde.",
+                "Her iki işarette."
+            ],
+            "dogruCevap": "Sadece E-8 işaretinde.",
+            "feedback": {
+                "metin": "Hukuken yolcu beklemek park etme olarak kabul edilir. Park etmeye yalnızca E-8 işaretinde izin verilir. E-7 işaretinde ise sadece yükleme, boşaltma veya yolcu indirme-bindirme yapılabilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "Çocuk koltuğunu bir kazadan sonra değiştirmek akıllıca mıdır?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/29.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Çocuk koltuğunun koruyucu etkisi, bir kazada kullanıldıktan sonra büyük ölçüde azalır. Bu yüzden her kazadan sonra çocuk koltuğunu mutlaka değiştirmelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 30,
+            "soru": "Hangi işaretten sonra karşıdan gelen trafiği beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/30.jpg",
+            "cevaplar": [
+                "Sadece A işaretinden sonra.",
+                "Sadece B işaretinden sonra.",
+                "Her iki işaretten sonra."
+            ],
+            "dogruCevap": "Her iki işaretten sonra.",
+            "feedback": {
+                "metin": "D-4 işareti, bir kavşakta belirli bir yönde gitme zorunluluğu olduğunu gösterir. Bu, tek yönlü yol anlamına gelmez. İşaret, sürücülerin sadece gösterilen yönde gitmesini ve sapmamasını zorunlu kılar. A durumunda bu kural bisikletliler ve mopedliler için geçerli değildir. Ancak her iki durumda da karşıdan gelen trafikle karşılaşmayı beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 31,
+            "soru": "Burada sağdan sollama yaparsanız neyi dikkate almalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/31.gif",
+            "cevaplar": [
+                "Çıkış yapan araçlara yol vermek zorunda olduğunuzu.",
+                "Diğer sürücülerin sağdan sollamayı beklemediğini.",
+                "Bunun yalnızca yol çizgilerinde ok olmadığında mümkün olduğunu."
+            ],
+            "dogruCevap": "Diğer sürücülerin sağdan sollamayı beklemediğini.",
+            "feedback": {
+                "metin": "Blok çizgisinin sağında sollama yapmak her zaman güvenli değildir. Birçok sürücü sağdan sollamayı beklemez. Böyle bir sürücü son anda otoyoldan çıkmaya karar verirse sizi görmeyebilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 32,
+            "soru": "Bir römorka ön ve arka işaret lambaları ne zaman takılmalıdır?",
+            "resim": "",
+            "cevaplar": [
+                "Römork 1,55 metreden genişse.",
+                "Römork 1,75 metreden genişse.",
+                "Römork 2,10 metreden genişse."
+            ],
+            "dogruCevap": "Römork 2,10 metreden genişse.",
+            "feedback": {
+                "metin": "Bir römork veya karavan 2,10 metreden daha genişse, önünde iki beyaz, arkasında ise iki kırmızı işaret lambası bulunmalıdır. Bu lambalar, römork veya karavanın genişliğini belirgin hale getirir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Emniyet kemerini omuz yerine koltuk altından geçirmek tehlikeli midir?",
+            "resim": "",
+            "cevaplar": [
+                "Sadece araçta hava yastığı yoksa.",
+                "Hayır. Boyna fazla yakınsa böyle takmak gerekir.",
+                "Evet. Bu, kemerin etkisini büyük ölçüde azaltır."
+            ],
+            "dogruCevap": "Evet. Bu, kemerin etkisini büyük ölçüde azaltır.",
+            "feedback": {
+                "metin": "Üç noktalı emniyet kemeri yalnızca doğru takıldığında etkili olur. Bu, kemerin kalçadan sıkıca geçmesi ve omuzdan çapraz şekilde boyna çok yakın olmayacak biçimde takılması anlamına gelir. Kemer doğru takılmadığında —örneğin koltuk altından geçirildiğinde veya sadece bel kemeri olarak kullanıldığında— etkisi büyük ölçüde azalır. Araçta hava yastığı olup olmaması bu durumda fark yaratmaz çünkü hava yastıkları da yalnızca kemer doğru takıldığında etkili çalışır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "Burada araç kullanabilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/34.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Bu yol, römorklu motorlu araçlara kapalıdır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 35,
+            "soru": "Burada snorfiets sürücüsünü sollamak güvenli midir?",
+            "video": "https://azerpashazadeh.github.io/sorularveresimler/test31/35.mp4",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Kavşaklarda sollama ancak tehlike yaratmadığı sürece serbesttir. Trafik akışının belirsiz olduğu kavşaklarda sollama yasaktır. Bu kavşak düzenli görünse de, snorfiets sürücüsünün omzunun üzerinden bakmadan aniden dönebileceğini hesaba katmalısınız. Bu yüzden kavşağı geçene kadar snorfiets’in arkasında kalmanız daha güvenlidir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 39,
+            "soru": "İleri doğru sürmeye devam edebilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/39.jpg",
+            "cevaplar": [
+                "Evet. Ama yalnızca sola dönebilirsiniz.",
+                "Hayır. İleri gidemezsiniz.",
+                "Evet. Ama yalnızca sağa dönebilirsiniz."
+            ],
+            "dogruCevap": "Hayır. İleri gidemezsiniz.",
+            "feedback": {
+                "metin": "Trafik görevlisi, önünden gelen trafiğe dur işareti vermektedir. Bu durumda ilerlemenize izin verilmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 40,
+            "soru": "Burada yolcu indirebilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/40.jpg",
+            "cevaplar": [
+                "Hayır. Burada bekleyemezsiniz.",
+                "Evet. Burada bekleyebilirsiniz.",
+                "Evet. Burada park edebilirsiniz."
+            ],
+            "dogruCevap": "Hayır. Burada bekleyemezsiniz.",
+            "feedback": {
+                "metin": "Katı sarı çizgi yanında beklemenize izin verilmez. Bu nedenle yolcu alıp bırakmak veya yükleme-boşaltma yapmak da yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "Bu şekilde araç kullanmanıza izin var mı?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/41.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Ön cam ve ön yan camların hasarlı veya renkli olması yasaktır. Bu şekilde araç kullanmanıza izin verilmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 42,
+            "soru": "Burada yük indirip yüklemek için durabilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/42.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Bir erf’te yalnızca belirlenmiş park alanlarında park edebilirsiniz. Ancak yük indirip yüklemek park etme kapsamına girmez, bu yüzden burada buna izin verilir. Ayrıca bu durumda diğer yol kullanıcılarını da engellemiyorsunuz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 43,
+            "soru": "Burada sola dönebilir misiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/43.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "C-4 işareti, yaklaşmakta olduğunuz yolda yalnızca belirtilen yönde sürmenize izin verir. Ancak alttaki ek levha bu işaretin yalnızca kamyon ve otobüslere uygulandığını belirtmektedir. Bu nedenle siz dâhil diğer sürücüler sola dönebilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 44,
+            "soru": "Kurtarma şirketi araçları da acil durum aracı mıdır?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/44.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Kurtarma şirketi araçları acil durum aracı değildir. Polis veya itfaiye gibi mavi yanıp sönen ışık veya çift tonlu siren kullanmazlar. Ancak, çekici veya vinç gibi görevli araç sürücüleri sarı yanıp sönen ışık kullanabilir ve gerekirse kazaya daha hızlı ulaşmak için emniyet şeridini kullanabilirler.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "Sola dönmek için beklerken ön tekerlekleriniz en güvenli hangi pozisyonda olmalıdır?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/45.jpg",
+            "cevaplar": [
+                "Sola çevrilmiş.",
+                "Sağa çevrilmiş.",
+                "Düz ileri bakar durumda."
+            ],
+            "dogruCevap": "Düz ileri bakar durumda.",
+            "feedback": {
+                "metin": "Sola dönmek için yolda beklerken tekerleklerinizi düz ileri bakacak şekilde tutmanız en güvenli yoldur. Eğer tekerlekler sola çevrilmişse ve arkanızdan çarpan bir araç olursa, aracınız karşı şeride fırlatılır. Tekerlekleri sağa çevirmek de güvenliği garanti etmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 46,
+            "soru": "Bir trafik işaretinin altına daha detaylı açıklama yapmak için ek levha konulabilir mi?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/46.jpg",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Evet.",
+            "feedback": {
+                "metin": "Trafik işaretlerinin altına konulan ek levhalar daha detaylı açıklama yapar. Örneğin, tehlikenin niteliğini ya da işaretin kimler için ve ne zaman geçerli olduğunu belirtebilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 47,
+            "soru": "En sağdaki şeridi kimler kullanabilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/47.jpg",
+            "cevaplar": [
+                "Otobüs şoförleri.",
+                "Tur otobüsü şoförleri.",
+                "Toplu taşıma otobüsü şoförleri."
+            ],
+            "dogruCevap": "Toplu taşıma otobüsü şoförleri.",
+            "feedback": {
+                "metin": "Bu şerit yalnızca toplu taşıma otobüsü şoförleri tarafından kullanılabilir. Eğer matris tabelasında “BUS” yazıyorsa, tur otobüsü şoförleri de bu şeridi kullanabilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 49,
+            "soru": "Otoyolun taşıt yolunda bunu görürseniz ne yapmalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/49.jpg",
+            "cevaplar": [
+                "En kısa sürede 112’yi arayın.",
+                "Durup taşları temizleyin.",
+                "Yol yardımını uyarın."
+            ],
+            "dogruCevap": "En kısa sürede 112’yi arayın.",
+            "feedback": {
+                "metin": "Otoyolda tehlikeli bir şey görürseniz, en kısa sürede 112’yi aramalısınız. Yeri mümkün olduğunca doğru bildirin. Kesinlikle kendiniz temizlemeye kalkışmayın, bu sizi tehlikeye atar.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 50,
+            "soru": "Tren geçti. İleri gitmenize izin var mı?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/50.gif",
+            "cevaplar": [
+                "Evet.",
+                "Hayır."
+            ],
+            "dogruCevap": "Hayır.",
+            "feedback": {
+                "metin": "Ancak kırmızı ışık söndüğünde hemzemin geçidi geçebilirsiniz. Çift Andreas haçı, geçitte iki veya daha fazla ray bulunduğunu gösterir. Tren geçtikten sonra karşı yönden başka bir tren daha gelebilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

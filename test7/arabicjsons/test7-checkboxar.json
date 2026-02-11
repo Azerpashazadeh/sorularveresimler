@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 14,
-      "soru": "أي سواق ما لازم تتوقعهن عالطريق هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سواق موبيد.",
-        "سواق snorfiets.",
-        "سواق brommobiel.",
-        "سواق speed pedelec.",
-        "دراجين."
-      ],
-      "dogruCevap": [
-        "سواق موبيد.",
-        "سواق snorfiets.",
-        "سواق speed pedelec.",
-        "دراجين."
-      ],
-      "feedback": {
-        "metin": "جنب الطريق في مسار إلزامي للدراجات/الموبيد. هاد بيعني إنو الدراجين، سواق snorfiets، وسواق الموبيد والـ speed pedelec لازم يستخدموا هالمسار وما يمشوا عالطريق. بس سواق brommobiel ما مسموح يطلعو عهالمسار. لهيك لازم تتوقع سواق brommobiel عالطريق.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 14,
+            "soru": "أي سواق ما لازم تتوقعهن عالطريق هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
+            "cevaplar": [
+                "سواق موبيد.",
+                "سواق snorfiets.",
+                "سواق brommobiel.",
+                "سواق speed pedelec.",
+                "دراجين."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Snorfietsers.",
+                "Speed pedelec riders.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "جنب الطريق في مسار إلزامي للدراجات/الموبيد. هاد بيعني إنو الدراجين، سواق snorfiets، وسواق الموبيد والـ speed pedelec لازم يستخدموا هالمسار وما يمشوا عالطريق. بس سواق brommobiel ما مسموح يطلعو عهالمسار. لهيك لازم تتوقع سواق brommobiel عالطريق.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

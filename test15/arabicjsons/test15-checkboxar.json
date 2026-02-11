@@ -1,75 +1,75 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "أي من هالسيارات تعتبر مركبات طوارئ (ذات أولوية)؟",
-      "resim": "",
-      "cevaplar": [
-        "مركبة تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat) مع إشارات ضوئية وصوتية.",
-        "الترام.",
-        "سيارة إسعاف مع إشارات ضوئية وصوتية.",
-        "مركبات تابعة لشركات الإنقاذ مع أضواء صفراء وامضة.",
-        "سيارة إسعاف للحيوانات مع أضواء صفراء وامضة.",
-        "مركبة تابعة لقافلة عسكرية."
-      ],
-      "dogruCevap": [
-        "مركبة تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat) مع إشارات ضوئية وصوتية.",
-        "سيارة إسعاف مع إشارات ضوئية وصوتية."
-      ],
-      "feedback": {
-        "metin": "فقط المركبات اللي بتستخدم إشارات ضوئية (زرقاء) وإشارات صوتية تعتبر مركبات طوارئ (ذات أولوية). هالشي بيشمل سيارات الشرطة، سيارات الإطفاء، سيارات الإسعاف، وكمان مركبات تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat). أي مركبة بتستخدم إشارات ضوئية زرقاء وزمور ثنائي النغمة تعتبر مركبة طوارئ وقت بتستخدم هالإشارات. المركبات اللي فيها أضواء صفراء وامضة ما بتعتبر مركبات طوارئ، وكمان الترام أو مركبات القوافل العسكرية ما بينحسبوا، رغم إنه في إلهم أحيانا أولوية خاصة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 42,
-      "soru": "مين من السائقين مسموحلك تتجاوزهم بعد هالشاخصة؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائقي المركبات الزراعية.",
-        "سائقي الشاحنات.",
-        "سائقي الدراجات النارية الصغيرة (موبيد).",
-        "راكبي الدراجات الهوائية.",
-        "راكبي الدراجات النارية."
-      ],
-      "dogruCevap": [
-        "سائقي المركبات الزراعية.",
-        "سائقي الشاحنات.",
-        "سائقي الدراجات النارية الصغيرة (موبيد).",
-        "راكبي الدراجات الهوائية.",
-        "راكبي الدراجات النارية."
-      ],
-      "feedback": {
-        "metin": "هالشاخصة بتمنع سائقي الشاحنات من تجاوز المركبات التانية. يعني هالقانون ما بينطبق عليك، وإنت فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات مسموحلك تتجاوزها.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 43,
-      "soru": "هالشاخصة لمين من السائقين بتطبق؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائقي الدراجات النارية مع عربة جانبية.",
-        "سائقي الشاحنات.",
-        "سائقي الدراجات النارية الصغيرة (موبيد).",
-        "سائقي مركبات الـ Brommobiel.",
-        "سائقي الدراجات النارية ذات العجلتين."
-      ],
-      "dogruCevap": [
-        "سائقي الدراجات النارية مع عربة جانبية.",
-        "سائقي الشاحنات.",
-        "سائقي مركبات الـ Brommobiel."
-      ],
-      "feedback": {
-        "metin": "الشاخصة C-6 معناها ممنوع مرور كل المركبات اللي فيها أكتر من دولابين. هالشي بيشمل السيارات، الدراجات النارية مع عربات جانبية، الشاحنات، الباصات، وكمان مركبات الـ Brommobiel. رغم إن الـ Brommobiel مو مصنفة كمركبة بمحرك، إلا إنها بتتبع نفس القوانين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "أي من هالسيارات تعتبر مركبات طوارئ (ذات أولوية)؟",
+            "resim": "",
+            "cevaplar": [
+                "مركبة تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat) مع إشارات ضوئية وصوتية.",
+                "الترام.",
+                "سيارة إسعاف مع إشارات ضوئية وصوتية.",
+                "مركبات تابعة لشركات الإنقاذ مع أضواء صفراء وامضة.",
+                "سيارة إسعاف للحيوانات مع أضواء صفراء وامضة.",
+                "مركبة تابعة لقافلة عسكرية."
+            ],
+            "dogruCevap": [
+                "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals.",
+                "Ambulance with optical and sound signals."
+            ],
+            "feedback": {
+                "metin": "فقط المركبات اللي بتستخدم إشارات ضوئية (زرقاء) وإشارات صوتية تعتبر مركبات طوارئ (ذات أولوية). هالشي بيشمل سيارات الشرطة، سيارات الإطفاء، سيارات الإسعاف، وكمان مركبات تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat). أي مركبة بتستخدم إشارات ضوئية زرقاء وزمور ثنائي النغمة تعتبر مركبة طوارئ وقت بتستخدم هالإشارات. المركبات اللي فيها أضواء صفراء وامضة ما بتعتبر مركبات طوارئ، وكمان الترام أو مركبات القوافل العسكرية ما بينحسبوا، رغم إنه في إلهم أحيانا أولوية خاصة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 42,
+            "soru": "مين من السائقين مسموحلك تتجاوزهم بعد هالشاخصة؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/42.jpg",
+            "cevaplar": [
+                "سائقي المركبات الزراعية.",
+                "سائقي الشاحنات.",
+                "سائقي الدراجات النارية الصغيرة (موبيد).",
+                "راكبي الدراجات الهوائية.",
+                "راكبي الدراجات النارية."
+            ],
+            "dogruCevap": [
+                "Drivers of agricultural vehicles.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Cyclists.",
+                "Motorcyclists."
+            ],
+            "feedback": {
+                "metin": "هالشاخصة بتمنع سائقي الشاحنات من تجاوز المركبات التانية. يعني هالقانون ما بينطبق عليك، وإنت فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات مسموحلك تتجاوزها.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 43,
+            "soru": "هالشاخصة لمين من السائقين بتطبق؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/43.jpg",
+            "cevaplar": [
+                "سائقي الدراجات النارية مع عربة جانبية.",
+                "سائقي الشاحنات.",
+                "سائقي الدراجات النارية الصغيرة (موبيد).",
+                "سائقي مركبات الـ Brommobiel.",
+                "سائقي الدراجات النارية ذات العجلتين."
+            ],
+            "dogruCevap": [
+                "Drivers of motorcycles with a sidecar.",
+                "Lorry drivers.",
+                "Brommobiel  drivers."
+            ],
+            "feedback": {
+                "metin": "الشاخصة C-6 معناها ممنوع مرور كل المركبات اللي فيها أكتر من دولابين. هالشي بيشمل السيارات، الدراجات النارية مع عربات جانبية، الشاحنات، الباصات، وكمان مركبات الـ Brommobiel. رغم إن الـ Brommobiel مو مصنفة كمركبة بمحرك، إلا إنها بتتبع نفس القوانين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

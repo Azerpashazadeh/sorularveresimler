@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 30,
-      "soru": "Welke bestuurders moet je hier op de rijbaan verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bromfietsers.",
-        "Brommobielbestuurders.",
-        "Speed-pedelecrijders.",
-        "Fietsers.",
-        "Snorfietsers."
-      ],
-      "dogruCevap": [
-        "Bromfietsers.",
-        "Brommobielbestuurders.",
-        "Speed-pedelecrijders.",
-        "Fietsers.",
-        "Snorfietsers."
-      ],
-      "feedback": {
-        "metin": "Er ligt een niet-verplicht fietspad naast de rijbaan. Fietsers mogen dat pad gebruiken, maar dat is niet verplicht. Zij mogen kiezen tussen de rijbaan en het fietspad. Snorfietsers mogen alleen op het niet-verplichte fietspad rijden met hun verbrandingsmotor uit. Andere bestuurders mogen dit pad niet gebruiken. Omdat het pad niet verplicht is, moet je alle genoemde bestuurders op de rijbaan verwachten.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "Welke weggebruikers hebben voorrang als ze van rechts komen binnen een erf?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Voetganger.",
-        "Paardenbegeleider.",
-        "Fietser.",
-        "Bestuurder van een personenauto."
-      ],
-      "dogruCevap": [
-        "Paardenbegeleider.",
-        "Fietser.",
-        "Bestuurder van een personenauto."
-      ],
-      "feedback": {
-        "metin": "Binnen een erf gelden dezelfde voorrangsregels als buiten een erf. Op kruispunten van gelijkwaardige wegen moet je alleen bestuurders die van rechts komen voorrang verlenen. Omdat voetgangers geen bestuurders zijn, hebben zij geen voorrang. Paardenbegeleiders, fietsers en bestuurders van een personenauto zijn wél bestuurders en hebben voorrang als ze van rechts komen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 30,
+            "soru": "Welke bestuurders moet je hier op de rijbaan verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/30.jpg",
+            "cevaplar": [
+                "Bromfietsers.",
+                "Brommobielbestuurders.",
+                "Speed-pedelecrijders.",
+                "Fietsers.",
+                "Snorfietsers."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "Er ligt een niet-verplicht fietspad naast de rijbaan. Fietsers mogen dat pad gebruiken, maar dat is niet verplicht. Zij mogen kiezen tussen de rijbaan en het fietspad. Snorfietsers mogen alleen op het niet-verplichte fietspad rijden met hun verbrandingsmotor uit. Andere bestuurders mogen dit pad niet gebruiken. Omdat het pad niet verplicht is, moet je alle genoemde bestuurders op de rijbaan verwachten.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Welke weggebruikers hebben voorrang als ze van rechts komen binnen een erf?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/48.jpg",
+            "cevaplar": [
+                "Voetganger.",
+                "Paardenbegeleider.",
+                "Fietser.",
+                "Bestuurder van een personenauto."
+            ],
+            "dogruCevap": [
+                "Handler of a horse.",
+                "Cyclist.",
+                "Passenger car driver."
+            ],
+            "feedback": {
+                "metin": "Binnen een erf gelden dezelfde voorrangsregels als buiten een erf. Op kruispunten van gelijkwaardige wegen moet je alleen bestuurders die van rechts komen voorrang verlenen. Omdat voetgangers geen bestuurders zijn, hebben zij geen voorrang. Paardenbegeleiders, fietsers en bestuurders van een personenauto zijn wél bestuurders en hebben voorrang als ze van rechts komen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

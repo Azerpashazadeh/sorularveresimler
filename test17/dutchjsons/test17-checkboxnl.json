@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Welke bestuurders moet je op dit fietspad verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Bestuurders van een gehandicaptenvoertuig.",
-        "Fietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bromfietsers."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "Bestuurders van een gehandicaptenvoertuig.",
-        "Fietsers."
-      ],
-      "feedback": {
-        "metin": "Als een fietsstrook een doorgetrokken streep heeft, mogen alleen fietsers, snorfietsers en bestuurders van gehandicaptenvoertuigen deze gebruiken. Bromfietsers, bestuurders van speed-pedelecs en bestuurders van motorvoertuigen mogen deze fietsstrook niet gebruiken. Ook niet om voor te sorteren of in te halen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Welke bestuurders moet je op dit fietspad verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test17/11.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Bestuurders van een gehandicaptenvoertuig.",
+                "Fietsers.",
+                "Bestuurders van speed-pedelecs.",
+                "Bromfietsers."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Als een fietsstrook een doorgetrokken streep heeft, mogen alleen fietsers, snorfietsers en bestuurders van gehandicaptenvoertuigen deze gebruiken. Bromfietsers, bestuurders van speed-pedelecs en bestuurders van motorvoertuigen mogen deze fietsstrook niet gebruiken. Ook niet om voor te sorteren of in te halen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "Wat moet u doen als u per ongeluk in de zachte berm terechtkomt?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Onmiddellijk remmen.",
-        "Onmiddellijk terugsturen naar de rijbaan.",
-        "Doorrijden met dezelfde snelheid.",
-        "Het gaspedaal loslaten.",
-        "Terugsturen bij lage snelheid."
-      ],
-      "dogruCevap": [
-        "Het gaspedaal loslaten.",
-        "Terugsturen bij lage snelheid."
-      ],
-      "feedback": {
-        "metin": "Wanneer u in de zachte berm terechtkomt, bijvoorbeeld omdat u moest uitwijken, wees voorzichtig om niet plotseling te remmen of te sturen. Laat het gaspedaal los, wacht tot u langzaam genoeg rijdt en stuur voorzichtig terug naar de rijbaan.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 36,
-      "soru": "Uw auto heeft een maximaal toegestane massa van 1500 kg. Welke aanhangers mag u met alleen rijbewijs B trekken?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Aanhangers met een maximaal toegestane massa van 750 kg.",
-        "Aanhangers met een maximaal toegestane massa van 1000 kg.",
-        "Aanhangers met een maximaal toegestane massa van 1500 kg.",
-        "Aanhangers met een maximaal toegestane massa van 2000 kg."
-      ],
-      "dogruCevap": [
-        "Aanhangers met een maximaal toegestane massa van 750 kg.",
-        "Aanhangers met een maximaal toegestane massa van 1000 kg.",
-        "Aanhangers met een maximaal toegestane massa van 1500 kg.",
-        "Aanhangers met een maximaal toegestane massa van 2000 kg."
-      ],
-      "feedback": {
-        "metin": "Met rijbewijs B mag u alle aanhangers trekken met een maximaal toegestane massa tot 750 kg. Zwaardere aanhangers zijn alleen toegestaan wanneer de gecombineerde maximaal toegestane massa van de auto en aanhanger niet meer is dan 3500 kg. Dus als uw auto een maximaal toegestane massa van 1500 kg heeft, mag u aanhangers trekken met een maximaal toegestane massa tot 2000 kg. Voor zwaardere aanhangers heeft u een BE-rijbewijs nodig.\nControleer echter altijd het maximale gewicht dat uw auto technisch mag trekken.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "Wat moet u doen als u per ongeluk in de zachte berm terechtkomt?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/8.jpg",
+            "cevaplar": [
+                "Onmiddellijk remmen.",
+                "Onmiddellijk terugsturen naar de rijbaan.",
+                "Doorrijden met dezelfde snelheid.",
+                "Het gaspedaal loslaten.",
+                "Terugsturen bij lage snelheid."
+            ],
+            "dogruCevap": [
+                "Release the accelerator.",
+                "Steer back at a low speed."
+            ],
+            "feedback": {
+                "metin": "Wanneer u in de zachte berm terechtkomt, bijvoorbeeld omdat u moest uitwijken, wees voorzichtig om niet plotseling te remmen of te sturen. Laat het gaspedaal los, wacht tot u langzaam genoeg rijdt en stuur voorzichtig terug naar de rijbaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 36,
+            "soru": "Uw auto heeft een maximaal toegestane massa van 1500 kg. Welke aanhangers mag u met alleen rijbewijs B trekken?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/36.jpg",
+            "cevaplar": [
+                "Aanhangers met een maximaal toegestane massa van 750 kg.",
+                "Aanhangers met een maximaal toegestane massa van 1000 kg.",
+                "Aanhangers met een maximaal toegestane massa van 1500 kg.",
+                "Aanhangers met een maximaal toegestane massa van 2000 kg."
+            ],
+            "dogruCevap": [
+                "Trailers with a maximum authorised mass of 750 kg.",
+                "Trailers with a maximum authorised mass of 1000 kg.",
+                "Trailers with a maximum authorised mass of 1500 kg.",
+                "Trailers with a maximum authorised mass of 2000 kg."
+            ],
+            "feedback": {
+                "metin": "Met rijbewijs B mag u alle aanhangers trekken met een maximaal toegestane massa tot 750 kg. Zwaardere aanhangers zijn alleen toegestaan wanneer de gecombineerde maximaal toegestane massa van de auto en aanhanger niet meer is dan 3500 kg. Dus als uw auto een maximaal toegestane massa van 1500 kg heeft, mag u aanhangers trekken met een maximaal toegestane massa tot 2000 kg. Voor zwaardere aanhangers heeft u een BE-rijbewijs nodig.\nControleer echter altijd het maximale gewicht dat uw auto technisch mag trekken.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

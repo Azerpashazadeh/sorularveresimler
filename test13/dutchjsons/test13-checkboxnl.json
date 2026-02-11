@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "Wanneer is inhalen altijd verboden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Vlak voor een voetgangersoversteekplaats.",
-        "Bij gebruik van een voorsorteerstrook in een andere richting dan die u wilt volgen.",
-        "Bij het rijden over verdrijvingsvlakken of puntstukken.",
-        "Als u een onderbroken streep moet overschrijden.",
-        "Binnen vijf meter van een kruispunt."
-      ],
-      "dogruCevap": [
-        "Vlak voor een voetgangersoversteekplaats.",
-        "Bij gebruik van een voorsorteerstrook in een andere richting dan die u wilt volgen.",
-        "Bij het rijden over verdrijvingsvlakken of puntstukken."
-      ],
-      "feedback": {
-        "metin": "Inhalen is nooit toegestaan via verdrijvingsvlakken of puntstukken, omdat u hier niet overheen mag rijden. Het is ook niet toegestaan om in te halen via een voorsorteerstrook van een andere richting dan u wilt volgen. Inhalen is ook verboden vlak voor of op een voetgangersoversteekplaats. Inhalen is vaak niet veilig binnen korte afstand van een kruispunt met beperkt zicht, maar het is niet altijd verboden wanneer het zicht voldoende is.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "Wanneer is inhalen altijd verboden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test13/27.jpg",
+            "cevaplar": [
+                "Vlak voor een voetgangersoversteekplaats.",
+                "Bij gebruik van een voorsorteerstrook in een andere richting dan die u wilt volgen.",
+                "Bij het rijden over verdrijvingsvlakken of puntstukken.",
+                "Als u een onderbroken streep moet overschrijden.",
+                "Binnen vijf meter van een kruispunt."
+            ],
+            "dogruCevap": [
+                "Just before a pedestrian crossing.",
+                "While using a pre-sorting lane in a direction different from the one you want to follow.",
+                "While driving over hatched road markings or gores."
+            ],
+            "feedback": {
+                "metin": "Inhalen is nooit toegestaan via verdrijvingsvlakken of puntstukken, omdat u hier niet overheen mag rijden. Het is ook niet toegestaan om in te halen via een voorsorteerstrook van een andere richting dan u wilt volgen. Inhalen is ook verboden vlak voor of op een voetgangersoversteekplaats. Inhalen is vaak niet veilig binnen korte afstand van een kruispunt met beperkt zicht, maar het is niet altijd verboden wanneer het zicht voldoende is.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

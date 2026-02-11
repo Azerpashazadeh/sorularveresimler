@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 30,
-      "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Moped sürücüleri.",
-        "Brommobiel sürücüleri.",
-        "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
-        "Bisikletliler.",
-        "Snorfiets sürücüleri."
-      ],
-      "dogruCevap": [
-        "Moped sürücüleri.",
-        "Brommobiel sürücüleri.",
-        "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
-        "Bisikletliler.",
-        "Snorfiets sürücüleri."
-      ],
-      "feedback": {
-        "metin": "Taşıt yolunun yanında isteğe bağlı bir bisiklet yolu bulunmaktadır. Bisikletliler bu yolu kullanabilir, ancak bu zorunlu değildir. Taşıt yolu ile bisiklet yolu arasında seçim yapabilirler. Snorfiets sürücüleri sadece içten yanmalı motorları kapalıyken bu isteğe bağlı bisiklet yolunu kullanabilirler. Diğer sürücüler bu yolu kullanamaz. Yol isteğe bağlı olduğundan, listelenen tüm sürücüleri taşıt yolu üzerinde beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "Bir 'erf' (yaşam alanı) içinde sağdan gelen hangi yol kullanıcıları önceliğe sahiptir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yayalar.",
-        "Atla yürüyen kişi.",
-        "Bisikletli.",
-        "Binek araç sürücüsü."
-      ],
-      "dogruCevap": [
-        "Atla yürüyen kişi.",
-        "Bisikletli.",
-        "Binek araç sürücüsü."
-      ],
-      "feedback": {
-        "metin": "Bir 'erf' (yaşam alanı) içinde de dışındakiyle aynı öncelik kuralları geçerlidir. Eşdeğer yolların kesişimlerinde sadece sağdan gelen sürücülere yol vermeniz gerekir. Yayalar sürücü sayılmadıkları için öncelik hakkına sahip değildir. Atla yürüyen kişiler, bisikletliler ve binek araç sürücüleri sürücü olarak kabul edilirler ve sağdan geldiklerinde önceliğe sahiptirler.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 30,
+            "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/30.jpg",
+            "cevaplar": [
+                "Moped sürücüleri.",
+                "Brommobiel sürücüleri.",
+                "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
+                "Bisikletliler.",
+                "Snorfiets sürücüleri."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "Taşıt yolunun yanında isteğe bağlı bir bisiklet yolu bulunmaktadır. Bisikletliler bu yolu kullanabilir, ancak bu zorunlu değildir. Taşıt yolu ile bisiklet yolu arasında seçim yapabilirler. Snorfiets sürücüleri sadece içten yanmalı motorları kapalıyken bu isteğe bağlı bisiklet yolunu kullanabilirler. Diğer sürücüler bu yolu kullanamaz. Yol isteğe bağlı olduğundan, listelenen tüm sürücüleri taşıt yolu üzerinde beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Bir 'erf' (yaşam alanı) içinde sağdan gelen hangi yol kullanıcıları önceliğe sahiptir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/48.jpg",
+            "cevaplar": [
+                "Yayalar.",
+                "Atla yürüyen kişi.",
+                "Bisikletli.",
+                "Binek araç sürücüsü."
+            ],
+            "dogruCevap": [
+                "Handler of a horse.",
+                "Cyclist.",
+                "Passenger car driver."
+            ],
+            "feedback": {
+                "metin": "Bir 'erf' (yaşam alanı) içinde de dışındakiyle aynı öncelik kuralları geçerlidir. Eşdeğer yolların kesişimlerinde sadece sağdan gelen sürücülere yol vermeniz gerekir. Yayalar sürücü sayılmadıkları için öncelik hakkına sahip değildir. Atla yürüyen kişiler, bisikletliler ve binek araç sürücüleri sürücü olarak kabul edilirler ve sağdan geldiklerinde önceliğe sahiptirler.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
