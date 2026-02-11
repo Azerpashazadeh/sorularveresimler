@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "Welke voertuigen mag je niet besturen wanneer je rijbewijs is ingevorderd?",
-      "resim": "",
-      "cevaplar": [
-        "Fiets.",
-        "Brommobiel.",
-        "Snorfiets.",
-        "Personenauto."
-      ],
-      "dogruCevap": [
-        "Brommobiel.",
-        "Snorfiets.",
-        "Personenauto."
-      ],
-      "feedback": {
-        "metin": "Wanneer je rijbewijs is ingevorderd mag je geen enkel motorrijtuig besturen. Dus niet alleen het besturen van een personenauto is verboden, maar ook een brommobiel, bromfiets of snorfiets. Een fiets is geen motorrijtuig, dus je mag nog wel fietsen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 34,
-      "soru": "Welke voertuigen moet je uit de tegenrichting verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Vrachtwagens.",
-        "Motorfietsen.",
-        "Fietsers.",
-        "Bromfietsers.",
-        "Personenauto's."
-      ],
-      "dogruCevap": [
-        "Fietsers.",
-        "Bromfietsers."
-      ],
-      "feedback": {
-        "metin": "Deze combinatie van borden geeft een eenrichtingsweg aan, die alleen geldt voor de voertuigen die op het onderbord staan afgebeeld. Dit bord toont twee symbolen, een motorfiets (geldt voor alle motorfietsen) en een personenauto van voren (geldt voor alle motorvoertuigen op meer dan twee wielen). Dit betekent dat het bovenliggende bord geldt voor alle motorvoertuigen. Je hoeft dus geen motorvoertuigen uit de tegenrichting te verwachten. Fietsers en bromfietsers mogen wel tegen de richting in rijden, deze voertuigen zijn geen motorvoertuigen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "Welke voertuigen mag je niet besturen wanneer je rijbewijs is ingevorderd?",
+            "resim": "",
+            "cevaplar": [
+                "Fiets.",
+                "Brommobiel.",
+                "Snorfiets.",
+                "Personenauto."
+            ],
+            "dogruCevap": [
+                "Brommobiel.",
+                "Snorfiets.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "Wanneer je rijbewijs is ingevorderd mag je geen enkel motorrijtuig besturen. Dus niet alleen het besturen van een personenauto is verboden, maar ook een brommobiel, bromfiets of snorfiets. Een fiets is geen motorrijtuig, dus je mag nog wel fietsen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "Welke voertuigen moet je uit de tegenrichting verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test39/34.jpg",
+            "cevaplar": [
+                "Vrachtwagens.",
+                "Motorfietsen.",
+                "Fietsers.",
+                "Bromfietsers.",
+                "Personenauto's."
+            ],
+            "dogruCevap": [
+                "Bicycles.",
+                "Mopeds."
+            ],
+            "feedback": {
+                "metin": "Deze combinatie van borden geeft een eenrichtingsweg aan, die alleen geldt voor de voertuigen die op het onderbord staan afgebeeld. Dit bord toont twee symbolen, een motorfiets (geldt voor alle motorfietsen) en een personenauto van voren (geldt voor alle motorvoertuigen op meer dan twee wielen). Dit betekent dat het bovenliggende bord geldt voor alle motorvoertuigen. Je hoeft dus geen motorvoertuigen uit de tegenrichting te verwachten. Fietsers en bromfietsers mogen wel tegen de richting in rijden, deze voertuigen zijn geen motorvoertuigen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

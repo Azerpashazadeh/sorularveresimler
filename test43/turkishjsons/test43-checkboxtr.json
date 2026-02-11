@@ -1,72 +1,72 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "Burada ne zaman durmanıza izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yol tarifi sormak istediğinizde.",
-        "Otostopçu almak istediğinizde.",
-        "Navigasyonu sıfırlamak istediğinizde.",
-        "Ağır bir paketi indirmek istediğinizde.",
-        "Bir yolcuyu indirmek istediğinizde."
-      ],
-      "dogruCevap": [
-        "Otostopçu almak istediğinizde.",
-        "Bir yolcuyu indirmek istediğinizde."
-      ],
-      "feedback": {
-        "metin": "Bir otobüs durağında yalnızca yolcu indirmek veya almak amacıyla durmanıza izin verilir. Bu, otostopçuyu almak da dahil olmak üzere geçerlidir. Ancak ağır bir paketi indirmek, yol tarifi sormak veya navigasyonu sıfırlamak amacıyla durmak yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "Hangi araçlar motorlu araç kategorisine girer?",
-      "resim": "",
-      "cevaplar": [
-        "Moped.",
-        "Traktör.",
-        "Motosiklet.",
-        "Tramvay.",
-        "Binek otomobil."
-      ],
-      "dogruCevap": [
-        "Traktör.",
-        "Motosiklet.",
-        "Binek otomobil."
-      ],
-      "feedback": {
-        "metin": "Motorlu araçlar, raylı sistem kullanan araçlar (tren, metro, tramvay), mopedler ve engelli araçları hariç tüm motorlu taşıtlardır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "Bu sokaktan çıkarken kime yol vermelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yayalar.",
-        "Moped sürücüleri.",
-        "Motorlu araç sürücüleri.",
-        "Bisikletliler."
-      ],
-      "dogruCevap": [
-        "Yayalar.",
-        "Moped sürücüleri.",
-        "Motorlu araç sürücüleri.",
-        "Bisikletliler."
-      ],
-      "feedback": {
-        "metin": "Bir çıkış yapısından (exit constructie) çıkarken tüm diğer yol kullanıcılarına yol vermek zorundasınız. Bu sadece tüm sürücüleri değil, aynı zamanda yayaları da kapsar.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "Burada ne zaman durmanıza izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/4.jpg",
+            "cevaplar": [
+                "Yol tarifi sormak istediğinizde.",
+                "Otostopçu almak istediğinizde.",
+                "Navigasyonu sıfırlamak istediğinizde.",
+                "Ağır bir paketi indirmek istediğinizde.",
+                "Bir yolcuyu indirmek istediğinizde."
+            ],
+            "dogruCevap": [
+                "When you want to pick up a hitchhiker.",
+                "When you want to drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "Bir otobüs durağında yalnızca yolcu indirmek veya almak amacıyla durmanıza izin verilir. Bu, otostopçuyu almak da dahil olmak üzere geçerlidir. Ancak ağır bir paketi indirmek, yol tarifi sormak veya navigasyonu sıfırlamak amacıyla durmak yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Hangi araçlar motorlu araç kategorisine girer?",
+            "resim": "",
+            "cevaplar": [
+                "Moped.",
+                "Traktör.",
+                "Motosiklet.",
+                "Tramvay.",
+                "Binek otomobil."
+            ],
+            "dogruCevap": [
+                "Tractor.",
+                "Motorcycle.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "Motorlu araçlar, raylı sistem kullanan araçlar (tren, metro, tramvay), mopedler ve engelli araçları hariç tüm motorlu taşıtlardır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "Bu sokaktan çıkarken kime yol vermelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/41.jpg",
+            "cevaplar": [
+                "Yayalar.",
+                "Moped sürücüleri.",
+                "Motorlu araç sürücüleri.",
+                "Bisikletliler."
+            ],
+            "dogruCevap": [
+                "Pedestrians.",
+                "Moped riders.",
+                "Motor vehicle drivers.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Bir çıkış yapısından (exit constructie) çıkarken tüm diğer yol kullanıcılarına yol vermek zorundasınız. Bu sadece tüm sürücüleri değil, aynı zamanda yayaları da kapsar.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

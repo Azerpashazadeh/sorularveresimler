@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 7,
-      "soru": "شو الممنوع تعمله وقت يكون رخصة السواقة معلقة؟",
-      "resim": "",
-      "cevaplar": [
-        "تاخد درس سواقة.",
-        "تقدم فحص سواقة.",
-        "تركب سبيد بيدليك.",
-        "تركب بسكليت."
-      ],
-      "dogruCevap": [
-        "تاخد درس سواقة.",
-        "تقدم فحص سواقة.",
-        "تركب سبيد بيدليك."
-      ],
-      "feedback": {
-        "metin": "وقت تكون رخصة السواقة معلقة (والمعروفة كمان بإيقاف حق القيادة)، بيكون ممنوع تسوق أي مركبة بمحرك. هالشي بيشمل كل الأشكال، يعني ما فيك تاخد درس سواقة ولا تقدم فحص سواقة. السبيد بيدليك كمان تعتبر مركبة بمحرك، فممنوع تركبها بهالحالة. بس فيك تركب بسكليت عادي.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 11,
-      "soru": "أي أضوية مسموح تستخدمها؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "ضو الضباب الأمامي مع الضو الواطي.",
-        "ضو الضباب الأمامي مع ضو الوقوف.",
-        "ضو الضباب الخلفي.",
-        "الضو الواطي.",
-        "الضو العالي."
-      ],
-      "dogruCevap": [
-        "ضو الضباب الأمامي مع الضو الواطي.",
-        "ضو الضباب الأمامي مع ضو الوقوف.",
-        "الضو الواطي."
-      ],
-      "feedback": {
-        "metin": "في ضباب وبتأثر على الرؤية، بس لسا فيك تشوف على الأقل لمسافة 100 متر، لأنك لسا شايف لوحة الهكتومتر الجاية. بهالحالة فيك تستخدم الضو الواطي، سواء لحاله أو مع ضو الضباب الأمامي. كمان فيك تستخدم ضو الضباب الأمامي مع ضو الوقوف بدل الضو الواطي. الضو العالي مو مسموح بالنهار، وضو الضباب الخلفي كمان مو مسموح، إلا إذا كانت الرؤية أقل من 50 متر.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 7,
+            "soru": "شو الممنوع تعمله وقت يكون رخصة السواقة معلقة؟",
+            "resim": "",
+            "cevaplar": [
+                "تاخد درس سواقة.",
+                "تقدم فحص سواقة.",
+                "تركب سبيد بيدليك.",
+                "تركب بسكليت."
+            ],
+            "dogruCevap": [
+                "Take a driving lesson.",
+                "Take a driving exam.",
+                "Riding a speed pedelec."
+            ],
+            "feedback": {
+                "metin": "وقت تكون رخصة السواقة معلقة (والمعروفة كمان بإيقاف حق القيادة)، بيكون ممنوع تسوق أي مركبة بمحرك. هالشي بيشمل كل الأشكال، يعني ما فيك تاخد درس سواقة ولا تقدم فحص سواقة. السبيد بيدليك كمان تعتبر مركبة بمحرك، فممنوع تركبها بهالحالة. بس فيك تركب بسكليت عادي.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 11,
+            "soru": "أي أضوية مسموح تستخدمها؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test42/11.jpg",
+            "cevaplar": [
+                "ضو الضباب الأمامي مع الضو الواطي.",
+                "ضو الضباب الأمامي مع ضو الوقوف.",
+                "ضو الضباب الخلفي.",
+                "الضو الواطي.",
+                "الضو العالي."
+            ],
+            "dogruCevap": [
+                "Front fog lights in combination with dipped headlights.",
+                "Front fog lights in combination with sidelights.",
+                "Dipped headlights."
+            ],
+            "feedback": {
+                "metin": "في ضباب وبتأثر على الرؤية، بس لسا فيك تشوف على الأقل لمسافة 100 متر، لأنك لسا شايف لوحة الهكتومتر الجاية. بهالحالة فيك تستخدم الضو الواطي، سواء لحاله أو مع ضو الضباب الأمامي. كمان فيك تستخدم ضو الضباب الأمامي مع ضو الوقوف بدل الضو الواطي. الضو العالي مو مسموح بالنهار، وضو الضباب الخلفي كمان مو مسموح، إلا إذا كانت الرؤية أقل من 50 متر.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

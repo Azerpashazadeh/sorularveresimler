@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "إيمتى التجاوز دايماً ممنوع؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "قبل ممر المشاة مباشرة.",
-        "وقت استعمال مسار الفرز المسبق باتجاه غير يلي بدك تمشي فيه.",
-        "وقت السواقة فوق التخطيطات المائلة أو الـgores.",
-        "إذا لازم تقطع خط متقطع.",
-        "ضمن خمسة متر من التقاطع."
-      ],
-      "dogruCevap": [
-        "قبل ممر المشاة مباشرة.",
-        "وقت استعمال مسار الفرز المسبق باتجاه غير يلي بدك تمشي فيه.",
-        "وقت السواقة فوق التخطيطات المائلة أو الـgores."
-      ],
-      "feedback": {
-        "metin": "التجاوز ممنوع نهائياً فوق التخطيطات المائلة أو الـgores، لأنو ممنوع تسوق فوق هالإشارات. كمان ممنوع تتجاوز عن طريق مسار فرز مسبق لاتجاه غير يلي بدك تمشي فيه. كمان التجاوز ممنوع قبل أو فوق ممر المشاة. غالباً كمان بيكون خطر تتجاوز قريب من تقاطع مع رؤية محدودة، بس مو دايماً ممنوع إذا كانت الرؤية كافية.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "إيمتى التجاوز دايماً ممنوع؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test33/27.jpg",
+            "cevaplar": [
+                "قبل ممر المشاة مباشرة.",
+                "وقت استعمال مسار الفرز المسبق باتجاه غير يلي بدك تمشي فيه.",
+                "وقت السواقة فوق التخطيطات المائلة أو الـgores.",
+                "إذا لازم تقطع خط متقطع.",
+                "ضمن خمسة متر من التقاطع."
+            ],
+            "dogruCevap": [
+                "Just before a pedestrian crossing.",
+                "While using a pre-sorting lane in a direction different from the one you want to follow.",
+                "While driving over hatched road markings or gores."
+            ],
+            "feedback": {
+                "metin": "التجاوز ممنوع نهائياً فوق التخطيطات المائلة أو الـgores، لأنو ممنوع تسوق فوق هالإشارات. كمان ممنوع تتجاوز عن طريق مسار فرز مسبق لاتجاه غير يلي بدك تمشي فيه. كمان التجاوز ممنوع قبل أو فوق ممر المشاة. غالباً كمان بيكون خطر تتجاوز قريب من تقاطع مع رؤية محدودة، بس مو دايماً ممنوع إذا كانت الرؤية كافية.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

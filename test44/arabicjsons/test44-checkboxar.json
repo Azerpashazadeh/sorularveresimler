@@ -1,30 +1,29 @@
 {
-  "sorular": [
-    {
-      "numara": 40,
-      "soru": "أي نوع من السائقين لازم تتوقع وجودهم على الطريق هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائقي السنورفيتس (Snorfietsers).",
-        "راكبي الدراجات الهوائية.",
-        "سائقي الدراجات النارية الصغيرة.",
-        "سائقي السرعة العالية (Speed pedelec).",
-        "سائقي مركبات البورمموبيل (Brommobiel)."
-      ],
-      "dogruCevap": [
-        "سائقي السنورفيتس (Snorfietsers).",
-        "راكبي الدراجات الهوائية.",
-        "سائقي الدراجات النارية الصغيرة.",
-        "سائقي السرعة العالية (Speed pedelec).",
-        "سائقي مركبات البورمموبيل (Brommobiel)."
-      ],
-      "feedback": {
-        "metin": "في ممر دراجات جانبي غير إلزامي بجانب الطريق. راكبي الدراجات الهوائية مسموح لهم يستخدموا هاد الممر، بس مو إجباري. فيهم يختاروا بين الطريق الرئيسي أو ممر الدراجات. \nسائقي السنورفيتس\n مسموح لهم يمشوا على ممر الدراجات غير الإلزامي فقط إذا كان محرك الاحتراق عندهم طافي. باقي السائقين ما بيحق لهم يستخدموا هاد الممر. وبما إنو الممر غير إلزامي، لازم تتوقع وجود كل السائقين المذكورين على الطريق الرئيسي."
-        ,
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 40,
+            "soru": "أي نوع من السائقين لازم تتوقع وجودهم على الطريق هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test44/40.jpg",
+            "cevaplar": [
+                "سائقي السنورفيتس (Snorfietsers).",
+                "راكبي الدراجات الهوائية.",
+                "سائقي الدراجات النارية الصغيرة.",
+                "سائقي السرعة العالية (Speed pedelec).",
+                "سائقي مركبات البورمموبيل (Brommobiel)."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Cyclists.",
+                "Moped riders.",
+                "Speed pedelec riders.",
+                "Brommobiel  drivers."
+            ],
+            "feedback": {
+                "metin": "في ممر دراجات جانبي غير إلزامي بجانب الطريق. راكبي الدراجات الهوائية مسموح لهم يستخدموا هاد الممر، بس مو إجباري. فيهم يختاروا بين الطريق الرئيسي أو ممر الدراجات. \nسائقي السنورفيتس\n مسموح لهم يمشوا على ممر الدراجات غير الإلزامي فقط إذا كان محرك الاحتراق عندهم طافي. باقي السائقين ما بيحق لهم يستخدموا هاد الممر. وبما إنو الممر غير إلزامي، لازم تتوقع وجود كل السائقين المذكورين على الطريق الرئيسي.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

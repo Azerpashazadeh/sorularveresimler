@@ -1,670 +1,670 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Moet u hier linksaf slaan?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Nee. Dit is een omleiding.",
-        "Ja. Alle voertuigen moeten deze richting volgen.",
-        "Nee. Dit geldt alleen voor voertuigen die gevaarlijke stoffen vervoeren."
-      ],
-      "dogruCevap": "Nee. Dit is een omleiding.",
-      "feedback": {
-        "metin": "Dit bord geeft een omleidingsroute aan met het bijbehorende routenummer. U bent niet verplicht om de omleidingsroute te volgen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 2,
-      "soru": "Moet u richting aangeven bij het wisselen van rijstrook?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja, dat is altijd verplicht.",
-        "Ja, dat is in sommige gevallen verplicht.",
-        "Nee, dat is niet verplicht."
-      ],
-      "dogruCevap": "Ja, dat is altijd verplicht.",
-      "feedback": {
-        "metin": "Rijstrook wisselen is een bijzondere manoeuvre waarbij u ander verkeer voor moet laten gaan en kort voor de manoeuvre richting moet aangeven.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 4,
-      "soru": "Wat moet u doen als dit lampje op uw dashboard tijdens het rijden gaat branden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Een onderhoudsafspraak bij een garage plannen.",
-        "Onmiddellijk op een veilige plaats stoppen.",
-        "Zo snel mogelijk naar een garage rijden."
-      ],
-      "dogruCevap": "Onmiddellijk op een veilige plaats stoppen.",
-      "feedback": {
-        "metin": "Dit lampje waarschuwt voor een laag remvloeistofniveau, versleten remblokken, een ABS-probleem of een geactiveerde handrem. Stop direct op een veilige plaats. Controleer eerst de handrem en het remvloeistofniveau. Als het probleem daarmee niet is opgelost, neem dan contact op met de pechhulpdienst.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 6,
-      "soru": "Mag u hier een passagier laten uitstappen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "U bevindt zich in een zone waar parkeren verboden is. U mag hier wel stoppen om een passagier te laten uitstappen, omdat dit niet als parkeren wordt beschouwd.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 7,
-      "soru": "Welk gevaar schuilt er in deze inhaalmanoeuvre?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Uw zicht is onvoldoende om in te halen.",
-        "De fietser kan plotseling linksaf slaan.",
-        "Bestuurders van rechts kunnen u mogelijk niet op tijd zien."
-      ],
-      "dogruCevap": "De fietser kan plotseling linksaf slaan.",
-      "feedback": {
-        "metin": "Inhalen bij een kruispunt is alleen verboden als dit leidt tot een gevaarlijke situatie. In deze redelijk overzichtelijke kruising hoeft u geen voorrang te verlenen omdat u op een voorrangsweg rijdt. Wel moet u rekening houden met de mogelijkheid dat een fietser onverwachts afslaat zonder om te kijken. In deze situatie is het daarom verstandig om achter de fietser te blijven totdat u het kruispunt gepasseerd bent.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 9,
-      "soru": "Bent u hier correct voorgesorteerd?",
-      "video": "https://video.wixstatic.com/video/4b688f_5899d0e2c57842609e6475869fcb4203/720p/mp4/file.mp4",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "U mag een fietsstrook met een onderbroken streep gebruiken om naar de juiste rijstrook te komen, mits u andere weggebruikers zoals fietsers of snorfietsers niet hindert. In dit geval zou u de fietser hinderen, omdat u moet wachten op de voetganger en daardoor zou stoppen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 10,
-      "soru": "Welke documenten moet een gehandicapte bestuurder zichtbaar in de auto plaatsen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Een gehandicaptenparkeerkaart en een parkeerschijf.",
-        "Een parkeerschijf.",
-        "Een gehandicaptenparkeerkaart."
-      ],
-      "dogruCevap": "Een gehandicaptenparkeerkaart en een parkeerschijf.",
-      "feedback": {
-        "metin": "U moet ook een parkeerschijf gebruiken op een gehandicaptenparkeerplaats waar een maximale parkeertijd is aangegeven. Dit voorkomt dat een auto te lang op dezelfde plek blijft staan. Een blauwe streep is hierbij niet verplicht.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 11,
-      "soru": "Kunt u hier rechtdoor blijven rijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Nee. U moet de rechterrijstrook gebruiken om rechtdoor te rijden.",
-        "Nee. U mag alleen links rijden als dit de doorstroming bevordert.",
-        "Ja. U kunt beide rijstroken gebruiken om rechtdoor te rijden."
-      ],
-      "dogruCevap": "Ja. U kunt beide rijstroken gebruiken om rechtdoor te rijden.",
-      "feedback": {
-        "metin": "Rechts houden is niet verplicht bij het naderen of rijden op rotondes. U mag dus zelf kiezen welke rijstrook u gebruikt, ongeacht de drukte.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 12,
-      "soru": "Rijdt u hier binnen de bebouwde kom?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Het B-1 voorrangsbord geeft aan dat u zich binnen de bebouwde kom bevindt. Dit bord staat binnen de bebouwde kom vóór een kruising en buiten de bebouwde kom na een kruising.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 13,
-      "soru": "Wat moet u doen in deze situatie?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Claxoneren.",
-        "Onmiddellijk stoppen.",
-        "Snelheid verminderen."
-      ],
-      "dogruCevap": "Snelheid verminderen.",
-      "feedback": {
-        "metin": "Als er kinderen op de stoep spelen, hoeft u niet meteen te stoppen, maar u moet uw rijstijl aanpassen. Verminder uw snelheid en houd er rekening mee dat kinderen onvoorspelbaar kunnen zijn en plotseling de weg op kunnen rennen. Claxoneren mag alleen als er direct gevaar dreigt, wat hier nog niet het geval is.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 14,
-      "soru": "Hoe handelt u in deze situatie?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "U bepaalt samen wie voorrang heeft.",
-        "Het snelste voertuig heeft voorrang.",
-        "Het politievoertuig heeft altijd voorrang."
-      ],
-      "dogruCevap": "U bepaalt samen wie voorrang heeft.",
-      "feedback": {
-        "metin": "Omdat er aan beide kanten een obstakel is, geldt er geen specifieke voorrangsregel. U moet samen afspreken wie eerst gaat. Meestal is dit het voertuig dat als eerste aankomt, maar als u tegelijk aankomt, geeft u elkaar voorrang via oogcontact of handgebaren. Omdat de politieauto geen optische en geluidssignalen gebruikt, geldt deze als een normaal voertuig.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 15,
-      "soru": "Wat is het beste om te doen op een steile helling?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snelheid verhogen.",
-        "Terugschakelen.",
-        "Opschakelen."
-      ],
-      "dogruCevap": "Terugschakelen.",
-      "feedback": {
-        "metin": "Als u een steile helling op wilt rijden, is het verstandig om terug te schakelen naar een lagere versnelling. Een hoger toerental maakt beter gebruik van het trekkracht van de motor, waardoor u gemakkelijker de helling opkomt.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 16,
-      "soru": "Moet u voorrang verlenen aan de andere personenauto?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja. U moet voorrang verlenen aan al het andere verkeer.",
-        "Nee. Hij verlaat een weg met een inritconstructie.",
-        "Ja. Dit bevordert de doorstroming."
-      ],
-      "dogruCevap": "Ja. Dit bevordert de doorstroming.",
-      "feedback": {
-        "metin": "De andere auto verlaat een zijweg met een inrit-/uitritconstructie. Bij het verlaten of oprijden van een inritconstructie moet u al het andere verkeer voorrang verlenen. Hoewel beide voertuigen verplicht zijn voorrang te verlenen, is het verstandig om het voertuig van de uitrit als eerste te laten rijden, omdat de uitrit vaak smaller is dan de hoofdweg.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "Mag u hier rijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "U rijdt aan de verkeerde kant van de middenberm. Als de rijbaan is verdeeld door een brede middenberm, moet u de rechterrijstrook gebruiken. Dit wordt meestal aangegeven met verkeersborden, maar ook zonder borden geldt deze regel.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 18,
-      "soru": "Hoeveel profieldiepte moet een winterband hebben om optimaal te functioneren?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Minimaal 1,6 millimeter.",
-        "Minimaal 2 millimeter.",
-        "Minimaal 4 millimeter."
-      ],
-      "dogruCevap": "Minimaal 4 millimeter.",
-      "feedback": {
-        "metin": "Een minimale profieldiepte van 4 millimeter wordt aanbevolen om optimaal gebruik te maken van winterbanden. Voor zomerbanden is dit 2 millimeter. De wettelijke minimale profieldiepte voor alle banden is 1,6 millimeter, zonder onderscheid tussen zomer- en winterbanden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "Welke maximumsnelheid kun je hier verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "80 km/u.",
-        "100 km/u.",
-        "120 km/u."
-      ],
-      "dogruCevap": "100 km/u.",
-      "feedback": {
-        "metin": "De groene asstreep geeft aan dat dit een autoweg is. Op autowegen geldt een maximumsnelheid van 100 km/u, tenzij met verkeersborden een lagere snelheid wordt aangegeven.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 20,
-      "soru": "Moet je hier voor voetgangers voorrang verlenen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Bestuurders mogen niet doorrijden wanneer er tegemoetkomend verkeer is. Voetgangers worden ook als verkeer beschouwd. Je moet voorrang verlenen aan al het tegemoetkomend verkeer, dus de zwarte pijl gaat vóór de rode pijl.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 21,
-      "soru": "Moet je voetgangers voorrang geven bij het oprijden van een rotonde?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja. Net zoals bij het verlaten van de rotonde is dit verplicht.",
-        "Alleen als er een voetgangersoversteekplaats is.",
-        "Nee. Voetgangers hebben nooit voorrang op een rotonde."
-      ],
-      "dogruCevap": "Alleen als er een voetgangersoversteekplaats is.",
-      "feedback": {
-        "metin": "Bij het oprijden van een rotonde is de voetganger die de rotonde volgt kruisend verkeer. De borden bij de rotonde geven aan dat je voorrang moet verlenen aan bestuurders op de kruisende weg. Voetgangers zijn echter geen bestuurders en hebben daarom geen voorrang. Alleen als er een voetgangersoversteekplaats is, moet je hen voorrang verlenen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 23,
-      "soru": "Wat is de alcohollimiet voor een 2toDrive-bestuurder?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Maximaal 0 promille.",
-        "Maximaal 0,2 promille.",
-        "Maximaal 0,5 promille."
-      ],
-      "dogruCevap": "Maximaal 0,2 promille.",
-      "feedback": {
-        "metin": "Voor een beginnende bestuurder geldt een limiet van maximaal 0,2 promille. Een 2toDrive-bestuurder is altijd een beginnende bestuurder.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 24,
-      "soru": "Wat doe je als je pech hebt op de linkerrijstrook van de snelweg en je de vluchtstrook niet meer kunt bereiken?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Alarmlichten aanzetten en de auto naar de vluchtstrook duwen.",
-        "Alarmlichten aanzetten, uitstappen en in de middenberm gaan staan.",
-        "Alarmlichten aanzetten, uitstappen en naar de vluchtstrook oversteken."
-      ],
-      "dogruCevap": "Alarmlichten aanzetten, uitstappen en in de middenberm gaan staan.",
-      "feedback": {
-        "metin": "Als je pech hebt op de linkerrijstrook en niet meer kunt doorrijden naar de vluchtstrook, zet je je alarmlichten aan en plaats je de auto zo dicht mogelijk bij de vangrail of in de middenberm. Stap uit en ga in de middenberm staan. Bel daarna onmiddellijk 112. Steek nooit rijstroken over en duw de auto niet naar de vluchtstrook.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 25,
-      "soru": "Mag je deze weg oprijden terwijl je het rode voertuig sleept?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "Een gesleept voertuig valt onder de categorie aanhangers. Het verkeersbord geeft aan dat de weg gesloten is voor motorvoertuigen met aanhangwagens. Je mag hier dus niet rijden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 26,
-      "soru": "Wat is de maximale lengte van een vrachtwagen met dit markeringsbord?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "16,5 meter.",
-        "18,75 meter.",
-        "25,25 meter."
-      ],
-      "dogruCevap": "25,25 meter.",
-      "feedback": {
-        "metin": "Dit markeringsbord geeft aan dat het om een LZV (Lange en Zware Vrachtautocombinatie) gaat. De maximale lengte van een LZV is 25,25 meter. Als automobilist moet je hier rekening mee houden bij het inhalen of wanneer het voertuig wil afslaan. In dat geval heeft de combinatie nog meer ruimte nodig dan een gewone vrachtwagen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 27,
-      "soru": "Je wilt in deze file een rijstrook naar rechts opschuiven. Moet je rekening houden met de motorrijder?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Motorrijders mogen bij file tussen de twee meest linkse rijstroken door rijden. Als je een rijstrook naar rechts wilt opschuiven, moet je hier rekening mee houden. Je verricht een bijzondere manoeuvre en moet al het andere verkeer, inclusief de motorrijder, voorrang verlenen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 28,
-      "soru": "Wat doe je als deze motorrijder je in een file wil inhalen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "In deze rijstrook voorzichtig naar links uitwijken.",
-        "In deze rijstrook voorzichtig naar rechts uitwijken.",
-        "Niets. Ze mogen de file niet passeren."
-      ],
-      "dogruCevap": "In deze rijstrook voorzichtig naar rechts uitwijken.",
-      "feedback": {
-        "metin": "Motorrijders mogen files passeren, mits ze zich aan een aantal gedragsregels houden. Zo mogen ze alleen tussen de twee meest linkse rijstroken door rijden en mag het snelheidsverschil met het overige verkeer niet meer dan 10 km/u bedragen. Om de motorrijder veilig te laten passeren, moet je in deze rijstrook voorzichtig naar rechts uitwijken.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "Wanneer moet een voertuig dat op waterstof rijdt voor het eerst gekeurd worden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "1 jaar na eerste toelating.",
-        "2 jaar na eerste toelating.",
-        "3 jaar na eerste toelating."
-      ],
-      "dogruCevap": "3 jaar na eerste toelating.",
-      "feedback": {
-        "metin": "Personenauto's die rijden op diesel, gas of waterstof (eventueel in combinatie met een elektromotor) moeten voor het eerst na 3 jaar gekeurd worden en daarna jaarlijks.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 30,
-      "soru": "Welk verkeersbord geeft de versmalling of het einde van de vluchtstrook aan?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Alleen bord A.",
-        "Alleen bord B.",
-        "Beide borden."
-      ],
-      "dogruCevap": "Alleen bord B.",
-      "feedback": {
-        "metin": "Bord B geeft de versmalling of het einde van de vluchtstrook aan. Bord A is een chevronbord dat bij splitsingen van doorgaande wegen voorkomt, bijvoorbeeld waar twee autowegen of twee snelwegen splitsen. Dit bord zegt niets over de vluchtstrook.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 31,
-      "soru": "Wat is de maximale lengte van een aanhangwagen inclusief lading?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "12 meter.",
-        "18 meter.",
-        "25 meter."
-      ],
-      "dogruCevap": "12 meter.",
-      "feedback": {
-        "metin": "Een aanhangwagen mag maximaal 12 meter lang zijn, zowel met als zonder lading. Het maakt daarbij niet uit of de lading deelbaar of ondeelbaar is.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Mag je een kind op deze manier vervoeren met de airbag ingeschakeld?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja. Maar het uitschakelen van de airbag wordt geadviseerd.",
-        "Nee. Kinderen mogen nooit voorin vervoerd worden.",
-        "Nee. De airbag moet uitgeschakeld zijn."
-      ],
-      "dogruCevap": "Nee. De airbag moet uitgeschakeld zijn.",
-      "feedback": {
-        "metin": "Je mag een kind op deze manier alleen vervoeren als de passagiersairbag is uitgeschakeld. Als dit niet mogelijk is, mag het kind alleen achterin de auto worden vervoerd.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 36,
-      "soru": "Wat veroorzaakt spoorvorming?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Grote, zware voertuigen.",
-        "Zware regenval.",
-        "Een noodstop maken."
-      ],
-      "dogruCevap": "Grote, zware voertuigen.",
-      "feedback": {
-        "metin": "Spoorvorming is schade aan het wegdek die wordt veroorzaakt door zware vrachtwagens die diepe sporen achterlaten in het asfalt. Vooral auto's hebben veel last van spoorvorming, omdat ze niet goed in de sporen passen, wat het stuurgedrag nadelig beïnvloedt. Daarnaast vergroot spoorvorming het risico op aquaplaning bij zware regenval.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 37,
-      "soru": "Mag je deze weg inrijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Het bord C-5 geeft aan dat je van beide zijden de weg mag inrijden. Je mag hier dus rijden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 38,
-      "soru": "Welke onderbord geeft aan dat het bovengeplaatste bord geldt voor de volgende 300 meter?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Onderbord A.",
-        "Onderbord B.",
-        "Beide onderborden."
-      ],
-      "dogruCevap": "Onderbord A.",
-      "feedback": {
-        "metin": "Onderbord A geeft aan dat het bovengeplaatste bord geldt voor de volgende 300 meter. Onderbord B geeft aan dat het bord over 300 meter geldig is.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 39,
-      "soru": "Moet je rekening houden met tegemoetkomende vrachtwagens na dit bord?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Bord D-4 geeft een verplichting aan om rechtdoor te rijden. Je mag hier dus niet links- of rechtsaf slaan. Het onderbord geeft aan dat deze verplichting alleen geldt voor vrachtwagens. Er is echter geen sprake van een eenrichtingsweg. Je moet dus rekening houden met tegenliggers, inclusief vrachtwagens.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 40,
-      "soru": "Mag je 40 km/u rijden na dit bord?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Dit bord geeft een adviessnelheid aan. Je bent niet verplicht je hieraan te houden, maar het is verstandig om dat wel te doen. Deze borden worden niet voor niets geplaatst.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "Mag je deze bus inhalen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "Deze bus staat stil bij de bushalte om passagiers te laten in- en uitstappen. Inhalen van de bus is verboden omdat je de doorgetrokken streep niet mag overschrijden. Je moet wachten totdat de bus weer vertrekt. De doorgetrokken streep mag je alleen overschrijden als een voertuig langdurig stilstaat, bijvoorbeeld bij pech.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 42,
-      "soru": "Wanneer mag je grootlicht gebruiken?",
-      "resim": "",
-      "cevaplar": [
-        "Alleen binnen de bebouwde kom als je niemand verblindt.",
-        "Alleen buiten de bebouwde kom als je niemand verblindt.",
-        "Alleen 's nachts als je niemand verblindt."
-      ],
-      "dogruCevap": "Alleen 's nachts als je niemand verblindt.",
-      "feedback": {
-        "metin": "Grootlicht mag alleen 's nachts gebruikt worden en alleen als je andere weggebruikers niet verblindt. Ook mag je geen grootlicht voeren als je achter een ander voertuig rijdt.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 43,
-      "soru": "Mag de achterste fietser de voorste fietser inhalen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja, zolang hij de doorgetrokken streep niet overschrijdt.",
-        "Ja, en hij mag hiervoor ook de doorgetrokken streep overschrijden.",
-        "Nee, fietsers mogen elkaar niet inhalen op een fietsstrook."
-      ],
-      "dogruCevap": "Ja, en hij mag hiervoor ook de doorgetrokken streep overschrijden.",
-      "feedback": {
-        "metin": "Fietsers mogen de doorgetrokken streep op de fietsstrook overschrijden om in te halen. Omdat dit een flinke zijwaartse beweging is, moeten ze voorrang verlenen aan ander verkeer en mogen ze jou niet hinderen. Fietsers vergeten vaak om over hun schouder te kijken, dus als automobilist moet je extra alert zijn. Zelf mag je de doorgetrokken streep niet overschrijden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 45,
-      "soru": "Mag je een handheld telefoon gebruiken tijdens het rijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "Het vasthouden van een mobiele telefoon tijdens het rijden is verboden, omdat dit andere weggebruikers onnodig in gevaar brengt. Dit geldt voor alles waarvoor je een telefoon zou vasthouden, zoals muziek wijzigen, verkeersinformatie checken, navigatie aanpassen, bellen of berichten verzenden en ontvangen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 46,
-      "soru": "Moet je ook de bandenspanning van het reservewiel controleren?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Ja.",
-      "feedback": {
-        "metin": "Je moet altijd zorgen dat het reservewiel de juiste bandenspanning heeft. Rijden met een (reserve)band waarvan de spanning te laag is, kan erg gevaarlijk zijn.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 49,
-      "soru": "Wat kan een gevolg zijn van een negatieve kogeldruk?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "De koppeling breekt af.",
-        "De aanhanger gaat slingeren.",
-        "Het trekkend voertuig helt achterover."
-      ],
-      "dogruCevap": "De aanhanger gaat slingeren.",
-      "feedback": {
-        "metin": "De kogeldruk is het gewicht waarmee de aanhanger op de trekhaak rust. In een ‘ideale’ situatie is het gewicht gelijkmatig verdeeld over de vier wielen van het voertuig. De kogeldruk mag dit evenwicht niet teveel verstoren. Als de kogeldruk te hoog is, drukt er teveel gewicht op de achterwielen. Bij een negatieve kogeldruk drukt er teveel gewicht op de voorwielen. Dit kan ervoor zorgen dat de aanhanger gaat slingeren. De maximale toegestane kogeldruk staat in de handleiding.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 50,
-      "soru": "Mag je zo rijden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ja.",
-        "Nee."
-      ],
-      "dogruCevap": "Nee.",
-      "feedback": {
-        "metin": "Sommige auto’s hebben een afneembare trekhaak. Deze trekhaak mag het kenteken niet bedekken. Je mag hem dus alleen gebruiken als je een aanhanger trekt of als je een fietsenrek gebruikt met een extra kentekenplaat. Je mag niet zo rondrijden zonder reden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Moet u hier linksaf slaan?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/1.jpg",
+            "cevaplar": [
+                "Nee. Dit is een omleiding.",
+                "Ja. Alle voertuigen moeten deze richting volgen.",
+                "Nee. Dit geldt alleen voor voertuigen die gevaarlijke stoffen vervoeren."
+            ],
+            "dogruCevap": "Nee. Dit is een omleiding.",
+            "feedback": {
+                "metin": "Dit bord geeft een omleidingsroute aan met het bijbehorende routenummer. U bent niet verplicht om de omleidingsroute te volgen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 2,
+            "soru": "Moet u richting aangeven bij het wisselen van rijstrook?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/2.jpg",
+            "cevaplar": [
+                "Ja, dat is altijd verplicht.",
+                "Ja, dat is in sommige gevallen verplicht.",
+                "Nee, dat is niet verplicht."
+            ],
+            "dogruCevap": "Ja, dat is altijd verplicht.",
+            "feedback": {
+                "metin": "Rijstrook wisselen is een bijzondere manoeuvre waarbij u ander verkeer voor moet laten gaan en kort voor de manoeuvre richting moet aangeven.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 4,
+            "soru": "Wat moet u doen als dit lampje op uw dashboard tijdens het rijden gaat branden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/4.jpg",
+            "cevaplar": [
+                "Een onderhoudsafspraak bij een garage plannen.",
+                "Onmiddellijk op een veilige plaats stoppen.",
+                "Zo snel mogelijk naar een garage rijden."
+            ],
+            "dogruCevap": "Onmiddellijk op een veilige plaats stoppen.",
+            "feedback": {
+                "metin": "Dit lampje waarschuwt voor een laag remvloeistofniveau, versleten remblokken, een ABS-probleem of een geactiveerde handrem. Stop direct op een veilige plaats. Controleer eerst de handrem en het remvloeistofniveau. Als het probleem daarmee niet is opgelost, neem dan contact op met de pechhulpdienst.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 6,
+            "soru": "Mag u hier een passagier laten uitstappen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/6.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "U bevindt zich in een zone waar parkeren verboden is. U mag hier wel stoppen om een passagier te laten uitstappen, omdat dit niet als parkeren wordt beschouwd.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "Welk gevaar schuilt er in deze inhaalmanoeuvre?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/7.jpg",
+            "cevaplar": [
+                "Uw zicht is onvoldoende om in te halen.",
+                "De fietser kan plotseling linksaf slaan.",
+                "Bestuurders van rechts kunnen u mogelijk niet op tijd zien."
+            ],
+            "dogruCevap": "De fietser kan plotseling linksaf slaan.",
+            "feedback": {
+                "metin": "Inhalen bij een kruispunt is alleen verboden als dit leidt tot een gevaarlijke situatie. In deze redelijk overzichtelijke kruising hoeft u geen voorrang te verlenen omdat u op een voorrangsweg rijdt. Wel moet u rekening houden met de mogelijkheid dat een fietser onverwachts afslaat zonder om te kijken. In deze situatie is het daarom verstandig om achter de fietser te blijven totdat u het kruispunt gepasseerd bent.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 9,
+            "soru": "Bent u hier correct voorgesorteerd?",
+            "video": "https://azerpashazadeh.github.io/sorularveresimler/test50/9.mp4",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "U mag een fietsstrook met een onderbroken streep gebruiken om naar de juiste rijstrook te komen, mits u andere weggebruikers zoals fietsers of snorfietsers niet hindert. In dit geval zou u de fietser hinderen, omdat u moet wachten op de voetganger en daardoor zou stoppen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 10,
+            "soru": "Welke documenten moet een gehandicapte bestuurder zichtbaar in de auto plaatsen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/10.jpg",
+            "cevaplar": [
+                "Een gehandicaptenparkeerkaart en een parkeerschijf.",
+                "Een parkeerschijf.",
+                "Een gehandicaptenparkeerkaart."
+            ],
+            "dogruCevap": "Een gehandicaptenparkeerkaart en een parkeerschijf.",
+            "feedback": {
+                "metin": "U moet ook een parkeerschijf gebruiken op een gehandicaptenparkeerplaats waar een maximale parkeertijd is aangegeven. Dit voorkomt dat een auto te lang op dezelfde plek blijft staan. Een blauwe streep is hierbij niet verplicht.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 11,
+            "soru": "Kunt u hier rechtdoor blijven rijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/11.jpg",
+            "cevaplar": [
+                "Nee. U moet de rechterrijstrook gebruiken om rechtdoor te rijden.",
+                "Nee. U mag alleen links rijden als dit de doorstroming bevordert.",
+                "Ja. U kunt beide rijstroken gebruiken om rechtdoor te rijden."
+            ],
+            "dogruCevap": "Ja. U kunt beide rijstroken gebruiken om rechtdoor te rijden.",
+            "feedback": {
+                "metin": "Rechts houden is niet verplicht bij het naderen of rijden op rotondes. U mag dus zelf kiezen welke rijstrook u gebruikt, ongeacht de drukte.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 12,
+            "soru": "Rijdt u hier binnen de bebouwde kom?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/12.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Het B-1 voorrangsbord geeft aan dat u zich binnen de bebouwde kom bevindt. Dit bord staat binnen de bebouwde kom vóór een kruising en buiten de bebouwde kom na een kruising.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 13,
+            "soru": "Wat moet u doen in deze situatie?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/13.jpg",
+            "cevaplar": [
+                "Claxoneren.",
+                "Onmiddellijk stoppen.",
+                "Snelheid verminderen."
+            ],
+            "dogruCevap": "Snelheid verminderen.",
+            "feedback": {
+                "metin": "Als er kinderen op de stoep spelen, hoeft u niet meteen te stoppen, maar u moet uw rijstijl aanpassen. Verminder uw snelheid en houd er rekening mee dat kinderen onvoorspelbaar kunnen zijn en plotseling de weg op kunnen rennen. Claxoneren mag alleen als er direct gevaar dreigt, wat hier nog niet het geval is.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 14,
+            "soru": "Hoe handelt u in deze situatie?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/14.jpg",
+            "cevaplar": [
+                "U bepaalt samen wie voorrang heeft.",
+                "Het snelste voertuig heeft voorrang.",
+                "Het politievoertuig heeft altijd voorrang."
+            ],
+            "dogruCevap": "U bepaalt samen wie voorrang heeft.",
+            "feedback": {
+                "metin": "Omdat er aan beide kanten een obstakel is, geldt er geen specifieke voorrangsregel. U moet samen afspreken wie eerst gaat. Meestal is dit het voertuig dat als eerste aankomt, maar als u tegelijk aankomt, geeft u elkaar voorrang via oogcontact of handgebaren. Omdat de politieauto geen optische en geluidssignalen gebruikt, geldt deze als een normaal voertuig.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 15,
+            "soru": "Wat is het beste om te doen op een steile helling?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/15.jpg",
+            "cevaplar": [
+                "Snelheid verhogen.",
+                "Terugschakelen.",
+                "Opschakelen."
+            ],
+            "dogruCevap": "Terugschakelen.",
+            "feedback": {
+                "metin": "Als u een steile helling op wilt rijden, is het verstandig om terug te schakelen naar een lagere versnelling. Een hoger toerental maakt beter gebruik van het trekkracht van de motor, waardoor u gemakkelijker de helling opkomt.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 16,
+            "soru": "Moet u voorrang verlenen aan de andere personenauto?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/16.jpg",
+            "cevaplar": [
+                "Ja. U moet voorrang verlenen aan al het andere verkeer.",
+                "Nee. Hij verlaat een weg met een inritconstructie.",
+                "Ja. Dit bevordert de doorstroming."
+            ],
+            "dogruCevap": "Ja. Dit bevordert de doorstroming.",
+            "feedback": {
+                "metin": "De andere auto verlaat een zijweg met een inrit-/uitritconstructie. Bij het verlaten of oprijden van een inritconstructie moet u al het andere verkeer voorrang verlenen. Hoewel beide voertuigen verplicht zijn voorrang te verlenen, is het verstandig om het voertuig van de uitrit als eerste te laten rijden, omdat de uitrit vaak smaller is dan de hoofdweg.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Mag u hier rijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/17.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "U rijdt aan de verkeerde kant van de middenberm. Als de rijbaan is verdeeld door een brede middenberm, moet u de rechterrijstrook gebruiken. Dit wordt meestal aangegeven met verkeersborden, maar ook zonder borden geldt deze regel.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 18,
+            "soru": "Hoeveel profieldiepte moet een winterband hebben om optimaal te functioneren?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/18.jpg",
+            "cevaplar": [
+                "Minimaal 1,6 millimeter.",
+                "Minimaal 2 millimeter.",
+                "Minimaal 4 millimeter."
+            ],
+            "dogruCevap": "Minimaal 4 millimeter.",
+            "feedback": {
+                "metin": "Een minimale profieldiepte van 4 millimeter wordt aanbevolen om optimaal gebruik te maken van winterbanden. Voor zomerbanden is dit 2 millimeter. De wettelijke minimale profieldiepte voor alle banden is 1,6 millimeter, zonder onderscheid tussen zomer- en winterbanden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Welke maximumsnelheid kun je hier verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/19.jpg",
+            "cevaplar": [
+                "80 km/u.",
+                "100 km/u.",
+                "120 km/u."
+            ],
+            "dogruCevap": "100 km/u.",
+            "feedback": {
+                "metin": "De groene asstreep geeft aan dat dit een autoweg is. Op autowegen geldt een maximumsnelheid van 100 km/u, tenzij met verkeersborden een lagere snelheid wordt aangegeven.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 20,
+            "soru": "Moet je hier voor voetgangers voorrang verlenen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/20.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Bestuurders mogen niet doorrijden wanneer er tegemoetkomend verkeer is. Voetgangers worden ook als verkeer beschouwd. Je moet voorrang verlenen aan al het tegemoetkomend verkeer, dus de zwarte pijl gaat vóór de rode pijl.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 21,
+            "soru": "Moet je voetgangers voorrang geven bij het oprijden van een rotonde?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/21.jpg",
+            "cevaplar": [
+                "Ja. Net zoals bij het verlaten van de rotonde is dit verplicht.",
+                "Alleen als er een voetgangersoversteekplaats is.",
+                "Nee. Voetgangers hebben nooit voorrang op een rotonde."
+            ],
+            "dogruCevap": "Alleen als er een voetgangersoversteekplaats is.",
+            "feedback": {
+                "metin": "Bij het oprijden van een rotonde is de voetganger die de rotonde volgt kruisend verkeer. De borden bij de rotonde geven aan dat je voorrang moet verlenen aan bestuurders op de kruisende weg. Voetgangers zijn echter geen bestuurders en hebben daarom geen voorrang. Alleen als er een voetgangersoversteekplaats is, moet je hen voorrang verlenen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 23,
+            "soru": "Wat is de alcohollimiet voor een 2toDrive-bestuurder?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/23.jpg",
+            "cevaplar": [
+                "Maximaal 0 promille.",
+                "Maximaal 0,2 promille.",
+                "Maximaal 0,5 promille."
+            ],
+            "dogruCevap": "Maximaal 0,2 promille.",
+            "feedback": {
+                "metin": "Voor een beginnende bestuurder geldt een limiet van maximaal 0,2 promille. Een 2toDrive-bestuurder is altijd een beginnende bestuurder.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 24,
+            "soru": "Wat doe je als je pech hebt op de linkerrijstrook van de snelweg en je de vluchtstrook niet meer kunt bereiken?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/24.gif",
+            "cevaplar": [
+                "Alarmlichten aanzetten en de auto naar de vluchtstrook duwen.",
+                "Alarmlichten aanzetten, uitstappen en in de middenberm gaan staan.",
+                "Alarmlichten aanzetten, uitstappen en naar de vluchtstrook oversteken."
+            ],
+            "dogruCevap": "Alarmlichten aanzetten, uitstappen en in de middenberm gaan staan.",
+            "feedback": {
+                "metin": "Als je pech hebt op de linkerrijstrook en niet meer kunt doorrijden naar de vluchtstrook, zet je je alarmlichten aan en plaats je de auto zo dicht mogelijk bij de vangrail of in de middenberm. Stap uit en ga in de middenberm staan. Bel daarna onmiddellijk 112. Steek nooit rijstroken over en duw de auto niet naar de vluchtstrook.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 25,
+            "soru": "Mag je deze weg oprijden terwijl je het rode voertuig sleept?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/25.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "Een gesleept voertuig valt onder de categorie aanhangers. Het verkeersbord geeft aan dat de weg gesloten is voor motorvoertuigen met aanhangwagens. Je mag hier dus niet rijden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 26,
+            "soru": "Wat is de maximale lengte van een vrachtwagen met dit markeringsbord?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/26.jpg",
+            "cevaplar": [
+                "16,5 meter.",
+                "18,75 meter.",
+                "25,25 meter."
+            ],
+            "dogruCevap": "25,25 meter.",
+            "feedback": {
+                "metin": "Dit markeringsbord geeft aan dat het om een LZV (Lange en Zware Vrachtautocombinatie) gaat. De maximale lengte van een LZV is 25,25 meter. Als automobilist moet je hier rekening mee houden bij het inhalen of wanneer het voertuig wil afslaan. In dat geval heeft de combinatie nog meer ruimte nodig dan een gewone vrachtwagen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 27,
+            "soru": "Je wilt in deze file een rijstrook naar rechts opschuiven. Moet je rekening houden met de motorrijder?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/27.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Motorrijders mogen bij file tussen de twee meest linkse rijstroken door rijden. Als je een rijstrook naar rechts wilt opschuiven, moet je hier rekening mee houden. Je verricht een bijzondere manoeuvre en moet al het andere verkeer, inclusief de motorrijder, voorrang verlenen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 28,
+            "soru": "Wat doe je als deze motorrijder je in een file wil inhalen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/28.jpg",
+            "cevaplar": [
+                "In deze rijstrook voorzichtig naar links uitwijken.",
+                "In deze rijstrook voorzichtig naar rechts uitwijken.",
+                "Niets. Ze mogen de file niet passeren."
+            ],
+            "dogruCevap": "In deze rijstrook voorzichtig naar rechts uitwijken.",
+            "feedback": {
+                "metin": "Motorrijders mogen files passeren, mits ze zich aan een aantal gedragsregels houden. Zo mogen ze alleen tussen de twee meest linkse rijstroken door rijden en mag het snelheidsverschil met het overige verkeer niet meer dan 10 km/u bedragen. Om de motorrijder veilig te laten passeren, moet je in deze rijstrook voorzichtig naar rechts uitwijken.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "Wanneer moet een voertuig dat op waterstof rijdt voor het eerst gekeurd worden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/29.jpg",
+            "cevaplar": [
+                "1 jaar na eerste toelating.",
+                "2 jaar na eerste toelating.",
+                "3 jaar na eerste toelating."
+            ],
+            "dogruCevap": "3 jaar na eerste toelating.",
+            "feedback": {
+                "metin": "Personenauto's die rijden op diesel, gas of waterstof (eventueel in combinatie met een elektromotor) moeten voor het eerst na 3 jaar gekeurd worden en daarna jaarlijks.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 30,
+            "soru": "Welk verkeersbord geeft de versmalling of het einde van de vluchtstrook aan?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/30.jpg",
+            "cevaplar": [
+                "Alleen bord A.",
+                "Alleen bord B.",
+                "Beide borden."
+            ],
+            "dogruCevap": "Alleen bord B.",
+            "feedback": {
+                "metin": "Bord B geeft de versmalling of het einde van de vluchtstrook aan. Bord A is een chevronbord dat bij splitsingen van doorgaande wegen voorkomt, bijvoorbeeld waar twee autowegen of twee snelwegen splitsen. Dit bord zegt niets over de vluchtstrook.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 31,
+            "soru": "Wat is de maximale lengte van een aanhangwagen inclusief lading?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/31.jpg",
+            "cevaplar": [
+                "12 meter.",
+                "18 meter.",
+                "25 meter."
+            ],
+            "dogruCevap": "12 meter.",
+            "feedback": {
+                "metin": "Een aanhangwagen mag maximaal 12 meter lang zijn, zowel met als zonder lading. Het maakt daarbij niet uit of de lading deelbaar of ondeelbaar is.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Mag je een kind op deze manier vervoeren met de airbag ingeschakeld?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/33.jpg",
+            "cevaplar": [
+                "Ja. Maar het uitschakelen van de airbag wordt geadviseerd.",
+                "Nee. Kinderen mogen nooit voorin vervoerd worden.",
+                "Nee. De airbag moet uitgeschakeld zijn."
+            ],
+            "dogruCevap": "Nee. De airbag moet uitgeschakeld zijn.",
+            "feedback": {
+                "metin": "Je mag een kind op deze manier alleen vervoeren als de passagiersairbag is uitgeschakeld. Als dit niet mogelijk is, mag het kind alleen achterin de auto worden vervoerd.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 36,
+            "soru": "Wat veroorzaakt spoorvorming?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/36.jpg",
+            "cevaplar": [
+                "Grote, zware voertuigen.",
+                "Zware regenval.",
+                "Een noodstop maken."
+            ],
+            "dogruCevap": "Grote, zware voertuigen.",
+            "feedback": {
+                "metin": "Spoorvorming is schade aan het wegdek die wordt veroorzaakt door zware vrachtwagens die diepe sporen achterlaten in het asfalt. Vooral auto's hebben veel last van spoorvorming, omdat ze niet goed in de sporen passen, wat het stuurgedrag nadelig beïnvloedt. Daarnaast vergroot spoorvorming het risico op aquaplaning bij zware regenval.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 37,
+            "soru": "Mag je deze weg inrijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/37.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Het bord C-5 geeft aan dat je van beide zijden de weg mag inrijden. Je mag hier dus rijden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "Welke onderbord geeft aan dat het bovengeplaatste bord geldt voor de volgende 300 meter?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/38.jpg",
+            "cevaplar": [
+                "Onderbord A.",
+                "Onderbord B.",
+                "Beide onderborden."
+            ],
+            "dogruCevap": "Onderbord A.",
+            "feedback": {
+                "metin": "Onderbord A geeft aan dat het bovengeplaatste bord geldt voor de volgende 300 meter. Onderbord B geeft aan dat het bord over 300 meter geldig is.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 39,
+            "soru": "Moet je rekening houden met tegemoetkomende vrachtwagens na dit bord?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/39.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Bord D-4 geeft een verplichting aan om rechtdoor te rijden. Je mag hier dus niet links- of rechtsaf slaan. Het onderbord geeft aan dat deze verplichting alleen geldt voor vrachtwagens. Er is echter geen sprake van een eenrichtingsweg. Je moet dus rekening houden met tegenliggers, inclusief vrachtwagens.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 40,
+            "soru": "Mag je 40 km/u rijden na dit bord?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/40.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Dit bord geeft een adviessnelheid aan. Je bent niet verplicht je hieraan te houden, maar het is verstandig om dat wel te doen. Deze borden worden niet voor niets geplaatst.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "Mag je deze bus inhalen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/41.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "Deze bus staat stil bij de bushalte om passagiers te laten in- en uitstappen. Inhalen van de bus is verboden omdat je de doorgetrokken streep niet mag overschrijden. Je moet wachten totdat de bus weer vertrekt. De doorgetrokken streep mag je alleen overschrijden als een voertuig langdurig stilstaat, bijvoorbeeld bij pech.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 42,
+            "soru": "Wanneer mag je grootlicht gebruiken?",
+            "resim": "",
+            "cevaplar": [
+                "Alleen binnen de bebouwde kom als je niemand verblindt.",
+                "Alleen buiten de bebouwde kom als je niemand verblindt.",
+                "Alleen 's nachts als je niemand verblindt."
+            ],
+            "dogruCevap": "Alleen 's nachts als je niemand verblindt.",
+            "feedback": {
+                "metin": "Grootlicht mag alleen 's nachts gebruikt worden en alleen als je andere weggebruikers niet verblindt. Ook mag je geen grootlicht voeren als je achter een ander voertuig rijdt.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 43,
+            "soru": "Mag de achterste fietser de voorste fietser inhalen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/43.jpg",
+            "cevaplar": [
+                "Ja, zolang hij de doorgetrokken streep niet overschrijdt.",
+                "Ja, en hij mag hiervoor ook de doorgetrokken streep overschrijden.",
+                "Nee, fietsers mogen elkaar niet inhalen op een fietsstrook."
+            ],
+            "dogruCevap": "Ja, en hij mag hiervoor ook de doorgetrokken streep overschrijden.",
+            "feedback": {
+                "metin": "Fietsers mogen de doorgetrokken streep op de fietsstrook overschrijden om in te halen. Omdat dit een flinke zijwaartse beweging is, moeten ze voorrang verlenen aan ander verkeer en mogen ze jou niet hinderen. Fietsers vergeten vaak om over hun schouder te kijken, dus als automobilist moet je extra alert zijn. Zelf mag je de doorgetrokken streep niet overschrijden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "Mag je een handheld telefoon gebruiken tijdens het rijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/45.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "Het vasthouden van een mobiele telefoon tijdens het rijden is verboden, omdat dit andere weggebruikers onnodig in gevaar brengt. Dit geldt voor alles waarvoor je een telefoon zou vasthouden, zoals muziek wijzigen, verkeersinformatie checken, navigatie aanpassen, bellen of berichten verzenden en ontvangen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 46,
+            "soru": "Moet je ook de bandenspanning van het reservewiel controleren?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/46.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Ja.",
+            "feedback": {
+                "metin": "Je moet altijd zorgen dat het reservewiel de juiste bandenspanning heeft. Rijden met een (reserve)band waarvan de spanning te laag is, kan erg gevaarlijk zijn.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 49,
+            "soru": "Wat kan een gevolg zijn van een negatieve kogeldruk?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/49.jpg",
+            "cevaplar": [
+                "De koppeling breekt af.",
+                "De aanhanger gaat slingeren.",
+                "Het trekkend voertuig helt achterover."
+            ],
+            "dogruCevap": "De aanhanger gaat slingeren.",
+            "feedback": {
+                "metin": "De kogeldruk is het gewicht waarmee de aanhanger op de trekhaak rust. In een ‘ideale’ situatie is het gewicht gelijkmatig verdeeld over de vier wielen van het voertuig. De kogeldruk mag dit evenwicht niet teveel verstoren. Als de kogeldruk te hoog is, drukt er teveel gewicht op de achterwielen. Bij een negatieve kogeldruk drukt er teveel gewicht op de voorwielen. Dit kan ervoor zorgen dat de aanhanger gaat slingeren. De maximale toegestane kogeldruk staat in de handleiding.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 50,
+            "soru": "Mag je zo rijden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/50.jpg",
+            "cevaplar": [
+                "Ja.",
+                "Nee."
+            ],
+            "dogruCevap": "Nee.",
+            "feedback": {
+                "metin": "Sommige auto’s hebben een afneembare trekhaak. Deze trekhaak mag het kenteken niet bedekken. Je mag hem dus alleen gebruiken als je een aanhanger trekt of als je een fietsenrek gebruikt met een extra kentekenplaat. Je mag niet zo rondrijden zonder reden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

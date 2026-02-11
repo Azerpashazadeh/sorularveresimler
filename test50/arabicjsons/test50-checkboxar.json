@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 3,
-      "soru": "أي سواقين عابرين لازم تتوقع هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سواقين الدراجات النارية الصغيرة (moped).",
-        "سواقين الـBrommobiel.",
-        "راكبي البسكليت.",
-        "راكبي السكوتر الكهربائي السريع (speed pedelec).",
-        "Snorfietsers."
-      ],
-      "dogruCevap": [
-        "سواقين الدراجات النارية الصغيرة (moped).",
-        "راكبي البسكليت.",
-        "راكبي السكوتر الكهربائي السريع (speed pedelec).",
-        "Snorfietsers."
-      ],
-      "feedback": {
-        "metin": "الإشارة J-24 بتحذرك من راكبي البسكليت وسواقين الدراجات النارية الصغيرة (moped) العابرين. هالشي بيشمل كمان snorfietsers وراكبي الـspeed pedelec. ما لازم تتوقع سواقين الـBrommobiel يعبروا هون، لأنهم لازم يتقيدوا بقوانين المركبات الآلية مو mopeds.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "مع بعض الأدوية، لازم تتوقع إنها تأثر على قدرتك عالقيادة. إيمتى لازم دايمًا تاخد هالشي بعين الاعتبار؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "لما الأدوية يكون عليها ستيكر أصفر تحذيري.",
-        "لما يكون مذكور بنشرة الدوا.",
-        "لما يكون الدوا موصوف من دكتور.",
-        "إذا الدوا من الصيدلية."
-      ],
-      "dogruCevap": [
-        "لما الأدوية يكون عليها ستيكر أصفر تحذيري.",
-        "لما يكون مذكور بنشرة الدوا."
-      ],
-      "feedback": {
-        "metin": "بالنسبة للأدوية اللي عليها ستيكر أصفر والأدوية المذكور بنشرة الدوا إنها بتأثر عالقيادة، لازم دايمًا تكون منتبه. هاد الشي ممكن يصير مع الأدوية اللي موصوفة من دكتور أو اللي بتشتريها من الصيدلية أو الدكان. مو كل الأدوية الموصوفة من دكتور بتأثر عالقيادة. فيك كمان تتأكد عالإنترنت بـ www.rijveiligmetmedicijnen.nl.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 3,
+            "soru": "أي سواقين عابرين لازم تتوقع هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/3.jpg",
+            "cevaplar": [
+                "سواقين الدراجات النارية الصغيرة (moped).",
+                "سواقين الـBrommobiel.",
+                "راكبي البسكليت.",
+                "راكبي السكوتر الكهربائي السريع (speed pedelec).",
+                "Snorfietsers."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Cyclists.",
+                "Speed pedelec riders.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "الإشارة J-24 بتحذرك من راكبي البسكليت وسواقين الدراجات النارية الصغيرة (moped) العابرين. هالشي بيشمل كمان snorfietsers وراكبي الـspeed pedelec. ما لازم تتوقع سواقين الـBrommobiel يعبروا هون، لأنهم لازم يتقيدوا بقوانين المركبات الآلية مو mopeds.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "مع بعض الأدوية، لازم تتوقع إنها تأثر على قدرتك عالقيادة. إيمتى لازم دايمًا تاخد هالشي بعين الاعتبار؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/48.jpg",
+            "cevaplar": [
+                "لما الأدوية يكون عليها ستيكر أصفر تحذيري.",
+                "لما يكون مذكور بنشرة الدوا.",
+                "لما يكون الدوا موصوف من دكتور.",
+                "إذا الدوا من الصيدلية."
+            ],
+            "dogruCevap": [
+                "When medicines have a yellow warning sticker.",
+                "When this is stated in the leaflet of the medication."
+            ],
+            "feedback": {
+                "metin": "بالنسبة للأدوية اللي عليها ستيكر أصفر والأدوية المذكور بنشرة الدوا إنها بتأثر عالقيادة، لازم دايمًا تكون منتبه. هاد الشي ممكن يصير مع الأدوية اللي موصوفة من دكتور أو اللي بتشتريها من الصيدلية أو الدكان. مو كل الأدوية الموصوفة من دكتور بتأثر عالقيادة. فيك كمان تتأكد عالإنترنت بـ www.rijveiligmetmedicijnen.nl.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

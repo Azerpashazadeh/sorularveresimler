@@ -1,29 +1,29 @@
 {
-  "sorular": [
-    {
-      "numara": 40,
-      "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfiets kullanıcıları.",
-        "Bisikletliler.",
-        "Moped sürücüleri.",
-        "Speed pedelec kullanıcıları.",
-        "Brommobiel (mini otomobil) sürücüleri."
-      ],
-      "dogruCevap": [
-        "Snorfiets kullanıcıları.",
-        "Bisikletliler.",
-        "Moped sürücüleri.",
-        "Speed pedelec kullanıcıları.",
-        "Brommobiel (mini otomobil) sürücüleri."
-      ],
-      "feedback": {
-        "metin": "Taşıt yolunun yanında isteğe bağlı bir bisiklet yolu bulunmaktadır. Bisikletliler bu yolu kullanabilirler, ancak bu zorunlu değildir. Taşıt yolu ile bisiklet yolu arasında seçim yapabilirler.\nSnorfiets kullanıcıları, yalnızca içten yanmalı motorları kapalıyken bu isteğe bağlı bisiklet yolunu kullanabilir. Diğer sürücüler için bu yol yasaktır. Yol isteğe bağlı olduğundan, listelenen tüm sürücüleri taşıt yolunda beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 40,
+            "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test44/40.jpg",
+            "cevaplar": [
+                "Snorfiets kullanıcıları.",
+                "Bisikletliler.",
+                "Moped sürücüleri.",
+                "Speed pedelec kullanıcıları.",
+                "Brommobiel (mini otomobil) sürücüleri."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Cyclists.",
+                "Moped riders.",
+                "Speed pedelec riders.",
+                "Brommobiel  drivers."
+            ],
+            "feedback": {
+                "metin": "Taşıt yolunun yanında isteğe bağlı bir bisiklet yolu bulunmaktadır. Bisikletliler bu yolu kullanabilirler, ancak bu zorunlu değildir. Taşıt yolu ile bisiklet yolu arasında seçim yapabilirler.\nSnorfiets kullanıcıları, yalnızca içten yanmalı motorları kapalıyken bu isteğe bağlı bisiklet yolunu kullanabilir. Diğer sürücüler için bu yol yasaktır. Yol isteğe bağlı olduğundan, listelenen tüm sürücüleri taşıt yolunda beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

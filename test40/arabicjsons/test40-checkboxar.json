@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "شو مسموح هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "تنتظر ليوصل راكب.",
-        "الباركينغ بكرت باركينغ لذوي الاحتياجات الخاصة.",
-        "تنزيل راكب.",
-        "تحكي تلفون شوي.",
-        "تنزيل طرد تقيل."
-      ],
-      "dogruCevap": [
-        "تنزيل راكب.",
-        "تنزيل طرد تقيل."
-      ],
-      "feedback": {
-        "metin": "هاي الإشارة بتدل على مكان مخصص للتحميل والتنزيل. مسموح توقف هون لتنزل أو تحمل أغراض وزنها أو حجمها كبير. كمان مسموح تنزل أو تاخد راكب هون. بس الباركينغ ممنوع. يعني مكالمات قصيرة أو الانتظار ليوصل راكب ما مسموحين، لأنو هاد بينحسب باركينغ. الباركينغ بكرت لذوي الاحتياجات الخاصة كمان ما مسموح هون. هاد مسموح عند إشارة E-1 (بحد أقصى 3 ساعات)، بس مو بمكان التحميل والتنزيل.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "أي سواقي مسموح تتجاوز بعد هالإشارة؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "راكبي البسكليت.",
-        "سواقي المركبات الزراعية.",
-        "سواقي الـmoped.",
-        "سواقي الشاحنات.",
-        "سواقي الدراجات النارية."
-      ],
-      "dogruCevap": [
-        "راكبي البسكليت.",
-        "سواقي الـmoped."
-      ],
-      "feedback": {
-        "metin": "هاي الإشارة بتدل على منع المركبات بمحرك إنو يتجاوزو بعض. يعني ما مسموح تتجاوز أي مركبة بمحرك. بس راكبي البسكليت وسواقي الـmoped ما بينحسبو مركبات بمحرك، فمسموح تتجاوزهن. دير بالك، الـbrommobielen بيتعاملو كمركبات بمحرك، وممنوع تتجاوزهن هون.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "شو مسموح هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/28.jpg",
+            "cevaplar": [
+                "تنتظر ليوصل راكب.",
+                "الباركينغ بكرت باركينغ لذوي الاحتياجات الخاصة.",
+                "تنزيل راكب.",
+                "تحكي تلفون شوي.",
+                "تنزيل طرد تقيل."
+            ],
+            "dogruCevap": [
+                "Dropping off a passenger.",
+                "Unloading of a heavy package."
+            ],
+            "feedback": {
+                "metin": "هاي الإشارة بتدل على مكان مخصص للتحميل والتنزيل. مسموح توقف هون لتنزل أو تحمل أغراض وزنها أو حجمها كبير. كمان مسموح تنزل أو تاخد راكب هون. بس الباركينغ ممنوع. يعني مكالمات قصيرة أو الانتظار ليوصل راكب ما مسموحين، لأنو هاد بينحسب باركينغ. الباركينغ بكرت لذوي الاحتياجات الخاصة كمان ما مسموح هون. هاد مسموح عند إشارة E-1 (بحد أقصى 3 ساعات)، بس مو بمكان التحميل والتنزيل.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "أي سواقي مسموح تتجاوز بعد هالإشارة؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/33.jpg",
+            "cevaplar": [
+                "راكبي البسكليت.",
+                "سواقي المركبات الزراعية.",
+                "سواقي الـmoped.",
+                "سواقي الشاحنات.",
+                "سواقي الدراجات النارية."
+            ],
+            "dogruCevap": [
+                "Cyclists.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "هاي الإشارة بتدل على منع المركبات بمحرك إنو يتجاوزو بعض. يعني ما مسموح تتجاوز أي مركبة بمحرك. بس راكبي البسكليت وسواقي الـmoped ما بينحسبو مركبات بمحرك، فمسموح تتجاوزهن. دير بالك، الـbrommobielen بيتعاملو كمركبات بمحرك، وممنوع تتجاوزهن هون.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

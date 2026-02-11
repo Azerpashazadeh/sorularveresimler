@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "Burada neye izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bir yolcunun gelmesini beklemek.",
-        "Engelli park kartı ile park etmek.",
-        "Bir yolcuyu indirmek.",
-        "Kısa bir telefon görüşmesi yapmak.",
-        "Ağır bir paketi boşaltmak."
-      ],
-      "dogruCevap": [
-        "Bir yolcuyu indirmek.",
-        "Ağır bir paketi boşaltmak."
-      ],
-      "feedback": {
-        "metin": "Bu işaret yükleme ve boşaltma alanını belirtir. Burada yalnızca belirli bir ağırlık veya büyüklükteki eşyaları yüklemek veya boşaltmak için durabilirsiniz. Ayrıca yolcu indirip bindirmek de serbesttir. Ancak burada park etmek yasaktır. Dolayısıyla kısa bir telefon görüşmesi yapmak veya yolcunun gelmesini beklemek park etme sayılır ve yasaktır. Engelli park kartı ile park etmek de burada yasaktır. Bu sadece E-1 işareti olan yerlerde (en fazla 3 saat) serbesttir, yükleme ve boşaltma alanlarında değil.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Bu işaretten sonra hangi sürücüleri sollamanıza izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bisikletliler.",
-        "Tarım aracı sürücüleri.",
-        "Moped sürücüleri.",
-        "Kamyon sürücüleri.",
-        "Motosikletliler."
-      ],
-      "dogruCevap": [
-        "Bisikletliler.",
-        "Moped sürücüleri."
-      ],
-      "feedback": {
-        "metin": "Bu işaret motorlu araçların birbirini sollamasını yasaklar. Yani hiçbir motorlu aracı sollamanıza izin verilmez. Bisikletliler ve moped sürücüleri bu kategoriye girmez ve sollanabilir. Dikkat edin, brommobiel’ler motorlu araç olarak kabul edilir ve burada sollanmaları yasaktır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "Burada neye izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/28.jpg",
+            "cevaplar": [
+                "Bir yolcunun gelmesini beklemek.",
+                "Engelli park kartı ile park etmek.",
+                "Bir yolcuyu indirmek.",
+                "Kısa bir telefon görüşmesi yapmak.",
+                "Ağır bir paketi boşaltmak."
+            ],
+            "dogruCevap": [
+                "Dropping off a passenger.",
+                "Unloading of a heavy package."
+            ],
+            "feedback": {
+                "metin": "Bu işaret yükleme ve boşaltma alanını belirtir. Burada yalnızca belirli bir ağırlık veya büyüklükteki eşyaları yüklemek veya boşaltmak için durabilirsiniz. Ayrıca yolcu indirip bindirmek de serbesttir. Ancak burada park etmek yasaktır. Dolayısıyla kısa bir telefon görüşmesi yapmak veya yolcunun gelmesini beklemek park etme sayılır ve yasaktır. Engelli park kartı ile park etmek de burada yasaktır. Bu sadece E-1 işareti olan yerlerde (en fazla 3 saat) serbesttir, yükleme ve boşaltma alanlarında değil.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Bu işaretten sonra hangi sürücüleri sollamanıza izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/33.jpg",
+            "cevaplar": [
+                "Bisikletliler.",
+                "Tarım aracı sürücüleri.",
+                "Moped sürücüleri.",
+                "Kamyon sürücüleri.",
+                "Motosikletliler."
+            ],
+            "dogruCevap": [
+                "Cyclists.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Bu işaret motorlu araçların birbirini sollamasını yasaklar. Yani hiçbir motorlu aracı sollamanıza izin verilmez. Bisikletliler ve moped sürücüleri bu kategoriye girmez ve sollanabilir. Dikkat edin, brommobiel’ler motorlu araç olarak kabul edilir ve burada sollanmaları yasaktır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

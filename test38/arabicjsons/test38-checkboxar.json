@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 9,
-      "soru": "بأي حالات مسموح توقف هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "لتنزيل طرد تقيل.",
-        "لتنزيل راكب.",
-        "لتسأل عن الاتجاهات.",
-        "لتقرأ رسالة عالتلفون."
-      ],
-      "dogruCevap": [
-        "لتنزيل طرد تقيل.",
-        "لتنزيل راكب.",
-        "لتسأل عن الاتجاهات.",
-        "لتقرأ رسالة عالتلفون."
-      ],
-      "feedback": {
-        "metin": "إشارة E-1 بتدل على منع الوقوف بهديك الجهة من الطريق. بس هالإشارة ما بتنطبق عالأماكن المخصصة للباركينغ. إنت واقف بخانة باركينغ، يعني الوقوف مسموح هون. هالشي يعني إنو كل الحالات المذكورة مسموحة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 38,
-      "soru": "أي سواقي لازم تتوقع عالطريق هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "سواقي الـBrommobiel.",
-        "سواقي الـspeed pedelec.",
-        "سواقي الـmoped.",
-        "راكبي البسكليت."
-      ],
-      "dogruCevap": [
-        "سواقي الـBrommobiel.",
-        "سواقي الـspeed pedelec.",
-        "سواقي الـmoped."
-      ],
-      "feedback": {
-        "metin": "جنب الطريق في مسار دراجات إلزامي. هالشي يعني إنو راكبي البسكليت والـsnorfietsers لازم يستعملو مسار الدراجات بدل الطريق. كل السواقي التانيين ما مسموح يستعملو مسار الدراجات، فبتلاقيهن عالطريق.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "بأي حالات مسموح توقف هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/9.jpg",
+            "cevaplar": [
+                "لتنزيل طرد تقيل.",
+                "لتنزيل راكب.",
+                "لتسأل عن الاتجاهات.",
+                "لتقرأ رسالة عالتلفون."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger.",
+                "To ask for directions.",
+                "To read a phone message."
+            ],
+            "feedback": {
+                "metin": "إشارة E-1 بتدل على منع الوقوف بهديك الجهة من الطريق. بس هالإشارة ما بتنطبق عالأماكن المخصصة للباركينغ. إنت واقف بخانة باركينغ، يعني الوقوف مسموح هون. هالشي يعني إنو كل الحالات المذكورة مسموحة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "أي سواقي لازم تتوقع عالطريق هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/38.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "سواقي الـBrommobiel.",
+                "سواقي الـspeed pedelec.",
+                "سواقي الـmoped.",
+                "راكبي البسكليت."
+            ],
+            "dogruCevap": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "جنب الطريق في مسار دراجات إلزامي. هالشي يعني إنو راكبي البسكليت والـsnorfietsers لازم يستعملو مسار الدراجات بدل الطريق. كل السواقي التانيين ما مسموح يستعملو مسار الدراجات، فبتلاقيهن عالطريق.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

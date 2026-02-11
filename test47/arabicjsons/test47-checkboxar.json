@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "أي سائقين مسموح لك تتجاوز بعد هالإشارة؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "سائقي الدراجات النارية.",
-        "راكبي الدراجات الهوائية.",
-        "سائقي الشاحنات.",
-        "راكبي الدراجات النارية الصغيرة (الموبيد).",
-        "سائقي المركبات الزراعية."
-      ],
-      "dogruCevap": [
-        "سائقي الدراجات النارية.",
-        "راكبي الدراجات الهوائية.",
-        "سائقي الشاحنات.",
-        "راكبي الدراجات النارية الصغيرة (الموبيد).",
-        "سائقي المركبات الزراعية."
-      ],
-      "feedback": {
-        "metin": "هالإشارة معناها إنه ممنوع على سائقي الشاحنات تجاوز المركبات التانية. يعني هالإشارة ما بتنطبق عليك. فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "بأي حالات مسموح توقف هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "لتنزيل طرد تقيل.",
-        "لتسأل عن الاتجاهات.",
-        "لترجع تضبط نظام الملاحة.",
-        "لتستنى الراكب ليجي.",
-        "لتنزيل راكب."
-      ],
-      "dogruCevap": [
-        "لتنزيل طرد تقيل.",
-        "لتنزيل راكب."
-      ],
-      "feedback": {
-        "metin": "الإشارة E-1 معناها ممنوع التوقف بهالطرف من الطريق. بس مسموح توقف لتنزيل أو تحميل راكب، أو لتحميل أو تنزيل بضائع وزنها أو حجمها كبير. ما مسموح توقف لتسأل عن الاتجاهات، أو لتضبط الملاحة، أو لتستنى الراكب، لأن هالشي بيعتبر كموقف، مو توقف مؤقت.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "أي سائقين مسموح لك تتجاوز بعد هالإشارة؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/1.jpg",
+            "cevaplar": [
+                "سائقي الدراجات النارية.",
+                "راكبي الدراجات الهوائية.",
+                "سائقي الشاحنات.",
+                "راكبي الدراجات النارية الصغيرة (الموبيد).",
+                "سائقي المركبات الزراعية."
+            ],
+            "dogruCevap": [
+                "Motorcyclists.",
+                "Cyclists.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Drivers of agricultural vehicles."
+            ],
+            "feedback": {
+                "metin": "هالإشارة معناها إنه ممنوع على سائقي الشاحنات تجاوز المركبات التانية. يعني هالإشارة ما بتنطبق عليك. فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "بأي حالات مسموح توقف هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/33.jpg",
+            "cevaplar": [
+                "لتنزيل طرد تقيل.",
+                "لتسأل عن الاتجاهات.",
+                "لترجع تضبط نظام الملاحة.",
+                "لتستنى الراكب ليجي.",
+                "لتنزيل راكب."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "الإشارة E-1 معناها ممنوع التوقف بهالطرف من الطريق. بس مسموح توقف لتنزيل أو تحميل راكب، أو لتحميل أو تنزيل بضائع وزنها أو حجمها كبير. ما مسموح توقف لتسأل عن الاتجاهات، أو لتضبط الملاحة، أو لتستنى الراكب، لأن هالشي بيعتبر كموقف، مو توقف مؤقت.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

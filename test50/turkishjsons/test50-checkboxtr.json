@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 3,
-      "soru": "Burada hangi sürücülerin geçmesini beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Moped sürücüleri.",
-        "Brommobiel sürücüleri.",
-        "Bisikletliler.",
-        "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
-        "Snorfiets (düşük hızlı moped) sürücüleri."
-      ],
-      "dogruCevap": [
-        "Moped sürücüleri.",
-        "Bisikletliler.",
-        "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
-        "Snorfiets (düşük hızlı moped) sürücüleri."
-      ],
-      "feedback": {
-        "metin": "J-24 trafik işareti, sizi bisikletli ve moped sürücülerinin geçişi konusunda uyarır. Bu işaret ayrıca snorfiets ve speed pedelec sürücülerini de kapsar. Burada brommobiel sürücülerinin geçmesini beklememelisiniz, çünkü onlar moped kurallarına değil, motorlu taşıt kurallarına uymak zorundadır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "Bazı ilaçlar, araç kullanma yeteneğinizi etkileyebilir. Bu durumu her zaman ne zaman göz önünde bulundurmalısınız?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "İlacın üzerinde sarı uyarı etiketi olduğunda.",
-        "İlacın prospektüsünde bu durum belirtildiğinde.",
-        "İlaç bir doktor tarafından reçete edildiğinde.",
-        "İlaç eczaneden satın alındığında."
-      ],
-      "dogruCevap": [
-        "İlacın üzerinde sarı uyarı etiketi olduğunda.",
-        "İlacın prospektüsünde bu durum belirtildiğinde."
-      ],
-      "feedback": {
-        "metin": "Üzerinde sarı etiket bulunan ilaçlar ve prospektüsünde bu konuda uyarı bulunan ilaçlar için, araç kullanma yeteneğinizi etkileyebileceğini her zaman dikkate almalısınız. Bu durum hem doktor tarafından reçete edilen ilaçlarda hem de reçetesiz olarak eczane veya aktardan alınabilen ilaçlarda geçerli olabilir. Ancak, her reçeteli ilacın mutlaka araç kullanma yeteneğini etkilediği anlamına gelmez. Ayrıca www.rijveiligmetmedicijnen.nl internet sitesinden de bu konuda bilgi edinebilirsiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 3,
+            "soru": "Burada hangi sürücülerin geçmesini beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/3.jpg",
+            "cevaplar": [
+                "Moped sürücüleri.",
+                "Brommobiel sürücüleri.",
+                "Bisikletliler.",
+                "Hızlı elektrikli bisiklet (speed pedelec) sürücüleri.",
+                "Snorfiets (düşük hızlı moped) sürücüleri."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Cyclists.",
+                "Speed pedelec riders.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "J-24 trafik işareti, sizi bisikletli ve moped sürücülerinin geçişi konusunda uyarır. Bu işaret ayrıca snorfiets ve speed pedelec sürücülerini de kapsar. Burada brommobiel sürücülerinin geçmesini beklememelisiniz, çünkü onlar moped kurallarına değil, motorlu taşıt kurallarına uymak zorundadır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Bazı ilaçlar, araç kullanma yeteneğinizi etkileyebilir. Bu durumu her zaman ne zaman göz önünde bulundurmalısınız?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/48.jpg",
+            "cevaplar": [
+                "İlacın üzerinde sarı uyarı etiketi olduğunda.",
+                "İlacın prospektüsünde bu durum belirtildiğinde.",
+                "İlaç bir doktor tarafından reçete edildiğinde.",
+                "İlaç eczaneden satın alındığında."
+            ],
+            "dogruCevap": [
+                "When medicines have a yellow warning sticker.",
+                "When this is stated in the leaflet of the medication."
+            ],
+            "feedback": {
+                "metin": "Üzerinde sarı etiket bulunan ilaçlar ve prospektüsünde bu konuda uyarı bulunan ilaçlar için, araç kullanma yeteneğinizi etkileyebileceğini her zaman dikkate almalısınız. Bu durum hem doktor tarafından reçete edilen ilaçlarda hem de reçetesiz olarak eczane veya aktardan alınabilen ilaçlarda geçerli olabilir. Ancak, her reçeteli ilacın mutlaka araç kullanma yeteneğini etkilediği anlamına gelmez. Ayrıca www.rijveiligmetmedicijnen.nl internet sitesinden de bu konuda bilgi edinebilirsiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

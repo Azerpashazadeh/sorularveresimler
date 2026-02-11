@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 9,
-      "soru": "Burada hangi durumlarda durmanıza izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ağır bir paketi boşaltmak için.",
-        "Bir yolcuyu indirmek için.",
-        "Yol tarifi sormak için.",
-        "Bir telefon mesajını okumak için."
-      ],
-      "dogruCevap": [
-        "Ağır bir paketi boşaltmak için.",
-        "Bir yolcuyu indirmek için.",
-        "Yol tarifi sormak için.",
-        "Bir telefon mesajını okumak için."
-      ],
-      "feedback": {
-        "metin": "E-1 işareti, yolun o tarafında park etme yasağını belirtir. Ancak bu işaret, park için ayrılmış yol bölümlerinde geçerli değildir. Siz bir park cebinde duruyorsunuz, bu nedenle burada park etmek serbesttir. Bu da verilen tüm durumların burada mümkün olduğu anlamına gelir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 38,
-      "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Brommobiel sürücüleri.",
-        "Hızlı pedelec sürücüleri.",
-        "Moped sürücüleri.",
-        "Bisikletliler."
-      ],
-      "dogruCevap": [
-        "Brommobiel sürücüleri.",
-        "Hızlı pedelec sürücüleri.",
-        "Moped sürücüleri."
-      ],
-      "feedback": {
-        "metin": "Taşıt yolunun yanında zorunlu bir bisiklet yolu bulunmaktadır. Bu, yalnızca bisikletlilerin ve snorfietsers’in bisiklet yolunu kullanmak zorunda oldukları anlamına gelir. Diğer tüm sürücüler bisiklet yolunu kullanamaz, bu yüzden onları taşıt yolunda beklemelisiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "Burada hangi durumlarda durmanıza izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/9.jpg",
+            "cevaplar": [
+                "Ağır bir paketi boşaltmak için.",
+                "Bir yolcuyu indirmek için.",
+                "Yol tarifi sormak için.",
+                "Bir telefon mesajını okumak için."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger.",
+                "To ask for directions.",
+                "To read a phone message."
+            ],
+            "feedback": {
+                "metin": "E-1 işareti, yolun o tarafında park etme yasağını belirtir. Ancak bu işaret, park için ayrılmış yol bölümlerinde geçerli değildir. Siz bir park cebinde duruyorsunuz, bu nedenle burada park etmek serbesttir. Bu da verilen tüm durumların burada mümkün olduğu anlamına gelir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "Burada taşıt yolunda hangi sürücüleri beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/38.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Brommobiel sürücüleri.",
+                "Hızlı pedelec sürücüleri.",
+                "Moped sürücüleri.",
+                "Bisikletliler."
+            ],
+            "dogruCevap": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Taşıt yolunun yanında zorunlu bir bisiklet yolu bulunmaktadır. Bu, yalnızca bisikletlilerin ve snorfietsers’in bisiklet yolunu kullanmak zorunda oldukları anlamına gelir. Diğer tüm sürücüler bisiklet yolunu kullanamaz, bu yüzden onları taşıt yolunda beklemelisiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

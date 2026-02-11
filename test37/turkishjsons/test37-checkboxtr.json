@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Bu bisiklet yolunda hangi sürücüleri beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Engelli aracı sürücüleri.",
-        "Bisikletliler.",
-        "Hızlı pedelec sürücüleri.",
-        "Moped sürücüleri."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "Engelli aracı sürücüleri.",
-        "Bisikletliler."
-      ],
-      "feedback": {
-        "metin": "Bir bisiklet yolunun kesiksiz çizgisi varsa, yalnızca bisikletliler, snorfietsers ve engelli aracı sürücüleri burayı kullanabilir. Moped sürücüleri, hızlı pedelec sürücüleri ve motorlu araç sürücüleri bu bisiklet yolunu kullanamaz. Hatta şerit değiştirmek veya sollamak için bile izin verilmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Bu bisiklet yolunda hangi sürücüleri beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test37/11.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Engelli aracı sürücüleri.",
+                "Bisikletliler.",
+                "Hızlı pedelec sürücüleri.",
+                "Moped sürücüleri."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Bir bisiklet yolunun kesiksiz çizgisi varsa, yalnızca bisikletliler, snorfietsers ve engelli aracı sürücüleri burayı kullanabilir. Moped sürücüleri, hızlı pedelec sürücüleri ve motorlu araç sürücüleri bu bisiklet yolunu kullanamaz. Hatta şerit değiştirmek veya sollamak için bile izin verilmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

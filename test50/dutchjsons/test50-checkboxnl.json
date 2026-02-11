@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 3,
-      "soru": "Welke overstekende bestuurders moet u hier verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Bromfietsers.",
-        "Brommobielbestuurders.",
-        "Fietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bestuurders van snorfietsen."
-      ],
-      "dogruCevap": [
-        "Bromfietsers.",
-        "Fietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bestuurders van snorfietsen."
-      ],
-      "feedback": {
-        "metin": "Verkeersbord J-24 waarschuwt u voor overstekende fietsers en bromfietsers. Dit omvat ook snorfietsers en bestuurders van speed-pedelecs. U hoeft hier geen overstekende brommobielbestuurders te verwachten, omdat zij de regels voor motorvoertuigen moeten volgen in plaats van die voor bromfietsen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "Bij sommige medicijnen moet u verwachten dat ze uw rijvaardigheid beïnvloeden. Wanneer moet u hier altijd rekening mee houden?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Wanneer medicijnen een gele waarschuwingssticker hebben.",
-        "Wanneer dit wordt vermeld in de bijsluiter van het medicijn.",
-        "Wanneer de medicijnen zijn voorgeschreven door een arts.",
-        "Als de medicijnen bij de apotheek zijn gekocht."
-      ],
-      "dogruCevap": [
-        "Wanneer medicijnen een gele waarschuwingssticker hebben.",
-        "Wanneer dit wordt vermeld in de bijsluiter van het medicijn."
-      ],
-      "feedback": {
-        "metin": "Bij medicijnen met een gele sticker en bij medicijnen waarbij dit in de bijsluiter staat vermeld, moet u er altijd rekening mee houden dat ze uw rijvaardigheid kunnen beïnvloeden. Dit kan zowel het geval zijn bij medicijnen die zijn voorgeschreven door een arts als bij medicijnen die u zonder recept bij de apotheek of drogist kunt kopen. Het is zeker niet zo dat alle door een arts voorgeschreven medicijnen uw rijvaardigheid beïnvloeden. U kunt dit ook controleren op internet via www.rijveiligmetmedicijnen.nl.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 3,
+            "soru": "Welke overstekende bestuurders moet u hier verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/3.jpg",
+            "cevaplar": [
+                "Bromfietsers.",
+                "Brommobielbestuurders.",
+                "Fietsers.",
+                "Bestuurders van speed-pedelecs.",
+                "Bestuurders van snorfietsen."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Cyclists.",
+                "Speed pedelec riders.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "Verkeersbord J-24 waarschuwt u voor overstekende fietsers en bromfietsers. Dit omvat ook snorfietsers en bestuurders van speed-pedelecs. U hoeft hier geen overstekende brommobielbestuurders te verwachten, omdat zij de regels voor motorvoertuigen moeten volgen in plaats van die voor bromfietsen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Bij sommige medicijnen moet u verwachten dat ze uw rijvaardigheid beïnvloeden. Wanneer moet u hier altijd rekening mee houden?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test50/48.jpg",
+            "cevaplar": [
+                "Wanneer medicijnen een gele waarschuwingssticker hebben.",
+                "Wanneer dit wordt vermeld in de bijsluiter van het medicijn.",
+                "Wanneer de medicijnen zijn voorgeschreven door een arts.",
+                "Als de medicijnen bij de apotheek zijn gekocht."
+            ],
+            "dogruCevap": [
+                "When medicines have a yellow warning sticker.",
+                "When this is stated in the leaflet of the medication."
+            ],
+            "feedback": {
+                "metin": "Bij medicijnen met een gele sticker en bij medicijnen waarbij dit in de bijsluiter staat vermeld, moet u er altijd rekening mee houden dat ze uw rijvaardigheid kunnen beïnvloeden. Dit kan zowel het geval zijn bij medicijnen die zijn voorgeschreven door een arts als bij medicijnen die u zonder recept bij de apotheek of drogist kunt kopen. Het is zeker niet zo dat alle door een arts voorgeschreven medicijnen uw rijvaardigheid beïnvloeden. U kunt dit ook controleren op internet via www.rijveiligmetmedicijnen.nl.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

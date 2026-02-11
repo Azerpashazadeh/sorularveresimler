@@ -1,29 +1,29 @@
 {
-  "sorular": [
-    {
-      "numara": 40,
-      "soru": "Welke bestuurders kunt u hier op de rijbaan verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Fietsers.",
-        "Bromfietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bestuurders van brommobielen."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "Fietsers.",
-        "Bromfietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bestuurders van brommobielen."
-      ],
-      "feedback": {
-        "metin": "Er is een onverplicht fietspad naast de rijbaan. Fietsers mogen dat pad gebruiken, maar dat is niet verplicht. Zij mogen kiezen tussen de rijbaan en het fietspad. Snorfietsers mogen alleen op het onverplichte fietspad rijden als hun verbrandingsmotor is uitgeschakeld. Andere bestuurders mogen het pad niet gebruiken. Omdat het fietspad onverplicht is, moet u alle genoemde bestuurders op de rijbaan verwachten.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 40,
+            "soru": "Welke bestuurders kunt u hier op de rijbaan verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test44/40.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Fietsers.",
+                "Bromfietsers.",
+                "Bestuurders van speed-pedelecs.",
+                "Bestuurders van brommobielen."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Cyclists.",
+                "Moped riders.",
+                "Speed pedelec riders.",
+                "Brommobiel  drivers."
+            ],
+            "feedback": {
+                "metin": "Er is een onverplicht fietspad naast de rijbaan. Fietsers mogen dat pad gebruiken, maar dat is niet verplicht. Zij mogen kiezen tussen de rijbaan en het fietspad. Snorfietsers mogen alleen op het onverplichte fietspad rijden als hun verbrandingsmotor is uitgeschakeld. Andere bestuurders mogen het pad niet gebruiken. Omdat het fietspad onverplicht is, moet u alle genoemde bestuurders op de rijbaan verwachten.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "انخبطت بحادث. إيمتى لازم تتصل عـ112؟",
-      "resim": "",
-      "cevaplar": [
-        "إذا السيارات واقفة بمسار ساعة الذروة المفتوح.",
-        "إذا في ضرر بالصاج.",
-        "إذا الطرف التاني ما قدر يبرز هويته.",
-        "إذا في مصابين."
-      ],
-      "dogruCevap": [
-        "إذا السيارات واقفة بمسار ساعة الذروة المفتوح.",
-        "إذا في مصابين."
-      ],
-      "feedback": {
-        "metin": "لازم تتصل عـ112 بس إذا ضروري عنجد. إذا كنت بحادث، اتصل عـ112 إذا في إصابات أو إذا السيارات واقفة بمكان خطر مثل مسار ساعة الذروة المفتوح. إذا في بس ضرر بسيط بالصاج، انقل السيارات بسرعة من الطريق الرئيسي لمكان آمن وتعامل مع الضرر هنيك. إذا الطرف التاني ما معه هوية وما وثقت بالقصة، اتصل عـ0900-8844. هاد رقم الشرطة الوطني إذا ما في خطر عالحياة. تأكد تكتب أكبر قدر ممكن من المعلومات عن الطرف التاني إذا ما تعاون، مثل رقم اللوحة، الماركة، النوع ولون السيارة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "انخبطت بحادث. إيمتى لازم تتصل عـ112؟",
+            "resim": "",
+            "cevaplar": [
+                "إذا السيارات واقفة بمسار ساعة الذروة المفتوح.",
+                "إذا في ضرر بالصاج.",
+                "إذا الطرف التاني ما قدر يبرز هويته.",
+                "إذا في مصابين."
+            ],
+            "dogruCevap": [
+                "If vehicles are on the open rush-hour lane.",
+                "If there are injured people."
+            ],
+            "feedback": {
+                "metin": "لازم تتصل عـ112 بس إذا ضروري عنجد. إذا كنت بحادث، اتصل عـ112 إذا في إصابات أو إذا السيارات واقفة بمكان خطر مثل مسار ساعة الذروة المفتوح. إذا في بس ضرر بسيط بالصاج، انقل السيارات بسرعة من الطريق الرئيسي لمكان آمن وتعامل مع الضرر هنيك. إذا الطرف التاني ما معه هوية وما وثقت بالقصة، اتصل عـ0900-8844. هاد رقم الشرطة الوطني إذا ما في خطر عالحياة. تأكد تكتب أكبر قدر ممكن من المعلومات عن الطرف التاني إذا ما تعاون، مثل رقم اللوحة، الماركة، النوع ولون السيارة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

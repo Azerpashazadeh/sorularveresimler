@@ -1,72 +1,72 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "إيمتى مسموح توقف هون؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "لما بدك تسأل عن الطريق.",
-        "لما بدك تاخد حدا عم يطلب توصيلة (توصيلة مجانية).",
-        "لما بدك تعيد تشغيل جهاز الملاحة.",
-        "لما بدك تنزّل طرد تقيل.",
-        "لما بدك تنزّل راكب."
-      ],
-      "dogruCevap": [
-        "لما بدك تاخد حدا عم يطلب توصيلة (توصيلة مجانية).",
-        "لما بدك تنزّل راكب."
-      ],
-      "feedback": {
-        "metin": "مسموح توقف بموقف الباص بس لتنزيل أو تحميل ركاب. هاد يعني كمان مسموح توقف لتاخد حدا عم يطلب توصيلة. بس مو مسموح توقف لتسأل عن الطريق، أو لتنزّل طرد، أو لتعيد ضبط جهاز الملاحة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "أي المركبات بتنحسب من فئة المركبات الآلية؟",
-      "resim": "",
-      "cevaplar": [
-        "دراجة نارية صغيرة (موبيد).",
-        "جرار زراعي.",
-        "دراجة نارية.",
-        "ترام.",
-        "سيارة ركاب."
-      ],
-      "dogruCevap": [
-        "جرار زراعي.",
-        "دراجة نارية.",
-        "سيارة ركاب."
-      ],
-      "feedback": {
-        "metin": "المركبات الآلية هي كل المركبات يلي فيها محرك، باستثناء المركبات يلي تمشي عالسكة (متل الترام، المترو، القطار)، والموبيدات، والمركبات الخاصة بالمعاقين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "لمين لازم تعطي أولوية لما تطلع من هالشارع؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "المشاة.",
-        "سائقي الموبيد.",
-        "سائقي المركبات الآلية.",
-        "راكبي الدراجات."
-      ],
-      "dogruCevap": [
-        "المشاة.",
-        "سائقي الموبيد.",
-        "سائقي المركبات الآلية.",
-        "راكبي الدراجات."
-      ],
-      "feedback": {
-        "metin": "لما تطلع من مخرج، لازم تعطي أولوية لكل حركة المرور التانية. هاد يعني مو بس السائقين، كمان المشاة.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "إيمتى مسموح توقف هون؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/4.jpg",
+            "cevaplar": [
+                "لما بدك تسأل عن الطريق.",
+                "لما بدك تاخد حدا عم يطلب توصيلة (توصيلة مجانية).",
+                "لما بدك تعيد تشغيل جهاز الملاحة.",
+                "لما بدك تنزّل طرد تقيل.",
+                "لما بدك تنزّل راكب."
+            ],
+            "dogruCevap": [
+                "When you want to pick up a hitchhiker.",
+                "When you want to drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "مسموح توقف بموقف الباص بس لتنزيل أو تحميل ركاب. هاد يعني كمان مسموح توقف لتاخد حدا عم يطلب توصيلة. بس مو مسموح توقف لتسأل عن الطريق، أو لتنزّل طرد، أو لتعيد ضبط جهاز الملاحة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "أي المركبات بتنحسب من فئة المركبات الآلية؟",
+            "resim": "",
+            "cevaplar": [
+                "دراجة نارية صغيرة (موبيد).",
+                "جرار زراعي.",
+                "دراجة نارية.",
+                "ترام.",
+                "سيارة ركاب."
+            ],
+            "dogruCevap": [
+                "Tractor.",
+                "Motorcycle.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "المركبات الآلية هي كل المركبات يلي فيها محرك، باستثناء المركبات يلي تمشي عالسكة (متل الترام، المترو، القطار)، والموبيدات، والمركبات الخاصة بالمعاقين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "لمين لازم تعطي أولوية لما تطلع من هالشارع؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/41.jpg",
+            "cevaplar": [
+                "المشاة.",
+                "سائقي الموبيد.",
+                "سائقي المركبات الآلية.",
+                "راكبي الدراجات."
+            ],
+            "dogruCevap": [
+                "Pedestrians.",
+                "Moped riders.",
+                "Motor vehicle drivers.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "لما تطلع من مخرج، لازم تعطي أولوية لكل حركة المرور التانية. هاد يعني مو بس السائقين، كمان المشاة.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "Wat is hier toegestaan?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Wachten op een passagier die aankomt.",
-        "Parkeren met een gehandicaptenparkeerkaart.",
-        "Een passagier laten uitstappen.",
-        "Een kort telefoongesprek voeren.",
-        "Uitladen van een zwaar pakket."
-      ],
-      "dogruCevap": [
-        "Een passagier laten uitstappen.",
-        "Uitladen van een zwaar pakket."
-      ],
-      "feedback": {
-        "metin": "Dit bord geeft een plaats aan voor laden en lossen. Je mag hier stilstaan om goederen van aanzienlijk gewicht of omvang te laden of lossen. Je mag hier ook een passagier laten in- of uitstappen. Maar het is niet toegestaan hier te parkeren. Dus een kort telefoongesprek voeren of wachten op een passagier die aankomt is niet toegestaan, want dit wordt allemaal als parkeren beschouwd. Parkeren met een gehandicaptenparkeerkaart is hier ook niet toegestaan. Dit is wel toegestaan bij een bord E-1 (maximaal 3 uur), maar niet bij een plaats voor laden en lossen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Welke bestuurders mag je na dit bord inhalen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Fietsers.",
-        "Bestuurders van landbouwvoertuigen.",
-        "Bromfietsers.",
-        "Bestuurders van vrachtauto’s.",
-        "Motorrijders."
-      ],
-      "dogruCevap": [
-        "Fietsers.",
-        "Bromfietsers."
-      ],
-      "feedback": {
-        "metin": "Dit bord geeft een verbod aan voor motorvoertuigen om elkaar in te halen. Dit betekent dat je geen enkel motorvoertuig mag inhalen. Fietsers en bromfietsers vallen niet onder deze categorie en mogen wel ingehaald worden. Let op: brommobielen worden behandeld als motorvoertuigen en mogen hier niet ingehaald worden.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "Wat is hier toegestaan?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/28.jpg",
+            "cevaplar": [
+                "Wachten op een passagier die aankomt.",
+                "Parkeren met een gehandicaptenparkeerkaart.",
+                "Een passagier laten uitstappen.",
+                "Een kort telefoongesprek voeren.",
+                "Uitladen van een zwaar pakket."
+            ],
+            "dogruCevap": [
+                "Dropping off a passenger.",
+                "Unloading of a heavy package."
+            ],
+            "feedback": {
+                "metin": "Dit bord geeft een plaats aan voor laden en lossen. Je mag hier stilstaan om goederen van aanzienlijk gewicht of omvang te laden of lossen. Je mag hier ook een passagier laten in- of uitstappen. Maar het is niet toegestaan hier te parkeren. Dus een kort telefoongesprek voeren of wachten op een passagier die aankomt is niet toegestaan, want dit wordt allemaal als parkeren beschouwd. Parkeren met een gehandicaptenparkeerkaart is hier ook niet toegestaan. Dit is wel toegestaan bij een bord E-1 (maximaal 3 uur), maar niet bij een plaats voor laden en lossen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Welke bestuurders mag je na dit bord inhalen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/33.jpg",
+            "cevaplar": [
+                "Fietsers.",
+                "Bestuurders van landbouwvoertuigen.",
+                "Bromfietsers.",
+                "Bestuurders van vrachtauto’s.",
+                "Motorrijders."
+            ],
+            "dogruCevap": [
+                "Cyclists.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Dit bord geeft een verbod aan voor motorvoertuigen om elkaar in te halen. Dit betekent dat je geen enkel motorvoertuig mag inhalen. Fietsers en bromfietsers vallen niet onder deze categorie en mogen wel ingehaald worden. Let op: brommobielen worden behandeld als motorvoertuigen en mogen hier niet ingehaald worden.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

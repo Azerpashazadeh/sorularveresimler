@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Welke bestuurders mag u inhalen na dit verkeersbord?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Motorrijders.",
-        "Fietsers.",
-        "Bestuurders van vrachtwagens.",
-        "Bromfietsers.",
-        "Bestuurders van landbouwvoertuigen."
-      ],
-      "dogruCevap": [
-        "Motorrijders.",
-        "Fietsers.",
-        "Bestuurders van vrachtwagens.",
-        "Bromfietsers.",
-        "Bestuurders van landbouwvoertuigen."
-      ],
-      "feedback": {
-        "metin": "Dit verkeersbord geeft een inhaalverbod aan voor vrachtwagenbestuurders ten opzichte van andere motorvoertuigen. Dit betekent dat het bord niet op u van toepassing is. U mag alle voertuigen inhalen, mits dit op een veilige manier gebeurt. Zelfs vrachtwagens.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "In welke situaties mag u hier stoppen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Om een zwaar pakket uit te laden.",
-        "Om de weg te vragen.",
-        "Om uw navigatie te resetten.",
-        "Om te wachten op een passagier.",
-        "Om een passagier af te zetten."
-      ],
-      "dogruCevap": [
-        "Om een zwaar pakket uit te laden.",
-        "Om een passagier af te zetten."
-      ],
-      "feedback": {
-        "metin": "Verkeersbord E-1 geeft een parkeerverbod aan aan deze zijde van de rijbaan. U mag hier alleen stoppen om een passagier op te halen of af te zetten, of om goederen van aanzienlijke omvang of gewicht te laden of lossen. U mag hier niet stoppen om de weg te vragen, uw navigatie te resetten of te wachten op een passagier, omdat dit als parkeren wordt beschouwd.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Welke bestuurders mag u inhalen na dit verkeersbord?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/1.jpg",
+            "cevaplar": [
+                "Motorrijders.",
+                "Fietsers.",
+                "Bestuurders van vrachtwagens.",
+                "Bromfietsers.",
+                "Bestuurders van landbouwvoertuigen."
+            ],
+            "dogruCevap": [
+                "Motorcyclists.",
+                "Cyclists.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Drivers of agricultural vehicles."
+            ],
+            "feedback": {
+                "metin": "Dit verkeersbord geeft een inhaalverbod aan voor vrachtwagenbestuurders ten opzichte van andere motorvoertuigen. Dit betekent dat het bord niet op u van toepassing is. U mag alle voertuigen inhalen, mits dit op een veilige manier gebeurt. Zelfs vrachtwagens.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "In welke situaties mag u hier stoppen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/33.jpg",
+            "cevaplar": [
+                "Om een zwaar pakket uit te laden.",
+                "Om de weg te vragen.",
+                "Om uw navigatie te resetten.",
+                "Om te wachten op een passagier.",
+                "Om een passagier af te zetten."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "Verkeersbord E-1 geeft een parkeerverbod aan aan deze zijde van de rijbaan. U mag hier alleen stoppen om een passagier op te halen of af te zetten, of om goederen van aanzienlijke omvang of gewicht te laden of lossen. U mag hier niet stoppen om de weg te vragen, uw navigatie te resetten of te wachten op een passagier, omdat dit als parkeren wordt beschouwd.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

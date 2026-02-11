@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "أي مركبات ما مسموح تسوق وقت رخصة السواقة معلقة؟",
-      "resim": "",
-      "cevaplar": [
-        "بسكليت.",
-        "Brommobiel.",
-        "Snorfiets.",
-        "سيارة خصوصية."
-      ],
-      "dogruCevap": [
-        "Brommobiel.",
-        "Snorfiets.",
-        "سيارة خصوصية."
-      ],
-      "feedback": {
-        "metin": "وقت رخصة السواقة بتكون معلقة ما مسموح تسوق أي مركبة بمحرك. يعني مو بس ممنوع تسوق سيارة خصوصية، كمان الـbrommobiel أو الـmoped أو الـsnorfiets. البسكليت مو مركبة بمحرك، فمسموح بعدك تسوق بسكليت.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 34,
-      "soru": "أي مركبات لازم تتوقع من الاتجاه المقابل؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "شاحنات.",
-        "دراجات نارية.",
-        "بسكليتات.",
-        "Mopeds.",
-        "سيارات خصوصية."
-      ],
-      "dogruCevap": [
-        "بسكليتات.",
-        "Mopeds."
-      ],
-      "feedback": {
-        "metin": "هالمجموعة من الإشارات بتدل على شارع باتجاه واحد، وبيطبق بس عالمركبات المبينة عاللائحة التكميلية. هاللائحة فيها رمزين: دراجة نارية (بينطبق عكل الدراجات النارية) وصورة سيارة من الأمام (بينطبق عكل المركبات بمحرك بأكتر من عجلتين). هالشي يعني إنو الإشارة لفوق بتنطبق عكل المركبات بمحرك. ما لازم تتوقع مركبات بمحرك من الاتجاه المقابل. بس راكبي البسكليت والـmopeds مسموح يجو من الاتجاه المعاكس، هدول ما بينحسبو مركبات بمحرك.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "أي مركبات ما مسموح تسوق وقت رخصة السواقة معلقة؟",
+            "resim": "",
+            "cevaplar": [
+                "بسكليت.",
+                "Brommobiel.",
+                "Snorfiets.",
+                "سيارة خصوصية."
+            ],
+            "dogruCevap": [
+                "Brommobiel.",
+                "Snorfiets.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "وقت رخصة السواقة بتكون معلقة ما مسموح تسوق أي مركبة بمحرك. يعني مو بس ممنوع تسوق سيارة خصوصية، كمان الـbrommobiel أو الـmoped أو الـsnorfiets. البسكليت مو مركبة بمحرك، فمسموح بعدك تسوق بسكليت.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "أي مركبات لازم تتوقع من الاتجاه المقابل؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test39/34.jpg",
+            "cevaplar": [
+                "شاحنات.",
+                "دراجات نارية.",
+                "بسكليتات.",
+                "Mopeds.",
+                "سيارات خصوصية."
+            ],
+            "dogruCevap": [
+                "Bicycles.",
+                "Mopeds."
+            ],
+            "feedback": {
+                "metin": "هالمجموعة من الإشارات بتدل على شارع باتجاه واحد، وبيطبق بس عالمركبات المبينة عاللائحة التكميلية. هاللائحة فيها رمزين: دراجة نارية (بينطبق عكل الدراجات النارية) وصورة سيارة من الأمام (بينطبق عكل المركبات بمحرك بأكتر من عجلتين). هالشي يعني إنو الإشارة لفوق بتنطبق عكل المركبات بمحرك. ما لازم تتوقع مركبات بمحرك من الاتجاه المقابل. بس راكبي البسكليت والـmopeds مسموح يجو من الاتجاه المعاكس، هدول ما بينحسبو مركبات بمحرك.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

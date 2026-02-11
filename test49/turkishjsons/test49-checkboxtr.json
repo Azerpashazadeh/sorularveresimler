@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Bir kazaya karıştınız. Ne zaman 112'yi aramalısınız?",
-      "resim": "",
-      "cevaplar": [
-        "Araçlar açık yoğun saat şeridinde bulunuyorsa.",
-        "Sadece araç kaportasında hasar varsa.",
-        "Diğer taraf kendini tanıtamıyorsa.",
-        "Yaralı kişiler varsa."
-      ],
-      "dogruCevap": [
-        "Araçlar açık yoğun saat şeridinde bulunuyorsa.",
-        "Yaralı kişiler varsa."
-      ],
-      "feedback": {
-        "metin": "112 yalnızca gerçekten gerekli olduğunda aranmalıdır. Bir kazaya karıştığınızda, eğer yaralılar varsa ya da araçlar açık yoğun saat şeridi gibi tehlikeli bir yerde bulunuyorsa 112'yi aramalısınız. Sadece küçük kaporta hasarı varsa, araçları ana yoldan güvenli bir yere en kısa sürede çekin ve hasar işlemlerini orada devam ettirin. Diğer taraf yanında kimlik bulundurmuyorsa ve duruma güvenmiyorsanız, 0900-8844 numaralı hattı arayın. Bu numara, hayati tehlike bulunmayan durumlarda ulusal polis hattıdır. Diğer taraf iş birliği yapmazsa, mümkün olduğunca çok bilgi not alın: plaka numarası, marka, model ve aracın rengi gibi.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Bir kazaya karıştınız. Ne zaman 112'yi aramalısınız?",
+            "resim": "",
+            "cevaplar": [
+                "Araçlar açık yoğun saat şeridinde bulunuyorsa.",
+                "Sadece araç kaportasında hasar varsa.",
+                "Diğer taraf kendini tanıtamıyorsa.",
+                "Yaralı kişiler varsa."
+            ],
+            "dogruCevap": [
+                "If vehicles are on the open rush-hour lane.",
+                "If there are injured people."
+            ],
+            "feedback": {
+                "metin": "112 yalnızca gerçekten gerekli olduğunda aranmalıdır. Bir kazaya karıştığınızda, eğer yaralılar varsa ya da araçlar açık yoğun saat şeridi gibi tehlikeli bir yerde bulunuyorsa 112'yi aramalısınız. Sadece küçük kaporta hasarı varsa, araçları ana yoldan güvenli bir yere en kısa sürede çekin ve hasar işlemlerini orada devam ettirin. Diğer taraf yanında kimlik bulundurmuyorsa ve duruma güvenmiyorsanız, 0900-8844 numaralı hattı arayın. Bu numara, hayati tehlike bulunmayan durumlarda ulusal polis hattıdır. Diğer taraf iş birliği yapmazsa, mümkün olduğunca çok bilgi not alın: plaka numarası, marka, model ve aracın rengi gibi.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

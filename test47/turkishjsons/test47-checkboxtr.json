@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Bu işaretin ardından hangi sürücüleri geçmenize izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Motosiklet sürücüleri.",
-        "Bisikletliler.",
-        "Kamyon sürücüleri.",
-        "Moped sürücüleri.",
-        "Tarım aracı sürücüleri."
-      ],
-      "dogruCevap": [
-        "Motosiklet sürücüleri.",
-        "Bisikletliler.",
-        "Kamyon sürücüleri.",
-        "Moped sürücüleri.",
-        "Tarım aracı sürücüleri."
-      ],
-      "feedback": {
-        "metin": "Bu işaret, kamyon sürücülerinin diğer motorlu araçları geçmesini yasaklayan bir işarettir. Bu, bu işaretin size uygulanmadığı anlamına gelir. Güvenli bir şekilde geçiş yapabildiğiniz sürece tüm araçları geçebilirsiniz. Kamyonları bile.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Burada hangi durumlarda durmanıza izin verilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Ağır bir paket indirmek için.",
-        "Yol tarifi sormak için.",
-        "Navigasyonu sıfırlamak için.",
-        "Bir yolcunun gelmesini beklemek için.",
-        "Bir yolcuyu bırakmak için."
-      ],
-      "dogruCevap": [
-        "Ağır bir paket indirmek için.",
-        "Bir yolcuyu bırakmak için."
-      ],
-      "feedback": {
-        "metin": "E-1 işareti, yolun bu tarafında park yasağı olduğunu gösterir. Burada yalnızca önemli ağırlık ve boyutta yük indirmek ya da yüklemek, ya da yolcu almak veya bırakmak için durmanıza izin verilir. Yol tarifi sormak, navigasyonu sıfırlamak veya bir yolcunun gelmesini beklemek için durmak yasaktır, çünkü bunlar park etme olarak kabul edilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Bu işaretin ardından hangi sürücüleri geçmenize izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/1.jpg",
+            "cevaplar": [
+                "Motosiklet sürücüleri.",
+                "Bisikletliler.",
+                "Kamyon sürücüleri.",
+                "Moped sürücüleri.",
+                "Tarım aracı sürücüleri."
+            ],
+            "dogruCevap": [
+                "Motorcyclists.",
+                "Cyclists.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Drivers of agricultural vehicles."
+            ],
+            "feedback": {
+                "metin": "Bu işaret, kamyon sürücülerinin diğer motorlu araçları geçmesini yasaklayan bir işarettir. Bu, bu işaretin size uygulanmadığı anlamına gelir. Güvenli bir şekilde geçiş yapabildiğiniz sürece tüm araçları geçebilirsiniz. Kamyonları bile.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Burada hangi durumlarda durmanıza izin verilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/33.jpg",
+            "cevaplar": [
+                "Ağır bir paket indirmek için.",
+                "Yol tarifi sormak için.",
+                "Navigasyonu sıfırlamak için.",
+                "Bir yolcunun gelmesini beklemek için.",
+                "Bir yolcuyu bırakmak için."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "E-1 işareti, yolun bu tarafında park yasağı olduğunu gösterir. Burada yalnızca önemli ağırlık ve boyutta yük indirmek ya da yüklemek, ya da yolcu almak veya bırakmak için durmanıza izin verilir. Yol tarifi sormak, navigasyonu sıfırlamak veya bir yolcunun gelmesini beklemek için durmak yasaktır, çünkü bunlar park etme olarak kabul edilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

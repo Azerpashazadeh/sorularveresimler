@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 9,
-      "soru": "In welke situaties mag je hier stoppen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Om een zwaar pakket uit te laden.",
-        "Om een passagier af te zetten.",
-        "Om de weg te vragen.",
-        "Om een telefoonbericht te lezen."
-      ],
-      "dogruCevap": [
-        "Om een zwaar pakket uit te laden.",
-        "Om een passagier af te zetten.",
-        "Om de weg te vragen.",
-        "Om een telefoonbericht te lezen."
-      ],
-      "feedback": {
-        "metin": "Bord E-1 geeft een parkeerverbod aan die zijde van de rijbaan. Dit bord geldt echter niet voor weggedeelten die bestemd zijn om te parkeren. Je stopt in een parkeervak, dus parkeren is hier toegestaan. Dit betekent dat alle genoemde situaties zijn toegestaan.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 38,
-      "soru": "Welke bestuurders moet je hier op de rijbaan verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Bestuurders van brommobielen.",
-        "Bestuurders van speed-pedelecs.",
-        "Bromfietsers.",
-        "Fietsers."
-      ],
-      "dogruCevap": [
-        "Bestuurders van brommobielen.",
-        "Bestuurders van speed-pedelecs.",
-        "Bromfietsers."
-      ],
-      "feedback": {
-        "metin": "Naast de rijbaan ligt een verplicht fietspad. Dit betekent dat alleen fietsers en snorfietsers verplicht zijn het fietspad te gebruiken in plaats van de rijbaan. Alle andere bestuurders mogen niet op het fietspad rijden, dus moet je hen op de rijbaan verwachten.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "In welke situaties mag je hier stoppen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/9.jpg",
+            "cevaplar": [
+                "Om een zwaar pakket uit te laden.",
+                "Om een passagier af te zetten.",
+                "Om de weg te vragen.",
+                "Om een telefoonbericht te lezen."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger.",
+                "To ask for directions.",
+                "To read a phone message."
+            ],
+            "feedback": {
+                "metin": "Bord E-1 geeft een parkeerverbod aan die zijde van de rijbaan. Dit bord geldt echter niet voor weggedeelten die bestemd zijn om te parkeren. Je stopt in een parkeervak, dus parkeren is hier toegestaan. Dit betekent dat alle genoemde situaties zijn toegestaan.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "Welke bestuurders moet je hier op de rijbaan verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/38.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Bestuurders van brommobielen.",
+                "Bestuurders van speed-pedelecs.",
+                "Bromfietsers.",
+                "Fietsers."
+            ],
+            "dogruCevap": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Naast de rijbaan ligt een verplicht fietspad. Dit betekent dat alleen fietsers en snorfietsers verplicht zijn het fietspad te gebruiken in plaats van de rijbaan. Alle andere bestuurders mogen niet op het fietspad rijden, dus moet je hen op de rijbaan verwachten.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

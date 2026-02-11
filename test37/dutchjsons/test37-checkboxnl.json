@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Welke bestuurders mag je op dit fietspad verwachten?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Bestuurders van een gehandicaptenvoertuig.",
-        "Fietsers.",
-        "Bestuurders van speed-pedelecs.",
-        "Bromfietsers."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "Bestuurders van een gehandicaptenvoertuig.",
-        "Fietsers."
-      ],
-      "feedback": {
-        "metin": "Als een fietspad een doorgetrokken streep heeft, mogen alleen fietsers, snorfietsers en bestuurders van gehandicaptenvoertuigen hier gebruik van maken. Bromfietsers, bestuurders van speed-pedelecs en bestuurders van motorvoertuigen mogen dit fietspad niet gebruiken. Ook niet om voor te sorteren of in te halen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Welke bestuurders mag je op dit fietspad verwachten?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test37/11.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Bestuurders van een gehandicaptenvoertuig.",
+                "Fietsers.",
+                "Bestuurders van speed-pedelecs.",
+                "Bromfietsers."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Als een fietspad een doorgetrokken streep heeft, mogen alleen fietsers, snorfietsers en bestuurders van gehandicaptenvoertuigen hier gebruik van maken. Bromfietsers, bestuurders van speed-pedelecs en bestuurders van motorvoertuigen mogen dit fietspad niet gebruiken. Ook niet om voor te sorteren of in te halen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,72 +1,72 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "Wanneer mag je hier stoppen?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Wanneer je de weg wilt vragen.",
-        "Wanneer je een lifter wilt oppikken.",
-        "Wanneer je de navigatie wilt resetten.",
-        "Wanneer je een zwaar pakket wilt uitladen.",
-        "Wanneer je een passagier wilt laten uitstappen."
-      ],
-      "dogruCevap": [
-        "Wanneer je een lifter wilt oppikken.",
-        "Wanneer je een passagier wilt laten uitstappen."
-      ],
-      "feedback": {
-        "metin": "Je mag alleen bij een bushalte stoppen om passagiers te laten in- of uitstappen. Dit betekent dat je ook een lifter mag oppikken. Het is echter niet toegestaan om te stoppen om een zwaar pakket uit te laden, om de weg te vragen of om de navigatie te resetten.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "Welke voertuigen vallen onder de categorie motorvoertuigen?",
-      "resim": "",
-      "cevaplar": [
-        "Bromfiets.",
-        "Tractor.",
-        "Motorfiets.",
-        "Tram.",
-        "Personenauto."
-      ],
-      "dogruCevap": [
-        "Tractor.",
-        "Motorfiets.",
-        "Personenauto."
-      ],
-      "feedback": {
-        "metin": "Motorvoertuigen zijn alle gemotoriseerde voertuigen, met uitzondering van voertuigen die over rails rijden (trein, metro, tram), bromfietsen en gehandicaptenvoertuigen.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 41,
-      "soru": "Aan wie moet je voorrang verlenen bij het verlaten van deze weg?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Voetgangers.",
-        "Bromfietsers.",
-        "Bestuurders van motorvoertuigen.",
-        "Fietsers."
-      ],
-      "dogruCevap": [
-        "Voetgangers.",
-        "Bromfietsers.",
-        "Bestuurders van motorvoertuigen.",
-        "Fietsers."
-      ],
-      "feedback": {
-        "metin": "Bij het verlaten van een uitritconstructie moet je al het overige verkeer voorrang verlenen. Dit betekent niet alleen alle bestuurders, maar ook voetgangers.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "Wanneer mag je hier stoppen?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/4.jpg",
+            "cevaplar": [
+                "Wanneer je de weg wilt vragen.",
+                "Wanneer je een lifter wilt oppikken.",
+                "Wanneer je de navigatie wilt resetten.",
+                "Wanneer je een zwaar pakket wilt uitladen.",
+                "Wanneer je een passagier wilt laten uitstappen."
+            ],
+            "dogruCevap": [
+                "When you want to pick up a hitchhiker.",
+                "When you want to drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "Je mag alleen bij een bushalte stoppen om passagiers te laten in- of uitstappen. Dit betekent dat je ook een lifter mag oppikken. Het is echter niet toegestaan om te stoppen om een zwaar pakket uit te laden, om de weg te vragen of om de navigatie te resetten.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Welke voertuigen vallen onder de categorie motorvoertuigen?",
+            "resim": "",
+            "cevaplar": [
+                "Bromfiets.",
+                "Tractor.",
+                "Motorfiets.",
+                "Tram.",
+                "Personenauto."
+            ],
+            "dogruCevap": [
+                "Tractor.",
+                "Motorcycle.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "Motorvoertuigen zijn alle gemotoriseerde voertuigen, met uitzondering van voertuigen die over rails rijden (trein, metro, tram), bromfietsen en gehandicaptenvoertuigen.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 41,
+            "soru": "Aan wie moet je voorrang verlenen bij het verlaten van deze weg?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test43/41.jpg",
+            "cevaplar": [
+                "Voetgangers.",
+                "Bromfietsers.",
+                "Bestuurders van motorvoertuigen.",
+                "Fietsers."
+            ],
+            "dogruCevap": [
+                "Pedestrians.",
+                "Moped riders.",
+                "Motor vehicle drivers.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Bij het verlaten van een uitritconstructie moet je al het overige verkeer voorrang verlenen. Dit betekent niet alleen alle bestuurders, maar ook voetgangers.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

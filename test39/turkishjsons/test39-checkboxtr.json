@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 4,
-      "soru": "Sürücü belgeniz askıya alındığında hangi araçları kullanmanıza izin verilmez?",
-      "resim": "",
-      "cevaplar": [
-        "Bisiklet.",
-        "Brommobiel.",
-        "Snorfiets.",
-        "Binek araba."
-      ],
-      "dogruCevap": [
-        "Brommobiel.",
-        "Snorfiets.",
-        "Binek araba."
-      ],
-      "feedback": {
-        "metin": "Sürücü belgeniz askıya alındığında hiçbir motorlu taşıt kullanmanıza izin verilmez. Yani sadece binek araba sürmek yasak değildir, aynı zamanda brommobiel, moped veya snorfiets de yasaktır. Bisiklet motorlu bir taşıt değildir, bu nedenle bisiklet sürmenize hâlâ izin verilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 34,
-      "soru": "Karşı yönden hangi araçları beklemelisiniz?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Kamyonlar.",
-        "Motosikletler.",
-        "Bisikletliler.",
-        "Mopedler.",
-        "Binek arabalar."
-      ],
-      "dogruCevap": [
-        "Bisikletliler.",
-        "Mopedler."
-      ],
-      "feedback": {
-        "metin": "Bu işaret kombinasyonu, yalnızca ek levhada gösterilen araçlar için geçerli olan tek yönlü bir caddeyi belirtir. Ek levha iki sembol gösteriyor: bir motosiklet (tüm motosikletler için geçerli) ve önden görülen bir binek araba (iki tekerlekten fazla olan tüm motorlu araçlar için geçerli). Bu, yukarıdaki işaretin tüm motorlu araçlar için geçerli olduğu anlamına gelir. Karşı yönden motorlu araç beklememelisiniz. Bisikletliler ve moped sürücüleri karşı yönde gidebilir, bu araçlar motorlu araç değildir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 4,
+            "soru": "Sürücü belgeniz askıya alındığında hangi araçları kullanmanıza izin verilmez?",
+            "resim": "",
+            "cevaplar": [
+                "Bisiklet.",
+                "Brommobiel.",
+                "Snorfiets.",
+                "Binek araba."
+            ],
+            "dogruCevap": [
+                "Brommobiel.",
+                "Snorfiets.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "Sürücü belgeniz askıya alındığında hiçbir motorlu taşıt kullanmanıza izin verilmez. Yani sadece binek araba sürmek yasak değildir, aynı zamanda brommobiel, moped veya snorfiets de yasaktır. Bisiklet motorlu bir taşıt değildir, bu nedenle bisiklet sürmenize hâlâ izin verilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 34,
+            "soru": "Karşı yönden hangi araçları beklemelisiniz?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test39/34.jpg",
+            "cevaplar": [
+                "Kamyonlar.",
+                "Motosikletler.",
+                "Bisikletliler.",
+                "Mopedler.",
+                "Binek arabalar."
+            ],
+            "dogruCevap": [
+                "Bicycles.",
+                "Mopeds."
+            ],
+            "feedback": {
+                "metin": "Bu işaret kombinasyonu, yalnızca ek levhada gösterilen araçlar için geçerli olan tek yönlü bir caddeyi belirtir. Ek levha iki sembol gösteriyor: bir motosiklet (tüm motosikletler için geçerli) ve önden görülen bir binek araba (iki tekerlekten fazla olan tüm motorlu araçlar için geçerli). Bu, yukarıdaki işaretin tüm motorlu araçlar için geçerli olduğu anlamına gelir. Karşı yönden motorlu araç beklememelisiniz. Bisikletliler ve moped sürücüleri karşı yönde gidebilir, bu araçlar motorlu araç değildir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
