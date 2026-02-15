@@ -35,17 +35,17 @@ def linkleri_enjekte_et(kaynak_veriler, hedef_veriler):
     
     return hedef_veriler
 
-# --- GÜNCELLEDİĞİMİZ KISIM BURASI ---
-klasor_araligi = range(7, 51) # 7'den başlar, 51'e kadar (50 dahil) gider
-# -----------------------------------
-
-dosya_tipleri = ["radio", "fillblank", "checkbox", "dragdrop"]
+# Ayarlar
+klasor_araligi = range(7, 51) 
+# Listeye 'resimsech' eklendi
+dosya_tipleri = ["radio", "fillblank", "checkbox", "dragdrop", "resimsech"]
 diller = {"arabicjsons": "ar", "dutchjsons": "nl", "turkishjsons": "tr"}
+
+rapor = []
 
 for i in klasor_araligi:
     ana_klasor = f"test{i}"
     if not os.path.exists(ana_klasor):
-        print(f"Atlanıyor: {ana_klasor} henüz mevcut değil.")
         continue
 
     print(f"--- İşleniyor: {ana_klasor} ---")
@@ -53,23 +53,34 @@ for i in klasor_araligi:
     for tip in dosya_tipleri:
         eng_dosya_yolu = os.path.join(ana_klasor, "englishjsons", f"{ana_klasor}-{tip}en.json")
         
-        if not os.path.exists(eng_dosya_yolu):
-            continue
+        # Eğer ingilizce kaynak varsa işlemleri başlat
+        if os.path.exists(eng_dosya_yolu):
+            with open(eng_dosya_yolu, 'r', encoding='utf-8') as f:
+                eng_data = json.load(f)
 
-        with open(eng_dosya_yolu, 'r', encoding='utf-8') as f:
-            eng_data = json.load(f)
+            for klasor_adi, dil_kodu in diller.items():
+                hedef_dosya_yolu = os.path.join(ana_klasor, klasor_adi, f"{ana_klasor}-{tip}{dil_kodu}.json")
+                
+                if os.path.exists(hedef_dosya_yolu):
+                    with open(hedef_dosya_yolu, 'r', encoding='utf-8') as f:
+                        hedef_data = json.load(f)
 
-        for klasor_adi, dil_kodu in diller.items():
-            hedef_dosya_yolu = os.path.join(ana_klasor, klasor_adi, f"{ana_klasor}-{tip}{dil_kodu}.json")
-            
-            if os.path.exists(hedef_dosya_yolu):
-                with open(hedef_dosya_yolu, 'r', encoding='utf-8') as f:
-                    hedef_data = json.load(f)
+                    guncel_data = linkleri_enjekte_et(eng_data, hedef_data)
 
-                guncel_data = linkleri_enjekte_et(eng_data, hedef_data)
+                    with open(hedef_dosya_yolu, 'w', encoding='utf-8') as f:
+                        json.dump(guncel_data, f, ensure_ascii=False, indent=4)
+                    print(f"  ✓ Güncellendi: {hedef_dosya_yolu}")
+                else:
+                    # DOSYA BULUNAMAZSA RAPORLA
+                    hata_mesaji = f"⚠ HATA: {ana_klasor} içinde {klasor_adi} klasöründe '{ana_klasor}-{tip}{dil_kodu}.json' dosyası BULUNAMADI! (İsim hatası olabilir)"
+                    print(hata_mesaji)
+                    rapor.append(hata_mesaji)
 
-                with open(hedef_dosya_yolu, 'w', encoding='utf-8') as f:
-                    json.dump(guncel_data, f, ensure_ascii=False, indent=4)
-                print(f"  Güncellendi: {hedef_dosya_yolu}")
-
-print("İşlem tamamlandı!")
+print("\n" + "="*50)
+if rapor:
+    print("İŞLEM TAMAMLANDI (Bazı sorunlar tespit edildi):")
+    for r in rapor:
+        print(r)
+else:
+    print("İŞLEM TAMAMLANDI: Tüm dosyalar başarıyla güncellendi!")
+print("="*50)
