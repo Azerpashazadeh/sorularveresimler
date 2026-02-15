@@ -1,21 +1,21 @@
 {
-  "sorular": [
-    {
-      "numara": 5,
-      "soru": "In welk scenario moet je de voetganger voorrang geven?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "In het scenario links loopt de voetganger op dezelfde weg als jij en vervolgt hij deze weg. Jij wilt deze weg verlaten, wat betekent dat je de voetganger voorrang moet geven. In het scenario rechts nadert de voetganger van links en bevindt hij zich dus niet op dezelfde weg. De regel 'rechtdoorgaand verkeer op dezelfde weg heeft voorrang op afslaand verkeer' geldt dan niet, dus de voetganger moet wachten. De haaientanden zijn hierbij niet van belang, omdat ze aangeven dat je voorrang moet verlenen aan bestuurders op de kruisende weg, en voetgangers zijn geen bestuurders.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 5,
+            "soru": "In welk scenario moet je de voetganger voorrang geven?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test28/resimdensech/5.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test28/resimdensech/5.2.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test28/resimdensech/5.1.jpg"
+            ],
+            "feedback": {
+                "metin": "In het scenario links loopt de voetganger op dezelfde weg als jij en vervolgt hij deze weg. Jij wilt deze weg verlaten, wat betekent dat je de voetganger voorrang moet geven. In het scenario rechts nadert de voetganger van links en bevindt hij zich dus niet op dezelfde weg. De regel 'rechtdoorgaand verkeer op dezelfde weg heeft voorrang op afslaand verkeer' geldt dan niet, dus de voetganger moet wachten. De haaientanden zijn hierbij niet van belang, omdat ze aangeven dat je voorrang moet verlenen aan bestuurders op de kruisende weg, en voetgangers zijn geen bestuurders.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

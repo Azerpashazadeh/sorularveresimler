@@ -1,100 +1,100 @@
 {
-  "sorular": [
-    {
-      "numara": 10,
-      "soru": "Hangi levha eşit öncelikli yolların kavşağını belirtir?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "1 numaralı levha, yeşil-beyaz şeritli levha, eşit öncelikli yolların kavşağını belirtir. Örneğin, bu levha bir otoyol kavşağında yer alır. 2 numaralı levha, siyah-beyaz şeritli levha, emniyet şeridinin daralmasını veya sona ermesini belirtir. 3 numaralı levha ise keskin bir viraj konusunda uyarır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 13,
-      "soru": "Hangi levhadan sonra yaya beklemelisiniz?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "Sadece G-5 (erf) ve J-23 (yaya uyarı levhası) levhalarından sonra yaya beklemelisiniz. Bu iki levha, taşıt yolunda yayaların bulunabileceğine işaret eder. Erf bölgesi içerisinde yayalar yolun tamamını kullanabilir. J-23 levhası genellikle yayaların yolu geçmek zorunda olduğu ya da taşıt yolunu kullanmaları gereken yerlerde kullanılır. C-16 levhası, yayaların girmesinin yasak olduğunu belirtir. Bu nedenle bu yolda yayaların bulunması yasaktır. G-3 levhası ise bir “autoweg” yani motorlu taşıt yolu olduğunu belirtir. Bu tür yollarda da yayalara izin verilmez.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "Hangi durumda diğer yol kullanıcısına yol vermelisiniz?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "Sol üstteki durumda, öncelik üçgenlerine ve B6 levhasına yaklaşıyorsunuz. Bu, kesişen yoldaki sürücülere yol vermeniz gerektiği anlamına gelir. Yayalar sürücü sayılmadığı için onlara yol vermek zorunda değilsiniz. Sağ üstteki durumda, bisikletli size göre sağdan gelmektedir. Bu bir eşdeğer kavşaktır. Hız kesici çizgiler veya parke taşı gibi farklı bir yol yüzeyi, bu durumu değiştirmez. Bisikletliye yol vermelisiniz. Sol alttaki durumda da bisikletli size göre sağdan gelmektedir. Bu da eşdeğer bir kavşaktır ve sağdan gelen sürücülere yol vermek zorundasınız. Bisikletliye yol vermelisiniz. Sağ alttaki durumda ise motorlu bisiklet sürücüsü öncelik üçgenlerine yaklaşmaktadır ve kesişen yoldaki sürücülere yol vermek zorundadır. Bu nedenle, siz motorlu bisiklet sürücüsüne yol vermek zorunda değilsiniz.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 23,
-      "soru": "Hangi gösterge ışığı arka sis lambalarının açık olduğunu gösterir?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "Sol taraftaki ışık kısa farların açık olduğunu gösterir. Ortadaki ışık arka sis lambalarının açık olduğunu, sağdaki ışık ise ön sis lambalarının açık olduğunu belirtir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 40,
-      "soru": "Hangi levha düz devam etmeniz gerektiğini belirtir?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "A levhası, sola veya sağa zorunlu yön levhasıdır. Bu nedenle burada düz gitmenize izin verilmez. B levhası bir sapma (alternatif rota) levhasıdır ancak bu zorunlu bir yön belirtmez. C levhası tek yönlü bir yol olduğunu gösterir. Bu yola girmek zorunda değilsiniz, mümkünse sola veya sağa da dönebilirsiniz. D levhası düz devam zorunluluğu anlamına gelir. E levhası ise U dönüşünün yasak olduğunu belirtir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 10,
+            "soru": "Hangi levha eşit öncelikli yolların kavşağını belirtir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.3.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.1.jpg"
+            ],
+            "feedback": {
+                "metin": "1 numaralı levha, yeşil-beyaz şeritli levha, eşit öncelikli yolların kavşağını belirtir. Örneğin, bu levha bir otoyol kavşağında yer alır. 2 numaralı levha, siyah-beyaz şeritli levha, emniyet şeridinin daralmasını veya sona ermesini belirtir. 3 numaralı levha ise keskin bir viraj konusunda uyarır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 13,
+            "soru": "Hangi levhadan sonra yaya beklemelisiniz?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.3.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.4.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.4.jpg"
+            ],
+            "feedback": {
+                "metin": "Sadece G-5 (erf) ve J-23 (yaya uyarı levhası) levhalarından sonra yaya beklemelisiniz. Bu iki levha, taşıt yolunda yayaların bulunabileceğine işaret eder. Erf bölgesi içerisinde yayalar yolun tamamını kullanabilir. J-23 levhası genellikle yayaların yolu geçmek zorunda olduğu ya da taşıt yolunu kullanmaları gereken yerlerde kullanılır. C-16 levhası, yayaların girmesinin yasak olduğunu belirtir. Bu nedenle bu yolda yayaların bulunması yasaktır. G-3 levhası ise bir “autoweg” yani motorlu taşıt yolu olduğunu belirtir. Bu tür yollarda da yayalara izin verilmez.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Hangi durumda diğer yol kullanıcısına yol vermelisiniz?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.3.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.4.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.3.jpg"
+            ],
+            "feedback": {
+                "metin": "Sol üstteki durumda, öncelik üçgenlerine ve B6 levhasına yaklaşıyorsunuz. Bu, kesişen yoldaki sürücülere yol vermeniz gerektiği anlamına gelir. Yayalar sürücü sayılmadığı için onlara yol vermek zorunda değilsiniz. Sağ üstteki durumda, bisikletli size göre sağdan gelmektedir. Bu bir eşdeğer kavşaktır. Hız kesici çizgiler veya parke taşı gibi farklı bir yol yüzeyi, bu durumu değiştirmez. Bisikletliye yol vermelisiniz. Sol alttaki durumda da bisikletli size göre sağdan gelmektedir. Bu da eşdeğer bir kavşaktır ve sağdan gelen sürücülere yol vermek zorundasınız. Bisikletliye yol vermelisiniz. Sağ alttaki durumda ise motorlu bisiklet sürücüsü öncelik üçgenlerine yaklaşmaktadır ve kesişen yoldaki sürücülere yol vermek zorundadır. Bu nedenle, siz motorlu bisiklet sürücüsüne yol vermek zorunda değilsiniz.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 23,
+            "soru": "Hangi gösterge ışığı arka sis lambalarının açık olduğunu gösterir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.3.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.2.jpg"
+            ],
+            "feedback": {
+                "metin": "Sol taraftaki ışık kısa farların açık olduğunu gösterir. Ortadaki ışık arka sis lambalarının açık olduğunu, sağdaki ışık ise ön sis lambalarının açık olduğunu belirtir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 40,
+            "soru": "Hangi levha düz devam etmeniz gerektiğini belirtir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.1.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.2.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.3.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.4.jpg",
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.5.jpg"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.4.jpg"
+            ],
+            "feedback": {
+                "metin": "A levhası, sola veya sağa zorunlu yön levhasıdır. Bu nedenle burada düz gitmenize izin verilmez. B levhası bir sapma (alternatif rota) levhasıdır ancak bu zorunlu bir yön belirtmez. C levhası tek yönlü bir yol olduğunu gösterir. Bu yola girmek zorunda değilsiniz, mümkünse sola veya sağa da dönebilirsiniz. D levhası düz devam zorunluluğu anlamına gelir. E levhası ise U dönüşünün yasak olduğunu belirtir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
