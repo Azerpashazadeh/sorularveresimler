@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 26,
-            "soru": "بدك تلف يمين. بأي حالة مرتب صح (pre-sorting)؟",
+            "soru": "تريد الانعطاف يميناً. في أي موقف أنت في وضع الفرز المسبق الصحيح؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/26.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/26.2.gif",
@@ -15,7 +15,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/26.4.gif"
             ],
             "feedback": {
-                "metin": "بالحالات فوق يسار، فوق يمين وتحت يمين، ترتيبك صح. بالحالة فوق يسار ما لازم ترتب عمسرب الدراجات لأنه عليه خط متين. ونفس الشي بينطبق عالحالة تحت يسار. وهالحالة الأخيرة هي الوحيدة الغلط. بالحالة فوق يمين لازم تنتظر للمشاة يلي بدهن يقطعوا دغري. لتتجنب توقف عمسرب الدراجات، الأفضل ترتب جنبه. بالحالة تحت يمين الأفضل ترتب عمسرب الدراجات لتتجنب الانتظار ورا سيارة بدها تلف يسار.",
+                "metin": "في المواقف الثلاثة الأولى (أعلى اليسار وأعلى اليمين وأسفل اليمين)، أنت تفرز نفسك مسبقاً بشكل صحيح. في الموقف أعلى اليسار، لا يجب الفرز المسبق على مسار الدراجات لأنه محدد بخط صلب، وينطبق ذلك أيضاً على الموقف أسفل اليسار، وبالتالي هذا الأخير هو الإجابة الخاطئة الوحيدة. في الموقف أعلى اليمين، يجب الانتظار للمشاة الراغبين في العبور مباشرةً، ولتفادي الوقوف على مسار الدراجات يُستحسن الفرز المسبق بجانبه. في الموقف أسفل اليمين، يُستحسن الفرز المسبق على مسار الدراجات لتجنب الانتظار خلف المركبة المفروزة للانعطاف يساراً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -23,7 +23,7 @@
         },
         {
             "numara": 30,
-            "soru": "بأي حالة مسموح تتجاوز من اليمين؟",
+            "soru": "في أي موقف يُسمح بالتجاوز من الجانب الأيمن؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/30.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/30.2.gif",
@@ -35,7 +35,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test37/resimdensech/30.2.gif"
             ],
             "feedback": {
-                "metin": "الحالتين فوق صح. الترام مسموح تتجاوزه من اليمين أو من اليسار. كمان مسموح تتجاوز من يمين الخط المربع، إذا السيارة يلي عم تتجاوزها سايقة عالجهة اليسار لهالخط. \nأما بالحالتين تحت ما مسموح تتجاوز من اليمين. بالحالة عاليسار ما مسموح تتجاوز سيارة عم تسوق عالمسرب اليسار بدون داعي، لازم تنتظر لحتى ترجع عاليمين. بالحالة عاليمين إنت سايق بمسرب الازدحام، ولازم تعتبره مسرب عادي. التجاوز من اليمين ممنوع، إلا إذا في ازدحام مروري. وهون ما في ازدحام.",
+                "metin": "الموقفان العلويان صحيحان كلاهما. يُسمح بتجاوز الترام من اليسار أو اليمين. كما يُسمح بالتجاوز على الجانب الأيمن من خط الكتلة إذا كانت المركبة التي تتجاوزها تسير على الجانب الأيسر منه. لا يُسمح بالتجاوز من اليمين في الموقفَين السفلييَن. في الموقف الأيسر، لا يُسمح بتجاوز مركبة تسير في المسار الأيسر دون مبرر، بل يجب الانتظار حتى تعود إلى المسار الأيمن. في الموقف الأيمن، أنت تسير على مسار الذروة ويجب اعتباره مساراً عادياً. لا يُسمح بالتجاوز من اليمين ما لم يكن هناك ازدحام مروري، وهو ليس الحال هنا.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

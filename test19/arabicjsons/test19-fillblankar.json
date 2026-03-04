@@ -2,11 +2,11 @@
     "sorular": [
         {
             "numara": 8,
-            "soru": "شو السرعة القصوى المسموح فيها للبـرومموبيلين برا المناطق المبنية؟",
+            "soru": "ما الحد الأقصى للسرعة المسموح بها للسيارات الصغيرة ذات المحرك (Brommobiel) خارج المناطق المأهولة بالسكان؟",
             "resim": "",
             "dogruCevap": "45",
             "feedback": {
-                "metin": "البـرومموبيل هو دراجة نارية (موبيد) بأكتر من دولابين. البـرومموبيل فيه هيكل ومصمم لسرعة قصوى مسموحة 45 كم/س. السرعة القصوى المسموح فيها 45 كم/س بتطبّق عالبـرومموبيلين سواء بالطرقات جوّا أو برا المناطق المبنية، إلا إذا الشاخصات بتدل عشي غير.",
+                "metin": "البرومبيل (brommobiel) مركبة من فئة الـ moped تسير على أكثر من عجلتين، مزوّدة بهيكل خارجي ومُصمَّمة للسير بحد أقصى 45 كم/ساعة، وينطبق هذا الحد داخل وخارج المناطق المبنية ما لم تشر اللافتات إلى غير ذلك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -14,11 +14,11 @@
         },
         {
             "numara": 10,
-            "soru": "قديش مسموحلك تسوق هون؟",
+            "soru": "ما السرعة المسموح بها للقيادة هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/10.jpg",
             "dogruCevap": "80",
             "feedback": {
-                "metin": "السرعة القصوى 80 كم/س بالطرقات برا المناطق المبنية، ما عدا الأوتوويخن، الأوتوسترادات، أو إذا في مكان محددة فيه سرعة أوطى.",
+                "metin": "يُطبَّق حد سرعة 80 كم/ساعة على الطرق خارج المناطق المبنية، باستثناء الـ autoweg والطرق السريعة (motorway) أو أي طريق تسري عليه حدود سرعة أدنى.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -26,11 +26,11 @@
         },
         {
             "numara": 17,
-            "soru": "معك بس رخصة سياقة B وبدك تستأجر فان للنقل. قديش الكتلة المسموح فيها (مع الحمولة)؟",
+            "soru": "لديك رخصة قيادة (B) فقط وتريد استئجار شاحنة نقل. ما الكتلة الإجمالية المرخصة المسموح بها شاملةً الحمولة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/17.jpg",
             "dogruCevap": "3500",
             "feedback": {
-                "metin": "رخصة السياقة B بتسمحلك تسوق سيارات بكتلة قصوى مسموحة توصل لـ 3500 كيلوغرام مع الحمولة. لازم تنتبه لهالشي لما تستأجر فان للنقل. بيصير كتير إنه الكتلة القصوى الأصلية للفانات بتنزل لحتى يصير مسموح تسوقها برخصة B. بسبب وزن الفان الفاضي الكبير، سعة الحمولة بتكون قليلة. إذا حمّلت أكتر من المسموح، رح تنغرم.",
+                "metin": "تتيح رخصة القيادة B قيادة مركبات لا تتجاوز كتلتها الإجمالية المرخصة 3500 كيلوغرام. انتبه لذلك عند استئجار شاحنة نقل، إذ كثيراً ما تُخفَّض الكتلة الإجمالية المرخصة لشاحنات النقل لتصبح قابلة للقيادة برخصة B، وبسبب الوزن الذاتي المرتفع تكون طاقة التحميل ضئيلة في الغالب، والتحميل الزائد يُعرّضك للغرامات.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -38,11 +38,11 @@
         },
         {
             "numara": 42,
-            "soru": "شو هي أقصى مسافة بين سيارتين وقت السحب؟",
+            "soru": "ما الحد الأقصى للمسافة بين مركبتين آليتين أثناء القطر؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/42.jpg",
             "dogruCevap": "5",
             "feedback": {
-                "metin": "السواقين ما بيصير يسحبوا سيارات تانية إذا كانت المسافة بين السيارتين أكتر من 5 متر.",
+                "metin": "لا يجوز لسائقي المركبات الآلية سحب مركبات أخرى بمسافة تزيد على 5 أمتار بين المركبتين.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -50,11 +50,11 @@
         },
         {
             "numara": 48,
-            "soru": "قديش السرعة المسموحة هون الساعة 4:00 العصر؟",
+            "soru": "ما حد السرعة هنا عند الساعة 4:00 مساءً؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/48.jpg",
             "dogruCevap": "100",
             "feedback": {
-                "metin": "إنت عم تسوق عالأوتوستراد والسرعة القصوى المسموحة بهالوقت هي 100 كم/س. الشاخصة A-1 بتدل على 90 كم/س، بس الشاخصة اللي تحتها بتبين إنه هالسرعة بس وقت الطريق مبلول.",
+                "metin": "أنت تسير على طريق سريع (motorway) يسري فيه حد سرعة 100 كم/ساعة في هذا الوقت من اليوم. تشير لافتة A-1 إلى حد سرعة 90 كم/ساعة، غير أن اللافتة السفلية توضح أن هذا الحد لا يسري إلا عند بلل سطح الطريق.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

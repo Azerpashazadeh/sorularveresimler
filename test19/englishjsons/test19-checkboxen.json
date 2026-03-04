@@ -1,26 +1,26 @@
 {
-  "sorular": [
-    {
-      "numara": 35,
-      "soru": "Which fluids can you quite easy fill up yourself after checking?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/35.jpg",
-      "cevaplar": [
-        "Brake fluid.",
-        "Wiper fluid.",
-        "Engine oil.",
-        "Coolant."
-      ],
-      "dogruCevap": [
-        "Wiper fluid.",
-        "Engine oil.",
-        "Coolant."
-      ],
-      "feedback": {
-        "metin": "After checking the fluid level, you can fill up the coolant, wiper fluid and engine oil quite easy yourself, if necessary. It is not sensible to fill up the brake fluid yourself, because this increases the risk of air in the brake system. This will have a negative effect on the braking. When the brake fluid level is too low, you should contact the dealer. This normally means that there is something wrong with the brakes.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 35,
+            "soru": "Which fluids can you quite easy fill up yourself after checking?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test19/35.jpg",
+            "cevaplar": [
+                "Brake fluid.",
+                "Wiper fluid.",
+                "Engine oil.",
+                "Coolant."
+            ],
+            "dogruCevap": [
+                "Wiper fluid.",
+                "Engine oil.",
+                "Coolant."
+            ],
+            "feedback": {
+                "metin": "After checking the fluid level, you can fill up the coolant, wiper fluid and engine oil quite easy yourself, if necessary. It is not sensible to fill up the brake fluid yourself, because this increases the risk of air in the brake system. This will have a negative effect on the braking. When the brake fluid level is too low, you should contact the dealer. This normally means that there is something wrong with the brakes.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

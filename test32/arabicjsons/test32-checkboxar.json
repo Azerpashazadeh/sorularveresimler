@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 11,
-            "soru": "شو اللي بيأثر ع مسافة التوقف؟",
+            "soru": "ما الذي يؤثر على مسافة التوقف؟",
             "resim": "",
             "cevaplar": [
                 "مسافة الفرملة.",
@@ -18,7 +18,7 @@
                 "The weather conditions."
             ],
             "feedback": {
-                "metin": "مسافة التوقف هي المسافة اللي بتقطعها من وقت الملاحظة لحد ما توقف كلياً. هالشي بيشمل مسافة التفكير ومسافة الفرملة. تقريباً كل العوامل المذكورة بتأثر ع مسافة التفكير أو الفرملة. بس مسافة الأمان ما إلها تأثير ع مسافة التوقف، بالعكس: لتحدد مسافة الأمان لازم تحسب مسافة التوقف.",
+                "metin": "مسار التوقف هو المسافة المقطوعة بين لحظة ملاحظة الخطر والتوقف التام، ويشمل مسافة رد الفعل ومسافة الكبح. تؤثر معظم العوامل المذكورة على إحداهما، أما مسافة الأمان فلا تؤثر في مسار التوقف بل العكس هو الصحيح؛ إذ يجب عند تحديد مسافة الأمان مراعاة مسار التوقف.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -26,7 +26,7 @@
         },
         {
             "numara": 19,
-            "soru": "شو دايماً ممنوع ع طريق الـautoweg؟",
+            "soru": "ما الذي يُحظر دائماً على الـ Autoweg؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test32/19.jpg",
             "cevaplar": [
                 "التجاوز.",
@@ -41,7 +41,7 @@
                 "Make a u-turn."
             ],
             "feedback": {
-                "metin": "ع طريق autoweg، دايماً ممنوع تعمل U-turn أو ترجع لورا أو توقف/تصف عالحافة. السواقة أبطأ من 50 كم/س مو ممنوعة إلا إذا عملت خطر أو إزعاج. بس سيارتك لازم تكون بتقدر و مسموح إلها تمشي على الأقل 50 كم/س لتستعمل الـautoweg. التجاوز مسموح عند الخط المتقطع إذا في أمان وما في إشارات بتمنع.",
+                "metin": "على الـ autoweg يُحظر دائماً الاستدارة والتراجع والوقوف على الكتف. أما القيادة بأقل من 50 كم/ساعة فغير محظورة ما لم تُسبّب خطراً أو إزعاجاً، غير أن مركبتك يجب أن تكون قادرةً على السير بـ 50 كم/ساعة على الأقل لاستخدام الـ autoweg. ويجوز التجاوز عند الخط المتقطع شريطة أن يكون آمناً وألا تحظره لافتات.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

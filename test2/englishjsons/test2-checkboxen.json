@@ -1,99 +1,99 @@
 {
-  "sorular": [
-    {
-      "numara": 2,
-      "soru": "Which of these vehicles are emergency vehicles?",
-      "resim": "",
-      "cevaplar": [
-        "Tram.",
-        "Vehicle of a military convoy.",
-        "Salvage company vehicles with yellow flashing lights.",
-        "Ambulance with optical and sound signals.",
-        "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals.",
-        "Animal ambulance with yellow flashing lights."
-      ],
-      "dogruCevap": [
-        "Ambulance with optical and sound signals.",
-        "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals."
-      ],
-      "feedback": {
-        "metin": "Only vehicles with (blue) optical signals and sound signals are emergency vehicles. This includes police vehicles, fire engines, ambulances, but also vehicles of the Department of waterways and public works (Rijkswaterstaat). Every vehicle that may use blue optical signals and a two toned horn is an emergency vehicle as soon as it uses these optical and sound signals. Vehicles with yellow flashing lights are not emergency vehicles. Nor are trams or vehicles of a military convoy, despite the fact that they have special rights regarding priority.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 3,
-      "soru": "In what cases can you get banned from driving?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/3.jpg",
-      "cevaplar": [
-        "When you are supervising a 2toDrive driver while you are under the influence of alcohol.",
-        "When you get into your car at the driver's side while under the influence of alcohol.",
-        "When you are driving a car under the influence of alcohol.",
-        "When you are walking on the pavement under the influence of alcohol."
-      ],
-      "dogruCevap": [
-        "When you are supervising a 2toDrive driver while you are under the influence of alcohol.",
-        "When you get into your car at the driver's side while under the influence of alcohol.",
-        "When you are driving a car under the influence of alcohol."
-      ],
-      "feedback": {
-        "metin": "You can get banned from driving when you are planning or attempting to drive a vehicle or when you are already driving a vehicle, while under the influence of alcohol. It is also prohibited to supervise a 2toDrive driver while under the influence of alcohol. You must adhere to the same rules as a normal driver, when you are supervising a 2toDrive driver. Just walking on the pavement while under the influence of alcohol, will not result in a driving ban.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 17,
-      "soru": "Which vehicles are allowed to drive in all lanes here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/17.jpg",
-      "cevaplar": [
-        "Motorcycles.",
-        "Passenger cars.",
-        "Passenger cars with a trailer of 7 metres long.",
-        "Lorries.",
-        "Buses."
-      ],
-      "dogruCevap": [
-        "Motorcycles.",
-        "Passenger cars.",
-        "Passenger cars with a trailer of 7 metres long.",
-        "Lorries.",
-        "Buses."
-      ],
-      "feedback": {
-        "metin": "This motorway is divided in two times two lanes, for two different directions. The motorway is about to split into two different motorways. This should not be seen as one carriageway with four lanes in one direction. You can recognise this by the block marking and the signs above. The rule that you can only use the two right hand lanes with lorries and longer vehicle combinations, does not apply here. Both directions consist of only two lanes, which may be used by drivers of all listed vehicles.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 25,
-      "soru": "Which road users must follow the directives of a traffic controller?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/25.jpg",
-      "cevaplar": [
-        "Pedestrians.",
-        "Motor vehicle drivers.",
-        "Tram drivers.",
-        "Disabled vehicle drivers.",
-        "Cyclists."
-      ],
-      "dogruCevap": [
-        "Pedestrians.",
-        "Motor vehicle drivers.",
-        "Tram drivers.",
-        "Disabled vehicle drivers.",
-        "Cyclists."
-      ],
-      "feedback": {
-        "metin": "The obligation to follow the directives of a traffic controller, applies to all road users. This includes all types of pedestrians as well as all drivers. All answers are therefore correct.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 2,
+            "soru": "Which of these vehicles are emergency vehicles?",
+            "resim": "",
+            "cevaplar": [
+                "Tram.",
+                "Vehicle of a military convoy.",
+                "Salvage company vehicles with yellow flashing lights.",
+                "Ambulance with optical and sound signals.",
+                "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals.",
+                "Animal ambulance with yellow flashing lights."
+            ],
+            "dogruCevap": [
+                "Ambulance with optical and sound signals.",
+                "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals."
+            ],
+            "feedback": {
+                "metin": "Only vehicles with (blue) optical signals and sound signals are emergency vehicles. This includes police vehicles, fire engines, ambulances, but also vehicles of the Department of waterways and public works (Rijkswaterstaat). Every vehicle that may use blue optical signals and a two toned horn is an emergency vehicle as soon as it uses these optical and sound signals. Vehicles with yellow flashing lights are not emergency vehicles. Nor are trams or vehicles of a military convoy, despite the fact that they have special rights regarding priority.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 3,
+            "soru": "In what cases can you get banned from driving?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/3.jpg",
+            "cevaplar": [
+                "When you are supervising a 2toDrive driver while you are under the influence of alcohol.",
+                "When you get into your car at the driver's side while under the influence of alcohol.",
+                "When you are driving a car under the influence of alcohol.",
+                "When you are walking on the pavement under the influence of alcohol."
+            ],
+            "dogruCevap": [
+                "When you are supervising a 2toDrive driver while you are under the influence of alcohol.",
+                "When you get into your car at the driver's side while under the influence of alcohol.",
+                "When you are driving a car under the influence of alcohol."
+            ],
+            "feedback": {
+                "metin": "You can get banned from driving when you are planning or attempting to drive a vehicle or when you are already driving a vehicle, while under the influence of alcohol. It is also prohibited to supervise a 2toDrive driver while under the influence of alcohol. You must adhere to the same rules as a normal driver, when you are supervising a 2toDrive driver. Just walking on the pavement while under the influence of alcohol, will not result in a driving ban.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 17,
+            "soru": "Which vehicles are allowed to drive in all lanes here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/17.jpg",
+            "cevaplar": [
+                "Motorcycles.",
+                "Passenger cars.",
+                "Passenger cars with a trailer of 7 metres long.",
+                "Lorries.",
+                "Buses."
+            ],
+            "dogruCevap": [
+                "Motorcycles.",
+                "Passenger cars.",
+                "Passenger cars with a trailer of 7 metres long.",
+                "Lorries.",
+                "Buses."
+            ],
+            "feedback": {
+                "metin": "This motorway is divided in two times two lanes, for two different directions. The motorway is about to split into two different motorways. This should not be seen as one carriageway with four lanes in one direction. You can recognise this by the block marking and the signs above. The rule that you can only use the two right hand lanes with lorries and longer vehicle combinations, does not apply here. Both directions consist of only two lanes, which may be used by drivers of all listed vehicles.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 25,
+            "soru": "Which road users must follow the directives of a traffic controller?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test2/25.jpg",
+            "cevaplar": [
+                "Pedestrians.",
+                "Motor vehicle drivers.",
+                "Tram drivers.",
+                "Disabled vehicle drivers.",
+                "Cyclists."
+            ],
+            "dogruCevap": [
+                "Pedestrians.",
+                "Motor vehicle drivers.",
+                "Tram drivers.",
+                "Disabled vehicle drivers.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "The obligation to follow the directives of a traffic controller, applies to all road users. This includes all types of pedestrians as well as all drivers. All answers are therefore correct.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

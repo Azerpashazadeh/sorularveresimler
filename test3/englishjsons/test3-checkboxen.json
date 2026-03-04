@@ -1,72 +1,72 @@
 {
-  "sorular": [
-    {
-      "numara": 33,
-      "soru": "Which vehicles are you not allowed to drive when your driving licence is suspended?",
-      "resim": "",
-      "cevaplar": [
-        "Snorfiets.",
-        "Bicycle.",
-        "Brommobiel.",
-        "Passenger car."
-      ],
-      "dogruCevap": [
-        "Snorfiets.",
-        "Brommobiel.",
-        "Passenger car."
-      ],
-      "feedback": {
-        "metin": "When your driving licence is suspended you are not allowed to drive any motor carriage. So not only driving a passenger car is prohibited, but also a brommobiel, moped or snorfiets. A bicycle is not a motor carriage, so you are still allowed to ride a bicycle.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 35,
-      "soru": "Which drivers should you expect on the carriageway here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/35.jpg",
-      "cevaplar": [
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Moped riders.",
-        "Cyclists.",
-        "Snorfietsers."
-      ],
-      "dogruCevap": [
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Moped riders."
-      ],
-      "feedback": {
-        "metin": "Next to the carriageway is a mandatory cycle path. This means that only cyclists and snorfietsers are obligated to use the cycle path instead of the carriageway. All other drivers are not allowed on the cycle path, so you should expect them on the carriageway.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 39,
-      "soru": "What lighting are you allowed to use?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/39.jpg",
-      "cevaplar": [
-        "Full-beam headlights.",
-        "Front fog lights in combination with dipped headlights.",
-        "Front fog lights in combination with sidelights.",
-        "Rear fog light.",
-        "Dipped headlights."
-      ],
-      "dogruCevap": [
-        "Front fog lights in combination with dipped headlights.",
-        "Front fog lights in combination with sidelights.",
-        "Dipped headlights."
-      ],
-      "feedback": {
-        "metin": "Visibility is obscured by the fog. You can still see at least 100 metres, because the next hectometre sign is still visible. In that case you may use dipped headlights, both with or without front fog lights. You can also combine front fog lights with sidelights instead of dipped headlights. Full-beam headlights are not allowed during daytime. Rear fog lights are also not permitted. This is only allowed if the visibility is less than 50 meters.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 33,
+            "soru": "Which vehicles are you not allowed to drive when your driving licence is suspended?",
+            "resim": "",
+            "cevaplar": [
+                "Snorfiets.",
+                "Bicycle.",
+                "Brommobiel.",
+                "Passenger car."
+            ],
+            "dogruCevap": [
+                "Snorfiets.",
+                "Brommobiel.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "When your driving licence is suspended you are not allowed to drive any motor carriage. So not only driving a passenger car is prohibited, but also a brommobiel, moped or snorfiets. A bicycle is not a motor carriage, so you are still allowed to ride a bicycle.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 35,
+            "soru": "Which drivers should you expect on the carriageway here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/35.jpg",
+            "cevaplar": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "dogruCevap": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Next to the carriageway is a mandatory cycle path. This means that only cyclists and snorfietsers are obligated to use the cycle path instead of the carriageway. All other drivers are not allowed on the cycle path, so you should expect them on the carriageway.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 39,
+            "soru": "What lighting are you allowed to use?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test3/39.jpg",
+            "cevaplar": [
+                "Full-beam headlights.",
+                "Front fog lights in combination with dipped headlights.",
+                "Front fog lights in combination with sidelights.",
+                "Rear fog light.",
+                "Dipped headlights."
+            ],
+            "dogruCevap": [
+                "Front fog lights in combination with dipped headlights.",
+                "Front fog lights in combination with sidelights.",
+                "Dipped headlights."
+            ],
+            "feedback": {
+                "metin": "Visibility is obscured by the fog. You can still see at least 100 metres, because the next hectometre sign is still visible. In that case you may use dipped headlights, both with or without front fog lights. You can also combine front fog lights with sidelights instead of dipped headlights. Full-beam headlights are not allowed during daytime. Rear fog lights are also not permitted. This is only allowed if the visibility is less than 50 meters.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

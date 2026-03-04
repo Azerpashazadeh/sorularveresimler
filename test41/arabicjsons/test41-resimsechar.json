@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 10,
-            "soru": "أي إشارة بتدل على تقاطع فيه حركة مرور متساوية؟",
+            "soru": "أي علامة تشير إلى تقاطع ذي تدفق متساوٍ؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.2.jpg",
@@ -12,7 +12,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/10.1.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة رقم 1، الإشارة اللي فيها سهم أخضر وأبيض (chevron) بتدل على تقاطع فيه حركة مرور متساوية. مثلاً، هاي الإشارة بتنحط بتقاطع على الأوتوستراد. الإشارة رقم 2، اللي فيها خطوط سودة وبيضا، بتدل على تضييق أو نهاية الكتف (الجزء الجانبي من الطريق). الإشارة رقم 3 بتحذّر من منعطف حاد.",
+                "metin": "لافتة 1 ذات الشرائط الخضراء والبيضاء تشير إلى تقاطع تدفقات متساوية، وتُوضع مثلاً عند تقاطع طريق سريع (motorway). لافتة 2 ذات الشرائط السوداء والبيضاء تشير إلى ضيق الطريق أو نهاية الكتف الصلب. لافتة 3 تحذّر من منعطف حاد.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -20,7 +20,7 @@
         },
         {
             "numara": 13,
-            "soru": "بعد أي إشارة لازم تتوقع وجود مشاة؟",
+            "soru": "بعد أي علامة يجب توقع وجود مشاة؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.2.jpg",
@@ -32,7 +32,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/13.4.jpg"
             ],
             "feedback": {
-                "metin": "بس عند الإشارة G-5 (إيرف) والإشارة J-23 (تحذير من المشاة) لازم تتوقع وجود مشاة. هاي الإشارات بتدل إنو لازم تتوقع وجود مشاة على الشارع. جوّا الإرف، المشاة مسموحلهم يستخدموا كل عرض الطريق. والإشارة J-23 عادةً بتنحط بأماكن لازم المشاة يقطعوا فيها الشارع أو يمشوا عليه. الإشارة C-16 بتدل على منع مرور المشاة، يعني ما بيصير المشاة يمشوا بهالطريق. والإشارة G-3 بتدل على طريق سريع (autoweg)، والمشاة كمان مو مسموحلهم يمشوا عليه.",
+                "metin": "يجب توقع المشاة فقط عند لافتة G-5 (إرف erf) ولافتة J-23 (تحذير من وجود مشاة). تشير كلتا اللافتتَين إلى توقع وجود مشاة على مسار السير. داخل منطقة الإرف، يُسمح للمشاة باستخدام عرض الطريق كاملاً. ولافتة J-23 تُستخدم غالباً في أماكن يضطر فيها المشاة لعبور الطريق أو استخدام مسار السير. تشير لافتة C-16 إلى إغلاق الطريق أمام المشاة فلا يُسمح لهم باستخدامه. ولافتة G-3 تشير إلى أوتوفيه (autoweg)، وهو أيضاً ممنوع على المشاة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -40,7 +40,7 @@
         },
         {
             "numara": 19,
-            "soru": "بأي حالة لازم تعطي أولوية للمستخدم الثاني للطريق؟",
+            "soru": "في أي موقف يجب إعطاء الأولوية لمستخدم الطريق الآخر؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.2.jpg",
@@ -52,7 +52,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/19.3.jpg"
             ],
             "feedback": {
-                "metin": "بالحالة اللي فوق على اليسار، أنت قرّبت على مثلثات أولوية ومعك الإشارة B6. هاد يعني إنك لازم تعطي أولوية للسواق اللي جايين من الطريق المتقاطع. لأنو المشي ما بيعتبر سائق، ما لازم تعطيه أولوية. بالحالة اللي فوق على اليمين، الراكب على البسكليت جاي من اليمين بالنسبة إلك. هاد تقاطع متساوي. العلامات على الطريق مثل المطبات أو الأرضية المختلفة (مثل البلاط) ما بتغير شي، لازم تعطيه أولوية. بالحالة اللي تحت على اليسار، كمان الراكب على البسكليت جاي من اليمين، والتقاطع متساوي، فانت لازم تعطيه أولوية. بالحالة اللي تحت على اليمين، راكب الدراجة النارية الصغير (موبيد) قرّب على مثلثات أولوية، وهو لازم يعطي أولوية للسواق اللي جايين من الطريق المتقاطع. إنت مو لازم تعطيه أولوية.",
+                "metin": "في الموقف أعلى اليسار، أنت تقترب من مثلثات الأولوية ولافتة B-6، مما يعني وجوب إعطاء الأولوية للسائقين على الطريق المتقاطع. وبما أن المشاة ليس سائقاً، لست ملزماً بإعطائه الأولوية. في الموقف أعلى اليمين، الدراج قادم من يمينك في تقاطع متكافئ. لا تُغيّر مطبات السرعة أو سطح الطريق المختلف كالأحجار المرصوفة شيئاً من هذا. يجب إعطاء الأولوية للدراج. في الموقف أسفل اليسار، الدراج قادم من يمينك في تقاطع متكافئ يجب فيه إعطاء الأولوية للسائقين من اليمين. يجب إعطاء الأولوية للدراج. في الموقف أسفل اليمين، سائق الدراجة النارية الصغيرة (bromfiets) يقترب من مثلثات الأولوية ويجب عليه إعطاء الأولوية للسائقين على الطريق المتقاطع. لست مضطراً لإعطائه الأولوية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -60,7 +60,7 @@
         },
         {
             "numara": 23,
-            "soru": "أي ضو على الطابلون بيدل إنو ضويت ضبابية خلفية؟",
+            "soru": "أي مصباح على لوحة القيادة يشير إلى تشغيل مصابيح الضباب الخلفية؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.2.jpg",
@@ -70,7 +70,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/23.2.jpg"
             ],
             "feedback": {
-                "metin": "الضو اللي على اليسار بيدل إنك مشغل الضو الواطي. الضو اللي بالنص بيدل إنك مشغل ضو الضباب الخلفي، والضو اللي على اليمين بيدل إنك مشغل ضو الضباب الأمامي.",
+                "metin": "المصباح الأيسر يشير إلى تشغيل الأضواء الخافتة. والمصباح الأوسط يشير إلى تشغيل مصابيح الضباب الخلفية. أما المصباح الأيمن فيشير إلى تشغيل مصابيح الضباب الأمامية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -78,7 +78,7 @@
         },
         {
             "numara": 40,
-            "soru": "أي إشارة بتدل إنك لازم تمشي دغري؟",
+            "soru": "أي علامة تشير إلى وجوب السير مباشرة إلى الأمام؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.2.jpg",
@@ -90,7 +90,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test41/resimdensech/40.4.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة A بتدل على اتجاه إجباري لليسار أو اليمين، يعني ما فيك تمشي دغري هون. الإشارة B بتدل على طريق تحويل، بس مو اتجاه إجباري. الإشارة C بتدل على شارع باتجاه واحد، بس مو ضروري تدخل فيه، فيك تروح يسار أو يمين إذا في مجال. الإشارة D بتدل على اتجاه إجباري للمشي دغري. الإشارة E بتدل على منع عمل يو-تيرن (الرجوع للخلف).",
+                "metin": "لافتة A تشير إلى اتجاه سير إلزامي نحو اليسار أو اليمين، فلا يُسمح بالسير مباشرةً. لافتة B تشير إلى مسار تحويلي وهو ليس اتجاهاً إلزامياً. لافتة C تشير إلى شارع ذي اتجاه واحد ولست ملزماً بالدخول إليه إذ يمكنك الانعطاف يساراً أو يميناً إن أمكن. لافتة D تشير إلى اتجاه سير إلزامي مباشرةً. لافتة E تشير إلى حظر الاستدارة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

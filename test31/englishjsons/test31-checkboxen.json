@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "What should you do when you accidentally end up on the soft verge?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/8.jpg",
-      "cevaplar": [
-        "Brake immediately.",
-        "Immediately steer back to the carriageway.",
-        "Drive on with the same speed.",
-        "Release the accelerator.",
-        "Steer back at a low speed."
-      ],
-      "dogruCevap": [
-        "Release the accelerator.",
-        "Steer back at a low speed."
-      ],
-      "feedback": {
-        "metin": "When you end up on the soft verge, for instance because you had to swerve, be careful not to brake or steer abruptly. Release the accelerator, wait until you are driving slowly enough and steer back to the carriageway carefully.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 36,
-      "soru": "Your car has a maximum authorised mass of 1500 kg. Which trailers are you allowed to tow with your B licence only?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/36.jpg",
-      "cevaplar": [
-        "Trailers with a maximum authorised mass of 750 kg.",
-        "Trailers with a maximum authorised mass of 1000 kg.",
-        "Trailers with a maximum authorised mass of 1500 kg.",
-        "Trailers with a maximum authorised mass of 2000 kg."
-      ],
-      "dogruCevap": [
-        "Trailers with a maximum authorised mass of 750 kg.",
-        "Trailers with a maximum authorised mass of 1000 kg.",
-        "Trailers with a maximum authorised mass of 1500 kg.",
-        "Trailers with a maximum authorised mass of 2000 kg."
-      ],
-      "feedback": {
-        "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 1500 kg, you can tow trailers with a maximum authorised mass up to 2000 kg. For heavier trailers, you need a BE licence.\nHowever, always check the maximum weight that your car is technically allowed to tow.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "What should you do when you accidentally end up on the soft verge?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/8.jpg",
+            "cevaplar": [
+                "Brake immediately.",
+                "Immediately steer back to the carriageway.",
+                "Drive on with the same speed.",
+                "Release the accelerator.",
+                "Steer back at a low speed."
+            ],
+            "dogruCevap": [
+                "Release the accelerator.",
+                "Steer back at a low speed."
+            ],
+            "feedback": {
+                "metin": "When you end up on the soft verge, for instance because you had to swerve, be careful not to brake or steer abruptly. Release the accelerator, wait until you are driving slowly enough and steer back to the carriageway carefully.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 36,
+            "soru": "Your car has a maximum authorised mass of 1500 kg. Which trailers are you allowed to tow with your B licence only?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test31/36.jpg",
+            "cevaplar": [
+                "Trailers with a maximum authorised mass of 750 kg.",
+                "Trailers with a maximum authorised mass of 1000 kg.",
+                "Trailers with a maximum authorised mass of 1500 kg.",
+                "Trailers with a maximum authorised mass of 2000 kg."
+            ],
+            "dogruCevap": [
+                "Trailers with a maximum authorised mass of 750 kg.",
+                "Trailers with a maximum authorised mass of 1000 kg.",
+                "Trailers with a maximum authorised mass of 1500 kg.",
+                "Trailers with a maximum authorised mass of 2000 kg."
+            ],
+            "feedback": {
+                "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 1500 kg, you can tow trailers with a maximum authorised mass up to 2000 kg. For heavier trailers, you need a BE licence.\nHowever, always check the maximum weight that your car is technically allowed to tow.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 37,
-      "soru": "Which vehicles fall under the category motor vehicles?",
-      "resim": "",
-      "cevaplar": [
-        "Motorcycle.",
-        "Tractor.",
-        "Passenger car.",
-        "Moped.",
-        "Tram."
-      ],
-      "dogruCevap": [
-        "Motorcycle.",
-        "Tractor.",
-        "Passenger car."
-      ],
-      "feedback": {
-        "metin": "Motor vehicles are all motorised vehicles except vehicles that use a track (train, metro, tram), mopeds and disabled vehicles.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 37,
+            "soru": "Which vehicles fall under the category motor vehicles?",
+            "resim": "",
+            "cevaplar": [
+                "Motorcycle.",
+                "Tractor.",
+                "Passenger car.",
+                "Moped.",
+                "Tram."
+            ],
+            "dogruCevap": [
+                "Motorcycle.",
+                "Tractor.",
+                "Passenger car."
+            ],
+            "feedback": {
+                "metin": "Motor vehicles are all motorised vehicles except vehicles that use a track (train, metro, tram), mopeds and disabled vehicles.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

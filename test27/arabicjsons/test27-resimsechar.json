@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 10,
-            "soru": "بأي حالة لازم تخلّي السيارة المقابلة تمرق بالأول؟",
+            "soru": "في أي موقف يجب إعطاء الأولوية للسيارة القادمة من الاتجاه المعاكس؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/10.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/10.2.gif",
@@ -15,7 +15,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/10.4.gif"
             ],
             "feedback": {
-                "metin": "بالوضعيات: فوق عاليسار، تحت عاليسار وتحت عاليمين لازم تخلّي السيارة الجاية من قدام تمرق بالأول. إذا الإشارة الضوئية لمبة دائرية وانت بدك تلف لليسار، بيكون ممكن السيارات المقابلة عندها كمان ضو أخضر بنفس الوقت، ولسا القاعدة بتقول: السير المستقيم بالطريق إلو أولوية عاللي عم يلف. وإذا الإشارة عاطلة، كمان نفس القاعدة بتطبق. بس إذا وصلت على إشارة مع سهم أخضر، بتكون متأكد إنك ما لازم تخلّي السيارات المقابلة تمرق بالأول.",
+                "metin": "في مواقف أعلى اليسار وأسفل اليسار وأسفل اليمين، يجب إعطاء الأولوية للسيارة القادمة من الاتجاه المعاكس. متى كانت إشارة المرور ذات مصباح دائري وأردت الانعطاف يساراً، فقد يكون ضوء حركة المرور القادمة من الاتجاه المعاكس أخضر في الوقت ذاته، وتبقى قاعدة \"حركة المرور المستمرة لها الأولوية على المنعطفين\" سارية. وتسري هذه القاعدة أيضاً إذا تعطلت إشارات المرور. فقط حين تقترب من إشارة مرور ذات سهم أخضر، يمكنك التأكد من عدم الحاجة إلى إعطاء الأولوية لحركة المرور القادمة من الاتجاه المعاكس.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -23,7 +23,7 @@
         },
         {
             "numara": 13,
-            "soru": "عند أي إشارة مسموح لراكبي الـ snorfiets يكملوا السير بالإشارة الحمرا إذا بدهم يلفوا يمين؟",
+            "soru": "عند أي علامة يُسمح لراكبي الدراجات البخارية الصغيرة (Snorfietsers) بالمرور عند إشارة المرور الحمراء إذا كانوا يتجهون يميناً؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/13.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/13.2.jpg",
@@ -33,7 +33,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test27/resimdensech/13.2.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة VR-4 بتدل إنه الدراجات الهوائية (وكمان الـ snorfiets) اللي جايين من كل الاتجاهات بيكون عندهم ضو أخضر بنفس الوقت. هالإشارة ما بتعني إنه مسموح يلفوا يمين مع ضو أحمر. الإشارات VR-5 و VR-6 بتدل إنه الدراجات الهوائية (وكمان الـ snorfiets) إذا بدهم يلفوا يمين، مسموح يكملوا مع الإشارة الصفرى أو الحمرا. هالشي بس إذا ما بيعيق السير التاني. إشارة VR-5 كمان بتشمل الموبيدات.",
+                "metin": "تشير لافتة VR-4 إلى أن الدراجين وسائقي السنورفيتس (snorfiets) القادمين من جميع الاتجاهات يحصلون على ضوء أخضر في الوقت ذاته. ولا تعني اللافتة أنه يُسمح لهم بالانعطاف يميناً رغم الضوء الأحمر. أما لافتتا VR-5 وVR-6 فتشيران إلى أنه يُسمح للدراجين وسائقي السنورفيتس الراغبين في الانعطاف يميناً بالمضي قدماً عند الضوء الأصفر والأحمر، وذلك فقط إذا لم يُعيقوا حركة المرور الأخرى. كما تنطبق لافتة VR-5 على سائقي الدراجات النارية الصغيرة (bromfiets).",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

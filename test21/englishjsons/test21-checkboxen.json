@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Where is a horse rider allowed to ride if there is no bridle path present?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
-      "cevaplar": [
-        "On the foot path.",
-        "On the cycle path.",
-        "On the cycle/moped path.",
-        "On the carriageway.",
-        "On the verge."
-      ],
-      "dogruCevap": [
-        "On the carriageway.",
-        "On the verge."
-      ],
-      "feedback": {
-        "metin": "A horse rider should use the bridle path, if present. If there is no bridle path, he or she is allowed to choose between the carriageway and the verge. A horse rider is not allowed to use the cycle path, cycle/moped path or foot path.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 7,
-      "soru": "Which vehicles are you not allowed to drive during a driving ban?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
-      "cevaplar": [
-        "Passenger car.",
-        "Bicycle.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "dogruCevap": [
-        "Passenger car.",
-        "Bicycle.",
-        "Snorfiets.",
-        "Brommobiel."
-      ],
-      "feedback": {
-        "metin": "During a driving ban you are not allowed to drive any vehicle. So not only driving a passenger car is prohibited, but also a brommobiel, moped or snorfiets. Even riding a bicycle is not allowed.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Where is a horse rider allowed to ride if there is no bridle path present?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
+            "cevaplar": [
+                "On the foot path.",
+                "On the cycle path.",
+                "On the cycle/moped path.",
+                "On the carriageway.",
+                "On the verge."
+            ],
+            "dogruCevap": [
+                "On the carriageway.",
+                "On the verge."
+            ],
+            "feedback": {
+                "metin": "A horse rider should use the bridle path, if present. If there is no bridle path, he or she is allowed to choose between the carriageway and the verge. A horse rider is not allowed to use the cycle path, cycle/moped path or foot path.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 7,
+            "soru": "Which vehicles are you not allowed to drive during a driving ban?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
+            "cevaplar": [
+                "Passenger car.",
+                "Bicycle.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "dogruCevap": [
+                "Passenger car.",
+                "Bicycle.",
+                "Snorfiets.",
+                "Brommobiel."
+            ],
+            "feedback": {
+                "metin": "During a driving ban you are not allowed to drive any vehicle. So not only driving a passenger car is prohibited, but also a brommobiel, moped or snorfiets. Even riding a bicycle is not allowed.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

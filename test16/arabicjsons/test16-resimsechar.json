@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 9,
-            "soru": "أي إشارة ما بتدل على أوتوستراد؟",
+            "soru": "أي علامة لا تشير إلى طريق سريع؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/9.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/9.2.jpg",
@@ -12,7 +12,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/9.3.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة يلي فيها الحرف E ورقم بتدل على أوتوستراد دولي. الإشارة يلي فيها الحرف A ورقم بتدل على أوتوستراد وطني. الأوتوستراد غالباً بيكون فيه رقم A ورقم E سوا. الإشارة يلي فيها الحرف N ورقم بتدل على طريق محافظة أو autoweg.",
+                "metin": "اللافتة التي تحمل الحرف E ورقماً تدل على طريقٍ دوليٍّ سريع. واللافتة التي تحمل الحرف A ورقماً تدل على طريقٍ سريعٍ وطني. وكثيراً ما يحمل الطريق السريع رقمَي A وE معاً. أما اللافتة التي تحمل الحرف N ورقماً فتدل على طريقٍ إقليمي أو Autoweg.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -20,7 +20,7 @@
         },
         {
             "numara": 10,
-            "soru": "أي إشارة بتدل على ممنوع الدخول لكل المركبات الآلية؟",
+            "soru": "أي علامة تشير إلى منع دخول جميع المركبات الآلية؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/10.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/10.2.jpg",
@@ -31,7 +31,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/10.2.jpg"
             ],
             "feedback": {
-                "metin": "الإشارة A بتدل على ممنوع الدخول للمركبات الآلية يلي فيها أكتر من عجلتين، ومن ضمنها الشاحنات، الباصات والتراكتورات. الإشارة B بتدل على ممنوع الدخول لكل المركبات الآلية، مو بس السيارات والدراجات النارية. الإشارة C بتمنع المركبات الآلية إنها تتجاوز بعضها. يعني هالإشارة بتنطبق مو بس عالسيارات، بل عكل المركبات الآلية. الإشارة D بتدل على ممنوع دخول الدراجات النارية. وهالإشارة بتنطبق كمان عالدراجات النارية يلي معها سايد كار.",
+                "metin": "لافتة A تُشير إلى عدم جواز دخول مركبات المحرك ذات أكثر من عجلتَين بما فيها الشاحنات والحافلات والجرارات. لافتة B تُشير إلى عدم جواز دخول جميع مركبات المحرك لا السيارات والدراجات النارية فحسب. لافتة C تحظر تجاوز مركبات المحرك لبعضها وبالتالي تسري على جميع مركبات المحرك لا على السيارات فقط. لافتة D تُشير إلى عدم جواز دخول الدراجات النارية وتسري أيضاً على الدراجات النارية ذات العربات الجانبية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -39,7 +39,7 @@
         },
         {
             "numara": 46,
-            "soru": "بأي موقف لازم تخلّي مستعمل الطريق التاني يمشي بالأول؟",
+            "soru": "في أي موقف يجب إعطاء الأولوية لمستخدم الطريق الآخر؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/46.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/46.2.gif",
@@ -51,7 +51,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test16/resimdensech/46.3.gif"
             ],
             "feedback": {
-                "metin": "إذا كنت جاي من طريق ترابية، لازم تفسح المجال للسائقين يلي جايين من اليمين واليسار عالطريق المعبدة. بالموقفين يلي عالجهة اليسار، الدراجة جاي من اليمين والموتوسيكل من اليسار. التنين عندن أولوية لأنك جاي من طريق ترابية. يعني لازم تخلّيهن يمشو قبل منك. بالموقفين يلي عالجهة اليمين، ما لازم تفسح المجال لمستعمل الطريق التاني. المشاة ما بينحسبو سائقين ولازم ينطرو. سائق التراكتور جاي من قدامك. القاعدة يلي بتقول \"السير المستمر بنفس الطريق له الأولوية عالسير يلي عم يلف\" بتنطبق كمان عالطرق الترابية. يعني مسموح تمشي قبل التراكتور يلي عم يلف.",
+                "metin": "إذا كنت قادماً من طريقٍ ترابية، يجب إعطاء الأولوية للسائقين على الطريق المعبّدة من اليسار واليمين. في الوضعَين الأيسرَين الدراج الهوائي قادمٌ من اليمين والدراج الناري من اليسار، وكلاهما يتمتع بالأولوية لأنك قادمٌ من الطريق غير المعبّدة فيجب إعطاؤهما الأولوية. أما في الوضعَين الأيمنَين فلا يتعين عليك إعطاء الأولوية للمستخدم الآخر؛ فالراجل ليس سائقاً ويجب عليه الانتظار، وسائق الجرار يقترب من أمامك. وتسري قاعدة \"المرور المستمر على الطريق ذاتها يتقدم على المرور المنعطف\" على الطرق غير المعبّدة أيضاً، ومن ثَمّ تتقدم أنت على الجرار المنعطف.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

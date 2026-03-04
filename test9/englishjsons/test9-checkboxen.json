@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 33,
-      "soru": "How do you drive as energy efficient as possible?",
-      "resim": "",
-      "cevaplar": [
-        "Use the cruise control as much as possible.",
-        "Stay in a low gear as long as possible.",
-        "Keep a sufficient following distance.",
-        "Use the air conditioning as much as possible.",
-        "Drive off immediately after starting the engine.",
-        "Press the clutch pedal as soon as you start braking."
-      ],
-      "dogruCevap": [
-        "Use the cruise control as much as possible.",
-        "Keep a sufficient following distance.",
-        "Drive off immediately after starting the engine."
-      ],
-      "feedback": {
-        "metin": "To drive as energy efficient as possible, you drive off immediately after starting the engine and you shift to a higher gear as soon as possible. When you need to brake, you use the engine braking mechanism by not pressing the clutch pedal too soon. You keep a sufficient following distance and use the cruise control as much as possible. Limit the use of energy consuming features like the air conditioning, seat heating and such.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 33,
+            "soru": "How do you drive as energy efficient as possible?",
+            "resim": "",
+            "cevaplar": [
+                "Use the cruise control as much as possible.",
+                "Stay in a low gear as long as possible.",
+                "Keep a sufficient following distance.",
+                "Use the air conditioning as much as possible.",
+                "Drive off immediately after starting the engine.",
+                "Press the clutch pedal as soon as you start braking."
+            ],
+            "dogruCevap": [
+                "Use the cruise control as much as possible.",
+                "Keep a sufficient following distance.",
+                "Drive off immediately after starting the engine."
+            ],
+            "feedback": {
+                "metin": "To drive as energy efficient as possible, you drive off immediately after starting the engine and you shift to a higher gear as soon as possible. When you need to brake, you use the engine braking mechanism by not pressing the clutch pedal too soon. You keep a sufficient following distance and use the cruise control as much as possible. Limit the use of energy consuming features like the air conditioning, seat heating and such.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

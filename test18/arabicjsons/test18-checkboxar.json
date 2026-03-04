@@ -1,46 +1,46 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "مين مسموح يروح قبلك؟",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "المشاة.",
-        "سائق الدراجة النارية الصغيرة (موبيليت).",
-        "راكب البسكليت."
-      ],
-      "dogruCevap": [
-        "المشاة.",
-        "سائق الدراجة النارية الصغيرة (موبيليت).",
-        "راكب البسكليت."
-      ],
-      "feedback": {
-        "metin": "سائق الموبيليت وراكب البسكليت ماشيين ع طريق أولوية. إشارة B-6 والمثلثات البيضا بتدل إنو لازم تعطي أولوية للسواق يلي عالطريق المتقاطع. لذلك سائق الموبيليت وراكب البسكليت بيجوز يروحوا قبلك. والمشاة ماشي دغري ع نفس الطريق يلي انت بدك تبرم منو. السير المستمر بيروح قبل السير يلي عم يبرم. لذلك المشاة كمان بيجوز يروح قبلك.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 45,
-      "soru": "شو المعلومات يلي بتلاقيها ع بطاقة التسجيل؟",
-      "resim": "",
-      "cevaplar": [
-        "تفاصيل عن تأمين السيارة.",
-        "تفاصيل عن الفحص العام الدوري (APK).",
-        "تفاصيل عن صاحب أو ماسك السيارة.",
-        "معلومات تقنية عن المحرك."
-      ],
-      "dogruCevap": [
-        "تفاصيل عن صاحب أو ماسك السيارة.",
-        "معلومات تقنية عن المحرك."
-      ],
-      "feedback": {
-        "metin": "ع بطاقة تسجيل السيارة بتلاقي تفاصيل عن صاحب أو ماسك السيارة، وكمان تفاصيل عن نفس السيارة. مثلاً اللون، سعة المحرك، نوع الوقود والوزن الأقصى. تفاصيل عن الفحص العام الدوري (APK) بتلاقيها ع شهادة الفحص. تفاصيل عن التأمين بتلاقيها ع بطاقة التأمين.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "من يحق له المرور قبلك؟",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+            "cevaplar": [
+                "المشاة.",
+                "سائق الدراجة النارية الصغيرة (موبيليت).",
+                "راكب البسكليت."
+            ],
+            "dogruCevap": [
+                "المشاة.",
+                "سائق الدراجة النارية الصغيرة (موبيليت).",
+                "راكب البسكليت."
+            ],
+            "feedback": {
+                "metin": "سائق Brommer والدراج الهوائي يسيران على طريق الأولوية. تشير لافتة B-6 ومثلثات الأولوية إلى وجوب إعطائك الأولوية للسائقين على الطريق المتقاطعة. ومن ثَمّ يحق لسائق Brommer والدراج الهوائي التقدم قبلك. أما الراجل فيسير مستقيماً على الطريق ذاتها التي تريد الانعطاف عنها. والمرور المستمر يتقدم على المنعطف. ومن ثَمّ يحق للراجل أيضاً التقدم قبلك.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "ما المعلومات التي يمكن العثور عليها في بطاقة التسجيل؟",
+            "resim": "",
+            "cevaplar": [
+                "تفاصيل عن تأمين السيارة.",
+                "تفاصيل عن الفحص العام الدوري (APK).",
+                "تفاصيل عن صاحب أو ماسك السيارة.",
+                "معلومات تقنية عن المحرك."
+            ],
+            "dogruCevap": [
+                "تفاصيل عن صاحب أو ماسك السيارة.",
+                "معلومات تقنية عن المحرك."
+            ],
+            "feedback": {
+                "metin": "تتضمن بطاقة تسجيل المركبة بياناتٍ تتعلق بصاحب المركبة أو حائزها وبيانات المركبة ذاتها كاللون وسعة المحرك ونوع الوقود والوزن الأقصى. أما بيانات الفحص الدوري العام (APK) فتجدها على شهادة الفحص، وبيانات التأمين على بطاقة التأمين.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

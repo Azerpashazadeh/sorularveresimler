@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 9,
-      "soru": "In what situations are you allowed to stop here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/9.jpg",
-      "cevaplar": [
-        "To unload a heavy package.",
-        "To drop off a passenger.",
-        "To ask for directions.",
-        "To read a phone message."
-      ],
-      "dogruCevap": [
-        "To unload a heavy package.",
-        "To drop off a passenger.",
-        "To ask for directions.",
-        "To read a phone message."
-      ],
-      "feedback": {
-        "metin": "Sign E-1 indicates a prohibition to park on that side of the carriageway. However, this sign does not apply to parts of the road that are intended for parking. You are stopping in a parking bay, so parking is allowed here. This means all mentioned situations are allowed.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 38,
-      "soru": "Which drivers should you expect on the carriageway here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/38.jpg",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Moped riders.",
-        "Cyclists."
-      ],
-      "dogruCevap": [
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Moped riders."
-      ],
-      "feedback": {
-        "metin": "Next to the carriageway is a mandatory cycle path. This means that only cyclists and snorfietsers are obligated to use the cycle path instead of the carriageway. All other drivers are not allowed on the cycle path, so you should expect them on the carriageway.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 9,
+            "soru": "In what situations are you allowed to stop here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/9.jpg",
+            "cevaplar": [
+                "To unload a heavy package.",
+                "To drop off a passenger.",
+                "To ask for directions.",
+                "To read a phone message."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger.",
+                "To ask for directions.",
+                "To read a phone message."
+            ],
+            "feedback": {
+                "metin": "Sign E-1 indicates a prohibition to park on that side of the carriageway. However, this sign does not apply to parts of the road that are intended for parking. You are stopping in a parking bay, so parking is allowed here. This means all mentioned situations are allowed.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 38,
+            "soru": "Which drivers should you expect on the carriageway here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test38/38.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders.",
+                "Cyclists."
+            ],
+            "dogruCevap": [
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "Next to the carriageway is a mandatory cycle path. This means that only cyclists and snorfietsers are obligated to use the cycle path instead of the carriageway. All other drivers are not allowed on the cycle path, so you should expect them on the carriageway.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

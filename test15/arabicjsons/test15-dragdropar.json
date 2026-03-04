@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 5,
-            "soru": "مين مسموحله يمر أول؟",
+            "soru": "من يحق له المرور أولاً؟",
             "elements": [
                 {
                     "type": "box",
@@ -40,7 +40,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/5_edited.jpg",
             "feedback": {
-                "metin": "سائق الدراجة النارية ماشي على طريق رئيسي متفرّع، وهاد واضح من الشاخصة B-6 والمثلثات اللي بتدل على أولوية المرور. لذلك لازم تترك له الأفضلية.",
+                "metin": "الدراج الناري يسير على طريق الأولوية المنحرفة كما تدل على ذلك لافتة B-6 ومثلثات الأولوية. ومن ثَمّ يجب عليك إعطاء الأولوية للدراج الناري.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -48,7 +48,7 @@
         },
         {
             "numara": 8,
-            "soru": "شو هو الترتيب الصحيح للأولوية؟",
+            "soru": "ما الترتيب الصحيح لأولوية المرور؟",
             "elements": [
                 {
                     "type": "box",
@@ -143,7 +143,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/8_edited.jpg",
             "feedback": {
-                "metin": "الترتيب الصحيح هو: القافلة العسكرية، المشاة، راكب الدراجة، بعدين إنت. القافلة العسكرية ما لازم توقف عند ممر المشاة. إنت وراكب الدراجة لازم تنتظروا لتمر القافلة العسكرية. بعدين، لازم كلكن تتركوا الطريق للمشاة. راكب الدراجة ماشي بالاتجاه المستقيم عالطريق اللي إنت ناوي تطلع منه، فلهيك لازم تترك له أولوية المرور.",
+                "metin": "الترتيب الصحيح هو: القافلة العسكرية، الراجل، الدراج الهوائي، أنت. لا تنتظر القافلة العسكرية عند ممر المشاة. وعليك أنت والدراج الهوائي الانتظار حتى تنتهي القافلة من العبور. ويجب عليكما كليكما إعطاء الأولوية للراجل. والدراج الهوائي مرورٌ مستمرٌ على الطريق ذاتها التي تريد الانعطاف عنها، ومن ثَمّ يجب إعطاؤه الأولوية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -151,7 +151,7 @@
         },
         {
             "numara": 11,
-            "soru": "شو هو الترتيب الصحيح للأولوية؟",
+            "soru": "ما الترتيب الصحيح لأولوية المرور؟",
             "elements": [
                 {
                     "type": "box",
@@ -224,7 +224,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/11_edited.jpg",
             "feedback": {
-                "metin": "كل السائقين، ما عدا سائق السيارة الحمرا، لازم يعطوا أولوية للي جاي من اليمين. لأنو السيارة الحمرا ما عليها تعطي أولوية لحدا، فهي إلها حق الأولوية. إنت لازم تعطي أولوية للسيارة الزرقا، فالسائق تبع السيارة الزرقا بيمر تاني.",
+                "metin": "يجب على جميع السائقين باستثناء سائق السيارة الحمراء إعطاء الأولوية للسائقين القادمين من اليمين. ولمّا لم يكن على السيارة الحمراء إعطاء الأولوية لأحد، فإن لها حق الأولوية. يجب عليك إعطاء الأولوية للسيارة الزرقاء ومن ثَمّ يأتي دورها ثانياً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -232,7 +232,7 @@
         },
         {
             "numara": 24,
-            "soru": "مين مسموحله يمر أول؟",
+            "soru": "من يحق له المرور أولاً؟",
             "elements": [
                 {
                     "type": "box",
@@ -270,7 +270,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/24_edited.jpg",
             "feedback": {
-                "metin": "بهي التقاطعات المتساوية، لازم تعطي أولوية للسائقين الجايين من اليمين.",
+                "metin": "يجب إعطاء الأولوية للسائقين القادمين من اليمين في هذا التقاطع المتكافئ.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -278,7 +278,7 @@
         },
         {
             "numara": 33,
-            "soru": "شو هو الترتيب الصحيح للأولوية؟",
+            "soru": "ما الترتيب الصحيح لأولوية المرور؟",
             "elements": [
                 {
                     "type": "box",
@@ -351,7 +351,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/33_edited.jpg",
             "feedback": {
-                "metin": "الدراجة النارية لازم تعطي أولوية لراكب الدراجة الجاي من اليمين. وسائق السيارة لازم يعطي أولوية للدراجة النارية الجاي من اليمين، وكمان لراكب الدراجة اللي مكمل بنفس الطريق اللي السيارة ناوية تطلع منه.",
+                "metin": "يجب على الدراجة النارية إعطاء الأولوية للدراج الهوائي القادم من اليمين. ويجب على سائق السيارة إعطاء الأولوية للدراجة النارية القادمة من يمينه وللدراج الهوائي المستمر على الطريق ذاتها التي تريد السيارة مغادرتها.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -359,7 +359,7 @@
         },
         {
             "numara": 50,
-            "soru": "شو هو الترتيب الصحيح للأولوية؟",
+            "soru": "ما الترتيب الصحيح لأولوية المرور؟",
             "elements": [
                 {
                     "type": "box",
@@ -432,7 +432,7 @@
             ],
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test15/50_edited.jpg",
             "feedback": {
-                "metin": "إنت وسائق الدراجة النارية ماشيين باتجاه مثلثات الأولوية، ولازم تعطوا أولوية للسائقين اللي عالطريق المتقاطع. فراكب الدراجة هو اللي له أفضلية المرور. الدراجة النارية عم تطلع من الطريق اللي إنت مكمل فيه، ولهيك لازم تتركلك الطريق. فبالتالي، الترتيب الصحيح للأولوية هو: راكب الدراجة، بعدين إنت، بعدين الدراجة النارية.",
+                "metin": "أنت والدراج الناري تقتربان من مثلثات الأولوية ويجب عليكما إعطاء الأولوية للسائقين على الطريق المتقاطعة. ومن ثَمّ فإن للدراج الهوائي الأولوية. والدراج الناري يغادر الطريق التي تواصل السير عليها مستقيماً ويجب عليه إعطاءك الأولوية. الترتيب الصحيح إذن هو: الدراج الهوائي، أنت، الدراج الناري.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

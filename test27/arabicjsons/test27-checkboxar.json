@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 50,
-            "soru": "أي إشارات عالطريق ما مسموح تقطعها؟",
+            "soru": "أي خطوط لا يُسمح لك بتجاوزها؟",
             "resim": "",
             "cevaplar": [
                 "خط مسار متقطع.",
@@ -17,7 +17,7 @@
                 "Hatched road markings."
             ],
             "feedback": {
-                "metin": "مسموح تقطع بس الخط المتقطع. ما مسموح تقطع الخط المتصل. خط الطرف المتصل إلو استثناء، مسموح تمرق عليه مثلاً إذا بدك توقف عالطرف أو توصل لموقف جانبي. بس ممنوع تماماً تمرق فوق النقطة الفاصلة أو التخطيطات المائلة (gores).",
+                "metin": "يُسمح لك فقط بتجاوز الخط المتقطع. لا يجوز تجاوز الخط الصلب. الاستثناء الوحيد هو خط الحافة الصلب، إذ يُسمح لك بتجاوزه، كالوقوف على الحافة الترابية أو الوصول إلى موقف مجاور أو مستراحة. لا يجوز أبداً تجاوز نقطة تقسيم أو العلامات المشطوبة على الأرض.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

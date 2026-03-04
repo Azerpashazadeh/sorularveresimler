@@ -1,46 +1,46 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "Kim(ler) sizden önce geçebilir?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
-      "cevaplar": [
-        "Yaya.",
-        "Moped sürücüsü.",
-        "Bisikletli."
-      ],
-      "dogruCevap": [
-        "Yaya.",
-        "Moped sürücüsü.",
-        "Bisikletli."
-      ],
-      "feedback": {
-        "metin": "Moped sürücüsü ve bisikletli, öncelikli yolda ilerliyor. B-6 işareti ve öncelik üçgenleri, kesişen yoldaki sürücülere yol vermeniz gerektiğini gösterir. Bu nedenle moped sürücüsü ve bisikletli sizden önce geçebilir. Yaya ise düz ilerleyerek sizin dönmek istediğiniz yolda devam ediyor. Geçiş üstünlüğü kuralına göre düz giden trafik, dönen trafikten önce geçer. Bu nedenle yaya da sizden önce geçebilir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 45,
-      "soru": "Ruhsat kartında hangi bilgiler bulunabilir?",
-      "resim": "",
-      "cevaplar": [
-        "Aracın sigortasına ilişkin bilgiler.",
-        "Periyodik genel muayeneye (APK) ilişkin bilgiler.",
-        "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
-        "Motorla ilgili teknik bilgiler."
-      ],
-      "dogruCevap": [
-        "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
-        "Motorla ilgili teknik bilgiler."
-      ],
-      "feedback": {
-        "metin": "Araç ruhsat kartında aracın sahibi veya hak sahibine dair bilgiler ile aracın kendisine dair bilgiler bulunur. Örneğin; rengi, silindir hacmi, yakıt türü ve azami ağırlığı. Periyodik genel muayene (APK) bilgileri muayene belgesinde bulunur. Sigorta bilgileri ise sigorta kartında yer alır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "Kim(ler) sizden önce geçebilir?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/",
+            "cevaplar": [
+                "Yaya.",
+                "Moped sürücüsü.",
+                "Bisikletli."
+            ],
+            "dogruCevap": [
+                "Yaya.",
+                "Moped sürücüsü.",
+                "Bisikletli."
+            ],
+            "feedback": {
+                "metin": "Moped sürücüsü ve bisikletli, öncelikli yolda ilerliyor. B-6 işareti ve öncelik üçgenleri, kesişen yoldaki sürücülere yol vermeniz gerektiğini gösterir. Bu nedenle moped sürücüsü ve bisikletli sizden önce geçebilir. Yaya ise düz ilerleyerek sizin dönmek istediğiniz yolda devam ediyor. Geçiş üstünlüğü kuralına göre düz giden trafik, dönen trafikten önce geçer. Bu nedenle yaya da sizden önce geçebilir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 45,
+            "soru": "Ruhsat kartında hangi bilgiler bulunabilir?",
+            "resim": "",
+            "cevaplar": [
+                "Aracın sigortasına ilişkin bilgiler.",
+                "Periyodik genel muayeneye (APK) ilişkin bilgiler.",
+                "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
+                "Motorla ilgili teknik bilgiler."
+            ],
+            "dogruCevap": [
+                "Aracın sahibi veya hak sahibi ile ilgili bilgiler.",
+                "Motorla ilgili teknik bilgiler."
+            ],
+            "feedback": {
+                "metin": "Araç ruhsat kartında aracın sahibi veya hak sahibine dair bilgiler ile aracın kendisine dair bilgiler bulunur. Örneğin; rengi, silindir hacmi, yakıt türü ve azami ağırlığı. Periyodik genel muayene (APK) bilgileri muayene belgesinde bulunur. Sigorta bilgileri ise sigorta kartında yer alır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

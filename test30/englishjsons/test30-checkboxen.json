@@ -1,50 +1,50 @@
 {
-  "sorular": [
-    {
-      "numara": 26,
-      "soru": "Which vehicles are allowed to drive in all lanes here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test30/26.jpg",
-      "cevaplar": [
-        "Passenger cars.",
-        "Lorries.",
-        "Motorcycles.",
-        "Buses.",
-        "Passenger cars with a trailer of 7 metres long."
-      ],
-      "dogruCevap": [
-        "Passenger cars.",
-        "Lorries.",
-        "Motorcycles.",
-        "Buses.",
-        "Passenger cars with a trailer of 7 metres long."
-      ],
-      "feedback": {
-        "metin": "This motorway is divided in two times two lanes, for two different directions. The motorway is about to split into two different motorways. This should not be seen as one carriageway with four lanes in one direction. You can recognise this by the block marking and the signs above. The rule that you can only use the two right hand lanes with lorries and longer vehicle combinations, does not apply here. Both directions consist of only two lanes, which may be used by drivers of all listed vehicles.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 29,
-      "soru": "Your car has a maximum authorised mass of 2900 kg. Which trailers are you allowed to tow with your B licence only?",
-      "resim": "",
-      "cevaplar": [
-        "A trailer with a maximum authorised mass of 600 kg.",
-        "A trailer with a maximum authorised mass of 750 kg.",
-        "A trailer with a maximum authorised mass of 900 kg.",
-        "A trailer with a maximum authorised mass of 1100 kg."
-      ],
-      "dogruCevap": [
-        "A trailer with a maximum authorised mass of 600 kg.",
-        "A trailer with a maximum authorised mass of 750 kg."
-      ],
-      "feedback": {
-        "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 2900 kg, you can tow trailers with a maximum authorised mass up to 750 kg. For heavier trailers, you need a BE licence.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 26,
+            "soru": "Which vehicles are allowed to drive in all lanes here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test30/26.jpg",
+            "cevaplar": [
+                "Passenger cars.",
+                "Lorries.",
+                "Motorcycles.",
+                "Buses.",
+                "Passenger cars with a trailer of 7 metres long."
+            ],
+            "dogruCevap": [
+                "Passenger cars.",
+                "Lorries.",
+                "Motorcycles.",
+                "Buses.",
+                "Passenger cars with a trailer of 7 metres long."
+            ],
+            "feedback": {
+                "metin": "This motorway is divided in two times two lanes, for two different directions. The motorway is about to split into two different motorways. This should not be seen as one carriageway with four lanes in one direction. You can recognise this by the block marking and the signs above. The rule that you can only use the two right hand lanes with lorries and longer vehicle combinations, does not apply here. Both directions consist of only two lanes, which may be used by drivers of all listed vehicles.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 29,
+            "soru": "Your car has a maximum authorised mass of 2900 kg. Which trailers are you allowed to tow with your B licence only?",
+            "resim": "",
+            "cevaplar": [
+                "A trailer with a maximum authorised mass of 600 kg.",
+                "A trailer with a maximum authorised mass of 750 kg.",
+                "A trailer with a maximum authorised mass of 900 kg.",
+                "A trailer with a maximum authorised mass of 1100 kg."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 600 kg.",
+                "A trailer with a maximum authorised mass of 750 kg."
+            ],
+            "feedback": {
+                "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 2900 kg, you can tow trailers with a maximum authorised mass up to 750 kg. For heavier trailers, you need a BE licence.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

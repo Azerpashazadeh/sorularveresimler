@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 1,
-            "soru": "وين مسموح للفارس يركب إذا ما في ممر خاص للخيول؟",
+            "soru": "أين يُسمح لراكب الحصان بالسير إذا لم يكن هناك مسار مخصص للخيول؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/1.jpg",
             "cevaplar": [
                 "عالطريق للمشاة.",
@@ -16,7 +16,7 @@
                 "On the verge."
             ],
             "feedback": {
-                "metin": "الفارس لازم يستعمل ممر الخيول إذا موجود. إذا ما في ممر للخيول، بيقدر يختار بين الشارع (carriageway) أو الطرف (verge). ما مسموح للفارس يستعمل طريق البسكليت، طريق البسكليت/موتوسيكل صغير أو طريق المشاة.",
+                "metin": "يجب على راكب الحصان استخدام مسار الخيول (ruiterpad) إن وُجد. وإن لم يكن متاحاً فيجوز له الاختيار بين مسار الطريق والكتف الجانبي. لا يجوز له استخدام مسار الدراجات الهوائية أو مسار الدراجات والـ moped أو مسار المشاة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -24,7 +24,7 @@
         },
         {
             "numara": 7,
-            "soru": "أي مركبات ما مسموح تسوق وقت منع السواقة؟",
+            "soru": "أي مركبات لا يُسمح لك بقيادتها خلال فترة حظر القيادة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test21/7.jpg",
             "cevaplar": [
                 "سيارة خصوصي.",
@@ -39,7 +39,7 @@
                 "Brommobiel."
             ],
             "feedback": {
-                "metin": "وقت منع السواقة ما مسموح تسوق أي مركبة. يعني مو بس السيارة الخصوصية ممنوعة، كمان الـ Brommobiel، الموبيد أو Snorfiets. حتى ركوب البسكليت مو مسموح.",
+                "metin": "أثناء حظر القيادة لا يجوز قيادة أي مركبة مطلقاً، فلا يُسمح بقيادة السيارة ولا البرومبيل (brommobiel) ولا الـ moped ولا الـ snorfiets، بل حتى ركوب الدراجة الهوائية محظور.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

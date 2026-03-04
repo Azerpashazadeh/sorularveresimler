@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 8,
-      "soru": "Your car has a maximum authorised mass of 2500 kg. Which trailers are you allowed to tow with your B licence only?",
-      "resim": "",
-      "cevaplar": [
-        "A trailer with a maximum authorised mass of 750 kg.",
-        "A trailer with a maximum authorised mass of 900 kg.",
-        "A trailer with a maximum authorised mass of 1100 kg.",
-        "A trailer with a maximum authorised mass of 1500 kg."
-      ],
-      "dogruCevap": [
-        "A trailer with a maximum authorised mass of 750 kg.",
-        "A trailer with a maximum authorised mass of 900 kg."
-      ],
-      "feedback": {
-        "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 2500 kg, you can tow trailers with a maximum authorised mass up to 1000 kg. For even heavier trailers, you need a BE licence.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 8,
+            "soru": "Your car has a maximum authorised mass of 2500 kg. Which trailers are you allowed to tow with your B licence only?",
+            "resim": "",
+            "cevaplar": [
+                "A trailer with a maximum authorised mass of 750 kg.",
+                "A trailer with a maximum authorised mass of 900 kg.",
+                "A trailer with a maximum authorised mass of 1100 kg.",
+                "A trailer with a maximum authorised mass of 1500 kg."
+            ],
+            "dogruCevap": [
+                "A trailer with a maximum authorised mass of 750 kg.",
+                "A trailer with a maximum authorised mass of 900 kg."
+            ],
+            "feedback": {
+                "metin": "With a B licence, you may tow all trailers with a maximum authorised mass up to 750 kg. Heavier trailers are only allowed when the combined maximum authorised mass of the car and trailer is no more than 3500 kg. So if your car has a maximum authorised mass of 2500 kg, you can tow trailers with a maximum authorised mass up to 1000 kg. For even heavier trailers, you need a BE licence.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

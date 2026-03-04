@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "Which drivers should you expect on this cycle lane?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test37/11.jpg",
-      "cevaplar": [
-        "Snorfietsers.",
-        "Drivers of a disabled vehicle.",
-        "Cyclists.",
-        "Speed pedelec riders.",
-        "Moped riders."
-      ],
-      "dogruCevap": [
-        "Snorfietsers.",
-        "Drivers of a disabled vehicle.",
-        "Cyclists."
-      ],
-      "feedback": {
-        "metin": "If a cycle lane has a solid line, only cyclists, snorfietsers and drivers of disabled vehicles may use it. Moped riders, drivers of speed pedelecs and drivers of motor vehicles are not allowed to use this cycle lane. Not even for pre-sorting or overtaking.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "Which drivers should you expect on this cycle lane?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test37/11.jpg",
+            "cevaplar": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists.",
+                "Speed pedelec riders.",
+                "Moped riders."
+            ],
+            "dogruCevap": [
+                "Snorfietsers.",
+                "Drivers of a disabled vehicle.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "If a cycle lane has a solid line, only cyclists, snorfietsers and drivers of disabled vehicles may use it. Moped riders, drivers of speed pedelecs and drivers of motor vehicles are not allowed to use this cycle lane. Not even for pre-sorting or overtaking.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 30,
-      "soru": "Which drivers should you expect on the carriageway here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/30.jpg",
-      "cevaplar": [
-        "Moped riders.",
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Cyclists.",
-        "Snorfietsers."
-      ],
-      "dogruCevap": [
-        "Moped riders.",
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Cyclists.",
-        "Snorfietsers."
-      ],
-      "feedback": {
-        "metin": "There is a non-mandatory cycle path next to the carriageway. Cyclists are allowed to use that path, but that is not mandatory. They may choose between the carriageway and the cycle path. Snorfietsers are only allowed on the non-mandatory cycle path with their combustion engine turned off. Other drivers are not allowed on this path. Because the path is non-mandatory, you should expect all listed drivers on the carriageway.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 48,
-      "soru": "Which road users have priority when they are coming from the right within an erf?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/48.jpg",
-      "cevaplar": [
-        "Pedestrian.",
-        "Handler of a horse.",
-        "Cyclist.",
-        "Passenger car driver."
-      ],
-      "dogruCevap": [
-        "Handler of a horse.",
-        "Cyclist.",
-        "Passenger car driver."
-      ],
-      "feedback": {
-        "metin": "The same priority rules apply within an erf, as outside an erf. On intersections of equivalent roads, you only have to give way to drivers coming from the right. Because pedestrians are not drivers, they do not have priority. Horse handlers, cyclists and drivers of a passenger car are drivers, they do have priority coming from the right.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 30,
+            "soru": "Which drivers should you expect on the carriageway here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/30.jpg",
+            "cevaplar": [
+                "Moped riders.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists.",
+                "Snorfietsers."
+            ],
+            "feedback": {
+                "metin": "There is a non-mandatory cycle path next to the carriageway. Cyclists are allowed to use that path, but that is not mandatory. They may choose between the carriageway and the cycle path. Snorfietsers are only allowed on the non-mandatory cycle path with their combustion engine turned off. Other drivers are not allowed on this path. Because the path is non-mandatory, you should expect all listed drivers on the carriageway.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 48,
+            "soru": "Which road users have priority when they are coming from the right within an erf?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test10/48.jpg",
+            "cevaplar": [
+                "Pedestrian.",
+                "Handler of a horse.",
+                "Cyclist.",
+                "Passenger car driver."
+            ],
+            "dogruCevap": [
+                "Handler of a horse.",
+                "Cyclist.",
+                "Passenger car driver."
+            ],
+            "feedback": {
+                "metin": "The same priority rules apply within an erf, as outside an erf. On intersections of equivalent roads, you only have to give way to drivers coming from the right. Because pedestrians are not drivers, they do not have priority. Horse handlers, cyclists and drivers of a passenger car are drivers, they do have priority coming from the right.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

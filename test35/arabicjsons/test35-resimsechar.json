@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 5,
-            "soru": "أي إشارة بتسمحلك تلف يسار؟",
+            "soru": "أي علامة تُجيز الانعطاف يساراً؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/5.1.gif",
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/5.2.gif",
@@ -12,7 +12,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/5.1.gif"
             ],
             "feedback": {
-                "metin": "الإشارة C-3 بتدل إنو الطريق باتجاه واحد وبيسمحلك تسوق بهالاتجاه. يعني هون فيك تلف يسار. الإشارة C-4 بتدل على طريق باتجاه واحد بس الدخول مسموح من اليمين، يعني هون ممنوع تلف يسار. الإشارة D-4 بتدل على اتجاه سير إلزامي، يعني فيك تروح بس دغري وممنوع تلف يسار.",
+                "metin": "تشير لافتة C-3 إلى أن الطريق ذو اتجاه واحد ولا يُسمح بالسير عليه إلا في هذا الاتجاه. يمكنك الانعطاف يساراً هنا. تشير لافتة C-4 إلى شارع ذي اتجاه واحد لا يُسمح بالدخول إليه إلا من اليمين. لا يُسمح لك بالانعطاف يساراً هنا. تشير لافتة D-4 إلى اتجاه سير إلزامي. يجب أن تسير مباشرةً فقط ولا يُسمح لك بالانعطاف يساراً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -20,7 +20,7 @@
         },
         {
             "numara": 23,
-            "soru": "إنت عم تنزّل راكب. بأي حالة هاد مسموح؟",
+            "soru": "أنت تنزل راكباً. في أي موقف يُسمح بذلك؟",
             "secenekler": [
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/23.1.jpg",
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/23.2.jpg",
@@ -33,7 +33,7 @@
                 "https://azerpashazadeh.github.io/sorularveresimler/test35/resimdensech/23.4.jpg"
             ],
             "feedback": {
-                "metin": "بالوضعيات فوق عاليسار، فوق عاليمين وتحت عاليمين، ممنوع تركن بس مسموح توقف لتنزل حدا من السيارة. هالشي بينطبق جنب سيارات راكنة بشكل موازي، عند مدخل بناء، وجنب خط أصفر مقطوع. بس بالوضعية تحت عاليسار ممنوع تركن أو توقف، لأنه في خط أصفر متصل عالرصيف.",
+                "metin": "في المواقف ثلاثة الأول (أعلى اليسار وأعلى اليمين وأسفل اليمين)، يُحظر الوقوف غير أنه يُسمح بالتوقف لإنزال شخص من السيارة. ينطبق ذلك بجانب مركبات متوقفة بشكل موازٍ، وعند منشأة خروج، وبجانب خط أصفر متقطع. أما في الموقف أسفل اليسار فقط، فيُحظر الوقوف والتوقف معاً، إذ يوجد خط أصفر صلب على الرصيف.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

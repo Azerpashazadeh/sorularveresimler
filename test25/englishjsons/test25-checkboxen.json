@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 27,
-      "soru": "In which situations are you allowed to stop here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test25/27.jpg",
-      "cevaplar": [
-        "If you want to drop off a passenger.",
-        "If you want to ask for directions.",
-        "If you have to wait for a passenger to arrive.",
-        "If you want to unload a heavy package."
-      ],
-      "dogruCevap": [
-        "If you want to drop off a passenger.",
-        "If you want to unload a heavy package."
-      ],
-      "feedback": {
-        "metin": "It is not allowed to park next to a yellow broken line. Stopping to drop off or pick up passengers is allowed. As is stopping to load or unload goods. These have to be of a significant weight or size. Waiting for a passenger to arrive or asking for directions is considered parking, and is therefore not allowed here.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 27,
+            "soru": "In which situations are you allowed to stop here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test25/27.jpg",
+            "cevaplar": [
+                "If you want to drop off a passenger.",
+                "If you want to ask for directions.",
+                "If you have to wait for a passenger to arrive.",
+                "If you want to unload a heavy package."
+            ],
+            "dogruCevap": [
+                "If you want to drop off a passenger.",
+                "If you want to unload a heavy package."
+            ],
+            "feedback": {
+                "metin": "It is not allowed to park next to a yellow broken line. Stopping to drop off or pick up passengers is allowed. As is stopping to load or unload goods. These have to be of a significant weight or size. Waiting for a passenger to arrive or asking for directions is considered parking, and is therefore not allowed here.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

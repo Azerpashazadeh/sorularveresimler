@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 1,
-            "soru": "بأي حالة الشخص ضعيف البصر عم يبيّن إنه راح يقطع الشارع؟",
+            "soru": "في أي موقف تشير الشخص ضعيفة البصر إلى أنها ستعبر الطريق؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/1.jpg",
             "cevaplar": [
                 "الحالة 1.",
@@ -10,7 +10,7 @@
             ],
             "dogruCevap": "الحالة 2.",
             "feedback": {
-                "metin": "العصاية البيضا المرفوعة وعليها حلقات حمرا بتدل إنه الشخص ضعيف البصر ناوي يقطع. لازم تعطيه أفضلية المرور.",
+                "metin": "العصا البيضاء ذات الحلقات الحمراء المرفوعة تُشير إلى أن شخصاً ضعيف البصر على وشك العبور، ويجب إعطاء الأولوية لهؤلاء المستخدمين.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -18,7 +18,7 @@
         },
         {
             "numara": 2,
-            "soru": "لازم تتوقع سيارات جاية بعكسك بالأوتوستراد؟",
+            "soru": "هل تتوقع وجود مركبات قادمة من الاتجاه المعاكس على الطريق السريع؟",
             "resim": "",
             "cevaplar": [
                 "إي.",
@@ -26,7 +26,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "بالأوتوسترادات في مسارب منفصلة وتقاطعات مو على نفس المستوى. يعني ما لازم تتوقع سيارات جاية بعكسك.",
+                "metin": "الطرق السريعة (motorway) مزوّدة بمسارات منفصلة وتقاطعات غير مستوية، فلا ينبغي توقع مرور مركبات قادمة من الاتجاه المعاكس عليها.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -34,7 +34,7 @@
         },
         {
             "numara": 3,
-            "soru": "صار معك حادث خفيف بدون أضرار كبيرة. وين لازم تعبي استمارة الضرر؟",
+            "soru": "تعرضت لحادث مع أضرار طفيفة فقط. أين تملأ استمارة المطالبة؟",
             "resim": "",
             "cevaplar": [
                 "بمكان الحادث نفسه.",
@@ -43,7 +43,7 @@
             ],
             "dogruCevap": "بمكان آمن مثل موقف سيارات.",
             "feedback": {
-                "metin": "إذا الحادث خفيف، لا توقف بنص الطريق لتكتب. هالشي بيعمل خطر. روح مع الطرف التاني لمكان آمن مثل موقف سيارات وعبّوا الاستمارة سوا. التوقيع بيكون من الطرفين، وكل واحد بياخد نسخة. الجزء الخلفي بتعبيه بالبيت وبتبعتو لشركة التأمين. إذا الكتروني، بتعملوا هالشي سوا عبر التطبيق.",
+                "metin": "إذا وقع حادث طفيف بأضرار بسيطة فلا تبقَ في موقع الحادث لتسوية الأمور، لأن ذلك يُسبّب ازدحاماً وخطراً إضافيَّين. انتقل مع الطرف الآخر إلى مكان آمن كموقف السيارات وسوِّ الأمور هناك. أكملا معاً الجانب الأمامي من استمارة المطالبة بالتعويض وقّعا عليها كلاكما، ثم اقسما الاستمارة بينكما وأكمل كل منكما الجانب الخلفي في أسرع وقت ممكن. يُرسل كل طرف نسخته إلى شركة التأمين. وإذا كانت الاستمارة رقمية فأكملاها معاً أيضاً وفق التعليمات الواردة في التطبيق.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -51,7 +51,7 @@
         },
         {
             "numara": 4,
-            "soru": "أي إضاءة لازم تستعمل السيارة المسحوبة (بالسحب)؟",
+            "soru": "ما الإضاءة التي يجب أن تستخدمها السيارة المجرورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/4.jpg",
             "cevaplar": [
                 "الإشارات الرباعية.",
@@ -60,7 +60,7 @@
             ],
             "dogruCevap": "الإشارات الرباعية.",
             "feedback": {
-                "metin": "إذا سيارتك عم تنسحب بسبب عطل، لازم تشغل الإشارات الرباعية لتنبه باقي السير. فيك تستعملها بحالة خطر قريب.",
+                "metin": "إذا اضطرت سيارتك إلى السحب بسبب عطل فشغّل أضواء الخطر لتحذير مستخدمي الطريق الآخرين. يجوز استخدام أضواء الخطر في حالات الخطر الوشيك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -68,7 +68,7 @@
         },
         {
             "numara": 5,
-            "soru": "لازم تطفي ضو الضباب الأمامي إذا في سيارة جاية مقابلك؟",
+            "soru": "هل يجب تخفيف مصابيح الضباب الأمامية عند مواجهة حركة مرور قادمة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/5.jpg",
             "cevaplar": [
                 "إي.",
@@ -76,7 +76,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "ضو الضباب الأمامي بيضوي أبيض أو أصفر وبكون موجه لتحت، وما بيعمي السواقين التانيين. فما في داعي تطفيه. ضو الضباب الخلفي بيسطع دغري وبيعمي بسرعة، ومسموح بس إذا الرؤية أقل من 50 متر بالضباب أو التلج.",
+                "metin": "مصابيح الضباب الأمامية تُصدر ضوءاً أبيض أو أصفر وتسطع نحو الأسفل بزاوية مائلة. ولا تتسبب مصابيح الضباب الأمامية المعتمدة في إبهار المركبات القادمة من الاتجاه المعاكس فلا يلزمك تخفيضها. أما مصابيح الضباب الخلفية فتسطع مباشرةً نحو الخلف وتُبهر بسرعة أكبر، ولذا لا يجوز استخدامها إلا عند رؤية أقل من 50 متراً بسبب الضباب أو الثلج.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -84,7 +84,7 @@
         },
         {
             "numara": 6,
-            "soru": "مسموح ينقل ركاب بالكرفانة وهي ماشية؟",
+            "soru": "هل يمكن نقل ركاب داخل عربة متنقلة أثناء القيادة؟",
             "resim": "",
             "cevaplar": [
                 "بس إذا في أحزمة.",
@@ -93,7 +93,7 @@
             ],
             "dogruCevap": "لأ، ممنوع أي حدا يركب.",
             "feedback": {
-                "metin": "ممنوع ينقل ركاب بالكرفانة أو المقطورة وهي ماشية.",
+                "metin": "يُحظر نقل الركاب داخل الكارافان أو المقطورة أثناء القيادة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -101,7 +101,7 @@
         },
         {
             "numara": 7,
-            "soru": "شو أقل مسافة أمان لازم تحافظ عليها بسرعة 100 كم/س؟",
+            "soru": "ما الحد الأدنى لمسافة الأمان عند سرعة 100 كم/ساعة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/7.jpg",
             "cevaplar": [
                 "2 ثانية.",
@@ -110,7 +110,7 @@
             ],
             "dogruCevap": "2 ثانية.",
             "feedback": {
-                "metin": "بأي سرعة، لازم تحافظ على مسافة أمان لا تقل عن ثانيتين إذا الطريق والجو منيح. بسرعة 100 كم/س يعني تقريباً 55 متر. بسرعة 50 كم/س بتكون حوالي 27.5 متر.",
+                "metin": "بصرف النظر عن سرعتك يجب دائماً الحفاظ على مسافة أمان لا تقل عن ثانيتَين في ظروف الطريق والطقس الجيدة. وعند السرعات الأعلى تكون هذه المسافة أطول تلقائياً بالأمتار لأنك تقطع مسافة أكبر في الثانية. فعند سرعة 100 كم/ساعة تقطع نحو 27.5 متراً في الثانية أي نحو 55 متراً في ثانيتَين، وعند 50 كم/ساعة تكون هذه المسافة نحو 27.5 متراً في ثانيتَين.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -118,7 +118,7 @@
         },
         {
             "numara": 10,
-            "soru": "شو معنى هالمبة التحذير؟",
+            "soru": "ما معنى هذا المصباح التحذيري؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/10.jpg",
             "cevaplar": [
                 "حرارة المحرك عالية.",
@@ -127,7 +127,7 @@
             ],
             "dogruCevap": "حرارة المحرك عالية.",
             "feedback": {
-                "metin": "هالمبة معناها حرارة المحرك ارتفعت. غالباً المي قليلة. لازم توقف فوراً وتعالج المشكلة. إذا كملت، ممكن تخرب الماكينة كلها.",
+                "metin": "تشير هذه اللمبة التحذيرية إلى ارتفاع درجة حرارة المحرك مما قد يعني انخفاض مستوى سائل التبريد وعدم كفاءة التبريد. أوقف فوراً لمعالجة المشكلة، فالاستمرار في القيادة قد يُسبّب أضراراً جسيمة للمحرك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -135,7 +135,7 @@
         },
         {
             "numara": 11,
-            "soru": "أي أضوية لازم تستعمل هون؟",
+            "soru": "أي إضاءة يجب استخدامها هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/11.jpg",
             "cevaplar": [
                 "أضوية النهار.",
@@ -144,7 +144,7 @@
             ],
             "dogruCevap": "الواطي.",
             "feedback": {
-                "metin": "إذا الرؤية ضعيفة (مثل بالغابة)، لازم تشغل الواطي مشان باقي السير يشوفك. ضو النهار بيكفي أحياناً، بس مشكلته إنه ما بيشغل الأضوية الخلفية دايماً.",
+                "metin": "عند تراجع الرؤية كما في المناطق الحرجية استخدم الأضواء الخافتة لتكون مرئياً لمستخدمي الطريق الآخرين. وأضواء النهار تؤدي هذه الوظيفة أيضاً، غير أن الأضواء الخلفية لا تُشعَل تلقائياً مع أضواء النهار في جميع الأحوال بينما تُشعَل مع الأضواء الخافتة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -152,7 +152,7 @@
         },
         {
             "numara": 12,
-            "soru": "السائس (سائق العربة) بينحسب سائق؟",
+            "soru": "هل يندرج مقود الحصان ضمن فئة السائقين؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/12.jpg",
             "cevaplar": [
                 "إي.",
@@ -160,7 +160,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "السائس أو اللي بدفش عربة يد بينحسب سائق. كمان اللي بيقود خيل أو مواشي بينحسب سائق.",
+                "metin": "عربة الخيل (koetsier) ودافع العربة اليدوية يندرجان ضمن فئة السائقين، وكذلك مُدرِّبو الخيول والماشية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -168,7 +168,7 @@
         },
         {
             "numara": 13,
-            "soru": "بأي حالة لازم تعطي الأولوية للمشاة؟",
+            "soru": "في أي موقف يجب إعطاء الأولوية للمشاة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/13.jpg",
             "cevaplar": [
                 "بس بالحالة A.",
@@ -178,7 +178,7 @@
             ],
             "dogruCevap": "بالحالتين A و B.",
             "feedback": {
-                "metin": "إشارة الوقوف بتعني إنه السيارة لازم تعطي أولوية لكل السواقين بالطريق المتقاطع. هالشي ما إلو علاقة بالمشاة. بس القاعدة بتقول: \"السير المستقيم إلو أولوية عاللي عم يلف\". بما إنه المشاة ماشيين دغري والسيارة عم تلف، لازم المشاة يقطعوا بالأول بالحالتين.",
+                "metin": "لافتة التوقف تُلزم السيارة بإعطاء الأولوية لجميع السائقين على الطريق المتقاطع، ولا تُنظّم أولوية المشاة السائرين على نفس الطريق. وتبقى قاعدة أولوية المرور المستمر على المنعطف سارية، فبما أن المشاة يواصل المسير مستقيماً والسيارة تنعطف فيحق للمشاة المرور أولاً في كلا الحالتَين.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -186,7 +186,7 @@
         },
         {
             "numara": 15,
-            "soru": "مسموح تركن هون؟",
+            "soru": "هل يُسمح لك بالوقوف هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/15.jpg",
             "cevaplar": [
                 "إي.",
@@ -194,7 +194,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "إشارة E-1 معناها ممنوع الركن بهالطرف من الشارع. بس اللوحة اللي تحتها مخصصه للشاحنات. يعني انت بسيارتك مسموح تركن.",
+                "metin": "تعني لافتة E-1 حظر الوقوف على هذا الجانب من الطريق، غير أن اللافتة السفلية تُحدّد أن الحظر يسري على الشاحنات فقط، فيجوز لك الوقوف هنا.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -202,7 +202,7 @@
         },
         {
             "numara": 16,
-            "soru": "مسموح تحط مادة عاللوحة (النمرة) تمنع الكاميرات من قراءتها؟",
+            "soru": "هل يُسمح لك بوضع مادة على لوحة أرقامك تمنع توثيقها بأنظمة مراقبة السرعة الآلية؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/16.jpg",
             "cevaplar": [
                 "إي.",
@@ -210,7 +210,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "ممنوع تخلي اللوحة غير واضحة أو غير مقروءة.",
+                "metin": "يُحظر جعل لوحة التسجيل غير مقروءة أو غير مرئية بأي طريقة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -218,7 +218,7 @@
         },
         {
             "numara": 17,
-            "soru": "مسموح تسوق أسرع من 30 كم/س هون؟",
+            "soru": "هل يُسمح لك بالقيادة بسرعة تزيد عن 30 كم/ساعة هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/17.jpg",
             "cevaplar": [
                 "إي.",
@@ -226,7 +226,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "هاي الإشارة معناها \"سرعة مفضلة\" مو إلزامية. من الأفضل تلتزم فيها لأنها موجودة لسبب، بس مو ممنوع تمشي أسرع إذا الوضع آمن.",
+                "metin": "هذه اللافتة تشير فقط إلى سرعة موصى بها. من الحكمة الالتزام بها لأنها موضوعة لسبب وجيه، لكن القيادة بسرعة أعلى إذا كانت آمنة غير محظورة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -234,7 +234,7 @@
         },
         {
             "numara": 18,
-            "soru": "شو الخطر بهالوضع؟",
+            "soru": "ما الخطر هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/18.jpg",
             "cevaplar": [
                 "إنك ما تشوف الإشارة لما تصير خضرا.",
@@ -243,7 +243,7 @@
             ],
             "dogruCevap": "الشاحنة ممكن ترجع لتحت وتصدمك.",
             "feedback": {
-                "metin": "إذا وقفت قريب كتير ورا شاحنة على طلعة، في احتمال ترجع لتحت وتصدمك. الأفضل تخلي مسافة كافية مشان الأمان وكمان إذا تعطلت الشاحنة تقدر تتجاوز. السائق كمان ما بيشوفك إذا كنت قريب. باقي الاحتمالات ما فيها خطر مباشر.",
+                "metin": "إذا سرت بهذا القرب خلف شاحنة على منحدر صاعد فثمة خطر أن تتدحرج الشاحنة نحو مركبتك قبل تحرّكها. من الحكمة دائماً الحفاظ على مسافة كافية من المركبة أمامك حتى عند التوقف، لا تحسباً لتدحرجها فحسب بل أيضاً لتتمكن من تجاوزها في حال تعطّلها. علاوةً على ذلك لا يمكن لسائق الشاحنة رؤيتك في هذا الوضع. وعدم قدرتك على رؤية الإشارة الضوئية لا يُشكّل خطراً، وعوادم الشاحنة لا تتجه بطريقة تؤثر عليك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -251,7 +251,7 @@
         },
         {
             "numara": 20,
-            "soru": "امتى لازم تعطي غماز يمين هون؟",
+            "soru": "متى يجب أن تشير إلى اليمين هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/20.jpg",
             "cevaplar": [
                 "قبل الدوار بوقت.",
@@ -260,7 +260,7 @@
             ],
             "dogruCevap": "قبل الدوار بوقت.",
             "feedback": {
-                "metin": "إذا ناوي تاخد يمين بالدوار، لازم تعطي غماز يمين من قبل ما تدخل، مشان باقي السواقين يعرفوا نيتك.",
+                "metin": "إذا كنت تقترب من دوار وتنوي الانعطاف يميناً فأضئ إشارة اليمين مبكراً قبل الدخول إلى الدوار لإتاحة المجال للسائقين الآخرين للتأهب، لا سيما السائقين القادمين من المخرج الأول.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -268,7 +268,7 @@
         },
         {
             "numara": 21,
-            "soru": "فيك توقف سيارتك هون لتفرغ طرد بسرعة؟",
+            "soru": "هل يمكنك إيقاف سيارتك هنا لتفريغ طرد بسرعة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/21.jpg",
             "cevaplar": [
                 "إي.",
@@ -276,7 +276,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "الركن المزدوج (تركين جنب سيارة) ممنوع. بس فيك توقف شوي لتفريغ أو تحميل غراض أو نزّل/طلّع ركاب. ما بصير تستعمل الإشارات الرباعية بهالحالة لأن مسموحة بس للطوارئ. شرط ما تسبب خطر أو عرقلة.",
+                "metin": "لا يجوز إيقاف سيارتك على مسار الطريق بجانب مركبة أخرى في ما يُعرف بالوقوف المزدوج. غير أنه يجوز التوقف لحظةً لتحميل البضائع أو تفريغها أو إنزال الركاب وصعودهم. لا يجوز تشغيل أضواء الخطر في هذه الحالة لأنها مخصصة للطوارئ فقط. كما لا يجوز تعريض حركة المرور للعرقلة أو الخطر دون داعٍ.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -284,7 +284,7 @@
         },
         {
             "numara": 22,
-            "soru": "لازم السواق يلتزم بكل تعليمات شرطي المرور المدرسي (اللي ماسك العصاية المدورة)؟",
+            "soru": "هل يجب على السائقين اتباع جميع تعليمات عون المرور المعترف به عند ممر المشاة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/22.jpg",
             "cevaplar": [
                 "لأ، بيقدروا بس يوقفوا السيارات.",
@@ -293,7 +293,7 @@
             ],
             "dogruCevap": "لأ، بيقدروا بس يوقفوا السيارات.",
             "feedback": {
-                "metin": "الأشخاص المسؤولين عن قطع المشاة (المصرّح لهم) عندهم شروط خاصة، لازم يكونوا معيّنين من رئيس البلدية وبأماكن محددة. وظيفتهم يوقفوا السيارات فقط. ما بيقدروا يوجّهوا السواقين لشوارع تانية أو يعطوا تعليمات للمشاة.",
+                "metin": "مسؤولو المرور المعتمدون والمُعرَّف عنهم لا يُمنحون الصلاحية إلا باستيفاء جملة من الشروط، كأن يكونوا مُعيَّنين من قِبَل رئيس البلدية وأن تكون اختصاصاتهم محددة زماناً ومكاناً. صلاحيتهم مقصورة على إيقاف المركبات دون توجيه السائقين إلى شوارع أخرى أو إعطاء تعليمات للمشاة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -301,7 +301,7 @@
         },
         {
             "numara": 23,
-            "soru": "مسموح تسوق بحمولة طالعة متر من قدام السيارة؟",
+            "soru": "هل يُسمح لك بالقيادة مع حمولة تبرز متراً واحداً من الأمام؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/23.jpg",
             "cevaplar": [
                 "إي.",
@@ -309,7 +309,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "إذا الحمولة غير قابلة للتقسيم، ممكن تطلع متر من قدام. كمان مسموح متر من ورا، وبحد أقصى 5 متر من نص محور العجل الخلفي.",
+                "metin": "هذا الحمل غير قابل للتقسيم في الطول مما يعني جواز بروزه متراً واحداً من الأمام، وكذلك متراً واحداً من الخلف لا أكثر من 5 أمتار من مركز المحور الخلفي.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -317,7 +317,7 @@
         },
         {
             "numara": 24,
-            "soru": "لازم تعطي الأولوية للمشاة؟",
+            "soru": "هل يجب إعطاء الأولوية للمشاة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/24.jpg",
             "cevaplar": [
                 "إي.",
@@ -325,7 +325,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "إذا ناوي تلف، لازم تعطي الأولوية للي ماشي دغري بنفس الطريق، وهالشي بيشمل المشاة كمان.",
+                "metin": "عند الانعطاف يجب دائماً إعطاء الأولوية للمرور المستمر على نفس الطريق بما في ذلك المشاة.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -333,7 +333,7 @@
         },
         {
             "numara": 27,
-            "soru": "بلشت تركن الساعة 1:40 الظهر. كيف بتضبط ساعة القرص (الباركنغ ديسك)؟",
+            "soru": "بدأت الوقوف الساعة 1:40 ظهراً. كيف تضبط قرص الوقوف؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/27.jpg",
             "cevaplar": [
                 "عالساعة 3:40، وقت المغادرة الأقصى.",
@@ -342,7 +342,7 @@
             ],
             "dogruCevap": "عالساعة 2:00، الوقت المدور للأعلى.",
             "feedback": {
-                "metin": "بمناطق الباركنغ المميزة بخط أزرق، لازم تضبط القرص على وقت ركنك. فيك تدوّر للقدام نص ساعة بالكتير مشان السهولة. بهالحالة لازم تحطها عالساعة 2:00.",
+                "metin": "عند الوقوف بجانب الخط الأزرق في منطقة قرص الوقوف يجب ضبط قرص الوقوف على وقت بدء الوقوف، ويجوز تقريب الوقت بحد أقصى نصف ساعة لتيسير الضبط. وفي هذه الحالة تضبط القرص على الساعة 2:00 مساءً وهي الساعة الكاملة التالية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -350,7 +350,7 @@
         },
         {
             "numara": 29,
-            "soru": "كيف لازم تركّب كرسي الأطفال (للأعمار 0+) بالسيارة؟",
+            "soru": "كيف تثبّت مقعد الرضيع (للفئة العمرية 0+) على مقعد السيارة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/29.jpg",
             "cevaplar": [
                 "بعكس اتجاه السير ومع الإرباغ شغّال.",
@@ -359,7 +359,7 @@
             ],
             "dogruCevap": "بعكس اتجاه السير ومع الإرباغ مطفي.",
             "feedback": {
-                "metin": "الأطفال الصغار لازم ينقلوهم بكرسي أطفال مثبّت بعكس اتجاه السير ليحمي الراس بالحادث. لازم الإرباغ (الأيرباغ) يكون مطفي بهالحالة.",
+                "metin": "يجب نقل الرضّع في مقعد أمان مثبَّت في الاتجاه المعاكس لاتجاه السير لتوفير دعم جيد للرأس عند التصادم. ويجب دائماً تعطيل الوسادة الهوائية عند استخدام هذه المقاعد.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -367,7 +367,7 @@
         },
         {
             "numara": 30,
-            "soru": "فيك تسوق 100 كم/س هون؟",
+            "soru": "هل يمكنك القيادة بسرعة 100 كم/ساعة هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/30.jpg",
             "cevaplar": [
                 "إي.",
@@ -375,7 +375,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "الإشارة معناها نهاية السرعة المفضلة. بالطرق العادية برا المناطق العمرانية السرعة القصوى 80 كم/س إلا إذا في لوحات بتقول غير هيك.",
+                "metin": "أنت تمر على لافتة نهاية حد السرعة الموصى به. وعلى الطرق العادية خارج المناطق المبنية يسري حد سرعة 80 كم/ساعة ما لم تشر اللافتات إلى غير ذلك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -383,7 +383,7 @@
         },
         {
             "numara": 31,
-            "soru": "واقف بمكان صح لتلف يسار؟",
+            "soru": "هل أنت في الوضع الصحيح للانعطاف يساراً؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/31.jpg",
             "cevaplar": [
                 "إي.",
@@ -391,7 +391,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "عم تسوق بشارع باتجاه واحد ومسكر من الجهة التانية. لازم توقف بأقصى يسار الطريق لتلف.",
+                "metin": "أنت تسير على طريق ذي اتجاه واحد كامل مغلق أمام جميع المركبات من الجانب الآخر، فيجب الانتظار المسبق في أقصى اليسار من مسار الطريق.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -399,7 +399,7 @@
         },
         {
             "numara": 34,
-            "soru": "إذا انمسكت مرة تانية وأنت شارب وسايق، في عقوبات زيادة؟",
+            "soru": "إذا ضُبطت مجدداً تقود تحت تأثير الكحول، هل تنطبق عليك عواقب إضافية؟",
             "resim": "",
             "cevaplar": [
                 "إي.",
@@ -407,7 +407,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "إذا انمسكت بتهمة القيادة تحت تأثير الكحول بتنحكم عادة بحرمان من القيادة لسنين. إذا تكررت، العقوبة بتصير أكبر وبيمددوا فترة الحرمان.",
+                "metin": "إذا ثبت تورطك في قيادة تحت تأثير الكحول فستتعرض لعقوبة، وعادةً ما تكون إيقاف رخصة القيادة لعدد من السنوات. وإذا ضُبطت مجدداً فقد تُمدَّد مدة الإيقاف.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -415,7 +415,7 @@
         },
         {
             "numara": 35,
-            "soru": "شو لازم تعمل إذا ضو الزيت ضوى؟",
+            "soru": "ماذا يجب أن تفعل إذا أضاء هذا المصباح؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/35.jpg",
             "cevaplar": [
                 "توقف فوراً وتفحص الزيت.",
@@ -424,7 +424,7 @@
             ],
             "dogruCevap": "توقف فوراً وتفحص الزيت.",
             "feedback": {
-                "metin": "إذا هالضو ضوى، معناته في مشكلة بضغط الزيت. لازم توقف فوراً، إذا كملت ممكن يخرب الموتور كلو. إذا الوضع آمن افحص الزيت، وإذا مكان خطير (مثل الأوتوستراد) اتصل بخدمة الطوارئ.",
+                "metin": "إذا أضاءت هذه اللمبة فيجب التوقف فوراً لأنها تدل على خلل في ضغط الزيت، والاستمرار في القيادة يُعرّض المحرك للتلف الكامل. افحص الزيت بنفسك إذا كان ذلك آمناً، وإذا كان وضعك خطيراً كالوقوف على كتف الطريق فاتصل بخدمة المساعدة على الطريق.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -432,7 +432,7 @@
         },
         {
             "numara": 36,
-            "soru": "لازم تعطي أولوية للترام اللي عم يلف؟",
+            "soru": "هل يجب إعطاء الأولوية للترام وهو ينعطف؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/36.jpg",
             "cevaplar": [
                 "إي.",
@@ -440,7 +440,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "الترام مربوط بسكة وما عنده مرونة بالمناورة، لذلك إله أولوية دايماً إلا إذا انت على طريق رئيسي وهو مو.",
+                "metin": "الترام مرتبط بمسار ثابت وأقل مرونةً في التنقل لذا تسري عليه قواعد خاصة. يجب إعطاء الأولوية للترام بصرف النظر عن جهة قدومه إلا إذا كنت على طريق ذي أولوية والترام ليس كذلك.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -448,7 +448,7 @@
         },
         {
             "numara": 37,
-            "soru": "امتى فيك تكمّل سيرك؟",
+            "soru": "متى يُسمح لك بمواصلة القيادة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/37.jpg",
             "cevaplar": [
                 "لما يطفي الضوء الأحمر.",
@@ -457,7 +457,7 @@
             ],
             "dogruCevap": "لما يطفي الضوء الأحمر.",
             "feedback": {
-                "metin": "تقاطع السكة محمي. وقت يجي القطار، الضوء الأحمر بيشتغل، الجرس بيرن، والحاجز بينزل. بعد مرور القطار، الحاجز بيطلع وبعدين بيطفي الضوء الأحمر، وقتها مسموح تكمل.",
+                "metin": "تقاطع السكة الحديدية هذا مؤمَّن. عند اقتراب قطار تُضيء الأضواء الحمراء ويُدق الجرس وتنزل الحواجز، وعند انزول الحواجز يتوقف الجرس. بعد مرور القطار ترتفع الحواجز ثم تنطفئ الأضواء الحمراء ويجوز مواصلة السير.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -465,7 +465,7 @@
         },
         {
             "numara": 38,
-            "soru": "الطول المسموح فيه لسيارة مع مقطورة قديش؟",
+            "soru": "ما الطول المسموح به لسيارة ركاب مع مقطورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/38.jpg",
             "cevaplar": [
                 "16.50 متر.",
@@ -474,7 +474,7 @@
             ],
             "dogruCevap": "18.00 متر.",
             "feedback": {
-                "metin": "سيارة الركاب مع مقطورة أو كارافان ما لازم يكون طولها أكتر من 18 متر.",
+                "metin": "يجب ألا يتجاوز طول سيارة الركاب مع المقطورة أو الكارافان 18 متراً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -482,7 +482,7 @@
         },
         {
             "numara": 40,
-            "soru": "فيك تسوق إذا المراية اليسار مكسورة؟",
+            "soru": "هل يُسمح لك بالقيادة مع عطل في المرآة الجانبية اليسرى؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/40.jpg",
             "cevaplar": [
                 "لأ، أي مراية ما لازم تكون معطلة.",
@@ -491,7 +491,7 @@
             ],
             "dogruCevap": "لأ، أي مراية ما لازم تكون معطلة.",
             "feedback": {
-                "metin": "السيارة لازم يكون فيها مراية يسار ويمين وداخلية (خلفية) شغّالين وما فيهم ضرر.",
+                "metin": "يجب أن تكون سيارات الركاب مزوّدة بمرآتَين جانبيتَين يمنى ويسرى سليمتَين وغير تالفتَين ومرآة داخلية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -499,7 +499,7 @@
         },
         {
             "numara": 43,
-            "soru": "فيك تغيّر وقت الوصول على قرص التوقف؟",
+            "soru": "هل يُسمح بإعادة ضبط وقت الوصول؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/43.jpg",
             "cevaplar": [
                 "إي.",
@@ -507,7 +507,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "استعمال قرص التوقف إلزامي بمناطق الباركنغ الخاصة. لازم تحط القرص واضح بالسيارة عشان المراقبة تشوف. الوقت اللي بتحطه هو ساعة وصولك، وما بصير تعدّل عليه.",
+                "metin": "استخدام قرص الوقوف إلزامي عند الوقوف في مناطق قرص الوقوف وفي المناطق المُعلَّمة بخط أزرق. يجب وضع القرص بشكل مرئي في مركبتك بحيث يتمكن عناصر مراقبة الوقوف من رؤيته. دوّن وقت الوصول على القرص فور وصولك ويجوز لك الوقوف بالمدة المُشار إليها على اللافتات. ويُحظر تغيير وقت الوصول.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -515,7 +515,7 @@
         },
         {
             "numara": 44,
-            "soru": "فيك تتجاوز الـ \"برووم موبيل\" هون؟",
+            "soru": "هل يُسمح لك بتجاوز السيارة الصغيرة ذات المحرك (Brommobiel) هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/44.jpg",
             "cevaplar": [
                 "إي.",
@@ -523,7 +523,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "هاي الإشارة معناها ممنوع المركبات تتجاوز بعضها. البرووم موبيل لازم يلتزم بنفس القاعدة، يعني ممنوع يتجاوز أو ينجاوز هون.",
+                "metin": "تعني هذه اللافتة حظر تجاوز المركبات الآلية لبعضها. وعلى الرغم من أن البرومبيل (brommobiel) لا يُصنَّف مركبةً آليةً فهو ملزم باتباع نفس القواعد، ولذا لا يجوز له التجاوز على هذا الطريق ولا يجوز تجاوزه.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -531,7 +531,7 @@
         },
         {
             "numara": 45,
-            "soru": "لازم تتوقع إنو سائق الـ \"سنورفيتس\" يفوت عالطريق؟",
+            "soru": "هل تتوقع أن يدخل راكب الدراجة البخارية الصغيرة (Snorfiets) مسار السير؟",
             "resim": "",
             "cevaplar": [
                 "إي.",
@@ -539,7 +539,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "الإشارة D-104 بتفرجي وين لازم السكوترات يدخلوا عالطريق، جوّا وبرّا المناطق. بس الـ \"سنورفيتس\" اللي قدامك بيكمل عمسار البسكليت، ما رح يفوت دغري عالطريق.",
+                "metin": "تشير لافتة D-104 إلى نقطة دخول راكبي الـ moped إلى مسار الطريق داخل المناطق المبنية وخارجها. وراكب الـ snorfiets أمامك يجوز له الاستمرار على مسار الدراجات الهوائية فلن يدخل مسار الطريق تلقائياً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -547,7 +547,7 @@
         },
         {
             "numara": 46,
-            "soru": "فيك تسوق هون؟",
+            "soru": "هل يمكنك القيادة هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/46.jpg",
             "cevaplar": [
                 "إي.",
@@ -555,7 +555,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "إشارة C1 معناها ممنوع الدخول لكافة المركبات. بس اللوحة التحتانية مخصصة للشاحنات والباصات فقط. يعني سيارات الركاب مسموح إلها.",
+                "metin": "تشير لافتة C-1 إلى إغلاق الطريق في كلا الاتجاهَين أمام المركبات وقائدي الحيوانات الجارّة والماشية. واللافتة السفلية تُحدّد أن الإغلاق يسري في هذه الحالة على الشاحنات والحافلات فقط، فيجوز للسيارات الخاصة السير هنا.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -563,7 +563,7 @@
         },
         {
             "numara": 47,
-            "soru": "فيهم المشاة يمشوا هون؟",
+            "soru": "هل يُسمح لهؤلاء المشاة بالسير هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/47.jpg",
             "cevaplar": [
                 "إي، بيقدروا يستعملوا كل عرض الطريق.",
@@ -572,7 +572,7 @@
             ],
             "dogruCevap": "إي، بيقدروا يستعملوا كل عرض الطريق.",
             "feedback": {
-                "metin": "بالمناطق السكنية الخاصة (erfs) المشاة مسموح لهم يستعملوا كل الطريق. صح الأفضل يضلوا عالطرف، بس مو إلزامي.",
+                "metin": "يجوز للمشاة داخل منطقة السكن (erf) استخدام العرض الكامل للطريق، فيحق لهم السير بهذه الطريقة. ومن المفضَّل أن يلتزموا بالجانب غير أنه غير إلزامي.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -580,7 +580,7 @@
         },
         {
             "numara": 48,
-            "soru": "لازم تعطي أولوية لركاب الترام اللي نازلين؟",
+            "soru": "هل يجب إعطاء الأولوية لركاب الترام النازلين منه؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/48.jpg",
             "cevaplar": [
                 "إي.",
@@ -588,7 +588,7 @@
             ],
             "dogruCevap": "لأ.",
             "feedback": {
-                "metin": "إذا الركاب نزلوا عرصيف مخصص ما لازم تعطيهم أولوية. بس إذا ما في رصيف، وقتها لازم تعطي.",
+                "metin": "لا يتعين عليك إعطاء الأولوية لركاب الترام النازلين على رصيف أو منطقة صعود مخصصة. أما في غياب هذا الرصيف أو المنطقة فيجب إعطاؤهم الأولوية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -596,7 +596,7 @@
         },
         {
             "numara": 49,
-            "soru": "شو الأفضل تعمله بطريق طلوع حاد؟",
+            "soru": "ما أفضل تصرف على منحدر حاد؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/49.jpg",
             "cevaplar": [
                 "تعلي الغيار.",
@@ -605,7 +605,7 @@
             ],
             "dogruCevap": "توطي الغيار.",
             "feedback": {
-                "metin": "إذا الطلعة شديدة، نزّل لغيار أوطى. عدد دورات أعلى للموتور بيعطي قوة شد أكبر وبيسهل الطلوع.",
+                "metin": "إذا أردت صعود منحدر شديد فمن الحكمة تخفيض نسبة التعشيق إلى درجة أدنى، إذ تعمل قوة سحب المحرك بكفاءة أعلى عند ارتفاع عدد الدورات في الدقيقة مما يُيسّر صعود المنحدر.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -613,7 +613,7 @@
         },
         {
             "numara": 50,
-            "soru": "لازم تفسح مجال للشاحنة لتندمج؟",
+            "soru": "هل يجب إتاحة الفرصة للشاحنة للاندماج في الخروج؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/50.jpg",
             "cevaplar": [
                 "إي.",
@@ -621,7 +621,7 @@
             ],
             "dogruCevap": "إي.",
             "feedback": {
-                "metin": "التجاوز من اليمين مسموح بس إذا بيحسّن انسياب السير. إذا تجاوزت هون، الشاحنة رح تضطر تضل عالطريق الرئيسي مدة أطول وهذا ما بيحسن الانسياب.",
+                "metin": "يجوز التجاوز من يمين التحديد الأرضي فقط إذا أدى ذلك إلى تحسين انسيابية المرور. وفي هذه الحالة إذا تجاوزت من اليمين فستضطر الشاحنة إلى البقاء على المسار الرئيسي لفترة أطول مما لا يُحسّن الانسيابية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

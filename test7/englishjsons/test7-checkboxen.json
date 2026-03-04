@@ -1,28 +1,28 @@
 {
-  "sorular": [
-    {
-      "numara": 14,
-      "soru": "Which drivers are not to be expected on the carriageway here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
-      "cevaplar": [
-        "Moped riders.",
-        "Snorfietsers.",
-        "Brommobiel  drivers.",
-        "Speed pedelec riders.",
-        "Cyclists."
-      ],
-      "dogruCevap": [
-        "Moped riders.",
-        "Snorfietsers.",
-        "Speed pedelec riders.",
-        "Cyclists."
-      ],
-      "feedback": {
-        "metin": "Next to the carriageway lies a mandatory cycle/moped path. This means that cyclists, snorfietsers and moped and speed pedelec riders are obligated to use the cycle/moped path instead of the carriageway. Only brommobiel drivers are not allowed on this path. So you should expect brommobiel drivers on the carriageway.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 14,
+            "soru": "Which drivers are not to be expected on the carriageway here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
+            "cevaplar": [
+                "Moped riders.",
+                "Snorfietsers.",
+                "Brommobiel  drivers.",
+                "Speed pedelec riders.",
+                "Cyclists."
+            ],
+            "dogruCevap": [
+                "Moped riders.",
+                "Snorfietsers.",
+                "Speed pedelec riders.",
+                "Cyclists."
+            ],
+            "feedback": {
+                "metin": "Next to the carriageway lies a mandatory cycle/moped path. This means that cyclists, snorfietsers and moped and speed pedelec riders are obligated to use the cycle/moped path instead of the carriageway. Only brommobiel drivers are not allowed on this path. So you should expect brommobiel drivers on the carriageway.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

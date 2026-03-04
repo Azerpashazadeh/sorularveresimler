@@ -2,7 +2,7 @@
     "sorular": [
         {
             "numara": 1,
-            "soru": "أي من هالسيارات تعتبر مركبات طوارئ (ذات أولوية)؟",
+            "soru": "أي من هذه المركبات تُعدّ مركبات طوارئ ذات أولوية؟",
             "resim": "",
             "cevaplar": [
                 "مركبة تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat) مع إشارات ضوئية وصوتية.",
@@ -17,7 +17,7 @@
                 "Ambulance with optical and sound signals."
             ],
             "feedback": {
-                "metin": "فقط المركبات اللي بتستخدم إشارات ضوئية (زرقاء) وإشارات صوتية تعتبر مركبات طوارئ (ذات أولوية). هالشي بيشمل سيارات الشرطة، سيارات الإطفاء، سيارات الإسعاف، وكمان مركبات تابعة لدائرة المياه والأشغال العامة (Rijkswaterstaat). أي مركبة بتستخدم إشارات ضوئية زرقاء وزمور ثنائي النغمة تعتبر مركبة طوارئ وقت بتستخدم هالإشارات. المركبات اللي فيها أضواء صفراء وامضة ما بتعتبر مركبات طوارئ، وكمان الترام أو مركبات القوافل العسكرية ما بينحسبوا، رغم إنه في إلهم أحيانا أولوية خاصة.",
+                "metin": "مركبات الطوارئ ذات الأولوية هي فقط تلك المزودة بإشارات ضوئية (زرقاء) وصوتية. تشمل سيارات الشرطة وسيارات الإطفاء والإسعاف وكذلك مركبات هيئة المياه والأشغال العامة (Rijkswaterstaat). كل مركبة مرخصة باستخدام الإشارات الضوئية الزرقاء والصفارة ثنائية النبرة تُعدّ مركبة طوارئ ذات أولوية فور استخدامها هذه الإشارات. أما المركبات ذات الأضواء الصفراء الوامضة فليست مركبات طوارئ. كذلك الترامات ومركبات الموكب العسكري رغم تمتعها بحقوق خاصة في الأولوية.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -25,7 +25,7 @@
         },
         {
             "numara": 42,
-            "soru": "مين من السائقين مسموحلك تتجاوزهم بعد هالشاخصة؟",
+            "soru": "أي فئة من السائقين يُسمح لك بتجاوزها بعد هذه العلامة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test45/42.jpg",
             "cevaplar": [
                 "سائقي المركبات الزراعية.",
@@ -42,7 +42,7 @@
                 "Motorcyclists."
             ],
             "feedback": {
-                "metin": "هالشاخصة بتمنع سائقي الشاحنات من تجاوز المركبات التانية. يعني هالقانون ما بينطبق عليك، وإنت فيك تتجاوز كل المركبات طالما الوضع آمن. حتى الشاحنات مسموحلك تتجاوزها.",
+                "metin": "تشير هذه اللافتة إلى حظر تجاوز سائقي الشاحنات للمركبات الآلية الأخرى. وهذا يعني أن اللافتة لا تنطبق عليك. يُسمح لك بتجاوز جميع المركبات بما فيها الشاحنات، طالما كان ذلك آمناً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
@@ -50,7 +50,7 @@
         },
         {
             "numara": 43,
-            "soru": "هالشاخصة لمين من السائقين بتطبق؟",
+            "soru": "لأي فئة من السائقين تنطبق هذه العلامة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test45/43.jpg",
             "cevaplar": [
                 "سائقي الدراجات النارية مع عربة جانبية.",
@@ -65,7 +65,7 @@
                 "Brommobiel  drivers."
             ],
             "feedback": {
-                "metin": "الشاخصة C-6 معناها ممنوع مرور كل المركبات اللي فيها أكتر من دولابين. هالشي بيشمل السيارات، الدراجات النارية مع عربات جانبية، الشاحنات، الباصات، وكمان مركبات الـ Brommobiel. رغم إن الـ Brommobiel مو مصنفة كمركبة بمحرك، إلا إنها بتتبع نفس القوانين.",
+                "metin": "تشير لافتة C-6 إلى إغلاق الطريق أمام جميع المركبات الآلية ذات أكثر من عجلتَين. يشمل ذلك السيارات والدراجات النارية المزودة بعربة جانبية والشاحنات والحافلات وكذلك البرومّوبيلن (brommobiel)، التي تخضع لقواعد المركبات الآلية رغم أنها ليست مركبات آلية تقنياً.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

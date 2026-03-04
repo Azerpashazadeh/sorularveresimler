@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 11,
-      "soru": "What affects the stopping distance?",
-      "resim": "",
-      "cevaplar": [
-        "The braking distance.",
-        "The thinking time.",
-        "The initial speed of travel.",
-        "The weather conditions.",
-        "The following distance."
-      ],
-      "dogruCevap": [
-        "The braking distance.",
-        "The thinking time.",
-        "The initial speed of travel.",
-        "The weather conditions."
-      ],
-      "feedback": {
-        "metin": "The stopping distance is the distance traveled between observing and standing still completely. This includes the thinking distance and the braking distance. Almost all given factors will affect the thinking or braking distance. Only the following distance has no effect on the stopping distance. It is the other way around: To determine the following distance, you should take the stopping distance into account.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "What is always prohibited on an autoweg?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test32/19.jpg",
-      "cevaplar": [
-        "Overtaking.",
-        "Driving slower than 50 km/h.",
-        "Parking on the verge.",
-        "Reversing.",
-        "Make a u-turn."
-      ],
-      "dogruCevap": [
-        "Parking on the verge.",
-        "Reversing.",
-        "Make a u-turn."
-      ],
-      "feedback": {
-        "metin": "On an autoweg, it is always prohibited to make a u-turn, reverse and stop or park on the verge. Driving slower than 50 km/h is not prohibited unless you cause danger or inconvenience. However, your vehicle must be able and allowed to drive at least 50 km/h to use the autoweg. Overtaking is permitted at a broken axis line, provided this can be done safely and there are no signs prohibiting it.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 11,
+            "soru": "What affects the stopping distance?",
+            "resim": "",
+            "cevaplar": [
+                "The braking distance.",
+                "The thinking time.",
+                "The initial speed of travel.",
+                "The weather conditions.",
+                "The following distance."
+            ],
+            "dogruCevap": [
+                "The braking distance.",
+                "The thinking time.",
+                "The initial speed of travel.",
+                "The weather conditions."
+            ],
+            "feedback": {
+                "metin": "The stopping distance is the distance traveled between observing and standing still completely. This includes the thinking distance and the braking distance. Almost all given factors will affect the thinking or braking distance. Only the following distance has no effect on the stopping distance. It is the other way around: To determine the following distance, you should take the stopping distance into account.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "What is always prohibited on an autoweg?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test32/19.jpg",
+            "cevaplar": [
+                "Overtaking.",
+                "Driving slower than 50 km/h.",
+                "Parking on the verge.",
+                "Reversing.",
+                "Make a u-turn."
+            ],
+            "dogruCevap": [
+                "Parking on the verge.",
+                "Reversing.",
+                "Make a u-turn."
+            ],
+            "feedback": {
+                "metin": "On an autoweg, it is always prohibited to make a u-turn, reverse and stop or park on the verge. Driving slower than 50 km/h is not prohibited unless you cause danger or inconvenience. However, your vehicle must be able and allowed to drive at least 50 km/h to use the autoweg. Overtaking is permitted at a broken axis line, provided this can be done safely and there are no signs prohibiting it.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

@@ -1,25 +1,25 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "Which vehicles do fall under the category motor carriages, but do not fall under the category motor vehicles?",
-      "resim": "",
-      "cevaplar": [
-        "Tram.",
-        "Tractor.",
-        "Motorised disabled vehicles.",
-        "Moped."
-      ],
-      "dogruCevap": [
-        "Motorised disabled vehicles.",
-        "Moped."
-      ],
-      "feedback": {
-        "metin": "The only vehicles that do fall under the category motor carriages but do not fall under the category motor vehicles, are mopeds and motorised disabled vehicles.\nAll other vehicles fall under both categories, or neither.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "Which vehicles do fall under the category motor carriages, but do not fall under the category motor vehicles?",
+            "resim": "",
+            "cevaplar": [
+                "Tram.",
+                "Tractor.",
+                "Motorised disabled vehicles.",
+                "Moped."
+            ],
+            "dogruCevap": [
+                "Motorised disabled vehicles.",
+                "Moped."
+            ],
+            "feedback": {
+                "metin": "The only vehicles that do fall under the category motor carriages but do not fall under the category motor vehicles, are mopeds and motorised disabled vehicles.\nAll other vehicles fall under both categories, or neither.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

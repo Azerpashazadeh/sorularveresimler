@@ -1,49 +1,49 @@
 {
-  "sorular": [
-    {
-      "numara": 7,
-      "soru": "What are you not allowed to do while your driving licence is suspended?",
-      "resim": "",
-      "cevaplar": [
-        "Take a driving lesson.",
-        "Take a driving exam.",
-        "Riding a speed pedelec.",
-        "Riding a bicycle."
-      ],
-      "dogruCevap": [
-        "Take a driving lesson.",
-        "Take a driving exam.",
-        "Riding a speed pedelec."
-      ],
-      "feedback": {
-        "metin": "During a driving licence suspension (also called a driving disqualification), driving a motor carriage is prohibited. It does not matter in what way. You are therefore not allowed to take a driving lesson or a driving exam. A speed pedelec is also a motor carriage, so riding a speed pedelec is also not allowed. However, you are allowed to ride a bicycle.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 11,
-      "soru": "What lighting are you allowed to use?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test42/11.jpg",
-      "cevaplar": [
-        "Front fog lights in combination with dipped headlights.",
-        "Front fog lights in combination with sidelights.",
-        "Rear fog light.",
-        "Dipped headlights.",
-        "Full-beam headlights."
-      ],
-      "dogruCevap": [
-        "Front fog lights in combination with dipped headlights.",
-        "Front fog lights in combination with sidelights.",
-        "Dipped headlights."
-      ],
-      "feedback": {
-        "metin": "Visibility is obscured by the fog. You can still see at least 100 metres, because the next hectometre sign is still visible. In that case you may use dipped headlights, both with or without front fog lights. You can also combine front fog lights with sidelights instead of dipped headlights. Full-beam headlights are not allowed during daytime. Rear fog lights are also not permitted. This is only allowed if the visibility is less than 50 meters.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 7,
+            "soru": "What are you not allowed to do while your driving licence is suspended?",
+            "resim": "",
+            "cevaplar": [
+                "Take a driving lesson.",
+                "Take a driving exam.",
+                "Riding a speed pedelec.",
+                "Riding a bicycle."
+            ],
+            "dogruCevap": [
+                "Take a driving lesson.",
+                "Take a driving exam.",
+                "Riding a speed pedelec."
+            ],
+            "feedback": {
+                "metin": "During a driving licence suspension (also called a driving disqualification), driving a motor carriage is prohibited. It does not matter in what way. You are therefore not allowed to take a driving lesson or a driving exam. A speed pedelec is also a motor carriage, so riding a speed pedelec is also not allowed. However, you are allowed to ride a bicycle.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 11,
+            "soru": "What lighting are you allowed to use?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test42/11.jpg",
+            "cevaplar": [
+                "Front fog lights in combination with dipped headlights.",
+                "Front fog lights in combination with sidelights.",
+                "Rear fog light.",
+                "Dipped headlights.",
+                "Full-beam headlights."
+            ],
+            "dogruCevap": [
+                "Front fog lights in combination with dipped headlights.",
+                "Front fog lights in combination with sidelights.",
+                "Dipped headlights."
+            ],
+            "feedback": {
+                "metin": "Visibility is obscured by the fog. You can still see at least 100 metres, because the next hectometre sign is still visible. In that case you may use dipped headlights, both with or without front fog lights. You can also combine front fog lights with sidelights instead of dipped headlights. Full-beam headlights are not allowed during daytime. Rear fog lights are also not permitted. This is only allowed if the visibility is less than 50 meters.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

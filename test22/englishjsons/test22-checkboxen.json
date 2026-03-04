@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 22,
-      "soru": "Who are allowed to use the rightmost lane here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test22/22.jpg",
-      "cevaplar": [
-        "Public bus drivers.",
-        "Passenger car drivers.",
-        "Emergency vehicle drivers.",
-        "Lorry drivers.",
-        "Coach drivers."
-      ],
-      "dogruCevap": [
-        "Public bus drivers.",
-        "Emergency vehicle drivers.",
-        "Coach drivers."
-      ],
-      "feedback": {
-        "metin": "The electronic matrix sign above the rightmost lane indicates that this lane may only be used by bus drivers. These include public bus drivers and coach drivers. Drivers of emergency vehicles are also allowed to use target group lanes, so they are also allowed to drive here. Drivers of passenger cars and lorries are not allowed to use the rightmost lane here.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 22,
+            "soru": "Who are allowed to use the rightmost lane here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test22/22.jpg",
+            "cevaplar": [
+                "Public bus drivers.",
+                "Passenger car drivers.",
+                "Emergency vehicle drivers.",
+                "Lorry drivers.",
+                "Coach drivers."
+            ],
+            "dogruCevap": [
+                "Public bus drivers.",
+                "Emergency vehicle drivers.",
+                "Coach drivers."
+            ],
+            "feedback": {
+                "metin": "The electronic matrix sign above the rightmost lane indicates that this lane may only be used by bus drivers. These include public bus drivers and coach drivers. Drivers of emergency vehicles are also allowed to use target group lanes, so they are also allowed to drive here. Drivers of passenger cars and lorries are not allowed to use the rightmost lane here.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

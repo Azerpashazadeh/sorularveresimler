@@ -1,48 +1,48 @@
 {
-  "sorular": [
-    {
-      "numara": 28,
-      "soru": "What is allowed here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/28.jpg",
-      "cevaplar": [
-        "Waiting for a passenger to arrive.",
-        "Parking with a disabled parking card.",
-        "Dropping off a passenger.",
-        "Making a short phone call.",
-        "Unloading of a heavy package."
-      ],
-      "dogruCevap": [
-        "Dropping off a passenger.",
-        "Unloading of a heavy package."
-      ],
-      "feedback": {
-        "metin": "This sign indicates a space for loading and unloading. You may stand still here to load or unload goods of a considerable weight or size. You may also drop off or pick up a passenger here. But it is not allowed to park here. So making a short phone call and waiting for a passenger to arrive is not allowed, for this is all considered parking. Parking with a disabled parking card is also not allowed. This is allowed at a E-1 sign (for a maximum of 3 hours), but not at a space for loading and unloading.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "Which drivers are you allowed to overtake after this sign?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/33.jpg",
-      "cevaplar": [
-        "Cyclists.",
-        "Drivers of agricultural vehicles.",
-        "Moped riders.",
-        "Drivers of lorries.",
-        "Motorcyclists."
-      ],
-      "dogruCevap": [
-        "Cyclists.",
-        "Moped riders."
-      ],
-      "feedback": {
-        "metin": "This sign indicates a prohibition for motorvehicles to overtake each other. It means you are not allowed to overtake any motor vehicles. Cyclists and moped riders do not fall under this category, and may be overtaken. Beware, brommobielen should be treated as motor vehicles, and are not allowed to be overtaken here.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 28,
+            "soru": "What is allowed here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/28.jpg",
+            "cevaplar": [
+                "Waiting for a passenger to arrive.",
+                "Parking with a disabled parking card.",
+                "Dropping off a passenger.",
+                "Making a short phone call.",
+                "Unloading of a heavy package."
+            ],
+            "dogruCevap": [
+                "Dropping off a passenger.",
+                "Unloading of a heavy package."
+            ],
+            "feedback": {
+                "metin": "This sign indicates a space for loading and unloading. You may stand still here to load or unload goods of a considerable weight or size. You may also drop off or pick up a passenger here. But it is not allowed to park here. So making a short phone call and waiting for a passenger to arrive is not allowed, for this is all considered parking. Parking with a disabled parking card is also not allowed. This is allowed at a E-1 sign (for a maximum of 3 hours), but not at a space for loading and unloading.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "Which drivers are you allowed to overtake after this sign?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test40/33.jpg",
+            "cevaplar": [
+                "Cyclists.",
+                "Drivers of agricultural vehicles.",
+                "Moped riders.",
+                "Drivers of lorries.",
+                "Motorcyclists."
+            ],
+            "dogruCevap": [
+                "Cyclists.",
+                "Moped riders."
+            ],
+            "feedback": {
+                "metin": "This sign indicates a prohibition for motorvehicles to overtake each other. It means you are not allowed to overtake any motor vehicles. Cyclists and moped riders do not fall under this category, and may be overtaken. Beware, brommobielen should be treated as motor vehicles, and are not allowed to be overtaken here.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

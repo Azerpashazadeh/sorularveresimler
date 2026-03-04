@@ -1,63 +1,63 @@
 {
-  "sorular": [
-    {
-      "numara": 18,
-      "soru": "Aracınız ve römorkunuz birlikte 8 metre uzunluğunda. Hangi durumda bu şekilde sürmeye devam etmenize izin verilir?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "Sağ üst ve sağ alt durumlarda doğru pozisyonda sürüyorsunuz. Sol üst durumda ise üç şeridin en solundasınız. Eğer aracınız ve römorktan oluşan kombinasyon 7 metreden uzunsa, yalnızca en sağdaki iki şeridi kullanmanıza izin verilir. Sol alt durumdaysa, yeterince sağda kalmıyorsunuz. Bu durumda yoğun saatler şeridini kullanmanız gerekir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 19,
-      "soru": "Hangi durumda karşıdan gelen araca öncelik vermelisiniz?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "Sol üst, sağ üst ve sol alt durumlarda karşıdan gelen araca yol vermelisiniz. Eğer trafik lambası yuvarlak şekilde yanıyorsa ve siz sola dönmek istiyorsanız, karşıdan gelen trafik de sizinle aynı anda yeşil ışıkta olabilir ve \"aynı yolda düz giden araç, dönüş yapan araca göre önceliklidir\" kuralı geçerli olur (sağ üst durum). Trafik ışıkları çalışmıyorsa da bu kural geçerlidir (her iki sol durum). Sadece trafik lambası yeşil ok gösteriyorsa, karşıdan gelen trafiğe yol vermek zorunda olmadığınızdan emin olabilirsiniz (sağ alt durum).",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 22,
-      "soru": "Hangi trafik işareti tek yönlü bir yolu belirtir?",
-      "secenekler": [
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/",
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "dogruCevap": [
-        "https://azerpashazadeh.github.io/sorularveresimler/"
-      ],
-      "feedback": {
-        "metin": "C-4 trafik işareti, tek yönlü yolu gösterir. Bu işaret genellikle bir T-kavşağında yan yolun karşısına yerleştirilir ve ana yolda tek yönlü trafik olduğunu belirtir. D-4 işareti: belirli bir yönde seyretme zorunluluğu anlamına gelirken, C-1 işareti yolun kapalı olduğunu belirtir.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 18,
+            "soru": "Aracınız ve römorkunuz birlikte 8 metre uzunluğunda. Hangi durumda bu şekilde sürmeye devam etmenize izin verilir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "feedback": {
+                "metin": "Sağ üst ve sağ alt durumlarda doğru pozisyonda sürüyorsunuz. Sol üst durumda ise üç şeridin en solundasınız. Eğer aracınız ve römorktan oluşan kombinasyon 7 metreden uzunsa, yalnızca en sağdaki iki şeridi kullanmanıza izin verilir. Sol alt durumdaysa, yeterince sağda kalmıyorsunuz. Bu durumda yoğun saatler şeridini kullanmanız gerekir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 19,
+            "soru": "Hangi durumda karşıdan gelen araca öncelik vermelisiniz?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "feedback": {
+                "metin": "Sol üst, sağ üst ve sol alt durumlarda karşıdan gelen araca yol vermelisiniz. Eğer trafik lambası yuvarlak şekilde yanıyorsa ve siz sola dönmek istiyorsanız, karşıdan gelen trafik de sizinle aynı anda yeşil ışıkta olabilir ve \"aynı yolda düz giden araç, dönüş yapan araca göre önceliklidir\" kuralı geçerli olur (sağ üst durum). Trafik ışıkları çalışmıyorsa da bu kural geçerlidir (her iki sol durum). Sadece trafik lambası yeşil ok gösteriyorsa, karşıdan gelen trafiğe yol vermek zorunda olmadığınızdan emin olabilirsiniz (sağ alt durum).",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 22,
+            "soru": "Hangi trafik işareti tek yönlü bir yolu belirtir?",
+            "secenekler": [
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/",
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "dogruCevap": [
+                "https://azerpashazadeh.github.io/sorularveresimler/"
+            ],
+            "feedback": {
+                "metin": "C-4 trafik işareti, tek yönlü yolu gösterir. Bu işaret genellikle bir T-kavşağında yan yolun karşısına yerleştirilir ve ana yolda tek yönlü trafik olduğunu belirtir. D-4 işareti: belirli bir yönde seyretme zorunluluğu anlamına gelirken, C-1 işareti yolun kapalı olduğunu belirtir.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

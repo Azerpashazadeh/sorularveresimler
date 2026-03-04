@@ -1,27 +1,27 @@
 {
-  "sorular": [
-    {
-      "numara": 37,
-      "soru": "Hangi araçlar motorlu taşıt kategorisine girer?",
-      "resim": "",
-      "cevaplar": [
-        "Motosiklet.",
-        "Traktör.",
-        "Binek otomobil.",
-        "Moped.",
-        "Tramvay."
-      ],
-      "dogruCevap": [
-        "Motosiklet.",
-        "Traktör.",
-        "Binek otomobil."
-      ],
-      "feedback": {
-        "metin": "Motorlu taşıtlar, ray üzerinde hareket eden araçlar (tren, metro, tramvay), mopetler ve engelli araçları dışındaki tüm motorlu araçlardır.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 37,
+            "soru": "Hangi araçlar motorlu taşıt kategorisine girer?",
+            "resim": "",
+            "cevaplar": [
+                "Motosiklet.",
+                "Traktör.",
+                "Binek otomobil.",
+                "Moped.",
+                "Tramvay."
+            ],
+            "dogruCevap": [
+                "Motosiklet.",
+                "Traktör.",
+                "Binek otomobil."
+            ],
+            "feedback": {
+                "metin": "Motorlu taşıtlar, ray üzerinde hareket eden araçlar (tren, metro, tramvay), mopetler ve engelli araçları dışındaki tüm motorlu araçlardır.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }

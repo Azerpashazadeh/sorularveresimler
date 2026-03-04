@@ -1,51 +1,51 @@
 {
-  "sorular": [
-    {
-      "numara": 1,
-      "soru": "Which drivers are you allowed to overtake after this sign?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/1.jpg",
-      "cevaplar": [
-        "Motorcyclists.",
-        "Cyclists.",
-        "Drivers of lorries.",
-        "Moped riders.",
-        "Drivers of agricultural vehicles."
-      ],
-      "dogruCevap": [
-        "Motorcyclists.",
-        "Cyclists.",
-        "Drivers of lorries.",
-        "Moped riders.",
-        "Drivers of agricultural vehicles."
-      ],
-      "feedback": {
-        "metin": "This sign indicates a prohibition for lorry drivers to overtake other motor vehicles. This means that this sign does not apply to you. You may overtake all vehicles, as long as it is safe to do so. Even lorries.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    },
-    {
-      "numara": 33,
-      "soru": "In what situations are you allowed to stop here?",
-      "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/33.jpg",
-      "cevaplar": [
-        "To unload a heavy package.",
-        "To ask for directions.",
-        "To reset your navigation.",
-        "To wait for a passenger to arrive.",
-        "To drop off a passenger."
-      ],
-      "dogruCevap": [
-        "To unload a heavy package.",
-        "To drop off a passenger."
-      ],
-      "feedback": {
-        "metin": "Sign E-1 indicates a parking prohibition on that side of the carriageway. You are only allowed to stop here to drop off or pick up a passenger, or to load or unload goods of a considerable weight or size. You are not allowed to stop to ask for directions, to reset your navigation or to wait for a passenger to arrive, for this is all considered parking.",
-        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
-      }
-    }
-  ]
+    "sorular": [
+        {
+            "numara": 1,
+            "soru": "Which drivers are you allowed to overtake after this sign?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/1.jpg",
+            "cevaplar": [
+                "Motorcyclists.",
+                "Cyclists.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Drivers of agricultural vehicles."
+            ],
+            "dogruCevap": [
+                "Motorcyclists.",
+                "Cyclists.",
+                "Drivers of lorries.",
+                "Moped riders.",
+                "Drivers of agricultural vehicles."
+            ],
+            "feedback": {
+                "metin": "This sign indicates a prohibition for lorry drivers to overtake other motor vehicles. This means that this sign does not apply to you. You may overtake all vehicles, as long as it is safe to do so. Even lorries.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        },
+        {
+            "numara": 33,
+            "soru": "In what situations are you allowed to stop here?",
+            "resim": "https://azerpashazadeh.github.io/sorularveresimler/test47/33.jpg",
+            "cevaplar": [
+                "To unload a heavy package.",
+                "To ask for directions.",
+                "To reset your navigation.",
+                "To wait for a passenger to arrive.",
+                "To drop off a passenger."
+            ],
+            "dogruCevap": [
+                "To unload a heavy package.",
+                "To drop off a passenger."
+            ],
+            "feedback": {
+                "metin": "Sign E-1 indicates a parking prohibition on that side of the carriageway. You are only allowed to stop here to drop off or pick up a passenger, or to load or unload goods of a considerable weight or size. You are not allowed to stop to ask for directions, to reset your navigation or to wait for a passenger to arrive, for this is all considered parking.",
+                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+            }
+        }
+    ]
 }
