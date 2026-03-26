@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install FFmpeg
-        run: sudo apt-get install -y ffmpeg
+        run: sudo apt-get install -y --fix-missing ffmpeg
 
       - name: Compress all MP4 videos
         run: |
