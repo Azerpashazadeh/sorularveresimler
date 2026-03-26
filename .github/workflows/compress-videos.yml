@@ -14,7 +14,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install FFmpeg
-        run: sudo apt-get install -y --fix-missing ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg || sudo snap install ffmpeg
 
       - name: Compress all MP4 videos
         run: |
@@ -28,11 +30,11 @@ jobs:
                   echo "Processing: $video"
                   tmpfile="${video%.mp4}_tmp.mp4"
 
-                  # Check if file is readable by ffprobe
+                  # Bozuk dosya kontrolü
                   if ! ffprobe -v error -select_streams v -show_entries stream=codec_type \
                       -of default=noprint_wrappers=1 "$video" 2>/dev/null | grep -q "codec_type=video"; then
-                    echo "❌ CORRUPTED (no valid video stream): $video"
-                    FAILED_FILES+=("$video — no valid video stream")
+                    echo "❌ BOZUK (geçerli video stream yok): $video"
+                    FAILED_FILES+=("$video — geçerli video stream yok (bozuk dosya)")
                     continue
                   fi
 
@@ -46,12 +48,12 @@ jobs:
 
                   if [ -f "$tmpfile" ] && [ -s "$tmpfile" ]; then
                     mv "$tmpfile" "$video"
-                    echo "✅ Done: $video"
+                    echo "✅ Tamam: $video"
                     SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
                   else
                     rm -f "$tmpfile"
-                    echo "❌ FAILED (ffmpeg error): $video"
-                    FAILED_FILES+=("$video — ffmpeg compression failed")
+                    echo "❌ BAŞARISIZ (ffmpeg hatası): $video"
+                    FAILED_FILES+=("$video — ffmpeg sıkıştırma başarısız")
                   fi
                 fi
               done
@@ -60,27 +62,29 @@ jobs:
 
           echo ""
           echo "=============================="
-          echo "✅ Compressed: $SUCCESS_COUNT files"
-          echo "❌ Failed: ${#FAILED_FILES[@]} files"
+          echo "✅ Sıkıştırıldı: $SUCCESS_COUNT dosya"
+          echo "❌ Hatalı: ${#FAILED_FILES[@]} dosya"
           echo "=============================="
 
+          echo "## 📊 Video Sıkıştırma Raporu" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Başarıyla sıkıştırıldı:** $SUCCESS_COUNT dosya" >> $GITHUB_STEP_SUMMARY
+          echo "❌ **Hatalı / Bozuk:** ${#FAILED_FILES[@]} dosya" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
           if [ ${#FAILED_FILES[@]} -gt 0 ]; then
-            echo ""
             echo "## ❌ Hatalı / Bozuk Dosyalar" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             for f in "${FAILED_FILES[@]}"; do
               echo "- \`$f\`" >> $GITHUB_STEP_SUMMARY
-              echo "  - $f"
+              echo "  ❌ $f"
             done
-            echo "" >> $GITHUB_STEP_SUMMARY
           fi
-
-          echo "## ✅ Başarıyla Sıkıştırıldı: $SUCCESS_COUNT dosya" >> $GITHUB_STEP_SUMMARY
 
       - name: Commit and push compressed videos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "chore: compress videos with FFmpeg H.265"
+          git diff --cached --quiet || git commit -m "chore: compress videos with FFmpeg H.265 480p"
           git push
