@@ -19,11 +19,33 @@ jobs:
           import re
 
           ARABIC_RANGE = re.compile(r'[\u0600-\u06FF]')
-          SKIP_KEYS = {"resim", "dogruCevapResim", "yanlisCevapResim", "cevaplanmamisResim"}
-          report = []
+
+          # Atlanacak JSON key'leri
+          SKIP_KEYS = {
+              "resim", "dogruCevapResim", "yanlisCevapResim", "cevaplanmamisResim"
+          }
+
+          # Atlanacak sabit değerler (dragdrop yapısal kelimeleri)
+          SKIP_VALUES = {
+              "box", "target",
+              "dragger1", "dragger2", "dragger3", "dragger4", "dragger5",
+              "target1", "target2", "target3", "target4", "target5",
+              "1", "2", "3", "4", "5",
+          }
+
+          # Yüzde değeri mi? (örn. "84.4444%", "1.7857%")
+          PERCENT_RE = re.compile(r'^\d+(\.\d+)?%$')
 
           def is_url(text):
               return text.strip().startswith("http")
+
+          def is_structural(text):
+              t = text.strip()
+              if t in SKIP_VALUES:
+                  return True
+              if PERCENT_RE.match(t):
+                  return True
+              return False
 
           def has_arabic(text):
               return bool(ARABIC_RANGE.search(text))
@@ -33,6 +55,8 @@ jobs:
                   if is_url(value):
                       return
                   if value.strip() == "":
+                      return
+                  if is_structural(value):
                       return
                   if not has_arabic(value):
                       issues.append(f"  - Soru #{soru_no} → {path}: \"{value}\"")
@@ -44,6 +68,8 @@ jobs:
                       if k in SKIP_KEYS:
                           continue
                       check_value(v, f"{path}.{k}", soru_no, issues)
+
+          report = []
 
           for test_dir in sorted(os.listdir(".")):
               if not re.match(r"^test\d+$", test_dir):
@@ -75,10 +101,10 @@ jobs:
                       report.append(f"\n📄 {filepath}")
                       report.extend(file_issues)
 
-          # Özet
+          # Konsol çıktısı
           print("=" * 60)
           if report:
-              print(f"⚠️  İngilizce metin bulunan Arapça dosyalar:\n")
+              print("⚠️  İngilizce metin bulunan Arapça dosyalar:\n")
               print("\n".join(report))
           else:
               print("✅ Hiçbir Arapça dosyada İngilizce metin bulunamadı.")
