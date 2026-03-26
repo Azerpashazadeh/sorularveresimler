@@ -38,9 +38,9 @@ jobs:
 
                   ffmpeg -i "$video" \
                     -c:v libx265 \
-                    -crf 23 \
+                    -crf 28 \
                     -preset medium \
-                    -vf "scale=1280:720" \
+                    -vf "scale=854:480" \
                     -an \
                     "$tmpfile" -y 2>/dev/null
 
