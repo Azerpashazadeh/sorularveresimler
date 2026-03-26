@@ -1,0 +1,98 @@
+name: Check Arabic JSON Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Check Arabic JSON files for English text
+        run: |
+          python3 << 'EOF'
+          import os
+          import json
+          import re
+
+          ARABIC_RANGE = re.compile(r'[\u0600-\u06FF]')
+          SKIP_KEYS = {"resim", "dogruCevapResim", "yanlisCevapResim", "cevaplanmamisResim"}
+          report = []
+
+          def is_url(text):
+              return text.strip().startswith("http")
+
+          def has_arabic(text):
+              return bool(ARABIC_RANGE.search(text))
+
+          def check_value(value, path, soru_no, issues):
+              if isinstance(value, str):
+                  if is_url(value):
+                      return
+                  if value.strip() == "":
+                      return
+                  if not has_arabic(value):
+                      issues.append(f"  - Soru #{soru_no} → {path}: \"{value}\"")
+              elif isinstance(value, list):
+                  for i, item in enumerate(value):
+                      check_value(item, f"{path}[{i}]", soru_no, issues)
+              elif isinstance(value, dict):
+                  for k, v in value.items():
+                      if k in SKIP_KEYS:
+                          continue
+                      check_value(v, f"{path}.{k}", soru_no, issues)
+
+          for test_dir in sorted(os.listdir(".")):
+              if not re.match(r"^test\d+$", test_dir):
+                  continue
+              arabic_dir = os.path.join(test_dir, "arabicjsons")
+              if not os.path.isdir(arabic_dir):
+                  continue
+              for filename in sorted(os.listdir(arabic_dir)):
+                  if not filename.endswith("ar.json"):
+                      continue
+                  filepath = os.path.join(arabic_dir, filename)
+                  try:
+                      with open(filepath, "r", encoding="utf-8") as f:
+                          data = json.load(f)
+                  except Exception as e:
+                      report.append(f"\n❌ OKUNAMADI: {filepath} → {e}")
+                      continue
+
+                  sorular = data.get("sorular", [])
+                  file_issues = []
+                  for soru in sorular:
+                      soru_no = soru.get("numara", "?")
+                      for key, val in soru.items():
+                          if key in SKIP_KEYS:
+                              continue
+                          check_value(val, key, soru_no, file_issues)
+
+                  if file_issues:
+                      report.append(f"\n📄 {filepath}")
+                      report.extend(file_issues)
+
+          # Özet
+          print("=" * 60)
+          if report:
+              print(f"⚠️  İngilizce metin bulunan Arapça dosyalar:\n")
+              print("\n".join(report))
+          else:
+              print("✅ Hiçbir Arapça dosyada İngilizce metin bulunamadı.")
+          print("=" * 60)
+
+          # GitHub Summary
+          summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+          if summary_path:
+              with open(summary_path, "w", encoding="utf-8") as f:
+                  if report:
+                      f.write("## ⚠️ İngilizce Metin Bulunan Arapça Dosyalar\n\n")
+                      f.write("```\n")
+                      f.write("\n".join(report))
+                      f.write("\n```\n")
+                  else:
+                      f.write("## ✅ Tüm Arapça dosyalar temiz!\n")
+          EOF
