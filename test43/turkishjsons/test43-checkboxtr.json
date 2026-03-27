@@ -12,8 +12,8 @@
                 "Bir yolcuyu indirmek istediğinizde."
             ],
             "dogruCevap": [
-                "When you want to pick up a hitchhiker.",
-                "When you want to drop off a passenger."
+                "Otostopçu almak istediğinizde.",
+                "Bir yolcuyu indirmek istediğinizde."
             ],
             "feedback": {
                 "metin": "Bir otobüs durağında yalnızca yolcu indirmek veya almak amacıyla durmanıza izin verilir. Bu, otostopçuyu almak da dahil olmak üzere geçerlidir. Ancak ağır bir paketi indirmek, yol tarifi sormak veya navigasyonu sıfırlamak amacıyla durmak yasaktır.",
@@ -34,9 +34,9 @@
                 "Binek otomobil."
             ],
             "dogruCevap": [
-                "Tractor.",
-                "Motorcycle.",
-                "Passenger car."
+                "Traktör.",
+                "Motosiklet.",
+                "Binek otomobil."
             ],
             "feedback": {
                 "metin": "Motorlu araçlar, raylı sistem kullanan araçlar (tren, metro, tramvay), mopedler ve engelli araçları hariç tüm motorlu taşıtlardır.",
@@ -56,10 +56,10 @@
                 "Bisikletliler."
             ],
             "dogruCevap": [
-                "Pedestrians.",
-                "Moped riders.",
-                "Motor vehicle drivers.",
-                "Cyclists."
+                "Yayalar.",
+                "Moped sürücüleri.",
+                "Motorlu araç sürücüleri.",
+                "Bisikletliler."
             ],
             "feedback": {
                 "metin": "Bir çıkış yapısından (exit constructie) çıkarken tüm diğer yol kullanıcılarına yol vermek zorundasınız. Bu sadece tüm sürücüleri değil, aynı zamanda yayaları da kapsar.",
