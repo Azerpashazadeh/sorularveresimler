@@ -13,8 +13,8 @@
                 "Voertuig van een militair konvooi."
             ],
             "dogruCevap": [
-                "Vehicle of the Dept. of waterways and public works (Rijkswaterstaat) with optical and sound signals.",
-                "Ambulance with optical and sound signals."
+                "Voertuig van Rijkswaterstaat met optische en geluidssignalen.",
+                "Ambulance met optische en geluidssignalen."
             ],
             "feedback": {
                 "metin": "Alleen voertuigen met (blauwe) optische signalen en geluidssignalen zijn voorrangsvoertuigen. Dit omvat politievoertuigen, brandweerwagens, ambulances, maar ook voertuigen van Rijkswaterstaat. Elk voertuig dat gebruik mag maken van blauwe zwaailichten en een tweetonige hoorn is een voorrangsvoertuig zodra deze signalen worden gebruikt. Voertuigen met gele knipperlichten zijn geen voorrangsvoertuigen. Trams of voertuigen van een militair konvooi zijn dit ook niet, ondanks dat zij bijzondere voorrangsrechten hebben.",
@@ -35,11 +35,11 @@
                 "Motorrijders."
             ],
             "dogruCevap": [
-                "Drivers of agricultural vehicles.",
-                "Drivers of lorries.",
-                "Moped riders.",
-                "Cyclists.",
-                "Motorcyclists."
+                "Bestuurders van landbouwvoertuigen.",
+                "Vrachtwagenbestuurders.",
+                "Bromfietsers.",
+                "Fietsers.",
+                "Motorrijders."
             ],
             "feedback": {
                 "metin": "Dit bord geeft een inhaalverbod aan voor vrachtwagens ten opzichte van andere motorvoertuigen. Dit verbod geldt dus niet voor u. U mag alle voertuigen inhalen, mits dit veilig kan. Ook vrachtwagens.",
@@ -60,12 +60,12 @@
                 "Bestuurders van tweewielige motorfietsen."
             ],
             "dogruCevap": [
-                "Drivers of motorcycles with a sidecar.",
-                "Lorry drivers.",
-                "Brommobiel  drivers."
+                "Bestuurders van motorfietsen met zijspan.",
+                "Vrachtwagenbestuurders.",
+                "Bestuurders van een brommobiel."
             ],
             "feedback": {
-                "metin": "Bord C-6 geeft een geslotenverklaring aan voor alle motorvoertuigen op meer dan twee wielen. Dit geldt naast personenauto’s ook voor motorfietsen met zijspan, vrachtwagens, bussen, maar ook voor brommobielen. Deze laatste vallen onder de regels voor motorvoertuigen, ook al zijn zij dat strikt genomen niet.",
+                "metin": "Bord C-6 geeft een geslotenverklaring aan voor alle motorvoertuigen op meer dan twee wielen. Dit geldt naast personenauto's ook voor motorfietsen met zijspan, vrachtwagens, bussen, maar ook voor brommobielen. Deze laatste vallen onder de regels voor motorvoertuigen, ook al zijn zij dat strikt genomen niet.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
