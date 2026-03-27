@@ -1,0 +1,50 @@
+name: Count resimdensech JSON Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Find and report resimdensech files
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+
+          found_files = []
+
+          for test_dir in sorted(os.listdir("."), key=lambda x: int(re.search(r'\d+', x).group()) if re.search(r'\d+', x) else 0):
+              if not re.match(r"^test\d+$", test_dir):
+                  continue
+              for lang_dir in ["arabicjsons", "dutchjsons", "englishjsons", "turkishjsons"]:
+                  lang_path = os.path.join(test_dir, lang_dir)
+                  if not os.path.isdir(lang_path):
+                      continue
+                  for filename in sorted(os.listdir(lang_path)):
+                      if "resimdensech" in filename and filename.endswith(".json"):
+                          found_files.append(os.path.join(lang_path, filename))
+
+          print("=" * 60)
+          print(f"Toplam 'resimdensech' içeren dosya sayısı: {len(found_files)}")
+          print("=" * 60)
+          for f in found_files:
+              print(f"  📄 {f}")
+
+          summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+          if summary_path:
+              with open(summary_path, "w", encoding="utf-8") as f:
+                  f.write(f"## 📊 'resimdensech' İçeren Dosyalar: {len(found_files)}\n\n")
+                  if found_files:
+                      f.write("```\n")
+                      for ff in found_files:
+                          f.write(f"📄 {ff}\n")
+                      f.write("```\n")
+                  else:
+                      f.write("Hiç 'resimdensech' içeren dosya bulunamadı.\n")
+          EOF
