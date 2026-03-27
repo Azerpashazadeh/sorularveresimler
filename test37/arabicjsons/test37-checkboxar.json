@@ -5,19 +5,19 @@
             "soru": "أي فئة من السائقين يجب توقعها على هذا المسار الخاص بالدراجات الهوائية؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test37/11.jpg",
             "cevaplar": [
-                "Snorfietsers.",
-                "سواقي مركبة لذوي الاحتياجات الخاصة.",
-                "راكبي البسكليت.",
-                "سواقي speed pedelec.",
-                "سواقي الـmoped."
+                "سائقو سنورفيتس.",
+                "سائقو مركبات ذوي الإعاقة.",
+                "راكبو الدراجات الهوائية.",
+                "سائقو سبيد بيديلك.",
+                "سائقو الدراجات النارية الصغيرة (موبيد)."
             ],
             "dogruCevap": [
-                "Snorfietsers.",
-                "Drivers of a disabled vehicle.",
-                "Cyclists."
+                "سائقو سنورفيتس.",
+                "سائقو مركبات ذوي الإعاقة.",
+                "راكبو الدراجات الهوائية."
             ],
             "feedback": {
-                "metin": "إذا كان مسار الدراجات محدداً بخط صلب، فلا يُسمح باستخدامه إلا للدراجين وسائقي السنورفيتس (snorfiets) وسائقي مركبات ذوي الإعاقة. لا يُسمح لسائقي الدراجات النارية الصغيرة (bromfiets) وسائقي دراجات السرعة الكهربائية وسائقي المركبات الآلية باستخدام هذا المسار، ولا حتى للفرز المسبق أو التجاوز.",
+                "metin": "إذا كان مسار الدراجات محدداً بخط صلب، فلا يُسمح باستخدامه إلا للدراجين وسائقي السنورفيتس وسائقي مركبات ذوي الإعاقة. لا يُسمح لسائقي الدراجات النارية الصغيرة (موبيد) وسائقي سبيد بيديلك وسائقي المركبات الآلية باستخدام هذا المسار، ولا حتى للفرز المسبق أو التجاوز.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
