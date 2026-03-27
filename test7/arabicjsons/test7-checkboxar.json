@@ -5,20 +5,20 @@
             "soru": "أي فئة من السائقين غير متوقع تواجدها على الطريق هنا؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test7/14.jpg",
             "cevaplar": [
-                "سواق موبيد.",
-                "سواق snorfiets.",
-                "سواق brommobiel.",
-                "سواق speed pedelec.",
-                "دراجين."
+                "سائقو الدراجات النارية الصغيرة (موبيد).",
+                "سائقو السنورفيتس.",
+                "سائقو البرومّوبيل.",
+                "سائقو سبيد بيديلك.",
+                "راكبو الدراجات الهوائية."
             ],
             "dogruCevap": [
-                "Moped riders.",
-                "Snorfietsers.",
-                "Speed pedelec riders.",
-                "Cyclists."
+                "سائقو الدراجات النارية الصغيرة (موبيد).",
+                "سائقو السنورفيتس.",
+                "سائقو سبيد بيديلك.",
+                "راكبو الدراجات الهوائية."
             ],
             "feedback": {
-                "metin": "بجانب مسار السير يوجد مسار إلزامي للدراجات الهوائية والدراجات البخارية. وهذا يعني أن راكبي الدراجات الهوائية والـ Snorfietsen وراكبي الدراجات البخارية والدراجات الكهربائية السريعة ملزمون باستخدام هذا المسار بدلاً من مسار السير. سائقو الـ Brommobiel فقط غير مسموح لهم باستخدام هذا المسار. لذا يجب توقعهم على مسار السير.",
+                "metin": "بجانب مسار السير يوجد مسار إلزامي للدراجات الهوائية والدراجات البخارية. وهذا يعني أن راكبي الدراجات الهوائية وسائقي السنورفيتس وسائقي الموبيد وسائقي سبيد بيديلك ملزمون باستخدام هذا المسار بدلاً من مسار السير. سائقو البرومّوبيل فقط غير مسموح لهم باستخدام هذا المسار. لذا يجب توقعهم على مسار السير.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
