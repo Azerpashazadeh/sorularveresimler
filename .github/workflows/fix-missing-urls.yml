@@ -28,47 +28,21 @@ jobs:
               "turkishjsons": ("tr", "en"),
           }
 
-          fixed_count = 0
+          total_fixed = 0
           report = []
 
-          def get_all_values(obj, path=""):
-              """JSON'daki tüm string değerlerin path→value haritasını döndür"""
-              result = {}
-              if isinstance(obj, str):
-                  result[path] = obj
-              elif isinstance(obj, list):
-                  for i, item in enumerate(obj):
-                      result.update(get_all_values(item, f"{path}[{i}]"))
-              elif isinstance(obj, dict):
-                  for k, v in obj.items():
-                      result.update(get_all_values(v, f"{path}.{k}" if path else k))
-              return result
-
-          def get_by_path(obj, path):
-              """Path ile JSON değerini oku"""
-              keys = re.split(r'\.|\[(\d+)\]', path)
-              for key in keys:
-                  if key is None or key == "":
-                      continue
-                  if isinstance(obj, list):
-                      obj = obj[int(key)]
-                  elif isinstance(obj, dict):
-                      obj = obj[key]
-              return obj
-
-          def set_by_path(obj, path, value):
-              """Path ile JSON değerini yaz"""
-              parts = re.findall(r'(\w+)|\[(\d+)\]', path)
-              for i, (key, idx) in enumerate(parts[:-1]):
-                  if idx:
-                      obj = obj[int(idx)]
-                  else:
-                      obj = obj[key]
-              last_key, last_idx = parts[-1]
-              if last_idx:
-                  obj[int(last_idx)] = value
-              else:
-                  obj[last_key] = value
+          def fix_value(lang_val, en_val, counters):
+              """Eksik URL'leri İngilizce kaynaktan doldur, değiştirilen sayısını say"""
+              if isinstance(lang_val, str):
+                  if lang_val.strip() == BASE_URL and isinstance(en_val, str) and en_val.strip() != BASE_URL:
+                      counters[0] += 1
+                      return en_val
+                  return lang_val
+              elif isinstance(lang_val, list) and isinstance(en_val, list):
+                  return [fix_value(lv, ev, counters) for lv, ev in zip(lang_val, en_val)]
+              elif isinstance(lang_val, dict) and isinstance(en_val, dict):
+                  return {k: fix_value(lang_val[k], en_val[k], counters) if k in en_val else lang_val[k] for k in lang_val}
+              return lang_val
 
           for test_dir in sorted(os.listdir("."), key=lambda x: int(re.search(r'\d+', x).group()) if re.search(r'\d+', x) else 0):
               if not re.match(r"^test\d+$", test_dir):
@@ -85,7 +59,6 @@ jobs:
                       if not filename.endswith(f"{lang_suffix}.json"):
                           continue
 
-                      # İngilizce karşılığını bul
                       en_filename = filename.replace(f"{lang_suffix}.json", f"{en_suffix}.json")
                       lang_file = os.path.join(lang_path, filename)
                       en_file = os.path.join(en_path, en_filename)
@@ -103,12 +76,11 @@ jobs:
                           report.append(f"❌ OKUNAMADI: {lang_file} → {e}")
                           continue
 
-                      file_fixed = 0
                       sorular = lang_data.get("sorular", [])
                       en_sorular = en_data.get("sorular", [])
-
-                      # Soru numarasına göre İngilizce soruları indexle
                       en_soru_map = {s.get("numara"): s for s in en_sorular}
+
+                      file_fixed = 0
 
                       for soru in sorular:
                           soru_no = soru.get("numara")
@@ -116,67 +88,32 @@ jobs:
                           if not en_soru:
                               continue
 
-                          # Tüm değerleri tara
-                          for key, val in soru.items():
-                              if not isinstance(val, (str, list, dict)):
+                          for key in soru:
+                              if key not in en_soru:
                                   continue
-                              # Bu alan içindeki eksik URL'leri bul ve düzelt
-                              def fix_value(lang_val, en_val, path_hint=""):
-                                  nonlocal file_fixed
-                                  if isinstance(lang_val, str):
-                                      if lang_val.strip() == BASE_URL:
-                                          if isinstance(en_val, str) and en_val.strip() != BASE_URL:
-                                              return en_val, True
-                                      return lang_val, False
-                                  elif isinstance(lang_val, list) and isinstance(en_val, list):
-                                      changed = False
-                                      new_list = []
-                                      for i, (lv, ev) in enumerate(zip(lang_val, en_val)):
-                                          fixed_val, c = fix_value(lv, ev)
-                                          new_list.append(fixed_val)
-                                          if c:
-                                              changed = True
-                                              file_fixed += 1
-                                              report.append(f"  ✅ {lang_file} → Soru #{soru_no} → {key}[{i}] düzeltildi")
-                                      return new_list, changed
-                                  elif isinstance(lang_val, dict) and isinstance(en_val, dict):
-                                      changed = False
-                                      new_dict = dict(lang_val)
-                                      for k in lang_val:
-                                          if k in en_val:
-                                              fixed_val, c = fix_value(lang_val[k], en_val[k])
-                                              new_dict[k] = fixed_val
-                                              if c:
-                                                  changed = True
-                                                  file_fixed += 1
-                                                  report.append(f"  ✅ {lang_file} → Soru #{soru_no} → {key}.{k} düzeltildi")
-                                      return new_dict, changed
-                                  return lang_val, False
-
-                              en_val = en_soru.get(key)
-                              if en_val is not None:
-                                  new_val, changed = fix_value(val, en_val)
-                                  if changed:
-                                      soru[key] = new_val
+                              counters = [0]
+                              new_val = fix_value(soru[key], en_soru[key], counters)
+                              if counters[0] > 0:
+                                  soru[key] = new_val
+                                  file_fixed += counters[0]
+                                  report.append(f"  ✅ Soru #{soru_no} → {key} ({counters[0]} düzeltme)")
 
                       if file_fixed > 0:
                           with open(lang_file, "w", encoding="utf-8") as f:
                               json.dump(lang_data, f, ensure_ascii=False, indent=4)
-                          fixed_count += file_fixed
-                          report.append(f"💾 Kaydedildi: {lang_file} ({file_fixed} düzeltme)")
+                          total_fixed += file_fixed
+                          report.append(f"💾 Kaydedildi: {lang_file} ({file_fixed} düzeltme)\n")
 
-          # Konsol çıktısı
           print("=" * 60)
-          print(f"✅ Toplam düzeltilen URL: {fixed_count}")
+          print(f"✅ Toplam düzeltilen URL: {total_fixed}")
           print("=" * 60)
           if report:
               print("\n".join(report))
 
-          # GitHub Summary
           summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
           if summary_path:
               with open(summary_path, "w", encoding="utf-8") as f:
-                  f.write(f"## ✅ Toplam Düzeltilen URL: {fixed_count}\n\n")
+                  f.write(f"## ✅ Toplam Düzeltilen URL: {total_fixed}\n\n")
                   if report:
                       f.write("```\n")
                       f.write("\n".join(report))
