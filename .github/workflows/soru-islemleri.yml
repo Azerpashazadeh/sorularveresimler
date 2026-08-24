@@ -1,0 +1,54 @@
+name: Soru Islemleri
+
+on:
+  push:
+    paths:
+      - 'operations/pending/*.json'
+
+permissions:
+  contents: write
+
+jobs:
+  apply-question-operations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Git ayarlari
+        run: |
+          git config user.name 'GitHub Action'
+          git config user.email 'action@github.com'
+
+      - name: Bekleyen soru islemlerini uygula
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=(operations/pending/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo 'Bekleyen islem yok.'
+            exit 0
+          fi
+
+          for file in "${files[@]}"; do
+            echo "Isleniyor: $file"
+            python tools/soru_yonet.py "$file"
+            rm "$file"
+          done
+
+      - name: Degisiklikleri kaydet
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'Kaydedilecek degisiklik yok.'
+            exit 0
+          fi
+          git commit -m 'Apply question JSON operation'
+          git push origin main
