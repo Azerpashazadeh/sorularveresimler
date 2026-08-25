@@ -1,0 +1,90 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 1,
+    "patch": {
+      "soru": "What requirement must a motor vehicle meet in order to use a motorway?",
+      "cevaplar": [
+        "It must be capable of and permitted to travel at least 50 km/h.",
+        "It must be capable of and permitted to travel at least 60 km/h.",
+        "It must be capable of and permitted to travel at least 70 km/h."
+      ],
+      "dogruCevap": "It must be capable of and permitted to travel at least 60 km/h.",
+      "feedback": {
+        "metin": "A motorway may only be used by a driver of a motor vehicle that is capable of reaching at least 60 km/h and is legally permitted to travel at that speed. For an autoweg, the corresponding requirement is 50 km/h. This rule concerns whether the vehicle is allowed to use the road; it does not mean that a driver must continuously maintain a speed of at least 60 km/h while on the motorway. The actual driving speed must always be adapted to the applicable speed limit, traffic conditions and road conditions.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 1,
+    "patch": {
+      "soru": "Aan welke voorwaarde moet een motorvoertuig voldoen om van een autosnelweg gebruik te mogen maken?",
+      "cevaplar": [
+        "Het voertuig moet minimaal 50 km/u kunnen en mogen rijden.",
+        "Het voertuig moet minimaal 60 km/u kunnen en mogen rijden.",
+        "Het voertuig moet minimaal 70 km/u kunnen en mogen rijden."
+      ],
+      "dogruCevap": "Het voertuig moet minimaal 60 km/u kunnen en mogen rijden.",
+      "feedback": {
+        "metin": "Een autosnelweg mag alleen worden gebruikt door bestuurders van motorvoertuigen die ten minste 60 km/u kunnen rijden en die deze snelheid volgens de regels ook mogen rijden. Voor een autoweg geldt een overeenkomstige ondergrens van 50 km/u. Deze regel bepaalt of het voertuig van de betreffende weg gebruik mag maken; hij betekent niet dat je op de autosnelweg voortdurend minimaal 60 km/u moet rijden. Je werkelijke snelheid moet steeds worden aangepast aan de geldende maximumsnelheid, het verkeer en de omstandigheden op de weg.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 1,
+    "patch": {
+      "soru": "Bir motorlu taşıtın otoyolu kullanabilmesi için hangi şartı karşılaması gerekir?",
+      "cevaplar": [
+        "En az 50 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
+        "En az 60 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
+        "En az 70 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır."
+      ],
+      "dogruCevap": "En az 60 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
+      "feedback": {
+        "metin": "Bir otoyol, yalnızca en az 60 km/sa hıza ulaşabilen ve mevzuata göre bu hızda kullanılmasına izin verilen motorlu taşıtlarla kullanılabilir. Autoweg için karşılık gelen alt sınır 50 km/sa'dir. Bu kural, aracın söz konusu yolu kullanmaya uygun olup olmadığını belirler; otoyolda sürekli en az 60 km/sa ile gitmek zorunda olduğunuz anlamına gelmez. Gerçek sürüş hızı her zaman geçerli hız sınırına, trafik yoğunluğuna ve yol koşullarına göre ayarlanmalıdır.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 1,
+    "patch": {
+      "soru": "ما الشرط الذي يجب أن تستوفيه المركبة الآلية حتى يُسمح لها باستخدام الطريق السريع (Autosnelweg)؟",
+      "cevaplar": [
+        "يجب أن تكون قادرة ومسموحًا لها بالسير بسرعة لا تقل عن 50 كم/ساعة.",
+        "يجب أن تكون قادرة ومسموحًا لها بالسير بسرعة لا تقل عن 60 كم/ساعة.",
+        "يجب أن تكون قادرة ومسموحًا لها بالسير بسرعة لا تقل عن 70 كم/ساعة."
+      ],
+      "dogruCevap": "يجب أن تكون قادرة ومسموحًا لها بالسير بسرعة لا تقل عن 60 كم/ساعة.",
+      "feedback": {
+        "metin": "لا يجوز استخدام الطريق السريع (Autosnelweg) إلا بمركبة آلية تستطيع بلوغ سرعة لا تقل عن 60 كم/ساعة ويُسمح لها قانونًا بالسير بهذه السرعة. أما على طريق Autoweg فالمتطلب المقابل هو 50 كم/ساعة. ويتعلق هذا الشرط بأهلية المركبة لاستخدام الطريق، ولا يعني وجوب الحفاظ باستمرار على سرعة لا تقل عن 60 كم/ساعة أثناء القيادة على الطريق السريع. ويجب دائمًا تكييف السرعة الفعلية مع الحد الأقصى المسموح به للسرعة ومع كثافة حركة المرور وظروف الطريق.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
