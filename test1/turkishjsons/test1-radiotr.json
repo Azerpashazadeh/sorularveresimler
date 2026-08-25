@@ -2,14 +2,14 @@
     "sorular": [
         {
             "numara": 1,
-            "soru": "Bir motorlu taşıtın otoyolu kullanabilmesi için hangi şartı karşılaması gerekir?",
+            "soru": "Bir motorlu taşıtın otoyolu kullanabilmesi için en az hangi hızı yapabilecek durumda ve bu hızda gitmesine izin verilmiş olması gerekir?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/1.jpg",
             "cevaplar": [
-                "En az 50 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
-                "En az 60 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
-                "En az 70 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır."
+                "En az 50 km/sa.",
+                "En az 60 km/sa.",
+                "En az 70 km/sa."
             ],
-            "dogruCevap": "En az 60 km/sa hız yapabilmeli ve bu hızda kullanılmasına izin verilmiş olmalıdır.",
+            "dogruCevap": "En az 60 km/sa.",
             "feedback": {
                 "metin": "Bir otoyol, yalnızca en az 60 km/sa hıza ulaşabilen ve mevzuata göre bu hızda kullanılmasına izin verilen motorlu taşıtlarla kullanılabilir. Autoweg için karşılık gelen alt sınır 50 km/sa'dir. Bu kural, aracın söz konusu yolu kullanmaya uygun olup olmadığını belirler; otoyolda sürekli en az 60 km/sa ile gitmek zorunda olduğunuz anlamına gelmez. Gerçek sürüş hızı her zaman geçerli hız sınırına, trafik yoğunluğuna ve yol koşullarına göre ayarlanmalıdır.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",

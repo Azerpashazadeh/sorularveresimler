@@ -2,14 +2,14 @@
     "sorular": [
         {
             "numara": 1,
-            "soru": "What requirement must a motor vehicle meet in order to use a motorway?",
+            "soru": "What minimum speed must a motor vehicle be capable of and permitted to travel at to use a motorway?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/1.jpg",
             "cevaplar": [
-                "It must be capable of and permitted to travel at least 50 km/h.",
-                "It must be capable of and permitted to travel at least 60 km/h.",
-                "It must be capable of and permitted to travel at least 70 km/h."
+                "At least 50 km/h.",
+                "At least 60 km/h.",
+                "At least 70 km/h."
             ],
-            "dogruCevap": "It must be capable of and permitted to travel at least 60 km/h.",
+            "dogruCevap": "At least 60 km/h.",
             "feedback": {
                 "metin": "A motorway may only be used by a driver of a motor vehicle that is capable of reaching at least 60 km/h and is legally permitted to travel at that speed. For an autoweg, the corresponding requirement is 50 km/h. This rule concerns whether the vehicle is allowed to use the road; it does not mean that a driver must continuously maintain a speed of at least 60 km/h while on the motorway. The actual driving speed must always be adapted to the applicable speed limit, traffic conditions and road conditions.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
