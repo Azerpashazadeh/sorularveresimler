@@ -1,0 +1,62 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 2,
+    "patch": {
+      "soru": "Resimdeki durumda cenaze konvoyundaki araçlara yol vermeli misiniz?",
+      "cevaplar": ["Evet.", "Hayır."],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Hayır. Resimdeki durumda cenaze konvoyundaki araçlara yalnızca konvoyda bulundukları için yol vermek zorunda değilsiniz. Cenaze konvoyunda yer almak, araçlara her durumda geçiş üstünlüğü sağlamaz; sürücüler trafik ışıklarına ve bulundukları yerde geçerli olan diğer trafik kurallarına uymaya devam eder. Ancak burada önemli bir ayrım vardır: RVV 1990'ın 16. maddesine göre, motorlu araçlardan oluşan bir cenaze konvoyu hâlihazırda geçmekteyse diğer yol kullanıcıları konvoyun arasına girerek onu kesemez. Yani konvoyu bölmeme kuralı, konvoydaki araçlara her durumda öncelik vermeniz gerektiği anlamına gelmez. Resimdeki durumda uygulanması gereken geçiş kuralları cenaze konvoyunun varlığı nedeniyle değişmediğinden doğru cevap Hayır'dır."
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 2,
+    "patch": {
+      "soru": "Moet u in de afgebeelde situatie voorrang verlenen aan de voertuigen in de uitvaartstoet?",
+      "cevaplar": ["Ja.", "Nee."],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Nee. In deze situatie hoeft u de voertuigen niet alleen vanwege hun deelname aan een uitvaartstoet voorrang te verlenen. Deelname aan een uitvaartstoet geeft voertuigen niet in alle situaties automatisch voorrang; de bestuurders moeten verkeerslichten en de overige verkeersregels die ter plaatse gelden blijven opvolgen. Wel geldt een belangrijk onderscheid: volgens artikel 16 van het RVV 1990 mogen weggebruikers een uitvaartstoet van motorvoertuigen niet doorsnijden wanneer deze passeert. Het verbod om de stoet te doorsnijden betekent dus niet dat de voertuigen in de stoet onder alle omstandigheden voorrang hebben. Omdat de normale voorrangsregels in de afgebeelde situatie niet veranderen door de aanwezigheid van de uitvaartstoet, is het juiste antwoord Nee."
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 2,
+    "patch": {
+      "soru": "In the situation shown, must you give way to the vehicles in the funeral procession?",
+      "cevaplar": ["Yes.", "No."],
+      "dogruCevap": "No.",
+      "feedback": {
+        "metin": "No. In this situation, you do not have to give way to the vehicles simply because they are part of a funeral procession. Being in a funeral procession does not give those vehicles automatic priority in every situation; their drivers must still obey traffic lights and the other traffic rules that apply at that location. There is, however, an important distinction: under Article 16 of the Dutch RVV 1990, road users may not cut through a passing funeral procession of motor vehicles. The rule against breaking up the procession therefore does not mean that its vehicles have priority in every situation. Because the normal priority rules in the situation shown are not changed merely by the presence of the funeral procession, the correct answer is No."
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 2,
+    "patch": {
+      "soru": "في الحالة الموضحة في الصورة، هل يجب عليك إعطاء الأولوية للمركبات الموجودة في موكب الجنازة؟",
+      "cevaplar": ["نعم.", "لا."],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "لا. في هذه الحالة لا يتعين عليك إعطاء الأولوية للمركبات لمجرد أنها تسير ضمن موكب جنازة. وجود المركبة في موكب جنازة لا يمنحها أولوية تلقائية في جميع الحالات؛ إذ يجب على السائقين الاستمرار في الالتزام بإشارات المرور وبقواعد المرور الأخرى السارية في المكان. ومع ذلك، هناك فرق مهم: وفقًا للمادة 16 من نظام قواعد المرور وإشاراته الهولندي RVV 1990، لا يجوز لمستخدمي الطريق قطع موكب جنازة مكوّن من مركبات آلية أثناء مروره. وبالتالي فإن حظر قطع الموكب لا يعني أن مركباته تتمتع بالأولوية في جميع الظروف. وبما أن قواعد الأولوية العادية في الحالة الموضحة لا تتغير لمجرد وجود موكب الجنازة، فإن الإجابة الصحيحة هي: لا."
+      }
+    }
+  }
+]
