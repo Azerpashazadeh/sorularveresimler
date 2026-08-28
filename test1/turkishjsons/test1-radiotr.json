@@ -77,16 +77,16 @@
         },
         {
             "numara": 8,
-            "soru": "Bu tabela neyi gösterir?",
+            "soru": "Bu işaret sürücülere neyi gösterir?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/8.jpg",
             "cevaplar": [
-                "Bir alternatif güzergâh.",
-                "Ana yola giden rota.",
-                "Zorunlu seyir yönü."
+                "Şehir merkezine giden yolu.",
+                "Geçiş trafiği için izlenecek güzergâhı.",
+                "Zorunlu seyir yönünü."
             ],
-            "dogruCevap": "Ana yola giden rota.",
+            "dogruCevap": "Geçiş trafiği için izlenecek güzergâhı.",
             "feedback": {
-                "metin": "‘Doorgaand verkeer’ tabelası, ana yola nasıl ulaşılacağını gösterir. Örneğin, bu tabela bir yerleşim alanı içinde ana güzergâhı belirtir. Bu bir alternatif güzergâh değildir ve bu güzergâhı takip etmek zorunlu da değildir.",
+                "metin": "Doğru cevap: Geçiş trafiği için izlenecek güzergâhı. ‘Doorgaand verkeer’ işareti, bulunduğunuz yerleşimde bir varış noktası olmayan ve başka bir yere devam eden trafiği uygun güzergâha yönlendirir. Örneğin şehir merkezinde bir işiniz yoksa ve yalnızca bu bölgeden geçerek başka bir yere gidiyorsanız, işaret geçiş trafiği için hangi yönden devam edileceğini gösterir. Böylece gereksiz araç trafiğinin yerleşim merkezi gibi yoğun bölgelerden geçirilmemesi amaçlanır. Bu işaret bir zorunlu seyir yönü işareti değildir.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

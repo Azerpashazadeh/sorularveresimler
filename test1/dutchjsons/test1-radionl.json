@@ -77,16 +77,16 @@
         },
         {
             "numara": 8,
-            "soru": "Wat geeft dit bord aan?",
+            "soru": "Wat geeft dit bord aan voor bestuurders?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/8.jpg",
             "cevaplar": [
-                "Een omleidingsroute.",
-                "De route naar de hoofdweg.",
+                "De route naar het stadscentrum.",
+                "De te volgen route voor doorgaand verkeer.",
                 "Een verplichte rijrichting."
             ],
-            "dogruCevap": "De route naar de hoofdweg.",
+            "dogruCevap": "De te volgen route voor doorgaand verkeer.",
             "feedback": {
-                "metin": "Het bord ‘Doorgaand verkeer’ geeft aan welke richting je moet volgen om op een hoofdweg te komen. Bijvoorbeeld: het geeft de doorgaande route aan door een woonwijk. Het is geen omleidingsroute en je bent ook niet verplicht deze route te volgen.",
+                "metin": "Het juiste antwoord is: de te volgen route voor doorgaand verkeer. Het bord ‘Doorgaand verkeer’ leidt verkeer dat geen bestemming in de betreffende plaats heeft en verder reist naar een geschikte route. Als u bijvoorbeeld geen bestemming in het centrum heeft en alleen door het gebied rijdt om ergens anders naartoe te gaan, geeft het bord aan in welke richting het doorgaande verkeer verder kan rijden. Zo wordt onnodig doorgaand verkeer door drukke gebieden, zoals een stads- of dorpscentrum, beperkt. Het bord geeft geen verplichte rijrichting aan.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

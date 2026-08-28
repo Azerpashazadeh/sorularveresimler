@@ -77,16 +77,16 @@
         },
         {
             "numara": 8,
-            "soru": "What does this sign indicate?",
+            "soru": "What does this sign indicate to drivers?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/8.jpg",
             "cevaplar": [
-                "A detour route.",
-                "The route to the main road.",
-                "A compulsory direction of travel."
+                "The route to the town centre.",
+                "The route to follow for through traffic.",
+                "A mandatory direction of travel."
             ],
-            "dogruCevap": "The route to the main road.",
+            "dogruCevap": "The route to follow for through traffic.",
             "feedback": {
-                "metin": "The sign 'Doorgaand verkeer' indicates which direction you should follow to end up on a main road. For example, It indicates the through route through a residential area. It is not a detour route and you are also not required to follow this route.",
+                "metin": "The correct answer is: the route to follow for through traffic. The ‘Doorgaand verkeer’ sign directs traffic that has no destination within the area and is continuing elsewhere along a suitable route. For example, if you have no destination in the town centre and are simply passing through on your way somewhere else, the sign indicates the direction intended for through traffic. This helps keep unnecessary through traffic out of busy areas such as town or city centres. The sign does not indicate a mandatory direction of travel.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
