@@ -60,16 +60,16 @@
         },
         {
             "numara": 5,
-            "soru": "What do you do if you see a traffic jam form a little further on?",
+            "soru": "You notice a traffic queue forming ahead. How should you respond?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/5.jpg",
             "cevaplar": [
-                "Shift down immediately and slow down.",
-                "Slow down on time and turn on your hazard lights.",
-                "Brake harshly and keep your distance."
+                "I should shift down immediately.",
+                "I should slow down in good time and use the hazard lights if necessary.",
+                "I should brake hard only when I reach the queue."
             ],
-            "dogruCevap": "Slow down on time and turn on your hazard lights.",
+            "dogruCevap": "I should slow down in good time and use the hazard lights if necessary.",
             "feedback": {
-                "metin": "Never brake harshly when this is not necessary. Also, never shift down too early but let the car roll out in a higher gear. Do you see a traffic jam form further on, warn other traffic participants with the help of your hazard lights and brake on time, more than that is not necessary.",
+                "metin": "The correct answer is: slow down in good time and use the hazard lights if necessary. When you notice stationary or slow-moving traffic ahead, you should react early and reduce your speed in a controlled manner. Under Article 19 of the RVV 1990, a driver must be able to bring the vehicle to a stop within the distance over which the road is clear and can be seen to be clear. Hazard warning lights are not mandatory whenever a traffic queue is present; they may be used to warn other road users of an impending danger. Timely, controlled slowing and, where necessary, warning traffic behind you is therefore safer than braking hard at the last moment.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

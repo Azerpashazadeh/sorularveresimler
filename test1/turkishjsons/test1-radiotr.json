@@ -60,18 +60,18 @@
         },
         {
             "numara": 5,
-            "soru": "İleride bir trafik sıkışıklığı oluştuğunu görürseniz ne yapmalısınız?",
+            "soru": "İleride bir trafik kuyruğu oluştuğunu fark ettiniz. Nasıl hareket etmelisiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/5.jpg",
             "cevaplar": [
-                "Hemen vites küçültün ve yavaşlayın.",
-                "Zamanında yavaşlayın ve dörtlü flaşörleri açın.",
-                "Sert fren yapın ve takip mesafesini koruyun."
+                "Hemen vites küçültmeliyim.",
+                "Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım.",
+                "Kuyruğa yaklaşınca sert fren yapmalıyım."
             ],
-            "dogruCevap": "Zamanında yavaşlayın ve dörtlü flaşörleri açın.",
+            "dogruCevap": "Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım.",
             "feedback": {
-                "metin": "Gereksiz yere sert fren yapmaktan kaçının. Ayrıca vitesi çok erken düşürmeyin, aracın yüksek viteste kendiliğinden yavaşlamasına izin verin. Trafik sıkışıklığını ileride fark ederseniz, arkanızdaki sürücüleri dörtlü flaşörlerle uyarın ve zamanında fren yapın. Bundan fazlası gerekmez.",
+                "metin": "Doğru cevap: Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım. İleride duran veya yavaşlayan bir trafik kuyruğunu fark ettiğinizde, duruma erken tepki vererek hızınızı kontrollü biçimde azaltmalısınız. RVV 1990'ın 19. maddesine göre sürücü, aracını görebildiği ve serbest olan mesafe içinde durabilecek şekilde kullanmalıdır. Dörtlü ikaz lambaları ise trafik kuyruğu görüldüğünde her durumda açılması zorunlu olan bir işaret değildir; yaklaşan bir tehlikeye karşı diğer yol kullanıcılarını uyarmak amacıyla kullanılabilir. Bu nedenle ani ve sert fren yapmak yerine zamanında yavaşlamak ve gerekli olduğunda arkadan gelen trafiği uyarmak daha güvenli davranıştır.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "yanlisCevapResim": "https://azerpashazazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
