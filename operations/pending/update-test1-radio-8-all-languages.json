@@ -1,0 +1,90 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 8,
+    "patch": {
+      "soru": "Bu işaret sürücülere neyi gösterir?",
+      "cevaplar": [
+        "Şehir merkezine giden yolu.",
+        "Geçiş trafiği için izlenecek güzergâhı.",
+        "Zorunlu seyir yönünü."
+      ],
+      "dogruCevap": "Geçiş trafiği için izlenecek güzergâhı.",
+      "feedback": {
+        "metin": "Doğru cevap: Geçiş trafiği için izlenecek güzergâhı. ‘Doorgaand verkeer’ işareti, bulunduğunuz yerleşimde bir varış noktası olmayan ve başka bir yere devam eden trafiği uygun güzergâha yönlendirir. Örneğin şehir merkezinde bir işiniz yoksa ve yalnızca bu bölgeden geçerek başka bir yere gidiyorsanız, işaret geçiş trafiği için hangi yönden devam edileceğini gösterir. Böylece gereksiz araç trafiğinin yerleşim merkezi gibi yoğun bölgelerden geçirilmemesi amaçlanır. Bu işaret bir zorunlu seyir yönü işareti değildir.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 8,
+    "patch": {
+      "soru": "Wat geeft dit bord aan voor bestuurders?",
+      "cevaplar": [
+        "De route naar het stadscentrum.",
+        "De te volgen route voor doorgaand verkeer.",
+        "Een verplichte rijrichting."
+      ],
+      "dogruCevap": "De te volgen route voor doorgaand verkeer.",
+      "feedback": {
+        "metin": "Het juiste antwoord is: de te volgen route voor doorgaand verkeer. Het bord ‘Doorgaand verkeer’ leidt verkeer dat geen bestemming in de betreffende plaats heeft en verder reist naar een geschikte route. Als u bijvoorbeeld geen bestemming in het centrum heeft en alleen door het gebied rijdt om ergens anders naartoe te gaan, geeft het bord aan in welke richting het doorgaande verkeer verder kan rijden. Zo wordt onnodig doorgaand verkeer door drukke gebieden, zoals een stads- of dorpscentrum, beperkt. Het bord geeft geen verplichte rijrichting aan.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 8,
+    "patch": {
+      "soru": "What does this sign indicate to drivers?",
+      "cevaplar": [
+        "The route to the town centre.",
+        "The route to follow for through traffic.",
+        "A mandatory direction of travel."
+      ],
+      "dogruCevap": "The route to follow for through traffic.",
+      "feedback": {
+        "metin": "The correct answer is: the route to follow for through traffic. The ‘Doorgaand verkeer’ sign directs traffic that has no destination within the area and is continuing elsewhere along a suitable route. For example, if you have no destination in the town centre and are simply passing through on your way somewhere else, the sign indicates the direction intended for through traffic. This helps keep unnecessary through traffic out of busy areas such as town or city centres. The sign does not indicate a mandatory direction of travel.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 8,
+    "patch": {
+      "soru": "ماذا تشير هذه العلامة للسائقين؟",
+      "cevaplar": [
+        "الطريق المؤدي إلى وسط المدينة.",
+        "المسار المخصص لحركة المرور العابرة.",
+        "اتجاه سير إلزامي."
+      ],
+      "dogruCevap": "المسار المخصص لحركة المرور العابرة.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة هي: المسار المخصص لحركة المرور العابرة. تشير علامة ‘Doorgaand verkeer’ إلى المسار المناسب لحركة المرور التي لا تكون وجهتها داخل المنطقة وإنما تمر عبرها لمواصلة الرحلة إلى مكان آخر. فعلى سبيل المثال، إذا لم تكن لديك وجهة في وسط المدينة وكنت تمر بالمنطقة فقط في طريقك إلى مكان آخر، فإن العلامة توضح الاتجاه المخصص لحركة المرور العابرة. ويساعد ذلك على تقليل مرور المركبات غير الضروري عبر المناطق المزدحمة مثل مراكز المدن والبلدات. هذه العلامة لا تعني أن اتجاه السير إلزامي.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
