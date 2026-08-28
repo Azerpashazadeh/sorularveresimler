@@ -46,19 +46,16 @@
         },
         {
             "numara": 4,
-            "soru": "Römork lastiklerinde minimum diş derinliği ne kadar olmalıdır?",
+            "soru": "Bir römork lastiğinin diş derinliği en az kaç milimetre olmalıdır?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/4.jpg",
             "cevaplar": [
-                "Bu lastikler için bir minimum yoktur.",
-                "Minimum 1,0 mm.",
-                "Minimum 1,6 mm."
+                "Belirlenmiş bir minimum diş derinliği yoktur.",
+                "En az 1,0 mm.",
+                "En az 1,6 mm."
             ],
-            "dogruCevap": "Minimum 1,6 mm.",
+            "dogruCevap": "En az 1,6 mm.",
             "feedback": {
-                "metin": "Römork lastikleri de binek araç lastikleriyle aynı kurallara tabidir. Bu nedenle diş derinliği en az 1,6 mm olmalıdır.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: En az 1,6 mm. Römork lastiklerinin ana profil kanallarındaki diş derinliği en az 1,6 mm olmalıdır. Lastik aşındıkça yol tutuşu ve özellikle ıslak zeminde suyu tahliye etme kabiliyeti azalır. Bu nedenle lastiklerin yalnızca gözle kontrol edilmesi yerine diş derinliğinin düzenli olarak ölçülmesi önemlidir. Ölçüm 1,6 mm'nin altına düşüyorsa lastik yasal minimum şartı artık karşılamaz."
             }
         },
         {

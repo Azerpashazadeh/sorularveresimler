@@ -46,19 +46,16 @@
         },
         {
             "numara": 4,
-            "soru": "ما هو الحد الأدنى لعمق النقشة في إطارات المقطورة؟",
+            "soru": "ما الحد الأدنى لعمق نقشة إطار المقطورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/4.jpg",
             "cevaplar": [
-                "لا يوجد حد أدنى لهذه الإطارات.",
-                "1.0 ملم كحد أدنى.",
-                "1.6 ملم كحد أدنى."
+                "لا يوجد حد أدنى محدد لعمق النقشة.",
+                "1.0 مم على الأقل.",
+                "1.6 مم على الأقل."
             ],
-            "dogruCevap": "1.6 ملم كحد أدنى.",
+            "dogruCevap": "1.6 مم على الأقل.",
             "feedback": {
-                "metin": "يجب أن تمتثل إطارات المقطورة لنفس القواعد المطبقة على إطارات سيارات الركاب. يجب أن يكون عمق النقشة 1.6 ملم على الأقل لإطارات المقطورة أيضاً.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة هي: 1.6 مم على الأقل. يجب ألا يقل عمق النقشة في الأخاديد الرئيسية لإطار المقطورة عن 1.6 مم. ومع تآكل الإطار تقل قدرته على التماسك بالطريق، ولا سيما قدرته على تصريف المياه على الطرق المبتلة. لذلك من المهم قياس عمق النقشة بانتظام وعدم الاكتفاء بالفحص البصري. إذا انخفض القياس عن 1.6 مم، فلن يعود الإطار مستوفيًا للحد الأدنى القانوني."
             }
         },
         {

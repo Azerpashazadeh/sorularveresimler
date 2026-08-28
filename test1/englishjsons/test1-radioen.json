@@ -46,19 +46,16 @@
         },
         {
             "numara": 4,
-            "soru": "What is the minimum tread depth of trailer tyres?",
+            "soru": "What is the minimum tread depth required for a trailer tyre?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/4.jpg",
             "cevaplar": [
-                "These have no minimum.",
-                "Minimum 1.0 mm.",
-                "Minimum 1.6 mm."
+                "There is no specified minimum tread depth.",
+                "At least 1.0 mm.",
+                "At least 1.6 mm."
             ],
-            "dogruCevap": "Minimum 1.6 mm.",
+            "dogruCevap": "At least 1.6 mm.",
             "feedback": {
-                "metin": "Trailer tyres must comply with the same rules as passenger car tyres. The tread depth must be at least 1.6 mm for trailer tyres too.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "The correct answer is: at least 1.6 mm. The tread depth in the main grooves of a trailer tyre must be at least 1.6 mm. As a tyre wears, its grip and especially its ability to disperse water on wet roads are reduced. For that reason, tread depth should be measured regularly rather than judged only by sight. If the measured tread depth falls below 1.6 mm, the tyre no longer meets the legal minimum requirement."
             }
         },
         {
