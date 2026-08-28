@@ -32,19 +32,16 @@
         },
         {
             "numara": 3,
-            "soru": "Burada hangi türden karşıdan gelen trafiği beklemelisiniz?",
+            "soru": "Resimdeki trafik durumunda karşı yönden hangi yol kullanıcıları gelebilir?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/3.jpg",
             "cevaplar": [
-                "Sadece bisikletliler ve motorlu bisikletliler.",
-                "Bisikletliler ve motorlu bisikletliler hariç tüm araçlar.",
+                "Yalnızca bisikletliler ve motorlu bisikletliler.",
+                "Bisikletliler ve motorlu bisikletliler dışındaki araçlar.",
                 "Tüm araçlar."
             ],
             "dogruCevap": "Tüm araçlar.",
             "feedback": {
-                "metin": "Bu tabela kombinasyonu, tüm araçlar için çıkmaz sokak olduğunu, ancak bisikletli ve motorlu bisikletliler için yolun devam ettiğini gösterir. Yolun çıkmaz sokak olması, karşı yönden araç gelmeyeceği anlamına gelmez. Bisikletli ve motorlu bisikletliler yolun devamını kullanabilirken, diğer araçlar için yol çıkmazdır ve geldikleri yönden geri dönmek zorundadırlar.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Tüm araçlar. Levha, yolun genel trafik için çıkmaz olduğunu, ancak altındaki ek işaret nedeniyle belirtilen bisikletli ve motorlu bisikletlilerin yolun devamını kullanabileceğini gösterir. Bununla birlikte çıkmaz yol, diğer araçların karşı yönden gelemeyeceği anlamına gelmez. Yolun çıkmaz bölümünde bulunan veya oradan geri dönen diğer araçlar da size doğru gelebilir. Bu nedenle karşı yönden yalnızca levhada istisna verilen yol kullanıcılarını değil, tüm araç türlerini beklemelisiniz."
             }
         },
         {

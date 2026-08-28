@@ -32,19 +32,16 @@
         },
         {
             "numara": 3,
-            "soru": "What oncoming traffic should you expect here?",
+            "soru": "Which road users could approach from the opposite direction in the traffic situation shown?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/3.jpg",
             "cevaplar": [
                 "Only cyclists and moped riders.",
-                "Everything but cyclists or moped riders.",
+                "Vehicles other than cyclists and moped riders.",
                 "All vehicles."
             ],
             "dogruCevap": "All vehicles.",
             "feedback": {
-                "metin": "This sign combination indicates that there is a dead end for all vehicles, except for cyclists and moped riders. That the road leads to a dead end does not mean that you do not have oncoming traffic. All vehicles could come from the other direction, cyclists and moped riders for whom the road continues as other vehicles for whom the road leads to a dead end. They have to exit the road from the way they came.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "The correct answer is: all vehicles. The sign indicates that the road is a dead end for general traffic, while the supplementary sign shows that the indicated cyclists and moped riders can continue through. A dead-end road does not, however, mean that other vehicles cannot approach from the opposite direction. Vehicles already in the dead-end section, or vehicles turning around there, may also come towards you. You should therefore expect all types of vehicles, not only the road users exempted by the supplementary sign."
             }
         },
         {
