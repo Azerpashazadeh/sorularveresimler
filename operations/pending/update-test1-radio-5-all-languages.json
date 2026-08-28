@@ -1,0 +1,90 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 5,
+    "patch": {
+      "soru": "İleride bir trafik kuyruğu oluştuğunu fark ettiniz. Nasıl hareket etmelisiniz?",
+      "cevaplar": [
+        "Hemen vites küçültmeliyim.",
+        "Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım.",
+        "Kuyruğa yaklaşınca sert fren yapmalıyım."
+      ],
+      "dogruCevap": "Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım.",
+      "feedback": {
+        "metin": "Doğru cevap: Zamanında yavaşlamalı ve gerekirse dörtlüleri açmalıyım. İleride duran veya yavaşlayan bir trafik kuyruğunu fark ettiğinizde, duruma erken tepki vererek hızınızı kontrollü biçimde azaltmalısınız. RVV 1990'ın 19. maddesine göre sürücü, aracını görebildiği ve serbest olan mesafe içinde durabilecek şekilde kullanmalıdır. Dörtlü ikaz lambaları ise trafik kuyruğu görüldüğünde her durumda açılması zorunlu olan bir işaret değildir; yaklaşan bir tehlikeye karşı diğer yol kullanıcılarını uyarmak amacıyla kullanılabilir. Bu nedenle ani ve sert fren yapmak yerine zamanında yavaşlamak ve gerekli olduğunda arkadan gelen trafiği uyarmak daha güvenli davranıştır.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 5,
+    "patch": {
+      "soru": "U ziet dat er verderop een file ontstaat. Hoe moet u handelen?",
+      "cevaplar": [
+        "Ik moet meteen terugschakelen.",
+        "Ik moet op tijd afremmen en zo nodig de alarmlichten inschakelen.",
+        "Ik moet pas vlak voor de file hard remmen."
+      ],
+      "dogruCevap": "Ik moet op tijd afremmen en zo nodig de alarmlichten inschakelen.",
+      "feedback": {
+        "metin": "Het juiste antwoord is: op tijd afremmen en zo nodig de alarmlichten inschakelen. Wanneer u verderop stilstaand of langzaam rijdend verkeer ziet, moet u vroeg reageren en uw snelheid beheerst verminderen. Volgens artikel 19 van het RVV 1990 moet een bestuurder in staat zijn het voertuig tot stilstand te brengen binnen de afstand waarover de weg vrij en te overzien is. Het inschakelen van de alarmlichten is niet bij iedere file verplicht; ze kunnen worden gebruikt om andere weggebruikers voor dreigend gevaar te waarschuwen. Daarom is tijdig en gecontroleerd afremmen, en zo nodig het achteropkomende verkeer waarschuwen, veiliger dan op het laatste moment hard remmen.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 5,
+    "patch": {
+      "soru": "You notice a traffic queue forming ahead. How should you respond?",
+      "cevaplar": [
+        "I should shift down immediately.",
+        "I should slow down in good time and use the hazard lights if necessary.",
+        "I should brake hard only when I reach the queue."
+      ],
+      "dogruCevap": "I should slow down in good time and use the hazard lights if necessary.",
+      "feedback": {
+        "metin": "The correct answer is: slow down in good time and use the hazard lights if necessary. When you notice stationary or slow-moving traffic ahead, you should react early and reduce your speed in a controlled manner. Under Article 19 of the RVV 1990, a driver must be able to bring the vehicle to a stop within the distance over which the road is clear and can be seen to be clear. Hazard warning lights are not mandatory whenever a traffic queue is present; they may be used to warn other road users of an impending danger. Timely, controlled slowing and, where necessary, warning traffic behind you is therefore safer than braking hard at the last moment.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 5,
+    "patch": {
+      "soru": "لاحظت أن طابورًا مروريًا يتشكل أمامك. كيف ينبغي أن تتصرف؟",
+      "cevaplar": [
+        "يجب أن أخفض ناقل الحركة فورًا.",
+        "يجب أن أخفف السرعة في الوقت المناسب وأن أشغل أضواء التحذير عند الحاجة.",
+        "يجب أن أفرمل بقوة فقط عند الاقتراب من الطابور."
+      ],
+      "dogruCevap": "يجب أن أخفف السرعة في الوقت المناسب وأن أشغل أضواء التحذير عند الحاجة.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة هي: تخفيف السرعة في الوقت المناسب وتشغيل أضواء التحذير عند الحاجة. عندما تلاحظ أمامك حركة مرور متوقفة أو بطيئة، ينبغي أن تتصرف مبكرًا وتخفض سرعتك بصورة تدريجية ومسيطر عليها. ووفقًا للمادة 19 من RVV 1990، يجب على السائق أن يكون قادرًا على إيقاف مركبته ضمن المسافة التي يستطيع رؤية أنها خالية أمامه. ولا يكون تشغيل أضواء التحذير إلزاميًا في كل مرة يوجد فيها ازدحام مروري؛ بل يمكن استخدامها لتحذير مستخدمي الطريق الآخرين من خطر وشيك. لذلك فإن التباطؤ في الوقت المناسب وبشكل متحكم فيه، مع تحذير القادمين من الخلف عند الحاجة، أكثر أمانًا من الفرملة القوية في اللحظة الأخيرة.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
