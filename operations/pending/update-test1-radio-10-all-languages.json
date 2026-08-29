@@ -1,0 +1,90 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 10,
+    "patch": {
+      "soru": "Ana yola katılmak istiyorsunuz. Ne zaman sinyal vermelisiniz?",
+      "cevaplar": [
+        "Katılma şeridine girer girmez.",
+        "Ana yola katılmadan yeterli süre önce.",
+        "Ana yola geçmeye başladığım anda."
+      ],
+      "dogruCevap": "Ana yola katılmadan yeterli süre önce.",
+      "feedback": {
+        "metin": "Doğru cevap: Ana yola katılmadan yeterli süre önce. RVV 1990'ın 55. maddesine göre, ana taşıt yoluna katılmak isteyen sürücü yön göstergesiyle niyetini belirtmelidir. Sinyalin amacı, yapacağınız manevrayı diğer yol kullanıcılarının zamanında anlayabilmesini sağlamaktır. Bu nedenle sinyal, ana yola geçmeye başladığınız anda değil, katılmadan yeterli süre önce verilmelidir. CBR sürüş prosedüründe de katılma şeridinden ana taşıt yoluna çıkmadan önce zamanında sinyal verilmesi gerektiği belirtilir. Bununla birlikte sinyal gereğinden erken verilerek diğer sürücüler yanıltılmamalı ve hiçbir zaman onlardan yol istemek veya onları yol vermeye zorlamak amacıyla kullanılmamalıdır. Ana yola katılmak özel bir manevra olduğundan, sinyal vermiş olsanız bile ana yoldaki diğer trafiğe yol vermekle yükümlüsünüz.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 10,
+    "patch": {
+      "soru": "U wilt invoegen op de doorgaande rijbaan. Wanneer moet u richting aangeven?",
+      "cevaplar": [
+        "Zodra ik de invoegstrook oprijd.",
+        "Tijdig voordat ik de doorgaande rijbaan oprijd.",
+        "Pas op het moment dat ik de doorgaande rijbaan begin op te rijden."
+      ],
+      "dogruCevap": "Tijdig voordat ik de doorgaande rijbaan oprijd.",
+      "feedback": {
+        "metin": "Het juiste antwoord is: tijdig voordat ik de doorgaande rijbaan oprijd. Volgens artikel 55 van het RVV 1990 moet een bestuurder die de doorgaande rijbaan wil oprijden dit met de richtingaanwijzer aangeven. Het doel van het richting aangeven is dat andere weggebruikers uw voorgenomen manoeuvre tijdig kunnen herkennen. Daarom geeft u niet pas richting op het moment dat u de doorgaande rijbaan begint op te rijden, maar tijdig vóór het invoegen. Ook de CBR-rijprocedure schrijft voor dat vanaf de invoegstrook tijdig vóór het oprijden van de doorgaande rijbaan richting wordt aangegeven. Geef echter niet onnodig vroeg richting waardoor andere weggebruikers kunnen worden misleid en gebruik de richtingaanwijzer nooit als middel om anderen te dwingen ruimte te maken. Invoegen is een bijzondere manoeuvre; ook wanneer u richting aangeeft, moet u het overige verkeer voor laten gaan.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 10,
+    "patch": {
+      "soru": "You want to merge onto the main carriageway. When should you use your turn signal?",
+      "cevaplar": [
+        "As soon as I enter the acceleration lane.",
+        "In good time before merging onto the main carriageway.",
+        "Only when I start moving onto the main carriageway."
+      ],
+      "dogruCevap": "In good time before merging onto the main carriageway.",
+      "feedback": {
+        "metin": "The correct answer is: in good time before merging onto the main carriageway. Under Article 55 of the RVV 1990, a driver who intends to enter the main carriageway must indicate this intention using the turn signal. The purpose of signaling is to allow other road users to recognize your intended manoeuvre in good time. You should therefore signal before merging, rather than waiting until you actually begin moving onto the main carriageway. The CBR driving procedure likewise requires drivers to signal in good time before entering the main carriageway from an acceleration lane. However, you should not signal unnecessarily early in a way that could mislead other road users, and the turn signal must never be used to pressure others into making space. Merging is a special manoeuvre, so even when signaling you must give way to the other traffic.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 10,
+    "patch": {
+      "soru": "تريد الاندماج في الطريق الرئيسي. متى يجب عليك تشغيل إشارة الانعطاف؟",
+      "cevaplar": [
+        "بمجرد دخولي مسار التسارع.",
+        "قبل الاندماج في الطريق الرئيسي بوقت كافٍ.",
+        "فقط عندما أبدأ فعليًا بالانتقال إلى الطريق الرئيسي."
+      ],
+      "dogruCevap": "قبل الاندماج في الطريق الرئيسي بوقت كافٍ.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة هي: قبل الاندماج في الطريق الرئيسي بوقت كافٍ. وفقًا للمادة 55 من RVV 1990، يجب على السائق الذي يريد الدخول إلى الطريق الرئيسي أن يوضح نيته باستخدام إشارة الانعطاف. والهدف من الإشارة هو تمكين مستخدمي الطريق الآخرين من فهم المناورة التي تنوي القيام بها في الوقت المناسب. لذلك يجب تشغيل الإشارة قبل الاندماج بوقت كافٍ، وليس الانتظار حتى تبدأ فعليًا بالانتقال إلى الطريق الرئيسي. كما تنص إجراءات القيادة لدى CBR على إعطاء الإشارة في الوقت المناسب قبل الدخول من مسار التسارع إلى الطريق الرئيسي. ومع ذلك، لا ينبغي تشغيل الإشارة مبكرًا دون داعٍ بطريقة قد تضلل مستخدمي الطريق الآخرين، ولا يجوز استخدامها للضغط عليهم من أجل إفساح المجال. ويُعد الاندماج مناورة خاصة، ولذلك يجب عليك إعطاء الأولوية لحركة المرور الأخرى حتى عند استخدام إشارة الانعطاف.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
