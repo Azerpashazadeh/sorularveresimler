@@ -119,15 +119,16 @@
         },
         {
             "numara": 10,
-            "soru": "Birleşme fırsatını beklerken sinyal vermenize izin var mı?",
+            "soru": "Ana yola katılmak istiyorsunuz. Ne zaman sinyal vermelisiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/10.jpg",
             "cevaplar": [
-                "Evet.",
-                "Hayır."
+                "Katılma şeridine girer girmez.",
+                "Ana yola katılmadan yeterli süre önce.",
+                "Ana yola geçmeye başladığım anda."
             ],
-            "dogruCevap": "Hayır.",
+            "dogruCevap": "Ana yola katılmadan yeterli süre önce.",
             "feedback": {
-                "metin": "Sinyal yalnızca gerçekten birleşme yapacağınız anda verilmelidir. Sinyal vererek diğer sürücüler üzerinde baskı kurmak suretiyle yol açmak yasaktır.",
+                "metin": "Doğru cevap: Ana yola katılmadan yeterli süre önce. RVV 1990'ın 55. maddesine göre, ana taşıt yoluna katılmak isteyen sürücü yön göstergesiyle niyetini belirtmelidir. Sinyalin amacı, yapacağınız manevrayı diğer yol kullanıcılarının zamanında anlayabilmesini sağlamaktır. Bu nedenle sinyal, ana yola geçmeye başladığınız anda değil, katılmadan yeterli süre önce verilmelidir. CBR sürüş prosedüründe de katılma şeridinden ana taşıt yoluna çıkmadan önce zamanında sinyal verilmesi gerektiği belirtilir. Bununla birlikte sinyal gereğinden erken verilerek diğer sürücüler yanıltılmamalı ve hiçbir zaman onlardan yol istemek veya onları yol vermeye zorlamak amacıyla kullanılmamalıdır. Ana yola katılmak özel bir manevra olduğundan, sinyal vermiş olsanız bile ana yoldaki diğer trafiğe yol vermekle yükümlüsünüz.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

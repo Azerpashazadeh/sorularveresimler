@@ -119,15 +119,16 @@
         },
         {
             "numara": 10,
-            "soru": "Are you allowed to indicate while waiting for an opportunity to merge?",
+            "soru": "You want to merge onto the main carriageway. When should you use your turn signal?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/10.jpg",
             "cevaplar": [
-                "Yes.",
-                "No."
+                "As soon as I enter the acceleration lane.",
+                "In good time before merging onto the main carriageway.",
+                "Only when I start moving onto the main carriageway."
             ],
-            "dogruCevap": "No.",
+            "dogruCevap": "In good time before merging onto the main carriageway.",
             "feedback": {
-                "metin": "You may only indicate when you are actually going to merge. You may not force a space by using your indicator.",
+                "metin": "The correct answer is: in good time before merging onto the main carriageway. Under Article 55 of the RVV 1990, a driver who intends to enter the main carriageway must indicate this intention using the turn signal. The purpose of signaling is to allow other road users to recognize your intended manoeuvre in good time. You should therefore signal before merging, rather than waiting until you actually begin moving onto the main carriageway. The CBR driving procedure likewise requires drivers to signal in good time before entering the main carriageway from an acceleration lane. However, you should not signal unnecessarily early in a way that could mislead other road users, and the turn signal must never be used to pressure others into making space. Merging is a special manoeuvre, so even when signaling you must give way to the other traffic.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

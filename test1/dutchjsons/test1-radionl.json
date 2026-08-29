@@ -119,15 +119,16 @@
         },
         {
             "numara": 10,
-            "soru": "Mag je richting aangeven terwijl je wacht op een mogelijkheid om in te voegen?",
+            "soru": "U wilt invoegen op de doorgaande rijbaan. Wanneer moet u richting aangeven?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/10.jpg",
             "cevaplar": [
-                "Ja.",
-                "Nee."
+                "Zodra ik de invoegstrook oprijd.",
+                "Tijdig voordat ik de doorgaande rijbaan oprijd.",
+                "Pas op het moment dat ik de doorgaande rijbaan begin op te rijden."
             ],
-            "dogruCevap": "Nee.",
+            "dogruCevap": "Tijdig voordat ik de doorgaande rijbaan oprijd.",
             "feedback": {
-                "metin": "Je mag alleen richting aangeven wanneer je daadwerkelijk gaat invoegen. Je mag geen ruimte afdwingen door je richtingaanwijzer te gebruiken.",
+                "metin": "Het juiste antwoord is: tijdig voordat ik de doorgaande rijbaan oprijd. Volgens artikel 55 van het RVV 1990 moet een bestuurder die de doorgaande rijbaan wil oprijden dit met de richtingaanwijzer aangeven. Het doel van het richting aangeven is dat andere weggebruikers uw voorgenomen manoeuvre tijdig kunnen herkennen. Daarom geeft u niet pas richting op het moment dat u de doorgaande rijbaan begint op te rijden, maar tijdig vóór het invoegen. Ook de CBR-rijprocedure schrijft voor dat vanaf de invoegstrook tijdig vóór het oprijden van de doorgaande rijbaan richting wordt aangegeven. Geef echter niet onnodig vroeg richting waardoor andere weggebruikers kunnen worden misleid en gebruik de richtingaanwijzer nooit als middel om anderen te dwingen ruimte te maken. Invoegen is een bijzondere manoeuvre; ook wanneer u richting aangeeft, moet u het overige verkeer voor laten gaan.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
