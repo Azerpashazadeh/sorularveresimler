@@ -103,7 +103,7 @@
         },
         {
             "numara": 9,
-            "soru": "Bir moped motorlu taşıt olarak sınıflandırılır mı?",
+            "soru": "Bir moped (bromfiets) motorlu taşıt sayılır mı?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/9.jpg",
             "cevaplar": [
                 "Evet.",
@@ -111,7 +111,7 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Raylara ihtiyaç duymadan hareket edebilen tüm motorlu araçlar motorlu taşıt olarak sınıflandırılır, ancak mopedler, snorfietsen (düşük hızlı motorlu bisikletler), pedal destekli bisikletler ve engelli araçları bu sınıfa dâhil değildir. Bu nedenle moped motorlu taşıt olarak kabul edilmez.",
+                "metin": "Doğru cevap: Hayır. Bir moped (bromfiets) motorla çalışan bir araç olsa da RVV 1990 kapsamında motorlu taşıt (motorvoertuig) olarak kabul edilmez. RVV 1990'ın 1. maddesindeki tanımda bromfiets'ler açıkça motorlu taşıt kategorisinin dışında tutulmuştur. Bu nedenle günlük dilde motorlu bir araç olarak düşünülebilse bile, trafik mevzuatındaki motorvoertuig kavramıyla aynı anlama gelmez. Bu ayrım önemlidir; çünkü RVV 1990'daki bazı trafik kuralları ve trafik işaretleri özellikle motorlu taşıtlar için geçerlidir. Dolayısıyla bir kuralda motorvoertuig ifadesinin kullanılması, o kuralın otomatik olarak mopedleri de kapsadığı anlamına gelmez.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

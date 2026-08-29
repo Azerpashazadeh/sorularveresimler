@@ -103,7 +103,7 @@
         },
         {
             "numara": 9,
-            "soru": "Is a moped categorised as a motor vehicle?",
+            "soru": "Is a moped (bromfiets) considered a motor vehicle?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/9.jpg",
             "cevaplar": [
                 "Yes.",
@@ -111,7 +111,7 @@
             ],
             "dogruCevap": "No.",
             "feedback": {
-                "metin": "All motorised vehicles that do not require rails to operate are categorised as motor vehicles, with the exception of mopeds, snorfietsen, bicycles with pedal support, and disabled vehicles. A moped is therefore not categorised as a motor vehicle.",
+                "metin": "The correct answer is: no. Although a moped (bromfiets) is powered by a motor, it is not considered a motor vehicle (motorvoertuig) under the RVV 1990. In the definition of motor vehicles in Article 1 of the RVV 1990, bromfietsen are expressly excluded from this category. A moped may therefore be thought of as a motor-powered vehicle in everyday language, but legally this is not the same as the term motorvoertuig used in Dutch traffic law. This distinction is important because some traffic rules and traffic signs in the RVV 1990 apply specifically to motor vehicles. Therefore, when a rule refers to a motorvoertuig, this does not automatically mean that the rule also applies to mopeds.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

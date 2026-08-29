@@ -103,7 +103,7 @@
         },
         {
             "numara": 9,
-            "soru": "هل تصنف الدراجة النارية الصغيرة (Moped) كمركبة آلية؟",
+            "soru": "هل تُعتبر الدراجة النارية الصغيرة (bromfiets) مركبة آلية (motorvoertuig)؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/9.jpg",
             "cevaplar": [
                 "نعم.",
@@ -111,7 +111,7 @@
             ],
             "dogruCevap": "لا.",
             "feedback": {
-                "metin": "تُصنف جميع المركبات المزودة بمحرك والتي لا تسير على قضبان كمركبات آلية، باستثناء الدراجات النارية الصغيرة (mopeds/snorfietsen)، والدراجات الهوائية المزودة بمحرك مساعد، ومركبات ذوي الاحتياجات الخاصة. لذلك، لا تعتبر الدراجة النارية الصغيرة مركبة آلية.",
+                "metin": "الإجابة الصحيحة هي: لا. على الرغم من أن الدراجة النارية الصغيرة (bromfiets) تعمل بمحرك، فإنها لا تُعتبر مركبة آلية (motorvoertuig) وفقًا لنظام RVV 1990. ففي تعريف المركبات الآلية الوارد في المادة 1 من RVV 1990، تُستثنى الدراجات من فئة bromfiets صراحةً من هذه الفئة. لذلك قد تُعد في الاستعمال اليومي مركبة تعمل بمحرك، لكن هذا لا يساوي من الناحية القانونية مفهوم motorvoertuig المستخدم في قواعد المرور الهولندية. وهذا التمييز مهم لأن بعض قواعد المرور وإشارات المرور في RVV 1990 تنطبق تحديدًا على المركبات الآلية. ولذلك فإن ورود مصطلح motorvoertuig في قاعدة ما لا يعني تلقائيًا أن تلك القاعدة تنطبق أيضًا على الدراجات من فئة bromfiets.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
