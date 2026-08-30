@@ -152,16 +152,16 @@
         },
         {
             "numara": 13,
-            "soru": "What should you do if the brake pedal starts to vibrate during an emergency stop in a car equipped with ABS?",
+            "soru": "What should you do if you feel the brake pedal pulsating during an emergency stop in a vehicle equipped with ABS?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/13.jpg",
             "cevaplar": [
-                "Release the brake pedal completely.",
-                "Keep the brake pedal fully pressed.",
-                "Release the brake pedal for a moment and then apply it again."
+                "I should release the brake pedal completely.",
+                "I should keep pressing the brake pedal firmly.",
+                "I should briefly release the pedal and then press it again."
             ],
-            "dogruCevap": "Keep the brake pedal fully pressed.",
+            "dogruCevap": "I should keep pressing the brake pedal firmly.",
             "feedback": {
-                "metin": "During an emergency stop in a car with ABS, you will notice that the brake pedal vibrates when you hit it hard. This is due to the ABS acting on the brake force, which prevents the wheels from locking. If you (briefly) release the brake pedal at that moment, the car will not brake through and the stopping distance will become longer. So keep applying the brake until you come to a standstill.",
+                "metin": "Correct answer: I should keep pressing the brake pedal firmly. During hard braking, ABS monitors the rotation of the wheels to prevent them from locking. When the system detects that a wheel is about to lock, it rapidly reduces and reapplies the braking pressure to that wheel, continuously regulating it. These rapid changes in brake pressure can be felt as pulsations or vibrations through the brake pedal. This is a normal indication that ABS is operating. Therefore, do not release the brake pedal or pump the brakes when you feel the pulsation; keep firm, continuous pressure on the pedal throughout the emergency stop.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
