@@ -169,16 +169,16 @@
         },
         {
             "numara": 15,
-            "soru": "Bu beyaz yanıp sönen ışık ne anlama gelir?",
+            "soru": "Hemzemin geçitteki beyaz yanıp sönen ışık ne anlama gelir?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/15.gif",
             "cevaplar": [
                 "Sistem arızalı veya çalışmıyor.",
-                "Geçebilirsiniz, tren yaklaşmıyor.",
-                "Yaklaşan tren için beklemelisiniz."
+                "Tren yaklaşmıyor.",
+                "Yaklaşan tren nedeniyle durmalısınız."
             ],
-            "dogruCevap": "Geçebilirsiniz, tren yaklaşmıyor.",
+            "dogruCevap": "Tren yaklaşmıyor.",
             "feedback": {
-                "metin": "Burada bariyersiz bir hemzemin geçide yaklaşmaktasınız. Üstteki beyaz ışık yanıp sönüyorsa tren yaklaşmıyor demektir ve geçmek güvenlidir. Tren yaklaşıyorsa alttaki iki kırmızı ışık dönüşümlü olarak yanar.",
+                "metin": "Doğru cevap: Tren yaklaşmıyor. RVV 1990'ın 71. maddesine göre hemzemin geçit ışıklarında beyaz yanıp sönen ışık, tren yaklaşmadığı anlamına gelir. Kırmızı yanıp sönen ışık ise durmanız gerektiğini bildirir. Görselde beyaz ışık yanıp söndüğü için sistem yaklaşan bir tren uyarısı vermemektedir. Bununla birlikte hemzemin geçide yaklaşırken çevreyi gözlemlemeye devam etmeli ve geçidin güvenli olduğundan emin olmalısınız.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

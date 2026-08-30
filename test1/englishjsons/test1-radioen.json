@@ -169,16 +169,16 @@
         },
         {
             "numara": 15,
-            "soru": "What does this white flashing light mean?",
+            "soru": "What does the flashing white light at this railway crossing mean?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/15.gif",
             "cevaplar": [
-                "The installation is broken or out of order.",
-                "You can drive on, no train is approaching.",
-                "You must wait for an approaching train."
+                "The system is faulty or not operating.",
+                "No train is approaching.",
+                "You must stop because a train is approaching."
             ],
-            "dogruCevap": "You can drive on, no train is approaching.",
+            "dogruCevap": "No train is approaching.",
             "feedback": {
-                "metin": "Here, you are approaching a level crossing without crossing barriers. When the top white light is flashing, no train is approaching and it is safe to cross. When a train is approaching, the two lower red lights will flash alternately.",
+                "metin": "Correct answer: No train is approaching. Under Article 71 of the Dutch RVV 1990, a flashing white light at a railway crossing means that no train is approaching. A flashing red light means that you must stop. In the image, the white light is flashing, so the system is not warning of an approaching train. Nevertheless, when approaching a railway crossing you should continue to observe your surroundings and make sure that the crossing can be passed safely.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

@@ -169,16 +169,16 @@
         },
         {
             "numara": 15,
-            "soru": "Wat betekent dit witte knipperlicht?",
+            "soru": "Wat betekent het witte knipperlicht bij deze spoorwegovergang?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/15.gif",
             "cevaplar": [
-                "De installatie is kapot of buiten werking.",
-                "Je kunt doorrijden, er nadert geen trein.",
-                "Je moet wachten op een naderende trein."
+                "Het systeem is defect of buiten werking.",
+                "Er nadert geen trein.",
+                "U moet stoppen vanwege een naderende trein."
             ],
-            "dogruCevap": "Je kunt doorrijden, er nadert geen trein.",
+            "dogruCevap": "Er nadert geen trein.",
             "feedback": {
-                "metin": "Je nadert hier een spoorwegovergang zonder slagbomen. Wanneer het bovenste witte licht knippert, nadert er geen trein en is het veilig om over te steken. Wanneer er een trein nadert, knipperen de twee onderste rode lichten om en om.",
+                "metin": "Juiste antwoord: Er nadert geen trein. Volgens artikel 71 van het RVV 1990 betekent een wit knipperlicht bij een spoorwegovergang dat er geen trein nadert. Een rood knipperlicht betekent dat u moet stoppen. In de afbeelding knippert het witte licht, waardoor het systeem geen waarschuwing voor een naderende trein geeft. Blijf bij het naderen van een spoorwegovergang wel de omgeving observeren en overtuig u ervan dat u de overweg veilig kunt passeren.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
