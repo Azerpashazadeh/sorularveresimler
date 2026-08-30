@@ -136,7 +136,7 @@
         },
         {
             "numara": 11,
-            "soru": "You want to go straight ahead. Should you give way to the red car?",
+            "soru": "You want to continue straight ahead. Do you have to let the red car go first?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/11.gif",
             "cevaplar": [
                 "Yes.",
@@ -144,7 +144,7 @@
             ],
             "dogruCevap": "No.",
             "feedback": {
-                "metin": "If the traffic lights are out of order, or if the traffic light does not have a directional arrow but a circle, the rule 'through traffic on the same road goes before traffic turning off' still applies. You are driving straight ahead and therefore do not have to give way to the red car turning off.",
+                "metin": "The correct answer is: no. A flashing yellow traffic light does not determine who goes first; it warns of a hazardous point and means that extra caution is required. In this situation, the order of passage is determined by the applicable traffic signs and the general traffic rules. You are continuing straight ahead, while the red car is turning on the same road. A driver who is turning must let oncoming traffic on the same road that is continuing straight ahead go first. Therefore, the red car must wait for you and you do not have to let the red car go first.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
