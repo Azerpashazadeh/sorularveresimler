@@ -186,16 +186,16 @@
         },
         {
             "numara": 16,
-            "soru": "Bu durumda en doğru davranış nedir?",
+            "soru": "Arkanızdaki araç sizi çok yakından takip ediyor. Bu durumda en doğru davranış nedir?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/16.jpg",
             "cevaplar": [
-                "Arkadaki sürücüyü korkutmak için hafif fren yapın.",
-                "Arkadaki araçla arayı açmak için daha hızlı gidin.",
-                "Sakin olun ve güvenli olduğunda sağ şeride geçin."
+                "Arkadaki sürücüyü uzaklaştırmak için hafifçe fren yapmalıyım.",
+                "Arkadaki araçla arayı açmak için hızımı artırmalıyım.",
+                "Sakin kalmalı ve güvenli olduğunda sağ şeride geçmeliyim."
             ],
-            "dogruCevap": "Sakin olun ve güvenli olduğunda sağ şeride geçin.",
+            "dogruCevap": "Sakin kalmalı ve güvenli olduğunda sağ şeride geçmeliyim.",
             "feedback": {
-                "metin": "Kendinizi acele etmek zorunda hissetmeyin, daima sakin olun. Önünüzdeki araçla aranızda yeterli mesafeyi koruyun. Güvenli olduğu anda sağ şeride geçin. Fren yaparak arkanızdaki sürücüyü korkutmaya çalışmayın. Bu tür davranışlar ciddi kazalara neden olabilir ve diğer yol kullanıcılarını gereksiz yere tehlikeye attığınız için sizin sorumluluğunuzda olur.",
+                "metin": "Doğru cevap: Sakin kalmalı ve güvenli olduğunda sağ şeride geçmeliyim. RVV 1990'ın 3. maddesine göre sürücüler mümkün olduğunca sağdan gitmelidir. Çok şeritli bir yolda sol şeritte kalmanızı gerektiren bir durum sona erdiğinde, trafik koşulları elveriyorsa güvenli biçimde sağ şeride dönmelisiniz. Arkanızdaki aracın çok yakın takip etmesi sizi hızlanmaya veya ani fren yaparak sürücüyü uyarmaya zorlamaz. Böyle bir durumda sakin kalmalı, önünüzdeki araçla güvenli takip mesafenizi korumalı ve uygun olduğunda sağ şeride geçerek arkadaki aracın sizi geçmesine imkân vermelisiniz. Ani veya gereksiz frenleme ise arkadan çarpma riskini artırabilir.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

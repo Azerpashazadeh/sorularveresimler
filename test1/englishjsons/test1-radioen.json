@@ -186,16 +186,16 @@
         },
         {
             "numara": 16,
-            "soru": "What is the best behaviour in this situation?",
+            "soru": "The vehicle behind you is following very closely. What is the best thing to do in this situation?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/16.jpg",
             "cevaplar": [
-                "Brake lightly to scare the tailgater.",
-                "Drive faster to create more space behind you.",
-                "Stay calm and merge to the right lane as soon as it is safe to do so."
+                "I should brake lightly to make the driver behind me back off.",
+                "I should increase my speed to create more distance from the vehicle behind me.",
+                "I should stay calm and move into the right-hand lane when it is safe to do so."
             ],
-            "dogruCevap": "Stay calm and merge to the right lane as soon as it is safe to do so.",
+            "dogruCevap": "I should stay calm and move into the right-hand lane when it is safe to do so.",
             "feedback": {
-                "metin": "Never feel rushed, and always stay calm. Maintain enough distance between your vehicle and the one in front of you. Make room as soon as it is safe to do so. Never use the brake to scare the tailgater. This can lead to serious accidents for which you will be held liable as you have unnecessarily endangered other road users.",
+                "metin": "Correct answer: I should stay calm and move into the right-hand lane when it is safe to do so. Under Article 3 of the Dutch RVV 1990, drivers must keep to the right as much as possible. On a road with multiple lanes, once there is no longer a reason to remain in the left lane, you should return to the right-hand lane when traffic conditions allow you to do so safely. A vehicle following very closely behind you is not a reason to speed up or brake suddenly to warn the other driver. Stay calm, maintain a safe following distance from the traffic ahead and move to the right when it is safe, allowing the vehicle behind you to pass. Unnecessary or sudden braking can increase the risk of a rear-end collision.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
