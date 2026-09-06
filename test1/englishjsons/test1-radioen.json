@@ -203,7 +203,7 @@
         },
         {
             "numara": 17,
-            "soru": "Are you allowed to merge here?",
+            "soru": "Are you allowed to merge back onto the main carriageway from this lane?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/17.jpg",
             "cevaplar": [
                 "Yes.",
@@ -211,7 +211,7 @@
             ],
             "dogruCevap": "No.",
             "feedback": {
-                "metin": "If there is a right arrow on the road surface, you are only allowed to exit, even if there is block marking. You are not allowed to enter the main carriageway again.",
+                "metin": "Correct answer: No. The right-pointing arrow on the road surface indicates that the lane you are in continues towards the exit. Once you have chosen this lane, you must follow the direction indicated by the arrows; you should not change lanes here to return to the main carriageway. The block marking between the lanes does not by itself give you the right to merge back onto the main carriageway. The CBR driving procedure also expects drivers to recognise road markings and lane guidance in good time and to avoid risky last-moment lane changes. Therefore, in this situation you should continue in the direction of the exit.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

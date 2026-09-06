@@ -203,7 +203,7 @@
         },
         {
             "numara": 17,
-            "soru": "Mag je hier invoegen?",
+            "soru": "Mag u vanaf deze rijstrook weer invoegen op de doorgaande rijbaan?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/17.jpg",
             "cevaplar": [
                 "Ja.",
@@ -211,7 +211,7 @@
             ],
             "dogruCevap": "Nee.",
             "feedback": {
-                "metin": "Als er een pijl naar rechts op het wegdek staat, mag je alleen uitvoegen, zelfs als er blokmarkering aanwezig is. Je mag de hoofdrijbaan niet opnieuw oprijden.",
+                "metin": "Juiste antwoord: Nee. De pijl naar rechts op het wegdek geeft aan dat de rijstrook waarop u rijdt in de richting van de afrit verdergaat. Als u deze rijstrook hebt gekozen, moet u de richting van de pijlen volgen; u mag hier niet van rijstrook wisselen om terug te keren naar de doorgaande rijbaan. De blokmarkering tussen de rijstroken geeft op zichzelf geen recht om opnieuw in te voegen. In de CBR-rijprocedure wordt eveneens verwacht dat wegmarkeringen en rijstrookgeleiding tijdig worden herkend en dat risicovolle rijstrookwisselingen op het laatste moment worden vermeden. Daarom moet u in deze situatie de richting van de afrit blijven volgen.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

@@ -203,7 +203,7 @@
         },
         {
             "numara": 17,
-            "soru": "Burada birleşmenize izin veriliyor mu?",
+            "soru": "Bu şeritten ana yola tekrar katılabilir misiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/17.jpg",
             "cevaplar": [
                 "Evet.",
@@ -211,7 +211,7 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Yol yüzeyinde sağa doğru ok işareti varsa, sadece çıkış yapmanıza izin verilir. Blok çizgi olsa bile ana yola tekrar katılmanıza izin verilmez.",
+                "metin": "Doğru cevap: Hayır. Yol yüzeyindeki sağa yönlendiren ok, bulunduğunuz şeridin çıkış yönünde devam ettiğini gösterir. Bu şeridi seçtiğinizde okların gösterdiği yönü takip etmelisiniz; buradan ana taşıt yoluna geri dönmek için şerit değiştirmemelisiniz. Şeritler arasındaki blok çizgi tek başına ana yola yeniden katılma hakkı vermez. CBR sürüş yaklaşımında da yol işaretlerinin ve şerit yönlendirmelerinin zamanında fark edilmesi ve son anda riskli şerit değişikliklerinden kaçınılması beklenir. Bu nedenle bu durumda çıkış yönünde devam etmelisiniz.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

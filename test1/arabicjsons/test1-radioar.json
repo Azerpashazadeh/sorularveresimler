@@ -203,7 +203,7 @@
         },
         {
             "numara": 17,
-            "soru": "هل يسمح لك بالاندماج هنا؟",
+            "soru": "هل يُسمح لك من هذا المسار بالاندماج مجددًا في الطريق الرئيسي؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/17.jpg",
             "cevaplar": [
                 "نعم.",
@@ -211,7 +211,7 @@
             ],
             "dogruCevap": "لا.",
             "feedback": {
-                "metin": "إذا وجد سهم لليمين على سطح الطريق، فيسمح لك فقط بالخروج، حتى لو كان هناك خطوط تقطيع. لا يسمح لك بالدخول إلى نهر الطريق الرئيسي مرة أخرى.",
+                "metin": "الإجابة الصحيحة: لا. يشير السهم المتجه إلى اليمين على سطح الطريق إلى أن المسار الذي تسير فيه يستمر باتجاه المخرج. بعد اختيار هذا المسار يجب اتباع الاتجاه الذي تشير إليه الأسهم، ولا ينبغي تغيير المسار هنا للعودة إلى الطريق الرئيسي. كما أن العلامات المتقطعة العريضة بين المسارات لا تمنحك بحد ذاتها حق الاندماج مجددًا في الطريق الرئيسي. ووفقًا لمنهج القيادة لدى CBR، يُتوقع أيضًا ملاحظة علامات الطريق وتوجيهات المسارات في الوقت المناسب وتجنب تغيير المسار بشكل خطر في اللحظة الأخيرة. لذلك يجب في هذه الحالة الاستمرار في اتجاه المخرج.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
