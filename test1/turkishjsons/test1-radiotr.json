@@ -401,7 +401,7 @@
         },
         {
             "numara": 36,
-            "soru": "Burada sola bir şerit geçmenize izin verilir mi?",
+            "soru": "Bu durumda sol şeride geçebilir misiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/36.jpg",
             "cevaplar": [
                 "Evet.",
@@ -409,7 +409,7 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Sola bir şerit geçmenize izin verilmez. Çünkü düz çizgiyi geçmek yasaktır. Kesik çizgi bu çizginin sol tarafında ve sizin tarafınızda değil. Bu çizgilerin solundaki araçlar sağa geçebilir.",
+                "metin": "Doğru cevap: Hayır. Görselde aracınızın solunda, şeritleri ayıran bir devamlı çizgi bulunmaktadır. Sol şeride geçmek için bu çizgiyi aşmanız gerekir. RVV 1990’ın 76. maddesine göre, yolun kenarını belirleyen çizgi dışında kalan devamlı bir çizginin üzerinden geçilemez. Bu maddede bazı sınırlı istisnalar bulunsa da görselde bu istisnalardan hiçbiri uygulanmamaktadır. Bu nedenle burada sol şeride geçemezsiniz. CBR Rijprocedure B’ye göre yol üzerindeki işaretlere ve yol çizgilerine uyulmalı, trafik işareti nedeniyle yasak olan yerde şerit değiştirilmemelidir. Devamlı çizgiyi aşmadan mevcut şeritte kalmalı ve yol üzerindeki yönlendirmeyi takip etmelisiniz.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

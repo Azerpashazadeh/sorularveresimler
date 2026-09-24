@@ -401,7 +401,7 @@
         },
         {
             "numara": 36,
-            "soru": "Are you allowed to move one lane to the left here?",
+            "soru": "Are you allowed to move to the left lane in this situation?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/36.jpg",
             "cevaplar": [
                 "Yes.",
@@ -409,7 +409,7 @@
             ],
             "dogruCevap": "No.",
             "feedback": {
-                "metin": "You are not allowed to move one lane to the left. You are not allowed to cross the solid line, because the broken line is on the left of this line and not on your side. Vehicles left of these lines are allowed to move to the right.",
+                "metin": "Correct answer: No. There is a solid line to the left of your vehicle separating the lanes. To move to the left lane, you would have to cross this line. Under Article 76 of the RVV 1990, a solid line that is not marking the edge of the carriageway may not be crossed. Although this article contains a few limited exceptions, none of them applies in this situation. Therefore, you may not move to the left lane here. According to the CBR Rijprocedure B, road signs and road markings must be respected, and you must not change lanes where this is prohibited by a traffic sign. Stay in your current lane without crossing the solid line and follow the directions indicated on the road surface.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
