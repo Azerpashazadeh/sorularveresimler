@@ -1,0 +1,118 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "checkbox",
+    "dil": "tr",
+    "numara": 18,
+    "patch": {
+      "soru": "Bu tabeladan sonra aşağıdaki hangi araç sürücülerinin sollama yapmasına izin verilir?",
+      "cevaplar": [
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri.",
+        "Bisikletliler.",
+        "Motosikletliler.",
+        "Kamyon sürücüleri."
+      ],
+      "dogruCevap": [
+        "Moped sürücüleri.",
+        "Tarım aracı sürücüleri.",
+        "Bisikletliler.",
+        "Motosikletliler."
+      ],
+      "feedback": {
+        "metin": "Doğru cevaplar: Moped sürücüleri, tarım aracı sürücüleri, bisikletliler ve motosikletliler. Bu işaret, kamyon sürücülerinin diğer motorlu araçları sollamasını yasaklar. Kamyon sürücüleri bu işaretin geçerli olduğu bölümde sollama yapamaz; diğer araç sürücüleri ise başka bir yasak yoksa ve güvenliyse sollama yapabilir.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "checkbox",
+    "dil": "nl",
+    "numara": 18,
+    "patch": {
+      "soru": "Welke bestuurders mogen na dit verkeersbord inhalen?",
+      "cevaplar": [
+        "Bestuurders van bromfietsen.",
+        "Bestuurders van landbouwvoertuigen.",
+        "Fietsers.",
+        "Motorrijders.",
+        "Vrachtwagenchauffeurs."
+      ],
+      "dogruCevap": [
+        "Bestuurders van bromfietsen.",
+        "Bestuurders van landbouwvoertuigen.",
+        "Fietsers.",
+        "Motorrijders."
+      ],
+      "feedback": {
+        "metin": "Juiste antwoorden: bestuurders van bromfietsen, bestuurders van landbouwvoertuigen, fietsers en motorrijders. Dit verkeersbord verbiedt vrachtwagenchauffeurs om andere motorvoertuigen in te halen. Vrachtwagenchauffeurs mogen hier niet inhalen; de bestuurders van de andere genoemde voertuigen mogen dat als er geen ander inhaalverbod geldt en het veilig is.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "checkbox",
+    "dil": "en",
+    "numara": 18,
+    "patch": {
+      "soru": "Which drivers are allowed to overtake after this sign?",
+      "cevaplar": [
+        "Moped riders.",
+        "Drivers of agricultural vehicles.",
+        "Cyclists.",
+        "Motorcyclists.",
+        "Truck drivers."
+      ],
+      "dogruCevap": [
+        "Moped riders.",
+        "Drivers of agricultural vehicles.",
+        "Cyclists.",
+        "Motorcyclists."
+      ],
+      "feedback": {
+        "metin": "Correct answers: Moped riders, drivers of agricultural vehicles, cyclists and motorcyclists. This sign prohibits truck drivers from overtaking other motor vehicles. Truck drivers may not overtake in this section; the drivers of the other vehicles listed may overtake if no other overtaking prohibition applies and it is safe.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "checkbox",
+    "dil": "ar",
+    "numara": 18,
+    "patch": {
+      "soru": "أيّ السائقين يُسمح لهم بالتجاوز بعد هذه العلامة؟",
+      "cevaplar": [
+        "سائقو الدراجات الآلية الخفيفة.",
+        "سائقو المركبات الزراعية.",
+        "راكبو الدراجات.",
+        "سائقو الدراجات النارية.",
+        "سائقو الشاحنات."
+      ],
+      "dogruCevap": [
+        "سائقو الدراجات الآلية الخفيفة.",
+        "سائقو المركبات الزراعية.",
+        "راكبو الدراجات.",
+        "سائقو الدراجات النارية."
+      ],
+      "feedback": {
+        "metin": "الإجابات الصحيحة: سائقو الدراجات الآلية الخفيفة، وسائقو المركبات الزراعية، وراكبو الدراجات، وسائقو الدراجات النارية. تمنع هذه العلامة سائقي الشاحنات من تجاوز المركبات الآلية الأخرى. لا يجوز لسائقي الشاحنات التجاوز في هذا الجزء من الطريق؛ ويجوز للسائقين الآخرين المذكورين التجاوز إذا لم يكن هناك منع آخر للتجاوز وكان ذلك آمناً.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
