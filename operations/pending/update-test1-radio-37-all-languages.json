@@ -1,0 +1,86 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 37,
+    "patch": {
+      "soru": "Bu durumda otoyolu takip etmeye devam eder misiniz?",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Evet.",
+      "feedback": {
+        "metin": "Doğru cevap: Evet. Bulunduğunuz sol şerit sona ermektedir. Güvenli olduğunda sağdaki şeride geçmelisiniz. Otoyol burada sona ermemektedir; şerit değiştirdikten sonra otoyolu takip etmeye devam edersiniz.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 37,
+    "patch": {
+      "soru": "Blijft u in deze situatie de autosnelweg volgen?",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Ja.",
+      "feedback": {
+        "metin": "Juiste antwoord: Ja. De rijstrook waarop u rijdt, houdt op. Zodra dat veilig kan, moet u naar de rechterrijstrook gaan. De autosnelweg houdt hier niet op; nadat u van rijstrook bent gewisseld, blijft u de autosnelweg volgen.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 37,
+    "patch": {
+      "soru": "Do you continue following the motorway in this situation?",
+      "cevaplar": [
+        "Yes.",
+        "No."
+      ],
+      "dogruCevap": "Yes.",
+      "feedback": {
+        "metin": "Correct answer: Yes. The lane you are in ends. When it is safe to do so, you should move to the lane on your right. The motorway does not end here; after changing lanes, you continue following the motorway.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 37,
+    "patch": {
+      "soru": "هل تواصل متابعة الطريق السريع في هذه الحالة؟",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "نعم.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: نعم. ينتهي مسار الطريق الذي تسير فيه. يجب عليك الانتقال إلى المسار الموجود على يمينك عندما يكون ذلك آمنًا. الطريق السريع لا ينتهي هنا؛ وبعد تغيير المسار تواصل متابعة الطريق السريع.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
