@@ -449,16 +449,16 @@
         },
         {
             "numara": 39,
-            "soru": "Aracınızın APK (Araç Muayenesi) için ne zaman tekrar kontrol edileceği nerede yazılıdır?",
+            "soru": "Aracınızın bir sonraki APK muayenesini ne zaman yaptırmanız gerektiği nerede yazılıdır?",
             "resim": "",
             "cevaplar": [
                 "Ruhsat kartında.",
                 "Kullanım kılavuzunda.",
-                "Muayene belgesinde."
+                "APK muayene raporunda."
             ],
-            "dogruCevap": "Muayene belgesinde.",
+            "dogruCevap": "APK muayene raporunda.",
             "feedback": {
-                "metin": "Araçlar periyodik olarak muayene edilmelidir. Benzinli ve hibrit araçlarda ilk muayene satın alma tarihinden 4 yıl sonra, dizel araçlarda ise 3 yıl sonra yapılır. Daha sonra benzinli ve hibrit araçlar iki kez 2 yılda bir, ardından her yıl muayene edilir. Dizel araçlar ise ilk muayeneden sonra her yıl kontrol edilir. Aracınızın tekrar muayene edilmesi gereken tarih muayene belgesinde yazılıdır.",
+                "metin": "Doğru cevap: APK muayene raporunda. APK sonrasında verilen muayene raporunda, aracınızın bir sonraki APK muayenesini ne zaman yaptırmanız gerektiği belirtilir. Bu tarih RDW’nin araç sorgulama hizmetinden veya RDW araç raporundan da kontrol edilebilir. APK muayene aralığı aracın yaşı, yakıt türü ve araç tipine göre değişir; bu nedenle tek bir muayene aralığı bütün araçlar için geçerli değildir.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
