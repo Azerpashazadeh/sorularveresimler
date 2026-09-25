@@ -466,7 +466,7 @@
         },
         {
             "numara": 41,
-            "soru": "Are you allowed to overtake the motorcyclist?",
+            "soru": "Are you allowed to overtake the motorcyclist in this situation?",
             "video": "https://azerpashazadeh.github.io/sorularveresimler/test1/41.mp4",
             "cevaplar": [
                 "Yes.",
@@ -474,7 +474,7 @@
             ],
             "dogruCevap": "No.",
             "feedback": {
-                "metin": "It is too foggy to see if oncoming traffic is approaching. It is not safe to overtake here and it is therefore prohibited.",
+                "metin": "Correct answer: No. Because of the dense fog, you cannot see oncoming traffic or the road far enough ahead clearly enough. As a result, you cannot assess whether there is sufficient clear and safe space to overtake. You need sufficient visibility and a safe clear space before, during and after overtaking. In this situation, stay behind the motorcyclist and wait until visibility improves.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
