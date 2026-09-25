@@ -417,7 +417,7 @@
         },
         {
             "numara": 37,
-            "soru": "Do you continue following the motorway here?",
+            "soru": "Do you continue following the motorway in this situation?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/37.jpg",
             "cevaplar": [
                 "Yes.",
@@ -425,7 +425,7 @@
             ],
             "dogruCevap": "Yes.",
             "feedback": {
-                "metin": "You are driving on a lane that is ending. You have to move one lane to the right. However, the motorway does not end here, you keep following it.",
+                "metin": "Correct answer: Yes. The lane you are in ends. When it is safe to do so, you should move to the lane on your right. The motorway does not end here; after changing lanes, you continue following the motorway.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"

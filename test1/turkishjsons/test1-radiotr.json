@@ -417,7 +417,7 @@
         },
         {
             "numara": 37,
-            "soru": "Burada otoyolu takip etmeye devam ediyor musunuz?",
+            "soru": "Bu durumda otoyolu takip etmeye devam eder misiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/37.jpg",
             "cevaplar": [
                 "Evet.",
@@ -425,7 +425,7 @@
             ],
             "dogruCevap": "Evet.",
             "feedback": {
-                "metin": "Bitmekte olan bir şeritte ilerliyorsunuz. Sağa bir şerit geçmeniz gerekir. Ancak burada otoyol bitmiyor, otoyolu takip etmeye devam ediyorsunuz.",
+                "metin": "Doğru cevap: Evet. Bulunduğunuz sol şerit sona ermektedir. Güvenli olduğunda sağdaki şeride geçmelisiniz. Otoyol burada sona ermemektedir; şerit değiştirdikten sonra otoyolu takip etmeye devam edersiniz.",
                 "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
                 "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
                 "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
