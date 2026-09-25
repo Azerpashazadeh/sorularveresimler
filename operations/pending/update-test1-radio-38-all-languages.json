@@ -1,0 +1,86 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 38,
+    "patch": {
+      "soru": "Aracınızda bir uyarı üçgeni bulundurmanız zorunlu mudur?",
+      "cevaplar": [
+        "Evet.",
+        "Hayır."
+      ],
+      "dogruCevap": "Hayır.",
+      "feedback": {
+        "metin": "Doğru cevap: Hayır. Hollanda’da aracınızda uyarı üçgeni bulundurmak zorunlu değildir; ancak bir tane bulundurmanız tavsiye edilir. Duran aracınız, yaklaşan sürücüler tarafından zamanında fark edilemeyecek bir engel oluşturuyorsa, uyarı üçgenini aracınızdan yaklaşık 30 metre uzağa ve tehlike yönündeki trafiğin görebileceği şekilde yerleştirmelisiniz. Dörtlü ikaz lambaları yanıyorsa uyarı üçgeni yerleştirmeniz gerekmez.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 38,
+    "patch": {
+      "soru": "Is het verplicht om een gevarendriehoek in de auto te hebben?",
+      "cevaplar": [
+        "Ja.",
+        "Nee."
+      ],
+      "dogruCevap": "Nee.",
+      "feedback": {
+        "metin": "Juiste antwoord: Nee. In Nederland is het niet verplicht om een gevarendriehoek in de auto te hebben, maar het is wel verstandig om er een mee te nemen. Als uw stilstaande voertuig een obstakel vormt dat naderende bestuurders niet op tijd kunnen opmerken, moet u de gevarendriehoek op ongeveer 30 meter van uw voertuig plaatsen, in de richting van het verkeer dat gevaar loopt. Als u de knipperende waarschuwingslichten voert, hoeft u geen gevarendriehoek te plaatsen.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 38,
+    "patch": {
+      "soru": "Is it mandatory to carry a warning triangle in your car?",
+      "cevaplar": [
+        "Yes.",
+        "No."
+      ],
+      "dogruCevap": "No.",
+      "feedback": {
+        "metin": "Correct answer: No. In the Netherlands, you are not required to carry a warning triangle in your car, but it is recommended. If your stationary vehicle creates an obstacle that approaching drivers cannot notice in time, you must place the warning triangle about 30 metres from your vehicle, in the direction of the traffic at risk. If your hazard warning lights are flashing, you do not need to place a warning triangle.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 38,
+    "patch": {
+      "soru": "هل يُلزم القانون بحمل مثلث تحذير في السيارة؟",
+      "cevaplar": [
+        "نعم.",
+        "لا."
+      ],
+      "dogruCevap": "لا.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: لا. في هولندا، لا يُلزمك القانون بحمل مثلث تحذير في السيارة، لكن يُنصح بالاحتفاظ به. إذا كانت مركبتك المتوقفة تشكل عائقًا لا يستطيع السائقون القادمون ملاحظته في الوقت المناسب، فيجب وضع مثلث التحذير على بُعد نحو 30 مترًا من المركبة، وفي اتجاه حركة المرور المعرضة للخطر. وإذا كانت أضواء التحذير الوامضة مضاءة، فلا يلزم وضع مثلث تحذير.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
