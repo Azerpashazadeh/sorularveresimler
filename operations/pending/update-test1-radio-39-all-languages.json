@@ -1,0 +1,90 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "tr",
+    "numara": 39,
+    "patch": {
+      "soru": "Aracınızın bir sonraki APK muayenesini ne zaman yaptırmanız gerektiği nerede yazılıdır?",
+      "cevaplar": [
+        "Ruhsat kartında.",
+        "Kullanım kılavuzunda.",
+        "APK muayene raporunda."
+      ],
+      "dogruCevap": "APK muayene raporunda.",
+      "feedback": {
+        "metin": "Doğru cevap: APK muayene raporunda. APK sonrasında verilen muayene raporunda, aracınızın bir sonraki APK muayenesini ne zaman yaptırmanız gerektiği belirtilir. Bu tarih RDW’nin araç sorgulama hizmetinden veya RDW araç raporundan da kontrol edilebilir. APK muayene aralığı aracın yaşı, yakıt türü ve araç tipine göre değişir; bu nedenle tek bir muayene aralığı bütün araçlar için geçerli değildir.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "nl",
+    "numara": 39,
+    "patch": {
+      "soru": "Waar staat wanneer u uw auto de volgende keer APK moet laten keuren?",
+      "cevaplar": [
+        "Op het kentekenbewijs.",
+        "In de handleiding.",
+        "Op het APK-keuringsrapport."
+      ],
+      "dogruCevap": "Op het APK-keuringsrapport.",
+      "feedback": {
+        "metin": "Juiste antwoord: Op het APK-keuringsrapport. Op het keuringsrapport dat u na de APK ontvangt, staat wanneer u uw auto de volgende keer moet laten keuren. U kunt deze datum ook controleren via de kentekencheck van de RDW of in het RDW-voertuigrapport. De APK-frequentie hangt af van de leeftijd, de brandstofsoort en het type voertuig; er geldt dus niet één interval voor alle voertuigen.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "en",
+    "numara": 39,
+    "patch": {
+      "soru": "Where is it stated when your car needs to undergo its next APK inspection?",
+      "cevaplar": [
+        "On the registration certificate.",
+        "In the owner’s manual.",
+        "On the APK inspection report."
+      ],
+      "dogruCevap": "On the APK inspection report.",
+      "feedback": {
+        "metin": "Correct answer: On the APK inspection report. The inspection report you receive after the APK states when your car needs to undergo its next inspection. You can also check this date through the RDW vehicle registration check or the RDW vehicle report. The APK inspection interval depends on the vehicle’s age, fuel type and type of vehicle; there is therefore no single interval that applies to all vehicles.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "radio",
+    "dil": "ar",
+    "numara": 39,
+    "patch": {
+      "soru": "أين يُذكر موعد إجراء فحص APK القادم لسيارتك؟",
+      "cevaplar": [
+        "في بطاقة تسجيل السيارة.",
+        "في دليل الاستخدام.",
+        "في تقرير فحص APK."
+      ],
+      "dogruCevap": "في تقرير فحص APK.",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: في تقرير فحص APK. يوضح التقرير الذي تحصل عليه بعد فحص APK موعد إجراء الفحص التالي لسيارتك. ويمكنك أيضًا التحقق من هذا التاريخ عبر خدمة الاستعلام عن تسجيل المركبة لدى RDW أو من خلال تقرير المركبة من RDW. وتختلف فترة فحص APK حسب عمر المركبة ونوع الوقود ونوع المركبة؛ لذلك لا توجد فترة واحدة تنطبق على جميع المركبات.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
