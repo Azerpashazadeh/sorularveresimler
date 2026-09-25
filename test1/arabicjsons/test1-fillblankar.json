@@ -2,38 +2,38 @@
     "sorular": [
         {
             "numara": 7,
-            "soru": "ما هي السرعة القصوى المسموح لك بها عند تجاوز هذه الشاحنة؟",
+            "soru": "عند تجاوز هذه الشاحنة، ما السرعة القصوى التي يُسمح لك بالقيادة بها بمركبتك التي تجر مقطورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/7.jpg",
             "dogruCevap": "90",
             "feedback": {
-                "metin": "الحد الأقصى للسرعة لسيارة ركاب تسحب مقطورة على الطرق السريعة (autoweg) أو الطرق السيارة (motorway) هو 90 كم/ساعة. في هذه الحالة، أنت تقود على طريق سيار. وحتى عند التجاوز، لا يُسمح لك بتخطي حد السرعة هذا.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: 90 كم/ساعة. تُظهر الصورة أنك تقود على طريق سريع بسيارة تجر مقطورة. تبلغ السرعة القصوى على الطريق السريع لسيارة تجر مقطورة لا تزيد كتلتها القصوى المسموح بها على 3500 كغ، 90 كم/ساعة. ولا يجوز لك تجاوز هذا الحد أثناء تجاوز الشاحنة.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 28,
-            "soru": "ما هو الارتفاع الأقصى المسموح به لهذه السيارة، بما في ذلك الدراجات الهوائية؟",
+            "soru": "ما أقصى ارتفاع إجمالي يُسمح به لهذه السيارة، بما في ذلك الدراجات؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/28.jpg",
             "dogruCevap": "4",
             "feedback": {
-                "metin": "يجب ألا يتجاوز ارتفاع سيارة الركاب، بما في ذلك الحمولة، 4 أمتار.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: 4 أمتار. لا يجوز أن يتجاوز الارتفاع الإجمالي للمركبة، بما في ذلك الحمولة والدراجات المثبتة على السقف، 4 أمتار.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 32,
-            "soru": "ما هي السرعة القصوى المسموح لك بالقيادة بها هنا؟",
+            "soru": "ما السرعة القصوى المسموح بها بعد هذه العلامة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/32.jpg",
             "dogruCevap": "70",
             "feedback": {
-                "metin": "داخل المناطق السكنية (المبنية)، يكون حد السرعة هو 50 كم/ساعة، ما لم تشر اللوحات المرورية إلى خلاف ذلك. في هذه الحالة، تشير اللوحة المرورية A-1 إلى أن حد السرعة هو 70 كم/ساعة.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: 70 كم/ساعة. تُظهر علامة تحديد السرعة حداً أقصى قدره 70 كم/ساعة. لذلك لا يجوز لك القيادة بسرعة تتجاوز 70 كم/ساعة بعد هذه العلامة.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         }
     ]
