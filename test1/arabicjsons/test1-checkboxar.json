@@ -2,27 +2,26 @@
     "sorular": [
         {
             "numara": 18,
-            "soru": "أي من السائقين يُسمح لك بتجاوزهم بعد هذه الإشارة؟",
+            "soru": "أيّ السائقين يُسمح لهم بالتجاوز بعد هذه العلامة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/18.jpg",
             "cevaplar": [
-                "سائقو الدراجات النارية الصغيرة (Moped).",
+                "سائقو الدراجات الآلية الخفيفة.",
                 "سائقو المركبات الزراعية.",
-                "راكبو الدراجات الهوائية.",
+                "راكبو الدراجات.",
                 "سائقو الدراجات النارية.",
                 "سائقو الشاحنات."
             ],
             "dogruCevap": [
-                "سائقو الدراجات النارية الصغيرة (Moped).",
+                "سائقو الدراجات الآلية الخفيفة.",
                 "سائقو المركبات الزراعية.",
-                "راكبو الدراجات الهوائية.",
-                "سائقو الدراجات النارية.",
-                "سائقو الشاحنات."
+                "راكبو الدراجات.",
+                "سائقو الدراجات النارية."
             ],
             "feedback": {
-                "metin": "تشير هذه الإشارة إلى منع سائقي الشاحنات من تجاوز المركبات الآلية الأخرى. وهذا يعني أن هذه الإشارة لا تنطبق عليك بصفتك سائق سيارة خاصة. يمكنك تجاوز جميع المركبات طالما كان ذلك آمناً، بما في ذلك الشاحنات.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابات الصحيحة: سائقو الدراجات الآلية الخفيفة، وسائقو المركبات الزراعية، وراكبو الدراجات، وسائقو الدراجات النارية. تمنع هذه العلامة سائقي الشاحنات من تجاوز المركبات الآلية الأخرى. لا يجوز لسائقي الشاحنات التجاوز في هذا الجزء من الطريق؛ ويجوز للسائقين الآخرين المذكورين التجاوز إذا لم يكن هناك منع آخر للتجاوز وكان ذلك آمناً.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         }
     ]

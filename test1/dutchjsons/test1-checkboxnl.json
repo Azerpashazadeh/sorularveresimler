@@ -2,27 +2,26 @@
     "sorular": [
         {
             "numara": 18,
-            "soru": "Welke bestuurders mag u inhalen na dit bord?",
+            "soru": "Welke bestuurders mogen na dit verkeersbord inhalen?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/18.jpg",
             "cevaplar": [
-                "Bromfietsers.",
+                "Bestuurders van bromfietsen.",
                 "Bestuurders van landbouwvoertuigen.",
                 "Fietsers.",
                 "Motorrijders.",
-                "Bestuurders van vrachtwagens."
+                "Vrachtwagenchauffeurs."
             ],
             "dogruCevap": [
-                "Bromfietsers.",
+                "Bestuurders van bromfietsen.",
                 "Bestuurders van landbouwvoertuigen.",
                 "Fietsers.",
-                "Motorrijders.",
-                "Bestuurders van vrachtwagens."
+                "Motorrijders."
             ],
             "feedback": {
-                "metin": "Dit bord geeft aan dat vrachtwagenbestuurders geen andere motorvoertuigen mogen inhalen. Dit betekent dat dit bord niet voor u geldt. U mag alle voertuigen inhalen, zolang het veilig is om dit te doen. Zelfs vrachtwagens.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Juiste antwoorden: bestuurders van bromfietsen, bestuurders van landbouwvoertuigen, fietsers en motorrijders. Dit verkeersbord verbiedt vrachtwagenchauffeurs om andere motorvoertuigen in te halen. Vrachtwagenchauffeurs mogen hier niet inhalen; de bestuurders van de andere genoemde voertuigen mogen dat als er geen ander inhaalverbod geldt en het veilig is.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         }
     ]
