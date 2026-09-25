@@ -1,0 +1,206 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "tr",
+    "numara": 7,
+    "patch": {
+      "soru": "Bu kamyonu sollarken, römorklu aracınızla çıkabileceğiniz en yüksek hız kaç km/saattir?",
+      "dogruCevap": "90",
+      "feedback": {
+        "metin": "Doğru cevap: 90 km/sa. Görselde römorklu bir otomobille otoyolda seyrediyorsunuz. İzin verilen toplam azami kütlesi 3.500 kg’ı aşmayan bir römork çeken otomobilin otoyoldaki azami hızı 90 km/saattir. Kamyonu sollarken de bu sınırı aşamazsınız.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "nl",
+    "numara": 7,
+    "patch": {
+      "soru": "Als u deze vrachtwagen inhaalt, wat is dan de hoogst toegestane snelheid met uw auto met aanhangwagen?",
+      "dogruCevap": "90",
+      "feedback": {
+        "metin": "Juiste antwoord: 90 km/u. Op de afbeelding rijdt u op een autosnelweg met een auto met aanhangwagen. Voor een auto met een aanhangwagen met een toegestane maximummassa van niet meer dan 3.500 kg geldt op de autosnelweg een maximumsnelheid van 90 km/u. Ook tijdens het inhalen van de vrachtwagen mag u deze snelheid niet overschrijden.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "en",
+    "numara": 7,
+    "patch": {
+      "soru": "When overtaking this lorry, what is the highest speed you may drive with your vehicle towing a trailer?",
+      "dogruCevap": "90",
+      "feedback": {
+        "metin": "Correct answer: 90 km/h. The image shows you driving on a motorway with a car towing a trailer. A car towing a trailer with a permitted maximum mass of no more than 3,500 kg has a maximum speed of 90 km/h on a motorway. You may not exceed this limit while overtaking the lorry.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "ar",
+    "numara": 7,
+    "patch": {
+      "soru": "عند تجاوز هذه الشاحنة، ما السرعة القصوى التي يُسمح لك بالقيادة بها بمركبتك التي تجر مقطورة؟",
+      "dogruCevap": "90",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: 90 كم/ساعة. تُظهر الصورة أنك تقود على طريق سريع بسيارة تجر مقطورة. تبلغ السرعة القصوى على الطريق السريع لسيارة تجر مقطورة لا تزيد كتلتها القصوى المسموح بها على 3500 كغ، 90 كم/ساعة. ولا يجوز لك تجاوز هذا الحد أثناء تجاوز الشاحنة.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "tr",
+    "numara": 28,
+    "patch": {
+      "soru": "Bisikletler de dahil olmak üzere bu aracın toplam yüksekliği en fazla kaç metre olabilir?",
+      "dogruCevap": "4",
+      "feedback": {
+        "metin": "Doğru cevap: 4 metre. Aracın yüksekliği, üzerindeki yük ve tavandaki bisikletler dahil olmak üzere 4 metreyi geçmemelidir.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "nl",
+    "numara": 28,
+    "patch": {
+      "soru": "Wat is de maximale totale hoogte van deze auto, inclusief de fietsen?",
+      "dogruCevap": "4",
+      "feedback": {
+        "metin": "Juiste antwoord: 4 meter. De totale hoogte van de auto mag, inclusief de lading en de fietsen op het dak, niet hoger zijn dan 4 meter.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "en",
+    "numara": 28,
+    "patch": {
+      "soru": "What is the maximum total height of this vehicle, including the bicycles?",
+      "dogruCevap": "4",
+      "feedback": {
+        "metin": "Correct answer: 4 metres. The total height of the vehicle, including its load and the bicycles on the roof, may not exceed 4 metres.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "ar",
+    "numara": 28,
+    "patch": {
+      "soru": "ما أقصى ارتفاع إجمالي يُسمح به لهذه السيارة، بما في ذلك الدراجات؟",
+      "dogruCevap": "4",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: 4 أمتار. لا يجوز أن يتجاوز الارتفاع الإجمالي للمركبة، بما في ذلك الحمولة والدراجات المثبتة على السقف، 4 أمتار.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "tr",
+    "numara": 32,
+    "patch": {
+      "soru": "Bu tabeladan sonra izin verilen azami hız kaç km/saattir?",
+      "dogruCevap": "70",
+      "feedback": {
+        "metin": "Doğru cevap: 70 km/sa. Görseldeki hız sınırı işareti 70 km/sa göstermektedir. Bu nedenle tabeladan sonra en fazla 70 km/sa hızla gidebilirsiniz.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "nl",
+    "numara": 32,
+    "patch": {
+      "soru": "Welke maximumsnelheid geldt na dit verkeersbord?",
+      "dogruCevap": "70",
+      "feedback": {
+        "metin": "Juiste antwoord: 70 km/u. Op het verkeersbord staat een maximumsnelheid van 70 km/u. Daarom mag u na dit bord maximaal 70 km/u rijden.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "en",
+    "numara": 32,
+    "patch": {
+      "soru": "What is the maximum speed allowed after this sign?",
+      "dogruCevap": "70",
+      "feedback": {
+        "metin": "Correct answer: 70 km/h. The speed-limit sign shows 70 km/h. Therefore, after this sign, you may drive at no more than 70 km/h.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "fillblank",
+    "dil": "ar",
+    "numara": 32,
+    "patch": {
+      "soru": "ما السرعة القصوى المسموح بها بعد هذه العلامة؟",
+      "dogruCevap": "70",
+      "feedback": {
+        "metin": "الإجابة الصحيحة: 70 كم/ساعة. تُظهر علامة تحديد السرعة حداً أقصى قدره 70 كم/ساعة. لذلك لا يجوز لك القيادة بسرعة تتجاوز 70 كم/ساعة بعد هذه العلامة.",
+        "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
