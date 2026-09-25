@@ -1,0 +1,130 @@
+[
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "tr",
+    "numara": 12,
+    "patch": {
+      "soru": "Hangi durumlarda sağdan sollamaya izin verilir?",
+      "feedback": {
+        "metin": "Üstteki her iki durumda sağdan sollamaya izin verilir. Bir tramvay hem solundan hem de sağından sollanabilir. Ayrıca, sollamak istediğiniz araç blok çizginin sol tarafında gidiyorsa, sağdan sollama da mümkündür. Alt kısımdaki iki durumda ise sağdan sollamaya izin verilmez. Soldaki durumda, gereksiz yere sol şeritte seyreden bir aracı sollayamazsınız; bu aracın sağ şeride geçmesini beklemelisiniz. Sağdaki durumda ise yoğun saat şeridinde (rush hour lane) seyrediyorsunuz. Bu şerit normal bir şerit olarak kabul edilir. Trafik sıkışıklığı olmadıkça sağdan sollamaya izin verilmez. Bu durumda bir trafik sıkışıklığı söz konusu değildir.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "tr",
+    "numara": 33,
+    "patch": {
+      "soru": "Hangi tabelalardan sonra taşıt yolunda yayaları beklemelisiniz?",
+      "feedback": {
+        "metin": "Doğru cevaplar G-5 (erf) ve J-23 tabelalarıdır. G-5 tabelası, yayaların taşıt yolunun tamamını kullanabildiği bir erf bölgesine girdiğinizi belirtir. J-23 tabelası, yayaların taşıt yolunu kullanabileceği veya karşıya geçebileceği konusunda uyarır. C-16 tabelası yayaların girişini yasaklar. G-3 tabelası ise otoyolu gösterir ve yayaların otoyolda bulunmasına izin verilmez.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "nl",
+    "numara": 12,
+    "patch": {
+      "soru": "In welke situaties mag u rechts inhalen?",
+      "feedback": {
+        "metin": "In de twee bovenste situaties mag u rechts inhalen. Een tram mag zowel links als rechts worden ingehaald. Ook mag u rechts inhalen als het voertuig dat u wilt inhalen links van een doorgetrokken streep rijdt. In de twee onderste situaties mag u niet rechts inhalen. In de linker situatie mag u een voertuig dat onnodig op de linker rijstrook rijdt niet inhalen; u moet wachten tot dit voertuig naar de rechter rijstrook gaat. In de rechter situatie rijdt u op een spitsstrook. Deze strook wordt als een normale rijstrook beschouwd. Zolang er geen file is, mag u op deze strook niet rechts inhalen. In deze situatie is er geen file.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "nl",
+    "numara": 33,
+    "patch": {
+      "soru": "Na welke verkeersborden moet u voetgangers op de rijbaan verwachten?",
+      "feedback": {
+        "metin": "De juiste antwoorden zijn de borden G-5 (erf) en J-23. Het bord G-5 geeft aan dat u een erf binnenrijdt, waar voetgangers de hele rijbaan mogen gebruiken. Het bord J-23 waarschuwt dat voetgangers de rijbaan kunnen gebruiken of kunnen oversteken. Het bord C-16 verbiedt de toegang voor voetgangers. Het bord G-3 geeft een autosnelweg aan; voetgangers mogen zich daar niet bevinden.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "en",
+    "numara": 12,
+    "patch": {
+      "soru": "In which situations are you allowed to overtake on the right?",
+      "feedback": {
+        "metin": "In both situations at the top, you are allowed to overtake on the right. A tram may be overtaken on either the left or the right. You may also overtake on the right if the vehicle you want to overtake is driving to the left of a solid line. In the two situations at the bottom, overtaking on the right is not allowed. In the situation on the left, you may not overtake a vehicle that is unnecessarily driving in the left lane; you must wait for it to move to the right lane. In the situation on the right, you are driving in a rush-hour lane. This lane is considered a normal lane. Overtaking on the right is not allowed unless there is a traffic jam. In this situation, there is no traffic jam.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "en",
+    "numara": 33,
+    "patch": {
+      "soru": "After which signs should you expect pedestrians on the road?",
+      "feedback": {
+        "metin": "The correct answers are the G-5 (home zone) and J-23 signs. The G-5 sign indicates that you are entering a home zone where pedestrians may use the entire road. The J-23 sign warns that pedestrians may use or cross the road. The C-16 sign prohibits access for pedestrians. The G-3 sign indicates a motorway, where pedestrians are not allowed.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "ar",
+    "numara": 12,
+    "patch": {
+      "soru": "في أي حالات يُسمح لك بالتجاوز من اليمين؟",
+      "feedback": {
+        "metin": "في كلتا الحالتين في الجزء العلوي، يُسمح لك بالتجاوز من اليمين. يمكن تجاوز الترام من الجهة اليسرى أو اليمنى. ويُسمح لك أيضاً بالتجاوز من اليمين إذا كانت المركبة التي تريد تجاوزها تسير إلى يسار خط متصل. أما في الحالتين في الجزء السفلي، فلا يُسمح بالتجاوز من اليمين. في الحالة الموجودة على اليسار، لا يجوز لك تجاوز مركبة تسير دون داعٍ في المسار الأيسر؛ يجب أن تنتظر حتى تنتقل هذه المركبة إلى المسار الأيمن. وفي الحالة الموجودة على اليمين، أنت تسير في مسار ساعات الذروة. ويُعتبر هذا المسار مساراً عادياً. ولا يُسمح بالتجاوز من اليمين ما لم يكن هناك ازدحام مروري. ولا يوجد ازدحام مروري في هذه الحالة.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  },
+  {
+    "action": "update",
+    "test": 1,
+    "tip": "resimsech",
+    "dil": "ar",
+    "numara": 33,
+    "patch": {
+      "soru": "بعد أيّ من هذه العلامات يجب أن تتوقع وجود مشاة على الطريق؟",
+      "feedback": {
+        "metin": "الإجابتان الصحيحتان هما علامتا G-5 (منطقة معيشية) وJ-23. تشير علامة G-5 إلى دخولك منطقة يُسمح فيها للمشاة باستخدام كامل الطريق. وتحذّر علامة J-23 من احتمال استخدام المشاة للطريق أو عبورهم له. أما علامة C-16 فتمنع دخول المشاة. وتشير علامة G-3 إلى طريق سريع، حيث لا يُسمح بوجود المشاة.",
+        "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+        "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+        "cevaplanmamisResim": "https://azerpashadeh.github.io/sorularveresimler/cevaplanmamish.png"
+      }
+    }
+  }
+]
