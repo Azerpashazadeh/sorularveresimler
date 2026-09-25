@@ -482,41 +482,41 @@
         },
         {
             "numara": 42,
-            "soru": "ما هي مركبة 'Brommobiel'؟",
+            "soru": "إلى أي نوع من المركبات تنتمي مركبة «بروموبيل»؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/42.jpg",
             "cevaplar": [
                 "مركبة آلية.",
-                "موبد (دراجة نارية خفيفة) بثلاث أو أربع عجلات.",
-                "مركبة لذوي الاحتياجات الخاصة."
+                "دراجة آلية خفيفة بثلاث أو أربع عجلات.",
+                "مركبة مخصصة لذوي الإعاقة."
             ],
-            "dogruCevap": "موبد (دراجة نارية خفيفة) بثلاث أو أربع عجلات.",
+            "dogruCevap": "دراجة آلية خفيفة بثلاث أو أربع عجلات.",
             "feedback": {
-                "metin": "مركبة 'Brommobiel' هي عبارة عن 'موبد' (Moped) بثلاث أو أربع عجلات ولها هيكل خارجي. لقيادتها يجب ألا يقل عمرك عن 16 عاماً وأن تحمل رخصة قيادة من فئة AM. وبالرغم من أنها تتبع قواعد السلوك المروري الخاصة بالمركبات الآلية، إلا أنها لا تُصنف كمركبة آلية بل هي 'موبد'. كما أنها لا تُعتبر مركبة لذوي الاحتياجات الخاصة لأن عرضها يتجاوز 1.10 متر.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: دراجة آلية خفيفة بثلاث أو أربع عجلات. تحتوي مركبة «بروموبيل» على أكثر من عجلتين وهي مزودة بهيكل، وتشبه سيارة صغيرة. وتبلغ سرعتها القصوى 45 كم/ساعة. وهي ليست مركبة مخصصة لذوي الإعاقة. لقيادتها يجب أن يكون عمرك 16 عاماً على الأقل وأن تحمل رخصة AM المناسبة.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 43,
-            "soru": "ما هي مسافة الأمان الصحيحة في الظروف الجوية والطرق الجيدة؟",
+            "soru": "عندما تكون ظروف الطريق والطقس جيدة، ما الحد الأدنى للفاصل الزمني الذي يجب تركه بينك وبين المركبة التي أمامك؟",
             "resim": "",
             "cevaplar": [
-                "ثانية واحدة كحد أدنى.",
-                "ثانيتان كحد أدنى.",
-                "3 ثوانٍ كحد أدنى."
+                "ثانية واحدة على الأقل.",
+                "ثانيتان على الأقل.",
+                "ثلاث ثوانٍ على الأقل."
             ],
-            "dogruCevap": "ثانيتان كحد أدنى.",
+            "dogruCevap": "ثانيتان على الأقل.",
             "feedback": {
-                "metin": "مسافة الأمان الصحيحة هي المسافة التي تمنحك مساحة كافية للتوقف في الوقت المناسب. في الظروف الجيدة، تكفي قاعدة الثانيتين. أما في الظروف السيئة، فيجب الحفاظ على مسافة أمان تتراوح بين 3 إلى 4 ثوانٍ حسب السرعة.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: ثانيتان على الأقل. ابدأ العد عندما تتجاوز المركبة التي أمامك نقطة ثابتة؛ ويجب ألا تصل إلى النقطة نفسها قبل مرور ثانيتين على الأقل. وعندما تكون ظروف الطريق أو الطقس سيئة، يجب ترك فاصل زمني أكبر.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 44,
-            "soru": "هل يسمح لك بالتجاوز هنا؟",
+            "soru": "هل يُسمح لك بالتجاوز في هذا الجزء من الطريق؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/44.jpg",
             "cevaplar": [
                 "نعم.",
@@ -524,15 +524,15 @@
             ],
             "dogruCevap": "لا.",
             "feedback": {
-                "metin": "الخط الأبيض المتصل يشير إلى عدم السماح بالتجاوز، ولا يهم ما إذا كان الخط مفرداً أو مزدوجاً.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: لا. تُظهر الصورة خطاً متصلاً يفصل بين حركة المرور القادمة من اتجاهين متعاكسين. وللتجاوز سيتعين عليك عبور هذا الخط، وهذا غير مسموح به؛ لذلك لا يجوز لك التجاوز هنا.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 45,
-            "soru": "هل يمكنك الركن هنا؟",
+            "soru": "هل يُسمح لك بركن سيارتك في المكان الظاهر في الصورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/45.jpg",
             "cevaplar": [
                 "نعم.",
@@ -540,15 +540,15 @@
             ],
             "dogruCevap": "لا.",
             "feedback": {
-                "metin": "لا يسمح لك بالركن أمام مدخل أو مخرج، حتى لو كان المدخل أو المخرج خاصاً بك.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: لا. لا يجوز لك ركن السيارة أمام مدخل أو مخرج. وينطبق هذا المنع حتى لو كان المدخل أو المخرج ملكاً لك؛ فلا يجوز أن تعيق الدخول أو الخروج.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 46,
-            "soru": "هل يسمح لك بالركن هنا؟",
+            "soru": "هل يُسمح لك بركن سيارتك في المكان الظاهر في الصورة؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/46.jpg",
             "cevaplar": [
                 "نعم.",
@@ -556,61 +556,61 @@
             ],
             "dogruCevap": "لا.",
             "feedback": {
-                "metin": "الطرق ذات الأولوية خارج المناطق المبنية مخصصة للربط السريع بين الأماكن. لا يجوز للسائقين الركن على نهر الطريق لهذه الطرق، لذا لا يسمح لك بالركن هنا.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: لا. تُظهر الصورة طريقاً ذا أولوية خارج منطقة عمرانية. لا يجوز ركن السيارة على مسار هذا النوع من الطرق. إذا احتجت إلى الوقوف، فاستخدم مكاناً يُسمح فيه بالركن.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 47,
-            "soru": "كيف تضبط مسند الرأس بشكل صحيح؟",
+            "soru": "كيف تضبط ارتفاع مسند الرأس؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/47.jpg",
             "cevaplar": [
-                "يجب أن يكون أسفل مسند الرأس في مستوى الكتف.",
-                "يجب أن يكون الجزء العلوي من مسند الرأس في نفس مستوى أعلى الرأس.",
-                "يجب أن يكون أسفل مسند الرأس في مستوى الأذنين."
+                "يجب أن يكون الجزء السفلي من مسند الرأس على مستوى الكتفين.",
+                "يجب أن يكون الجزء العلوي من مسند الرأس على مستوى أعلى الرأس.",
+                "يجب أن يكون الجزء السفلي من مسند الرأس على مستوى الأذنين."
             ],
-            "dogruCevap": "يجب أن يكون الجزء العلوي من مسند الرأس في نفس مستوى أعلى الرأس.",
+            "dogruCevap": "يجب أن يكون الجزء العلوي من مسند الرأس على مستوى أعلى الرأس.",
             "feedback": {
-                "metin": "تهدف ميزات السلامة إلى منع أو تقليل الإصابات الناتجة عن التصادم، ومنها مساند الرأس. من المهم ضبطها بحيث تكون قريبة من الرأس ويكون الجزء العلوي منها في نفس مستوى أعلى الرأس.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: يجب أن يكون الجزء العلوي من مسند الرأس على مستوى أعلى الرأس. يجب أن يكون مسند الرأس قريباً من رأسك قدر الإمكان وأن يوفر دعماً كافياً. ويمكن أن يساعد ذلك على تقليل خطر إصابات الرأس والرقبة عند وقوع اصطدام.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 48,
-            "soru": "تعرضت لحادث أدى إلى أضرار طفيفة فقط. أين تقوم بتعبئة نموذج المطالبة بالأضرار؟",
+            "soru": "تعرضت لحادث بسيط نتجت عنه أضرار مادية فقط. أين يجب أن تملأ نموذج حصر الأضرار؟",
             "resim": "",
             "cevaplar": [
-                "في مكان آمن مثل موقف للسيارات.",
-                "تفعل ذلك دائماً في المنزل، خلال 5 أيام عمل.",
-                "في موقع الحادث نفسه."
+                "في مكان آمن، مثل موقف السيارات.",
+                "دائماً في المنزل خلال خمسة أيام عمل.",
+                "في مكان وقوع الحادث."
             ],
-            "dogruCevap": "في مكان آمن مثل موقف للسيارات.",
+            "dogruCevap": "في مكان آمن، مثل موقف السيارات.",
             "feedback": {
-                "metin": "إذا كان الحادث بسيطاً، فلا تبقَ في الموقع للتعامل مع الإجراءات، فهذا يسبب خطراً وإزعاجاً. ابحث مع الطرف الآخر عن مكان آمن ووقعا النموذج معاً، ثم يكمل كل طرف الجزء الخلفي في منزله ويرسله لشركة التأمين.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: في مكان آمن، مثل موقف السيارات. لا يتعين عليك ملء النموذج وسط حركة المرور أو مباشرة في مكان وقوع الحادث. انقل المركبات، إن أمكن، إلى مكان آمن. املأ النموذج ووقّعه مع الطرف الآخر. أكمل الجزء الخلفي لاحقاً وأرسل النموذج إلى شركة التأمين الخاصة بك.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 50,
-            "soru": "قبل أي مسافة يجب عليك استخدام المؤشر (الغماز) إذا كنت تريد الخروج من الطريق السريع؟",
+            "soru": "قبل كم متراً تقريباً من مخرج الطريق السريع يجب أن تشير إلى رغبتك في الخروج؟",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/50.jpg",
             "cevaplar": [
-                "حوالي 100 متر قبل المخرج.",
-                "حوالي 200 متر قبل المخرج.",
-                "حوالي 300 متر قبل المخرج."
+                "قبل 100 متر تقريباً من المخرج.",
+                "قبل 200 متر تقريباً من المخرج.",
+                "قبل 300 متر تقريباً من المخرج."
             ],
-            "dogruCevap": "حوالي 300 متر قبل المخرج.",
+            "dogruCevap": "قبل 300 متر تقريباً من المخرج.",
             "feedback": {
-                "metin": "إذا كنت تريد الخروج من الطريق السريع، يجب التنبيه قبل مسافة كافية. استخدم المؤشر قبل المخرج بـ 300 متر تقريباً ليعرف السائقون الآخرون خطتك.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "الإجابة الصحيحة: قبل 300 متر تقريباً من المخرج. خطط لخروجك مسبقاً وانتقل إلى المسار الأيمن في الوقت المناسب. شغّل إشارة اليمين قبل 300 متر تقريباً من المخرج، حتى يعرف السائقون الآخرون في الوقت المناسب أنك ستغادر الطريق السريع.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         }
     ]

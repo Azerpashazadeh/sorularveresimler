@@ -482,7 +482,7 @@
         },
         {
             "numara": 42,
-            "soru": "Brommobiel nedir?",
+            "soru": "Brommobiel hangi tür araçtır?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/42.jpg",
             "cevaplar": [
                 "Bir motorlu taşıt.",
@@ -491,15 +491,15 @@
             ],
             "dogruCevap": "Üç veya dört tekerlekli bir moped.",
             "feedback": {
-                "metin": "Brommobiel, kaportası olan üç veya dört tekerlekli bir mopeddir. Bir brommobiel kullanmak için en az 16 yaşında olmanız ve geçerli bir AM sürücü belgesine sahip olmanız gerekir. Brommobiel, motorlu taşıtlar için geçerli olan davranış kurallarına uymak zorunda olsa da, bir motorlu taşıt değil, bir mopeddir. Ayrıca 1.10 metreden geniş olduğu için bir engelli aracı da değildir.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Üç veya dört tekerlekli bir moped. Brommobiel, ikiden fazla tekerleği ve kaportası bulunan, küçük bir otomobile benzeyen bir mopeddir. En fazla 45 km/sa hıza çıkabilir. Engelli aracıyla aynı kategori değildir. Brommobiel kullanmak için en az 16 yaşında olmanız ve uygun AM sürücü belgesine sahip olmanız gerekir.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 43,
-            "soru": "Yol ve hava koşulları iyi olduğunda doğru takip mesafesi nedir?",
+            "soru": "Yol ve hava koşulları iyi olduğunda, öndeki araçla aranızda en az ne kadar takip süresi bırakmalısınız?",
             "resim": "",
             "cevaplar": [
                 "En az 1 saniye.",
@@ -508,15 +508,15 @@
             ],
             "dogruCevap": "En az 2 saniye.",
             "feedback": {
-                "metin": "Doğru takip mesafesi, her durumda zamanında durabilecek kadar mesafe bırakmaktır. Uygun koşullarda, 2 saniyelik kural yeterlidir; bu durumda öndeki araçla aranızda 2 saniyelik takip mesafesi bırakmalısınız. Kötü yol veya hava koşullarında, hızınıza bağlı olarak 3 ila 4 saniyelik bir takip mesafesi korumanız gerekir.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: En az 2 saniye. Öndeki araç sabit bir noktayı geçtiğinde saymaya başlayın; siz aynı noktaya en az iki saniye sonra ulaşmalısınız. Yol veya hava koşulları kötüleştiğinde daha fazla takip süresi bırakmanız gerekir.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 44,
-            "soru": "Burada sollama yapmanıza izin var mı?",
+            "soru": "Bu yol bölümünde sollama yapmanıza izin var mı?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/44.jpg",
             "cevaplar": [
                 "Evet.",
@@ -524,15 +524,15 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Kesintisiz beyaz çizgi, sollamanın yasak olduğunu belirtir. Tek ya da çift çizgi olması fark etmez.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Hayır. Görselde karşı yönleri ayıran kesintisiz bir çizgi bulunmaktadır. Sollama yapmak için bu çizgiyi aşmanız gerekir. Kesintisiz çizgi geçilemeyeceğinden burada sollama yapamazsınız.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 45,
-            "soru": "Buraya park edebilir misiniz?",
+            "soru": "Görseldeki yere park etmenize izin var mı?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/45.jpg",
             "cevaplar": [
                 "Evet.",
@@ -540,15 +540,15 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Bir giriş veya çıkışın önüne, kendi giriş veya çıkışınız olsa bile park etmenize izin verilmez.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Hayır. Bir giriş veya çıkışın önüne park edemezsiniz. Giriş veya çıkış size ait olsa bile bu yasak geçerlidir; aracınızın giriş veya çıkışı engellemesine izin verilmez.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 46,
-            "soru": "Buraya park etmenize izin var mı?",
+            "soru": "Görseldeki yerde park etmenize izin var mı?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/46.jpg",
             "cevaplar": [
                 "Evet.",
@@ -556,49 +556,49 @@
             ],
             "dogruCevap": "Hayır.",
             "feedback": {
-                "metin": "Yapılaşma dışındaki öncelikli yollar, farklı yerler arasında hızlı bağlantı sağlamak içindir. Sürücülerin bu tür yolların taşıt yolunda park etmelerine izin verilmez. Bu nedenle burada park etmenize izin yoktur.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Hayır. Görselde yerleşim alanı dışındaki bir öncelikli yol görülüyor. Böyle bir yolun taşıt yoluna park etmek yasaktır. Park etmeniz gerekiyorsa kurallara uygun bir park alanı kullanmalısınız.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 47,
-            "soru": "Baş desteğini doğru şekilde nasıl ayarlarsınız?",
+            "soru": "Baş desteğinin yüksekliğini nasıl ayarlamalısınız?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/47.jpg",
             "cevaplar": [
                 "Baş desteğinin altı omuz hizasında olmalı.",
-                "Baş desteğinin üstü, başın üstüyle aynı hizada olmalı.",
+                "Baş desteğinin üstü, başınızın üstüyle aynı hizada olmalı.",
                 "Baş desteğinin altı kulak hizasında olmalı."
             ],
-            "dogruCevap": "Baş desteğinin üstü, başın üstüyle aynı hizada olmalı.",
+            "dogruCevap": "Baş desteğinin üstü, başınızın üstüyle aynı hizada olmalı.",
             "feedback": {
-                "metin": "Kaza sonucu oluşabilecek yaralanmaları önlemek veya en aza indirmek için bazı güvenlik özellikleri geliştirilmiştir, bunlardan biri baş destekleridir. Baş desteğinin doğru şekilde ayarlanması önemlidir. Baş desteği, başa mümkün olduğunca yakın olmalı ve üst kısmı başın üstüyle aynı hizada olmalıdır.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Baş desteğinin üstü, başınızın üstüyle aynı hizada olmalı. Baş desteği başınıza mümkün olduğunca yakın olmalı ve yeterli destek sağlamalıdır. Böylece çarpışma sırasında baş ve boyun bölgesindeki yaralanma riski azaltılabilir.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 48,
-            "soru": "Küçük çaplı maddi hasarlı bir kazaya karıştınız. Hasar tespit formunu nerede doldurmalısınız?",
+            "soru": "Küçük çaplı, yalnızca maddi hasarlı bir kazaya karışırsanız, hasar tespit formunu nerede doldurmalısınız?",
             "resim": "",
             "cevaplar": [
                 "Otopark gibi güvenli bir yerde.",
-                "Her zaman evde, 5 iş günü içinde.",
+                "Her zaman evde, beş iş günü içinde.",
                 "Kazanın gerçekleştiği yerde."
             ],
             "dogruCevap": "Otopark gibi güvenli bir yerde.",
             "feedback": {
-                "metin": "Sadece küçük çaplı maddi hasarla sonuçlanan bir kazaya karıştıysanız, tüm işlemleri kazanın olduğu yerde yapmayın. Bu durum hem tehlike hem de rahatsızlık yaratır. Diğer tarafla birlikte otopark gibi güvenli bir yer bulun ve işlemleri orada gerçekleştirin. Hasar tespit formunun ön yüzünü birlikte doldurun ve her iki taraf da imzalasın. Ardından formu ikiye ayırın (bir taraf orijinali, diğer taraf ise karbon kopyasını alır). Formun arka kısmını evde mümkün olan en kısa sürede doldurun. Her iki taraf da kendi formunu sigorta şirketine gönderir. Formu dijital olarak mı dolduruyorsunuz? O zaman bunu da birlikte yapmalısınız. Uygulama size nasıl yapılacağını anlatacaktır.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Otopark gibi güvenli bir yerde. Hasar tespit formunu trafiğin içinde veya kazanın hemen gerçekleştiği yerde doldurmak zorunda değilsiniz. Önce araçları mümkünse güvenli bir yere alın. Diğer tarafla birlikte formu doldurup imzalayın; formun arka kısmını daha sonra tamamlayarak sigorta şirketinize gönderin.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         },
         {
             "numara": 50,
-            "soru": "Otoyoldan çıkmak istiyorsanız, bunu ne kadar önceden sinyalle bildirmelisiniz?",
+            "soru": "Otoyol çıkışınızı ne kadar önce sinyalle belirtmelisiniz?",
             "resim": "https://azerpashazadeh.github.io/sorularveresimler/test1/50.jpg",
             "cevaplar": [
                 "Çıkıştan yaklaşık 100 metre önce.",
@@ -607,10 +607,10 @@
             ],
             "dogruCevap": "Çıkıştan yaklaşık 300 metre önce.",
             "feedback": {
-                "metin": "Otoyoldan çıkmak istiyorsanız, bunu yeterince önceden belirtmelisiniz. Çıkıştan yaklaşık 300 metre önce sağ sinyal verin. Böylece diğer sürücülere ne yapmayı planladığınızı bildirirsiniz.",
-                "dogruCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
-                "yanlisCevapResim": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
-                "cevaplanmamisResim": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
+                "metin": "Doğru cevap: Çıkıştan yaklaşık 300 metre önce. Çıkışınızı önceden planlayın ve yeterli mesafe varken sağ şeride geçin. Yaklaşık 300 metre kala sağ sinyal vererek diğer sürücülere otoyoldan çıkacağınızı zamanında bildirirsiniz.",
+                "dogru": "https://azerpashazadeh.github.io/sorularveresimler/dogrucevap.png",
+                "yanlis": "https://azerpashazadeh.github.io/sorularveresimler/yanlishcevap.png",
+                "cevaplanmamis": "https://azerpashazadeh.github.io/sorularveresimler/cevaplanmamish.png"
             }
         }
     ]
